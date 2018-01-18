@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2017-12-11T14:14:15+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Livre de Loch. Calculs spéciaux</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2017"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch/</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.html</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.epub</idno>
+        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.txt</idno>
+          <availability status="restricted">
+            <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+              <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+              <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+              <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+              <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+              <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+            </licence>
+          </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19206. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1894"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Livre de Loch. Calculs spéciaux</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f1.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r</term>
+        </index>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.118"/>
+          </p>
+          <p/>
+          <p rend="noindent0950">Livre de Loch<note place="bottom">Un loch sert à mesurer la vitesse d’un navire. Dans un livre de loch, on consigne ces mesures, mais aussi d’autres informations relatives à la navigation. Ce deuxième Cahier, semblable au précédent, a aussi le format d’un cahier d’écolier. Il ne figure pas dans l’édition du CNRS car il avait été originellement classé dans les Notes anciennes.</note></p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent0600">Calculs spéciaux.</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f2.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">1v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v/002</term>
+          </index>
+          <p>
+            <pb n="C.I.119"/>
+          </p>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f3.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r</term>
+        </index>
+        <div>
+          <head>* [Calculs et croquis]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r/003</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Calculs et croquis sur presque toute la page]</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « <hi rend="i">Ici</hi> je ne chercherai pas à savoir <hi rend="i">comment et pourquoi</hi> un certain déplacement… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r/004</term>
+          </index>
+          <p><hi rend="i">Ici</hi> je ne chercherai pas à savoir <hi rend="i">comment et pourquoi</hi> un certain déplacement se traduit par le mot <hi rend="i">Vie</hi> etc. et pourquoi ce mot éveille réciproquement l’image d’un certain déplacement de <hi rend="i">même genre.</hi> Je me tiendrai à admettre que ce mot et ce déplacement général sont une <hi rend="i">mesure</hi> l’un de l’autre.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f4.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">2v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v</term>
+        </index>
+        <div>
+          <head>* « Étant donnée la suite des nombres naturels 1. 2. n… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v/005</term>
+          </index>
+          <p>Étant donnée la suite des nombres naturels 1. 2. n., un de ces nombres quelconques présente 2 significations. m désigne ou bien une <hi rend="i">somme</hi> de m objets ou bien un seul objet placé après (m – 1) autres objets par rapport à une direction et à une origine. Dans l’usage mathématique, les 2 rôles sont confondus.</p>
+          <p>Ainsi ma veut dire somme de m objets égaux à a et a<hi rend="sub">m</hi> veut dire quantité placée entre a<hi rend="sub">m − 1</hi>, et a<hi rend="sub">m + 1</hi>.</p>
+          <p>Si dans une fonction y d’x on donne à x des valeurs quelconques, les y seront des <hi rend="i">quantités.</hi> Mais si l’on envisage l’opération au point de vue <hi rend="i">ordinal</hi>, les variables et les fonctions représenteront des rangs ou des positions ; y sera fonction ordinale de x.</p>
+          <p>Soit l’équation connue :</p>
+          <p>A<hi rend="sub">0</hi>x<hi rend="sup">m</hi> + A<hi rend="sub">1</hi>x<hi rend="sup">m - 1</hi> + A<hi rend="sub">2</hi>x<hi rend="sup">m - 2</hi>… + A<hi rend="sub">m</hi>x<hi rend="sup">0</hi> = y</p>
+          <p>Les indices 0.1.2. m. expriment que les coefficients A sont différents entre eux et n’expriment que cela. Les exposants 0, 1, 2, m. expriment que les x sont les puissances ou fonctions d’une même quantité.</p>
+          <p>Dans un tel système on ne peut dire 4 = 3 + l = 2 + 2 etc. En effet si on lit ces équations on a : le 4<hi rend="sup">me</hi> = le 3<hi rend="sup">me</hi> + le 1<hi rend="sup">er</hi>, ce qui est absurde. Il faut lire le 4<hi rend="sup">me</hi> = le (3 + l)<hi rend="sup">me</hi>.</p>
+          <p>En d’autres termes le résultat de l’addition de quantités ordinales n’a aucun sens. Chaque quantité vaut 1 unité et dans ce cas l’addition représente un nombre cardinal.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f5.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r</term>
+        </index>
+        <div>
+          <head>* « Masse et force »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r/006</term>
+          </index>
+          <p>
+            <pb n="C.I.120"/>
+          </p>
+          <p rend="noindentcenter">Masse et force
+<lb/>——</p>
+          <p>Soient m corps déterminés par n manières de les diviser (ou sens). On suppose qu’ils soient animés d’un mouvement rectiligne, parallèle et uniforme.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Scena… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r/007</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>Scena</cell>
+              <cell>immobile</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>W</cell>
+              <cell>[Croquis]</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>V</cell>
+              <cell/>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">Motus duo interni</p>
+          <p rend="noindentcenter">Una visio<note place="bottom">Deux mouvements intérieurs. / Une vision.</note></p>
+          <p rend="noindentcenter">3 + 2 + 2 + 1 = 8</p>
+          <p/>
+          <p/>
+          <p>Debet, ut prosit, verbo actoque interna verba et acta ponere in adstan-tibus velut simulacrorum ipsa. Et quidquid suppositum ab illis erit, men-suraberit artificis praetium. Sic theatri lex. Aedificia sunt homo cum homine, vir cum muliere, vivens cum non vivente, res cum turba – in spatio conjuncti insulato, per fluentiam temporis exaltata et dissoluta, seu continuo modo seu discontinuo, neque valent si spectantorum mentibus mentalia aequalitate indigere viderentur. De insula scenae cadunt voces atque motus veniunt<note place="bottom">Le texte comporte des bizarreries. On peut traduire ainsi : « Il doit, pour être utile, susciter chez les spectateurs, par la parole et l’acte, des paroles et des actes intérieurs comme ceux des simulacres. Et quelle que soit la réaction des spectateurs que l’on suppose, par elle se mesurera la valeur de l’artiste. Telle est la loi du théâtre. Un humain avec un humain, un homme avec une femme, un vivant avec un non vivant, des choses avec la foule – réunis dans un espace insulaire, sont des édifices élevés et détruits selon le cours du temps, soit de manière continue soit de manière discontinue, et ils ne valent que si les réalités mentales ne semblent pas, pour les esprits des spectateurs, manquer d’égalité. De l’île de la scène tombent des voix et naissent des mouvements. »</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f7.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Maxwell p. 482. I… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r/008</term>
+          </index>
+          <p>Maxwell p. 482. I<note place="bottom">Allusion au <hi rend="i">Traité d’électricité et de magnétisme</hi> (1885) que Valéry a lu dès 1893.</note></p>
+          <ab type="ornament">——</ab>
+          <p>De la proportionnalité dans les accords et les contacts.</p>
+          <p rend="noindent">Notion des ordres de quantité.</p>
+          <p rend="noindent">Idée du nombre fini de sons, de couleurs, (des courants alternatifs à 1.000.000 pulsations/seconde.</p>
+          <p rend="noindent">De la notion de nombre <hi rend="i">fini</hi> peut se tirer celle des ordres de quantité, et aussi celle de proportion, ou notion de <hi rend="i">l’unité.</hi> (Unités psychiques)</p>
+          <p rend="noindent">Note. &lt;Il est absurde de dire ainsi : nous ne connaissons que m sons. Car on appelle son., etc. La réalité est que nous avons rendu comparables aux sons, les <pb n="C.I.121"/>vibrations au-delà et en deçà, mais par ce seul point que nous attribuons aux vibrations les sons et nous confondons en parlant la sensation, le mécanisme de l’ouïe, et l’hypothèse physique connue<note place="bottom">Le passage est à la fois entouré et biffé de quelques discrets traits de crayon.</note>.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f8.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">4v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v</term>
+        </index>
+        <div>
+          <head>* « Je suppose qu’on écrive ceci : la pensée est un [illisible] complexe… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v/009</term>
+          </index>
+          <p>&lt;Je suppose qu’on écrive ceci : la pensée est un [illisible] complexe.&gt;</p>
+          <p/>
+          <p rend="noindentcenter">Approximations :</p>
+          <p/>
+          <p rend="noindent">Passion, Passionné.</p>
+          <p rend="noindent0150">Limites.</p>
+          <p rend="noindent0150"/>
+          <p rend="noindent0150">On est m temps passionné sur n temps.</p>
+          <p rend="noindent0150">A est a fois passionné dans <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> temps.</p>
+          <p rend="noindent0150">B l’est b fois.</p>
+          <p rend="noindent0150">État et habitude.</p>
+          <p rend="noindent0150"/>
+          <p rend="noindent">La passion est un certain <hi rend="i">emploi</hi> du temps.</p>
+          <p rend="noindent"/>
+          <p rend="noindent">Laplace – « exagération des probabilités par les passions<note place="bottom">« Nous établirons enfin, comme principe de psychologie, l’exagération des probabilités par les passions. La chose que l’on craint ou que l’on désire vivement nous semble, par cela même, plus probable » (<hi rend="i">Essai philosophique sur les probabilités</hi>, in <hi rend="i">Œuvres complètes</hi>, t. VII, [1814], rééd. 1847, p. CLI <hi rend="i">sq.</hi></note>. » Il y a donc un phénomène qui consiste à <hi rend="u"><hi rend="i">souligner</hi></hi> certaines images. –</p>
+          <p>Il n’y a pas de théorie de la passion. C’est un mot aussi, à reléguer dans la littérature. Il éveille (et est éveillé par) les images de rythme brusque.</p>
+          <p>
+            <pb n="C.I.122"/>
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Se représente par</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent">orages</p>
+                <p rend="noindent">chaleur</p>
+                <p rend="noindent">tempêtes</p>
+                <p rend="noindent">extrême lumière <space>             </space>[Croquis]</p>
+                <p rend="noindent">extrême végétation</p>
+                <p rend="noindent">et autres foutaises.</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f9.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r</term>
+        </index>
+        <div>
+          <head>* « K = 1 − p + 1… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r/010</term>
+          </index>
+          <p/>
+          <p rend="noindent1150">K = 1 − p + 1 [Croquis]</p>
+          <p/>
+          <p/>
+          <p>Je représente par une sphère / surface / le lieu des représentations. Nous ne connaissons alors que des sphères successives mais toujours complètes et closes. Il peut se produire dans les portions de cette surface des déplacements, ou des changements.</p>
+          <p>L’extrémité d’un vecteur parti de l’origine et errant sur la surface intérieure a sa direction liée à des variétés de propriétés sur la surface. La surface est continue <hi rend="i">à chaque instant.</hi> Entre deux régions différentes le vecteur trouve toujours un chemin.</p>
+          <p>Les différences constitutives de l’enveloppe sont déterminées par les conditions suivantes : Toute région homogène ou minima est limitée. Il y a travail pour passer d’une région à toute autre. Le travail est indépendant du rayon de la sphère. Le rayon peut être regardé comme constant ou comme variable. Donc il y a deux espèces de représentations sphériques.</p>
+          <p/>
+          <p>[Croquis] Ce serait un théorème à rechercher.</p>
+          <p/>
+          <p>Les images sont hétérogènes de provenance et d’apparence. Elles obéissent à des lois de groupement différentes des lois apparentes. Les lois apparentes ou apparences sont les propriétés des images considérées en tant qu’objets réels. La 1<hi rend="sup">re</hi> différence entre les images et les objets ou entre les lois apparentes et les lois réelles – est une différence de <hi rend="i">durée.</hi> La distinction se fait par les groupements et les dégroupements.</p>
+          <p>Lier la notion de variable indépendante et les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f10.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">5v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v</term>
+        </index>
+        <div>
+          <head>* « Notion de la variable indépendante. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v/011</term>
+          </index>
+          <p>
+            <pb n="C.I.123"/>
+          </p>
+          <p/>
+          <p rend="noindentcenter">Notion de la variable indépendante. 
+<lb/>——</p>
+          <p/>
+          <p>&lt;Étant donné un nombre limité de choses, on suppose que ces choses sont liées entre elles, c’est-à-dire que tout changement dans l’ensemble soit accompagné d’un changement dans les parties, – ou qu’un changement dans une partie entraîne un changement général. Il faut pour cela une sorte d’<hi rend="i">homogénéité</hi> dans cet accord. La variable indépendante représente le <hi rend="i">connu</hi> dans une opération de ce genre. Cette opération consiste à évaluer une variation complexe en une variation simple. C’est une unité de variation. Conditions de minimum.</p>
+          <p rend="noindent">Généralisant l’énoncé on peut dire : [inachevé]&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f11.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r</term>
+        </index>
+        <div>
+          <head>* « Mémoire justificatif. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r/012</term>
+          </index>
+          <p rend="noindentcenter">Mémoire justificatif. 
+<lb/>——</p>
+          <p/>
+          <p>Tout ce qui est, est sensation ou représentation. (C’est-à-dire qu’à un moment donné, toute connaissance se divise ainsi par une comparaison différentielle qu’on peut fonder analytiquement sur une méthode de variation etc.)</p>
+          <p>à partir d’un moment donné la connaissance venant à changer on se trouve en présence de deux séries de problèmes.</p>
+          <p rend="noindent">Ceux relatifs aux variations de la sensation.</p>
+          <p rend="noindent">Ceux <space/>– – <space>     </space>–<space>       </space> –<space>      </space> de la représentation.</p>
+          <p rend="noindent">Les 1<hi rend="sup">ers</hi> sont étudiés par la mécanique générale, et ses annexes – physiologie, sociologie etc.</p>
+          <p rend="noindent">Les 2<hi rend="sup">mes</hi> demeurent peu connus.</p>
+          <p rend="noindent">Noter avant tout que l’étude des premiers rentre dans celle des seconds puisque cette étude revient à exprimer les 1<hi rend="sup">ers</hi> à l’aide des seconds.</p>
+          <ab type="ornament">———————</ab>
+          <p/>
+          <p>Ce qu’on appelle improprement analyse ou synthèse par rapport à une quantité donnée d’objets de pensée, revient à une opération subséquente de la pensée et à une production nouvelle.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f12.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">6v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v</term>
+        </index>
+        <div>
+          <head>* « Conservation de la connaissance à un <hi rend="i">instant</hi> donné. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v/013</term>
+          </index>
+          <p>
+            <pb n="C.I.124"/>
+          </p>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">Conservation de la connaissance à un <hi rend="i">instant</hi> donné. 
+<lb/>——</p>
+          <p/>
+          <p/>
+          <p>Dans la sphère de connaissance les changements sont :</p>
+          <table>
+            <row>
+              <cell>{</cell>
+              <cell>
+                <p rend="noindent">ceux accompagnés de la sensation volonté.</p>
+                <p rend="noindent">ceux non accompagnés . . . . . . . . . . . . .</p>
+              </cell>
+            </row>
+          </table>
+          <p>Dans chacune de ces catégories, chaque changement est lié à une sensation spéciale, qui implique un certain travail.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f13.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Soient deux corps qui exécutent dans l’espace un mouvement… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r/014</term>
+          </index>
+          <p>Soient deux corps qui exécutent dans l’espace un mouvement de l’un vers l’autre. On dit qu’ils s’attirent lorsqu’on constate ce mouvement, sa reproduction à volonté… etc.</p>
+          <p>Or ce phénomène suscite une envie de l<hi rend="i">’expliquer</hi>, c’est-à-dire une formation mentale telle qu’elle <hi rend="i">s’arrête</hi> à un instant donné lorsque ses produits ressemblent à d’autres qui ne suscitent pas ou plus que ceux-ci soient + simples ou + complexes que les initiaux.</p>
+          <p>Deux explications. La force d’attraction qui est une absurdité. 2º la création d’un milieu.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f15.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">7bis-r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r</term>
+        </index>
+        <div>
+          <head>* « images – ou loi des images… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r/015</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p>[images –</p>
+          <p>ou loi des images</p>
+          <p/>
+          <p/>
+          <p>L’action à distance est <hi rend="u"><hi rend="i">inimaginable</hi></hi> – elle est possible etc. mais elle est inimaginable.</p>
+          <p rend="noindent">Nous pouvons imaginer une action à distance mais une action à distance étant donnée nous ne pouvons qu’imaginer autre chose<note place="bottom">Feuille volante.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f16.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">7bis-v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v</term>
+        </index>
+        <div>
+          <head>* [Petite feuille de dessins]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v/016</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Petite feuille de dessins]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f17.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r</term>
+        </index>
+        <div>
+          <head>* [Feuille de croquis]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r/017</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Feuille de croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f18.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">8v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v</term>
+        </index>
+        <div>
+          <head>* « Soit le groupe donné M… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v/018</term>
+          </index>
+          <p>Soit le groupe donné M.</p>
+          <p rend="noindent">Soient les <hi rend="i">différences définies</hi> le constituant A, B, C.</p>
+          <p rend="noindent">Étant donné ce groupe M l’équation à sa disposition est</p>
+          <p rend="noindent0250">M = δ(A, B, C).</p>
+          <p>&lt;Je dis que cette disposition est psychique si [inachevé]&gt;</p>
+          <p rend="noindent">L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> de M étant m, celui de A étant a, celui de B, b etc., a pouvant d’ailleurs être égal à b, à c, etc. Je dis que cette disposition est <hi rend="i">psychique</hi> lorsqu’on aura</p>
+          <p rend="noindent0250">a, b, c, &gt; m</p>
+          <p rend="noindent">ou lorsque a, b, c seront chacun beaucoup / suffisamment / plus petits que m. En d’autres [termes] si les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> suivent la série arithmétique</p>
+          <p>1. 2. 3. 4… m</p>
+          <p rend="noindent"><pb n="C.I.125"/>et si les parties sont de l’ordre n, le groupe peut être des ordres (n – x), n, (n + x).</p>
+          <p>Si le groupe est de l’ordre n, solution <hi rend="i">naturelle</hi> ;</p>
+          <p>si le groupe est de l’ordre n − x &lt;n solution – <hi rend="i">psychique</hi> ;</p>
+          <p>si   – – –                   – –     n + x &gt; n la solution est psychique si n est suffisamment grand, ou naturelle si n est suffisamment petit. - - etc.</p>
+          <p rend="noindent">Démonstration. L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> a pour définition la <hi rend="i">production</hi> ou son expression le travail nécessaire pour passer d’un élément quelconque à un autre de l’objet d’une façon continue c’est-à-dire en satisfaisant à un minimum particulier.</p>
+          <p>Entre un élément A et un élément B envisagés en groupe considérés comme des variations d’une même propriété [suite illisible parce que la page est déchirée].</p>
+          <p rend="noindent1200">le circuit [fragment déchiré]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f19.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r</term>
+        </index>
+        <div>
+          <head>* « d’éléments intérieurs dépend évidemment de A et B… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/019</term>
+          </index>
+          <p rend="noindent">d’éléments intérieurs dépend évidemment de A et B, explicitement + un certain facteur indéterminé et relatif à l’individu. Le travail sera donc égal au nombre et aux <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> des figures fournies pour passer continûment de A à B.</p>
+          <p rend="noindentcenter">T = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi> = ∑a<hi rend="sub">x</hi></p>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p/>
+                <p>[Schéma]</p>
+                <p/>
+              </cell>
+              <cell>
+                <p>
+                  <hi rend="i">Comment s’opère ce travail ? –</hi>
+                </p>
+                <p>Considération des possibles.</p>
+                <p/>
+                <p>Le circuit est toujours fermé.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p>La supposition est qu’il est plus facile de passer de A à a<hi rend="sub">1</hi>, que de A à B. T (A/a<hi rend="sub">1</hi>) &lt; T (A/B). C’est-à-dire que a, est plus près de A que A de B/B.</p>
+          <p>Lemme : les transferts s’opèrent <hi rend="i">toujours</hi> entre des images et jamais de sensation à image. A n’a plus que des propriétés imaginaires dès qu’il y a pensée où il figure.</p>
+          <p>Ici théorème du milieu.</p>
+          <p>Les variations ont lieu dans un milieu homogène. Toute propriété attribuée à <hi rend="i">une</hi> portion du milieu s’étend à la totalité.</p>
+          <ab type="ornament">——
+<lb/>———————————————</ab>
+        </div>
+        <div>
+          <head>* « … Et la faculté psychique étant de classer les images d’ordre i, j, k… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/020</term>
+          </index>
+          <p>
+            <pb n="C.I.126"/>
+          </p>
+          <p>… Et la faculté psychique étant de classer les images d’ordre i, j, k en ensemble d’ordre a ou z, sera donc de négliger ces ordres i, j, k et de réduire ces images (par oublis) en objets d’ordre a ou z. Un homme sera un point matériel, une unité, et un point matériel sera un homme.</p>
+          <p rend="noindent">Conséquence : impossibilité de penser à construire quelque chose sinon symétriquement, avec la réserve des conditions posées par la position <hi rend="i">réelle</hi> du problème.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f20.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">9v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v</term>
+        </index>
+        <div>
+          <head>* « à quel degré de complexité est arrivée l’ingéniosité humaine… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/021</term>
+          </index>
+          <p>à quel degré de complexité est arrivée l’ingéniosité humaine</p>
+          <p rend="noindent0250">1º quant aux notions.</p>
+          <p rend="noindent0250">Évidemment au maximum concevable et par cette conception même</p>
+          <p rend="noindent0250">2º quant aux objets</p>
+          <p rend="noindent0250">au moyen de l’abstraction (rôle postérieur de la logique).</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Mécanique de l’abstraction [I] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/022-part1</term>
+          </index>
+          <p rend="noindent">Mécanique de l’abstraction</p>
+          <ab type="ornament">———————————————</ab>
+          <p rend="noindent1250">Préliminaires</p>
+          <p>Soient A  b ; b  c ; c  m ; je constate en même temps ces différences : soit m et (m + 1) je constate m  m + 1 (la forme complète de (1) doit être</p>
+          <p>[calculs]</p>
+          <p>Mais je ne puis constater m + 1  a  etc.</p>
+          <p>Chacune de ces différences constatées sera une unité et j’appellerai nombre – absolu – base de numération la somme de ces différences perceptibles en même temps (m).</p>
+          <p>Toute somme de différences = (m + 1) n ne peut se concevoir. Nous ne <pb n="C.I.127"/>connaissons à la fois qu’un nombre de différences rigoureusement limité et fonction du moment et de l’individu.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f21.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r</term>
+        </index>
+        <div>
+          <head>* « Mécanique de l’abstraction [II] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r/022-part2</term>
+          </index>
+          <p>Nous tendons toujours à évaluer au moyen de m tout nombre supérieur et à diviser par <hi rend="i">m</hi> tout nombre &lt; 1 ou = 1.</p>
+          <p rend="noindent0080">Démonstration par la quantité de connaissance constante.</p>
+          <p>Opération élémentaire d’abstraction.</p>
+          <p rend="noindent0080">Soit les n objets dont nous avons pu constater les différences simultanées : nous les distinguons entre eux : n est une base possible. Soit à vouloir y réunir h autres objets : les différences simultanées dans l’intérieur du groupe n + h nous échappent. Nous sommes forcés de considérer n comme <hi rend="i">unité</hi> et h comme une fonction de cette unité.</p>
+          <p>Nous opérerons sur h comme nous avons fait sur n et <hi rend="i">alors</hi> si nous voulons considérer le groupe n + h nous réduirons la différence à n’exister que de (n) à n + 1 jusqu’à h. Toute différence entre un objet θn et ξh étant particulièrement perceptible.</p>
+          <p>Réellement n se <hi rend="i">diminue</hi> et devient comme une de ses parties θ, etc.</p>
+          <p>D’où création d’indices de sorte que d’une part la notation indique la valeur abstraite de tout nombre et d’autre [part] sa valeur perceptible.</p>
+          <p rend="noindent">2000/10.000 = 2/10 = 1/5 sont à l’intérieur de la limite de simultanéité qui est 10 conventionnellement… (Les nombres physiologiques doivent en différer très peu). Toutes les opérations psychologiques faites sur des nombres &gt; n ne s’opèrent que sur leurs portions perceptibles : l’abstraction consiste à <hi rend="i">oublier</hi> leurs portions non perceptibles et à s’en rappeler ensuite, sans les avoir fait varier. Dans toute opération où entre l’abstraction il y a donc une part actuelle et une part potentielle. Quand on pense à aligner des arbres on <hi rend="i">oublie</hi> leur nature propre en pensant à leur ensemble. Et quand on compare des nombres on oublie leur valeur</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f22.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">10v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v</term>
+        </index>
+        <div>
+          <head>* « Mécanique de l’abstraction [III] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v/022-part3</term>
+          </index>
+          <p rend="noindent">propre pour ne s’occuper que de leur classification entre eux comme formant une série.</p>
+          <p>La logique consiste à <hi rend="i">rappeler</hi> ce qui a été oublié. Au point de vue <hi rend="i">mécanique</hi>, l’abstraction – prenons le cas élémentaire de la <hi rend="i">numération</hi> – nécessite</p>
+          <p rend="noindent0200">1º Considération d’un <hi rend="i">groupe</hi> A.</p>
+          <p rend="noindent0200">2º Division de cet A en éléments différentiels</p>
+          <p rend="noindent0200">A = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi></p>
+          <p rend="noindent0200"><pb n="C.I.128"/><pb/>3º Connaissance simultanée de ces différences</p>
+          <p rend="noindent0200">4º Essai vers a<hi rend="sub">n</hi> + <hi rend="sub">l</hi>. Impossibilité de retenir la différence a</p>
+          <p rend="noindent0200">5º Donc (a<hi rend="sub">n</hi>) nombre limite de simultanéité</p>
+          <p rend="noindent0200">6º Abandon de la perception d’A.</p>
+          <p rend="noindent0200">Substitution à A d’un signe de groupe ou indice.</p>
+          <p rend="noindent0200">Anastomosie complète de A.</p>
+          <p rend="noindent0200">7º Recommencement dans a<hi rend="sub">n + 1</hi> + a<hi rend="sub">n + 2</hi> + a<hi rend="sub">m</hi></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f23.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r</term>
+        </index>
+        <div>
+          <head>* [Une demi-page de formules mathématiques]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r/023</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Une demi-page de formules mathématiques]</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Le quelconque… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r/024</term>
+          </index>
+          <p>Le quelconque.</p>
+          <p>L’intelligence se confond à chaque instant avec l’invention d’un ordre.</p>
+          <p>No glory<note place="bottom">Pas de gloire.</note>.</p>
+          <p>Tension vers zéro de la particularité des images.</p>
+          <p>Analogie et pensée, faculté de variation.</p>
+          <p>La description de l’esprit impropre à cause des mots.</p>
+          <p>Visions dominantes.</p>
+          <p>Homogénéité des pensées.</p>
+          <p>Des limites, récurrence généralisée.</p>
+          <p>Infinité des perceptions.</p>
+          <p>    Nombre des impressions.</p>
+          <p>La sphère (symbole).</p>
+          <p>Identification.</p>
+          <p>Classification des ordres.</p>
+          <p>Les évidences.</p>
+          <p>Construction de Léonard.</p>
+          <p>Structures, à reprendre<note place="bottom">Cette feuille volante (qui comprend des calculs au verso) est probablement une liste de sujets à traiter dans l’<hi rend="i">Introduction</hi> en 1895.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f33.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">16r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r/025</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f34.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">16v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v/026</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindentcenter">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f35.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">17r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u">My Psychology</hi> » [I]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r/027-part1</term>
+          </index>
+          <p>
+            <pb n="C.I.780 C.I.129"/>
+          </p>
+          <p rend="noindent1200">
+            <hi rend="u">My Psychology</hi>
+            <note place="bottom">Ma psychologie.</note>
+          </p>
+          <p>I. Principe d’Homogénéité.</p>
+          <p>Étant donnée la <hi rend="i">réalité</hi> (voir sa définition) et la représentation constituant à elles deux et à un instant donné la connaissance, toutes les fois que le travail mental &lt;comprend des termes empruntés aux deux sources&gt; a lieu, il consiste avant tout à transformer les portions considérées de la réalité en images. <hi rend="i">Le travail mental ne s’exerce qu’entre images.</hi> Conséquence : toute transformation psychologique opérée sur un objet ou accord réel pris pour point de départ ne met en œuvre et ne donne que les combinaisons d’une image et ne vaut par rapport / dans les développements par exemple / à l’objet sensible que ce que vaut la formation de l’image.</p>
+          <p>En effet le travail mental se s’apprécie que par sa variation. (S’apercevoir que l’on pense) est une fonction du temps. Si l’on donne simultanément à la connaissance une portion réelle et une représentative la différence des variations respectives les distinguera ; et si les deux portions ont des parties communes ou que la deuxième naisse de la première, au bout d’un temps <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> la comparaison des résultats de l’écoulement du temps établira une mesure différentielle.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f36.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">17v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u">My Psychology</hi> » [II]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v/027-part2</term>
+          </index>
+          <p>
+            <pb n="C.I.781"/>
+          </p>
+          <p/>
+          <p rend="noindentcenter">Expression du principe d’Homogénéité 
+<lb/>——</p>
+          <p/>
+          <p/>
+          <p>Étant donné n portions de réalité, tout travail mental exercé entre ces portions, à partir d’elles a lieu entre les images ou concepts de ces portions.</p>
+          <p>La réalité se définit par rapport au travail mental et réciproquement<note place="bottom">Une flèche renvoie après le paragraphe à ces mots : « ressemble au cas des <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">degrés de symétrie</ref> ».</note>. À chaque instant par une <hi rend="i">différence</hi> de variation et par la sensation de <hi rend="i">frottement</hi>, de <hi rend="i">résistance</hi>, de périodicité ou permanence.</p>
+          <p>Donc le 1<hi rend="sup">er</hi> travail mental dans les conditions données, est de former les images des portions de réalité.</p>
+          <p><pb n="C.I.130"/>On peut supposer un cas où la différence de variation est nulle <hi rend="i">δ</hi>r/<hi rend="i">δ</hi>m = 1 et où il n’y a donc pas de distinction entre les 2 portions de connaissance.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f37.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">18r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r</term>
+        </index>
+        <div>
+          <head>* « Conservation de l’Énergie »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r/028</term>
+          </index>
+          <p>Conservation de l’Énergie</p>
+          <p/>
+          <p>Galilée. v = √2gh</p>
+          <p/>
+          <p>d’où v<hi rend="sup">2</hi>/2 = gh</p>
+          <p/>
+          <p>v<hi rend="sup">2</hi>/2 force vive gh ou potentiel</p>
+          <ab type="ornament">——</ab>
+          <p rend="noindent">Descartes. Principe de la conservation du mouvement (faux).</p>
+          <p>Il écrivait : ∑ m<hi rend="sub">i</hi> v<hi rend="sub">i</hi> = K</p>
+          <p/>
+          <p rend="noindent">Leibniz cherche comme Descartes ce qui doit rester invariable dans l’univers –</p>
+          <p>m<hi rend="sub">i</hi> v<hi rend="sub">i</hi><hi rend="sup">2</hi>=mi(ξ<hi rend="sub">i</hi><hi rend="sup">2</hi>+η<hi rend="sub">i</hi><hi rend="sup">2</hi>+ζ<hi rend="sub">i</hi><hi rend="sup">2</hi>)</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f39.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">19r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r</term>
+        </index>
+        <div>
+          <head>* « Sur la définition psychique de l’espace. – »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r/029</term>
+          </index>
+          <p>
+            <pb n="C.I.782"/>
+          </p>
+          <p/>
+          <p>Sur la définition psychique de l’espace. –</p>
+          <p>L’espace psychique et analytique est en deux fragments. Vue et toucher. Notion aussi de superficie et volume par oreille, nez, poumons. Nous faisons des interpolations. –</p>
+          <p rend="noindent">Il est relatif surtout à l’imagination visuelle. –</p>
+          <p rend="noindent">Possibilité de substituer au <hi rend="i">même</hi> endroit des figures différentes. Car nous croyons toujours imaginer dans le même et seul lieu ou cadre, nous localisons <pb n="C.I.131"/>les images à la place des yeux. Il y a aussi une idée d’énergie. Car nous pouvons dans la réalité changer un objet de place en fournissant du travail.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f41.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">20r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r</term>
+        </index>
+        <div>
+          <head>* « C’est une curieuse chose qu’un esprit… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r/030</term>
+          </index>
+          <p>
+            <pb n="C.I.783"/>
+          </p>
+          <p/>
+          <p>C’est une curieuse chose qu’un esprit. Avec passages, liaisons, tunnels et ponts, structures de toute sorte, et le sort commun des plus différentes choses. L’idée la plus étonnante suit des voies / lois / générales semblables à celles ordinaires.</p>
+          <p>+ <hi rend="i">Tout dépend du jugement qu’on porte sur sa pensée</hi>, de cette pensée au second degré.</p>
+          <p/>
+          <p>—————————————————————</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f43.image">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">21r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r</term>
+        </index>
+        <div>
+          <head>* « Théorie des indices. Lois de la différence… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r/031</term>
+          </index>
+          <p>Théorie des indices.              Lois de la différence.</p>
+          <p>Théorie des points favorisés.</p>
+          <p>Théorie de l’acte.</p>
+          <p>Théorie de la combinaison ; hypothèse quant au temps.</p>
+          <p/>
+          <p rend="noindent">[Illisible] homogénéité, relativisme extérieur.</p>
+          <p>Théorie des phénomènes inconscients.</p>
+          <p>Théorie de la discontinuité et de la continuité.</p>
+          <p>Théorie de l’abstraction.</p>
+          <p>Théorie des déclenchements.    Récurrence → ordre de quantités.</p>
+          <p/>
+          <p>Théorie de l’implicite<note place="bottom">Une flèche renvoie à : « Théorie de l’abstraction », au-dessus.</note>.</p>
+          <p rend="noindent0550">imaginables –</p>
+          <p rend="noindent0550">possibles –</p>
+          <p rend="noindent0550">probables –</p>
+          <p rend="noindent0550">concevables –</p>
+          <p rend="noindent0550">
+            <hi rend="i">faisables</hi>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

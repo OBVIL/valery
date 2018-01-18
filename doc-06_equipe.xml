@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Équipe Valéry du Labex OBVIL</title>
+        <author key="Jarrety, Michel (1953-....)">Michel Jarrety</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2017"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-06_equipe.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-06_equipe.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-06_equipe.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-06_equipe.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2017"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Équipe Valéry du Labex OBVIL</head>
+      <p>David Elder, professeur de littérature française à l’université Edith Cowan (Australie)</p>
+      <p>Rémi Furlanetto, assistant de littérature française à l’université de Rouen</p>
+      <p>Rossana Gheno, professeur de langue française à l’université Gabriele D’Annunzio de Pescara.</p>
+      <p>Maria Teresa Giaveri, professeur de littérature française émérite à l’université de Naples</p>
+      <p>Tsutomu Imai, professeur de littérature française à l’université de Sendai</p>
+      <p>Michel Jarrety, professeur de littérature française à la Sorbonne</p>
+      <p>Franz Johansson, Prag au département de LEA de la Sorbonne</p>
+      <p>Hironori Matsuda, professeur de littérature française à l’université de Kobe</p>
+      <p>Atsuo Morimoto, professeur de littérature française à l’université de Kyoto</p>
+      <p>Andrea Pasquino, professeur de littérature française émérite à l’université de Milan</p>
+      <p>Paul Ryan, professeur de littérature française au Waterford Institute of Technology (Irlande)</p>
+      <p>Antonietta Sanna, professeur de littérature française à l’université de Pise</p>
+      <p>Teiji Toriyama, assistant à l’université de Kyoto</p>
+      <p>Masanori Tsukamoto, professeur de littérature française à l’université de Tokyo</p>
+      <p>Øystein Tvede, membre de la rédaction du <hi rend="i">Dictionnaire de l’Académie de langue et de littérature norvégiennes</hi></p>
+      <p>Hiroaki Yamada, professeur de littérature française à l’université de Tokyo</p>
+      </div>
+    </body>
+  </text>
+</TEI>

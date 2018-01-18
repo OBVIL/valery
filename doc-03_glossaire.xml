@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossaire</title>
+        <author key="Jarrety, Michel (1953-....)">Michel Jarrety</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2017"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-03_glossaire.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2017"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Glossaire</head>
+      <div>
+        <head>Analysis situs</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/analysis-situs</term>
+        </index>
+        <p rend="noindent">L’expression (littéralement : analyse de la situation) vient de Leibniz. Elle intitule un long article de Henri Poincaré paru en 1895 (<hi xml:lang="fr" rend="i">Journal de l’École Polytechnique</hi>, 2<hi rend="sup">e</hi> série, 1<hi rend="sup">er</hi> cahier, p. 1-123) et désigne une branche de la géométrie ; l’étude de Poincaré est à l’origine de la topologie algébrique.</p>
+      </div>
+      <div>
+        <head>Chronolyse</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/chronolyse</term>
+        </index>
+        <p rend="noindent">Signifie « l’idée d’analyse par temps indivisibles » (C.XVI.323) ou « une analyse de la production mentale comme divisée en <hi xml:lang="fr" rend="i">temps entiers</hi> » (C.XXIX.239).</p>
+      </div>
+      <div>
+        <head>Degrés de symétrie (ou ordres de symétrie)</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie</term>
+        </index>
+        <p rend="noindent">Chez le jeune Valéry, les « degrés de symétrie » renvoient à la complexité d’une organisation et distinguent l’artefact de l’objet naturel : « Une feuille semble moins complexe que son arbre puisque l’arbre unit aux feuilles des racines, des fleurs, du bois. Je supposai que tous ces corps naturels et leurs parties pouvaient recevoir chacun une sorte de nombre qui marquât son degré propre de complexité. J’appelai ce nombre : <hi xml:lang="fr" rend="i">degré de symétrie</hi>. Je posai alors que tout être naturel était nécessairement d’un <hi xml:lang="fr" rend="i">degré</hi> plus élevé que chacune de ses parties » (C.V.827).</p>
+      </div>
+      <div>
+        <head>Équipollent</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/equipollent</term>
+        </index>
+        <p rend="noindent" xml:lang="fr">Synonyme d’équivalent.</p>
+      </div>
+      <div>
+        <head>
+          <hi rend="i">Explicandes</hi>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/explicandes</term>
+        </index>
+        <p rend="noindent" xml:lang="fr">Choses qui doivent être expliquées.</p>
+      </div>
+      <div>
+        <head>Implexe</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/implexe</term>
+        </index>
+        <p rend="noindent">Valéry note en 1941 : « J’appelle <hi xml:lang="fr" rend="i">Implexe</hi>, l’ensemble de tout ce que quelque circonstance que ce soit <hi xml:lang="fr" rend="i">peut</hi> tirer de <hi xml:lang="fr" rend="i">nous</hi> » (C.XXIV.478), mais il s’agit le plus souvent des réactions potentielles de l’individu et de la variation constante des idées. La notion d’implexe est longuement évoquée dans <hi xml:lang="fr" rend="i">L’Idée fixe</hi>.</p>
+      </div>
+      <div>
+        <head>
+          <hi rend="i">Langage-self</hi>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/langage-self</term>
+        </index>
+        <p rend="noindent">Langage de soi, c’est-à-dire le langage que Valéry se définit pour lui-même, par opposition au langage de tous qu’il appelle parfois le<hi xml:lang="fr" rend="i"> démotique.</hi></p>
+      </div>
+      <div>
+        <head>Moi pur</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/moi-pur</term>
+        </index>
+        <p rend="noindent">Le moi pur, parfois comparé à zéro, est l’invariant de la personnalité. « Le “Moi pur” est le <hi xml:lang="fr" rend="i">zéro</hi> — qui n’est pas <hi xml:lang="fr" rend="i">rien</hi>. Il <hi xml:lang="fr" rend="i">veut dire : rien</hi> — mais <hi xml:lang="fr" rend="i">en tant que signe</hi>, il a son rôle » (C.XXI.62). Dans « Note et digression », Valéry dit de Léonard de Vinci : « Ce n’est pas sa chère <hi xml:lang="fr" rend="i">personne</hi> qu’il élève à ce haut degré, puisqu’il la renonce en y pensant, et qu’il la substitue dans la place du <hi xml:lang="fr" rend="i">sujet</hi> par ce moi inqualifiable, qui n’a pas de nom, qui n’a pas d’histoire, qui n’est pas plus sensible, ni moins réel que le centre de masse d’une bague ou d’un système planétaire, — mais qui résulte de tout, quel que soit le tout… » (Œ.I.857 <hi xml:lang="fr" rend="i">sq.</hi>).</p>
+      </div>
+      <div>
+        <head>N + S : nombres plus subtils</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/n+s</term>
+        </index>
+        <p rend="noindent">« Sous le nom secret de <hi xml:lang="fr" rend="i">Nombres plus Subtils</hi> “(N + S)”, j’entendais ceci : qu’il y avait une attitude mentale centrale qui [rendait compte] des échanges entre objets de la connaissance les plus différents — les <hi xml:lang="fr" rend="i">temps</hi>, par exemple, et les <hi xml:lang="fr" rend="i">choses</hi>, pouvant s’échanger — étant des éléments d’une certaine <hi xml:lang="fr" rend="i">équivalence</hi> » (C.XIII.823). Cette définition date de 1929.</p>
+      </div>
+      <div>
+        <head>Phase</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/phase</term>
+        </index>
+        <p rend="noindent" xml:lang="fr">Autour de 1900, Valéry emprunte la notion de « phase » au physicien américain  Josiah Gibbs (1839-1903). La règle des phases donne la variance d’un système thermodynamique à l’équilibre et Valéry notera en 1943 que c’était son « analogie favorite en 190.. » (C.XXVII.740). « Ma vieille théorie des “phases” était bonne, féconde, consistait à observer que les possibles d’un individu différaient selon les moments » (C.XIII.331).</p>
+      </div>
+      <div>
+        <head>PPA : Petit Poème Abstrait</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/ppa</term>
+        </index>
+        <p rend="noindent">C’est en 1917 qu’apparaît, au pluriel et en toutes lettres, l’expression de <hi xml:lang="fr" rend="i">Petit Poème Abstrait</hi> (C.VI.477), et si le sigle figure pour la première fois en 1899 et se trouve dans d’autres <hi xml:lang="fr" rend="i">Cahiers</hi> antérieurs à 1917, il y a été ajouté à la relecture. Valéry ne définit nulle part le PPA, mais, au commencement, il l’a sans doute envisagé comme un mode d’écriture qui exprimerait au plus près l’univers intérieur de l’Esprit. Néanmoins, certains textes marqués du sigle PPA ne sont pas des poèmes, et l’abstraction des assez nombreux PPA que l’on peut identifier comme de véritables poèmes est difficile à circonscrire.</p>
+      </div>
+      <div>
+        <head>
+          <hi rend="i">Self-consciousness</hi>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/self-consciousness</term>
+        </index>
+        <p rend="noindent" xml:lang="fr">Conscience de soi (notion que Valéry attribue à Poe).</p>
+      </div>
+      <div>
+        <head>
+          <hi rend="i">Self-variance</hi>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/self-variance</term>
+        </index>
+        <p rend="noindent">« La loi fondamentale de l’esprit m’apparut en 92 ou 93 comme impossibilité de fixation. J’ai donné le nom anglo-latin de <hi xml:lang="fr" rend="i">Self-variance</hi> à cette remarquable caractéristique. <hi xml:lang="fr" rend="i">La conscience est sans repos</hi> » (C.XVI.437). On trouve aussi, pour désigner cette instabilité de l’esprit, des expressions équivalentes comme « la variation propre des faits mentaux » (C.III.634).</p>
+      </div>
+      <div>
+        <head>SP : secret de la prose</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/sp</term>
+        </index>
+        <p rend="noindent">À partir de 1917, Valéry réfléchit parfois à la possibilité d’une autre prose, plus rigoureusement et musicalement composée que la prose à laquelle il reproche son absence de construction.</p>
+      </div>
+      <div>
+        <head>Trois lois ou 3 Lois</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/trois-lois</term>
+        </index>
+        <p rend="noindent">Le formel, le significatif et l’accidentel. « Ce que j’appelle formel représente la conscience comme un <hi xml:lang="fr" rend="i">espace</hi> » ; « Ce que j’appelle significatif = les déterminations ou figures de cet espace. / Il s’agit de trouver leurs relations fondamentales » (C.III.633).</p>
+      </div>
+    </body>
+  </text>
+</TEI>

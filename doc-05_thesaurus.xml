@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thésaurus</title>
+        <author key="Jarrety, Michel (1953-....)">Michel Jarrety</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2017"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-05_thesaurus.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2017"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Thésaurus</head>
+      <div>
+        <head>Abstraction</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/abstraction</term>
+        </index>
+      </div>
+      <div>
+        <head>Agathe</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose</term>
+        </index>
+      </div>
+      <div>
+        <head>Âme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ame</term>
+        </index>
+      </div>
+      <div>
+        <head>Amitié</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/amitie</term>
+        </index>
+      </div>
+      <div>
+        <head>Amour</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/amour</term>
+        </index>
+      </div>
+      <div>
+        <head>Ange</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ange</term>
+        </index>
+      </div>
+      <div>
+        <head>Arbitraire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/arbitraire</term>
+        </index>
+      </div>
+      <div>
+        <head>Architecture</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/architecture</term>
+        </index>
+      </div>
+      <div>
+        <head>Art</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/art</term>
+        </index>
+      </div>
+      <div>
+        <head>Attention</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/attention</term>
+        </index>
+      </div>
+      <div>
+        <head>Auteur</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/auteur</term>
+        </index>
+      </div>
+      <div>
+        <head>Bach</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/bach</term>
+        </index>
+      </div>
+      <div>
+        <head>Baudelaire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/baudelaire</term>
+        </index>
+      </div>
+      <div>
+        <head>Beauté</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/beaute</term>
+        </index>
+      </div>
+      <div>
+        <head>Beethoven</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/beethoven</term>
+        </index>
+      </div>
+      <div>
+        <head>Bergson</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/bergson</term>
+        </index>
+      </div>
+      <div>
+        <head>Bêtise</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/betise</term>
+        </index>
+      </div>
+      <div>
+        <head>Biologie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/biologie</term>
+        </index>
+      </div>
+      <div>
+        <head>Cahiers</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/cahiers</term>
+        </index>
+      </div>
+      <div>
+        <head>Chant</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/chant</term>
+        </index>
+      </div>
+      <div>
+        <head>Chimie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/chimie</term>
+        </index>
+      </div>
+      <div>
+        <head>Classicisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/classicisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Classique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/classique</term>
+        </index>
+      </div>
+      <div>
+        <head>Cogito</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/cogito</term>
+        </index>
+      </div>
+      <div>
+        <head>Comédie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/comedie</term>
+        </index>
+      </div>
+      <div>
+        <head>Conscience</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/conscience</term>
+        </index>
+      </div>
+      <div>
+        <head>Conversation</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/conversation</term>
+        </index>
+      </div>
+      <div>
+        <head>Corps</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/corps</term>
+        </index>
+      </div>
+      <div>
+        <head>Création</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/creation</term>
+        </index>
+      </div>
+      <div>
+        <head>Critique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/critique</term>
+        </index>
+      </div>
+      <div>
+        <head>Croyance</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/croyance</term>
+        </index>
+      </div>
+      <div>
+        <head>Danse</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/danse</term>
+        </index>
+      </div>
+      <div>
+        <head>Debussy</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/debussy</term>
+        </index>
+      </div>
+      <div>
+        <head>Degas</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/degas</term>
+        </index>
+      </div>
+      <div>
+        <head>Démocratie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/democratie</term>
+        </index>
+      </div>
+      <div>
+        <head>Descartes</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/descartes</term>
+        </index>
+      </div>
+      <div>
+        <head>Description</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/description</term>
+        </index>
+      </div>
+      <div>
+        <head>Dessin</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dessin</term>
+        </index>
+      </div>
+      <div>
+        <head>Dialogue intérieur</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dialogue-interieur</term>
+        </index>
+      </div>
+      <div>
+        <head>Dieu</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dieu</term>
+        </index>
+      </div>
+      <div>
+        <head>Dix-huitième siècle</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dix-huitieme-siecle</term>
+        </index>
+      </div>
+      <div>
+        <head>Dix-neuvième siècle</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dix-neuvieme-siecle</term>
+        </index>
+      </div>
+      <div>
+        <head>Dix-septième siècle</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dix-septieme-siecle</term>
+        </index>
+      </div>
+      <div>
+        <head>Dressage de l’esprit (ou Gladiator : voir le <ref target="file:///F:/Projet%20VALERY/doc/glossaire/dressage-esprit">glossaire</ref>)</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dressage-esprit</term>
+        </index>
+      </div>
+      <div>
+        <head>Écriture</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ecriture</term>
+        </index>
+      </div>
+      <div>
+        <head>Écrivain</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ecrivain</term>
+        </index>
+      </div>
+      <div>
+        <head>Égalité</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/egalite</term>
+        </index>
+      </div>
+      <div>
+        <head>Éloquence</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/eloquence</term>
+        </index>
+      </div>
+      <div>
+        <head>Émotion</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/emotion</term>
+        </index>
+      </div>
+      <div>
+        <head>Enfance</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/enfance</term>
+        </index>
+      </div>
+      <div>
+        <head>Ennui</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ennui</term>
+        </index>
+      </div>
+      <div>
+        <head>Enseignement</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/enseignement</term>
+        </index>
+      </div>
+      <div>
+        <head>Éphéméride</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ephemeride</term>
+        </index>
+      </div>
+      <div>
+        <head>Espace</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/espace</term>
+        </index>
+      </div>
+      <div>
+        <head>Esprit</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/esprit</term>
+        </index>
+      </div>
+      <div>
+        <head>Esthétique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/esthetique</term>
+        </index>
+      </div>
+      <div>
+        <head>Être</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/etre</term>
+        </index>
+      </div>
+      <div>
+        <head>Éveil</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/eveil</term>
+        </index>
+      </div>
+      <div>
+        <head>Faust</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/faust</term>
+        </index>
+      </div>
+      <div>
+        <head>Fiducia (voir le <ref target="file:///F:/Projet%20VALERY/doc/glossaire/fiducia">glossaire</ref>)</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/fiducia</term>
+        </index>
+      </div>
+      <div>
+        <head>Flaubert</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/flaubert</term>
+        </index>
+      </div>
+      <div>
+        <head>Foi</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/foi</term>
+        </index>
+      </div>
+      <div>
+        <head>Forme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/forme</term>
+        </index>
+      </div>
+      <div>
+        <head>Gênes</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/genes</term>
+        </index>
+      </div>
+      <div>
+        <head>Génie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/genie</term>
+        </index>
+      </div>
+      <div>
+        <head>Géométrie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/geometrie</term>
+        </index>
+      </div>
+      <div>
+        <head>Gide</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/gide</term>
+        </index>
+      </div>
+      <div>
+        <head>Gloire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/gloire</term>
+        </index>
+      </div>
+      <div>
+        <head>Goethe</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/goethe</term>
+        </index>
+      </div>
+      <div>
+        <head>Guerre</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/guerre</term>
+        </index>
+      </div>
+      <div>
+        <head>Hasard</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/hasard</term>
+        </index>
+      </div>
+      <div>
+        <head>Helmoltz</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/helmoltz</term>
+        </index>
+      </div>
+      <div>
+        <head>Héros</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/heros</term>
+        </index>
+      </div>
+      <div>
+        <head>Histoire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/histoire</term>
+        </index>
+      </div>
+      <div>
+        <head>Honte</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/honte</term>
+        </index>
+      </div>
+      <div>
+        <head>Hugo</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/hugo</term>
+        </index>
+      </div>
+      <div>
+        <head>Idées</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/idees</term>
+        </index>
+      </div>
+      <div>
+        <head>Idoles</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/idoles</term>
+        </index>
+      </div>
+      <div>
+        <head>Image</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/image</term>
+        </index>
+      </div>
+      <div>
+        <head>Imaginaire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/imaginaire</term>
+        </index>
+      </div>
+      <div>
+        <head>Imagination</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/imagination</term>
+        </index>
+      </div>
+      <div>
+        <head>Implexe</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/implexe</term>
+        </index>
+      </div>
+      <div>
+        <head>Impressionnisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/impressionnisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Inconscient</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/inconscient</term>
+        </index>
+      </div>
+      <div>
+        <head>Infini</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/infini</term>
+        </index>
+      </div>
+      <div>
+        <head>Inspiration</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/inspiration</term>
+        </index>
+      </div>
+      <div>
+        <head>Intellect</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/intellect</term>
+        </index>
+      </div>
+      <div>
+        <head>Intelligence</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/intelligence</term>
+        </index>
+      </div>
+      <div>
+        <head>Kant</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/kant</term>
+        </index>
+      </div>
+      <div>
+        <head>Kelvin</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/kelvin</term>
+        </index>
+      </div>
+      <div>
+        <head>Langage</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/langage</term>
+        </index>
+      </div>
+      <div>
+        <head>Lecteur</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/lecteur</term>
+        </index>
+      </div>
+      <div>
+        <head>Lecture</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/lecture</term>
+        </index>
+      </div>
+      <div>
+        <head>Léonard de Vinci</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/leonard-de-vinci</term>
+        </index>
+      </div>
+      <div>
+        <head>Liberté</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/liberte</term>
+        </index>
+      </div>
+      <div>
+        <head>Littérature</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/litterature</term>
+        </index>
+      </div>
+      <div>
+        <head>Logique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/logique</term>
+        </index>
+      </div>
+      <div>
+        <head>Louÿs</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/louys</term>
+        </index>
+      </div>
+      <div>
+        <head>Lyrisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/lyrisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Mallarmé</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme</term>
+        </index>
+      </div>
+      <div>
+        <head>Mathématiques</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mathematiques</term>
+        </index>
+      </div>
+      <div>
+        <head>Mémoire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/memoire</term>
+        </index>
+      </div>
+      <div>
+        <head>Mémoires</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/memoires</term>
+        </index>
+      </div>
+      <div>
+        <head>Mer</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mer</term>
+        </index>
+      </div>
+      <div>
+        <head>Métaphore</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/metaphore</term>
+        </index>
+      </div>
+      <div>
+        <head>Métaphysique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/metaphysique</term>
+        </index>
+      </div>
+      <div>
+        <head>Méthode</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/methode</term>
+        </index>
+      </div>
+      <div>
+        <head>Moderne</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/moderne</term>
+        </index>
+      </div>
+      <div>
+        <head>Moi</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/moi</term>
+        </index>
+      </div>
+      <div>
+        <head>Monde</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/monde</term>
+        </index>
+      </div>
+      <div>
+        <head>Morale</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/morale</term>
+        </index>
+      </div>
+      <div>
+        <head>Mort</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mort</term>
+        </index>
+      </div>
+      <div>
+        <head>Musique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/musique</term>
+        </index>
+      </div>
+      <div>
+        <head>Mysticisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mysticisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Napoléon</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/napoleon</term>
+        </index>
+      </div>
+      <div>
+        <head>Narcisse</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/narcisse</term>
+        </index>
+      </div>
+      <div>
+        <head>Nations</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/nations</term>
+        </index>
+      </div>
+      <div>
+        <head>Nature</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/nature</term>
+        </index>
+      </div>
+      <div>
+        <head>Nietzsche</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/nietzsche</term>
+        </index>
+      </div>
+      <div>
+        <head>Nombre</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/nombre</term>
+        </index>
+      </div>
+      <div>
+        <head>Obscurité</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/obscurite</term>
+        </index>
+      </div>
+      <div>
+        <head>Œuvre d’art</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/oeuvre-art</term>
+        </index>
+      </div>
+      <div>
+        <head>Opinion</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/opinion</term>
+        </index>
+      </div>
+      <div>
+        <head>Ornement</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/ornement</term>
+        </index>
+      </div>
+      <div>
+        <head>Pascal</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/pascal</term>
+        </index>
+      </div>
+      <div>
+        <head>Peinture</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/peinture</term>
+        </index>
+      </div>
+      <div>
+        <head>Pensée</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/pensee</term>
+        </index>
+      </div>
+      <div>
+        <head>Penser</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/penser</term>
+        </index>
+      </div>
+      <div>
+        <head>Perception</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/perception</term>
+        </index>
+      </div>
+      <div>
+        <head>Personnage</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/personnage</term>
+        </index>
+      </div>
+      <div>
+        <head>Personnalité de Valéry</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/personnalite-valery</term>
+        </index>
+      </div>
+      <div>
+        <head>Pétain</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/petain</term>
+        </index>
+      </div>
+      <div>
+        <head>Philosophie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/philosophie</term>
+        </index>
+      </div>
+      <div>
+        <head>Physique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/physique</term>
+        </index>
+      </div>
+      <div>
+        <head>Poe</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poe</term>
+        </index>
+      </div>
+      <div>
+        <head>Poème en prose</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose</term>
+        </index>
+      </div>
+      <div>
+        <head>Poème en vers</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-vers</term>
+        </index>
+      </div>
+      <div>
+        <head>Poésie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poesie</term>
+        </index>
+      </div>
+      <div>
+        <head>Poète</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poete</term>
+        </index>
+      </div>
+      <div>
+        <head>Poétique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poetique</term>
+        </index>
+      </div>
+      <div>
+        <head>Poincaré</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poincare</term>
+        </index>
+      </div>
+      <div>
+        <head>Politique</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/politique</term>
+        </index>
+      </div>
+      <div>
+        <head>Portrait</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/portrait</term>
+        </index>
+      </div>
+      <div>
+        <head>Postérité</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/posterite</term>
+        </index>
+      </div>
+      <div>
+        <head>Pouvoir</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/pouvoir</term>
+        </index>
+      </div>
+      <div>
+        <head>Prose</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/prose</term>
+        </index>
+      </div>
+      <div>
+        <head>Prosélytisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/proselytisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Psychologie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/psychologie</term>
+        </index>
+      </div>
+      <div>
+        <head>Rachel</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/rachel</term>
+        </index>
+      </div>
+      <div>
+        <head>Racine</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/racine</term>
+        </index>
+      </div>
+      <div>
+        <head>Raison</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/raison</term>
+        </index>
+      </div>
+      <div>
+        <head>Religion</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/religion</term>
+        </index>
+      </div>
+      <div>
+        <head>Remords</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/remords</term>
+        </index>
+      </div>
+      <div>
+        <head>Répétition</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/religion</term>
+        </index>
+      </div>
+      <div>
+        <head>Rêve</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/reve</term>
+        </index>
+      </div>
+      <div>
+        <head>Rimbaud</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/rimbaud</term>
+        </index>
+      </div>
+      <div>
+        <head>Rime</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/rime</term>
+        </index>
+      </div>
+      <div>
+        <head>Rire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/rire</term>
+        </index>
+      </div>
+      <div>
+        <head>Robinson</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/robinson</term>
+        </index>
+      </div>
+      <div>
+        <head>Roman</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/roman</term>
+        </index>
+      </div>
+      <div>
+        <head>Romantisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/romantisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Rousseau</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/rousseau</term>
+        </index>
+      </div>
+      <div>
+        <head>Rythme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/rythme</term>
+        </index>
+      </div>
+      <div>
+        <head>Savoir</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/savoir</term>
+        </index>
+      </div>
+      <div>
+        <head>Scénario</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/scenario</term>
+        </index>
+      </div>
+      <div>
+        <head>Sciences</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/sciences</term>
+        </index>
+      </div>
+      <div>
+        <head>Sensibilité</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/sensibilite</term>
+        </index>
+      </div>
+      <div>
+        <head>Shakespeare</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/shakespeare</term>
+        </index>
+      </div>
+      <div>
+        <head>Sincérité</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/sincerite</term>
+        </index>
+      </div>
+      <div>
+        <head>Société</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/societe</term>
+        </index>
+      </div>
+      <div>
+        <head>Solitude</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/solitude</term>
+        </index>
+      </div>
+      <div>
+        <head>Sommeil</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/sommeil</term>
+        </index>
+      </div>
+      <div>
+        <head>Sonnet</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/sonnet</term>
+        </index>
+      </div>
+      <div>
+        <head>Souffrance</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/souffrance</term>
+        </index>
+      </div>
+      <div>
+        <head>Stendhal</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/stendhal</term>
+        </index>
+      </div>
+      <div>
+        <head>Stérilité</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/sterilite</term>
+        </index>
+      </div>
+      <div>
+        <head>Style</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/style</term>
+        </index>
+      </div>
+      <div>
+        <head>Subconscient</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/subconscient</term>
+        </index>
+      </div>
+      <div>
+        <head>Suicide</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/suicide</term>
+        </index>
+      </div>
+      <div>
+        <head>Surprise</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/surprise</term>
+        </index>
+      </div>
+      <div>
+        <head>Symbolisme</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/symbolisme</term>
+        </index>
+      </div>
+      <div>
+        <head>Symétrie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/symetrie</term>
+        </index>
+      </div>
+      <div>
+        <head>Temps</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/temps</term>
+        </index>
+      </div>
+      <div>
+        <head>Teste</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/teste</term>
+        </index>
+      </div>
+      <div>
+        <head>Théâtre</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/theatre</term>
+        </index>
+      </div>
+      <div>
+        <head>Univers</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/univers</term>
+        </index>
+      </div>
+      <div>
+        <head>Vague (≠ précis)</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/vague</term>
+        </index>
+      </div>
+      <div>
+        <head>Variation de l’esprit (ou self-variance : voir le <ref target="file:///F:/Projet%20VALERY/doc/glossaire/variation-esprit">glossaire</ref>)</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/variation-esprit</term>
+        </index>
+      </div>
+      <div>
+        <head>Veille</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/veille</term>
+        </index>
+      </div>
+      <div>
+        <head>Vers</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/vers</term>
+        </index>
+      </div>
+      <div>
+        <head>Vie</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/vie</term>
+        </index>
+      </div>
+      <div>
+        <head>Vinci : voir Léonard de Vinci</head>
+      </div>
+      <div>
+        <head>Voix</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/voix</term>
+        </index>
+      </div>
+      <div>
+        <head>Volonté</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/volonte</term>
+        </index>
+      </div>
+      <div>
+        <head>Voltaire</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/voltaire</term>
+        </index>
+      </div>
+      <div>
+        <head>Vue</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/vue</term>
+        </index>
+      </div>
+      <div>
+        <head>Wagner</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner</term>
+        </index>
+      </div>
+    </body>
+  </text>
+</TEI>

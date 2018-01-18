@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Note sur cette édition</title>
+        <author key="Jarrety, Michel (1953-....)">Michel Jarrety</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2017"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-02_note-edition.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-02_note-edition.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-02_note-edition.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-02_note-edition.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2017"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Note sur cette édition</head>
+        <p>La transcription restitue la mise en page des <hi rend="i">Cahiers</hi> manuscrits. Les mots ajoutés entre les lignes sont placés entre barres obliques ; les mots soulignés par Valéry sont placés en italique ; lorsqu’ils sont soulignés deux fois, ils sont en italique et en même temps soulignés d’un trait ; lorsqu’ils sont soulignés trois fois, ils sont en italique et soulignés de deux traits ; les soulignements en marge du texte sont indiqués en note.</p>
+        <p>La ponctuation de Valéry est assez singulière. À l’instar de Mallarmé, il lui arrive de réduire à deux les points de suspension : par souci d’harmonisation, nous avons maintenu les trois points traditionnels. Il arrive que Valéry considère que le passage à la ligne équivaut à une virgule : nous avons parfois rétabli cette virgule lorsque la clarté de la phrase l’exige. Enfin, nous avons respecté l’usage fréquent des tirets, mais par souci d’harmonisation, placé un point en fin de phrase là où Valéry met parfois un tiret.</p>
+        <p>De nombreux mots ou passages se trouvent biffés dans les <hi rend="i">Cahiers</hi>, soit que Valéry marque ainsi son insatisfaction, soit que le passage se trouve repris dans une œuvre publiée. Lorsqu’il s’agit d’un ou deux mots, nous les avons barrés d’un trait ; lorsqu’il s’agit d’un plus long passage, afin de préserver la lisibilité du texte, nous l’avons placé entre crochets obliques. Nous avons maintenu, barrés, les mots raturés lorsque leur absence laisse un trou dans la phrase ou lorsque la rature fait sens.</p>
+        <p>Par souci de lisibilité encore, nous avons restitué l’intégralité des mots abrégés. Les mots omis par inadvertance sont rétablis entre crochets droits. Les ajouts marginaux sont signalés en note.</p>
+        <p>Les feuilles volantes sont placées entre crochets droits et signalées en note.</p>
+        <p>Afin de respecter les usages de Valéry, nous ne complétons pas les initiales des noms propres, mais s’il écrit, par exemple « S. M. », nous ajoutons juste après entre crochets droits [Stéphane Mallarmé] en entier afin que le moteur de recherche puisse fonctionner.</p>
+        <p>Nous renvoyons à la pagination de l’édition des <hi rend="i">Cahiers</hi> parue aux Éditions du CNRS (voir la <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-01_presentation">Présentation</ref>) en plaçant en haut de la page la mention du tome et de la page entre crochets droits, par exemple [C.I.200] ; nous faisons de même pour l’édition Gallimard (voir la <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-01_presentation">Présentation</ref>), mais dans ce cas la mention est en italique.</p>
+        <p>Dans les notes l’abréviation C., suivie de la mention du tome et de la page, renvoie à l’édition du CNRS ; de la même manière, l’abréviation Œ., suivie de la mention du tome et de la page, renvoie à l’édition des <hi rend="i">Œuvres</hi> que j’ai procurée en 2016 à la Librairie Générale Française dans la collection « La Pochothèque ».</p>
+        <p>Le lecteur trouvera un fichier où sont explicités les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles">sigles</ref> utilisés par Valéry, ainsi qu’un <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire">glossaire</ref> qui définit les notions créées pour lui-même.</p>
+        <byline>Michel Jarrety</byline>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Étude. I + R = K]</head>
+        <p rend="cote">
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f1.image">[naf-19212_f1r]</ref>
+        </p>
+        <p/>
+        <p/>
+        <div>
+          <head>[Titre] {naf-19212_001r_01}</head>
+          <p rend="noindent center"><pb n="FS.I.749 GA.I.250"/><pb/><note place="bottom">Ce Cahier est composé d’un ensemble de feuilles du ministère de la guerre.</note><hi rend="b"> 
+        Étude. I + R = K</hi><note place="bottom">Image + Réalité = Constante.</note>
+        .
+</p>
+          <p rend="noindent center b">——</p>
+          <p rend="noindent center b">recherche de la définition – base.</p>
+          <p rend="noindent center b">——</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f3.image">[naf-19212_f2r]</ref>
+          </p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_002r_01}</head>
+          <p/>
+          <p rend="noindent center">
+            <pb n="GA.I.251"/>
+            <pb/>
+            <hi rend="i">Rêve</hi>
+            <seg rend="marquedecommentaire">
+              <!-- User : 2017-09-18T13:04:00
+Titre à faire figurer ???-->
+            </seg>
+          </p>
+          <p/>
+          <p>Interprétation spéciale des sensations<note place="bottom">Ce dossier se compose de feuilles volantes.</note> –</p>
+          <p>pas de choix – théorie de ce choix (Voir – Cahier)</p>
+          <p>d’où égalité entre les états –</p>
+          <p>suppression des efforts ordinaires.</p>
+          <p>suppression des mises en habitude des impressions prolongées homogènes.</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p>Individu dont le discours est tel qu’il <hi rend="i">dort</hi> en parlant avec inspiration !</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f6.image">[naf-19212_f6r]</ref>
+          </p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_003v_01}</head>
+          <p><pb n="FS.I.750"/>Sensations</p>
+          <p/>
+          <table>
+            <row>
+              <cell>sens continu</cell>
+              <cell>
+                <p rend="noindent">rétine –</p>
+                <p rend="noindent">tympan –</p>
+                <p rend="noindent center">derme –</p>
+                <p rend="noindent right"/>
+                <p rend="noindent right"/>
+                <p rend="noindent right">” (θ) –</p>
+                <p rend="noindent right">langue –</p>
+                <p rend="noindent right">nez –</p>
+                <p rend="noindent right">muscles –</p>
+              </cell>
+              <cell>
+                <p rend="noindent">mouvements de l’éther</p>
+                <p rend="noindent">vibrations de l’air et des corps</p>
+                <p rend="noindent">pressions mécaniques</p>
+                <p rend="noindent">d’une certaine valeur</p>
+                <p rend="noindent">question de surface</p>
+                <p rend="noindent">vibrations de l’éther spécial</p>
+                <p rend="noindent">solutions de corps, actions chimiques.</p>
+                <p rend="noindent">air, éther ?</p>
+                <p rend="noindent">contractions ­</p>
+              </cell>
+              <cell>
+                <p rend="noindent">éther</p>
+                <p rend="noindent">gaz etc.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p><space>              </space> <space>                     </space> États. Exemple</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent center">I</p>
+                <p rend="noindent center">D</p>
+                <p rend="noindent center">D</p>
+                <p rend="noindent center">Etc.</p>
+              </cell>
+              <cell>T’</cell>
+              <cell>R’</cell>
+              <cell>
+                <p rend="noindent center">t</p>
+                <p rend="noindent center">I</p>
+              </cell>
+              <cell>
+                <p rend="noindent center">R</p>
+                <p rend="noindent center">a<pb n="" ana="src" xml:id="p"/></p>
+              </cell>
+              <cell>
+                <p rend="noindent center">T</p>
+                <p rend="noindent center">b<hi rend="sub">q</hi></p>
+              </cell>
+              <cell>
+                <p rend="noindent center">D</p>
+                <p rend="noindent center">c<hi rend="sub">r</hi></p>
+              </cell>
+              <cell>
+                <p rend="noindent center">D</p>
+                <p rend="noindent center">e<hi rend="sub">s</hi></p>
+              </cell>
+              <cell>
+                <p rend="noindent center">L</p>
+                <p rend="noindent center">f<hi rend="sub">t</hi></p>
+              </cell>
+              <cell>
+                <p rend="noindent center">N</p>
+                <p rend="noindent center">o</p>
+              </cell>
+              <cell>
+                <p rend="noindent center">M</p>
+                <p rend="noindent center">g<hi rend="sub">u</hi></p>
+              </cell>
+              <cell>S</cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p>Soit un état  ainsi défini, un objet</p>
+          <p>Quelconque sera alors isolé ainsi :</p>
+          <p>Φ[a<pb n="" ana="src" xml:id="p"/> c<hi rend="sub">r</hi> g<hi rend="sub">a</hi>] = phénomène psy<note place="bottom">« Psychique » ou « psychologique ».</note></p>
+          <p/>
+          <p>Soit un objet O. Quelle que soit sa position dans l’espace pourvu que cette position le conserve dans le champ rétinien – quelle que soit – – [inachevé]</p>
+          <p>L’objet est toute portion de la connaissance telle que si une seule détermination (sur 7) est donnée, elle est complétée par l’esprit avec une indétermination limitée. (?) Inversement il peut être réduit par l’esprit à l<hi rend="sup">d</hi>/7.</p>
+          <p>Cela ne peut se produire qu’à l’aide d’un groupement solide des 7 dimensions ; c’est-à-dire un groupement tel que toutes les variables entrant dans <pb n="GA.I.252"/>l’objet soient fonctions les unes des autres directement ou indirectement, et inversement de toutes façons.<note place="bottom">La flèche renvoie au passage de la page suivante qui commence par « il faudrait ».</note></p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f7.image">[naf-19212_f4r]</ref>
+          </p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_004r_01}</head>
+          <p><pb n="FS.I.751"/><pb/>transformation d’une chose en autre –</p>
+          <p>imagination des complexes</p>
+          <p>Le phénomène B.</p>
+          <p>Les liaisons ; la pluralité nécessaire –</p>
+          <p>—</p>
+          <p rend="noindent">———————————————————————————————————</p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_004r_02}</head>
+          <p>Il faudrait passer de là au nom et à la généralité de l’objet :</p>
+          <p>Qu’entend-on par <hi rend="i">chose</hi> dans l’énoncé du Principe de Contradiction ?</p>
+          <p/>
+          <p rend="noindent">3n − m = K – ou mieux pn − m = K</p>
+          <p rend="noindent">m nombre d’équations</p>
+          <p rend="noindent">3 degré d’espace</p>
+          <p rend="noindent">———— Quid des équations de liaisons ?</p>
+          <p>(a, b, c) =0</p>
+          <p rend="noindent">(a’, b’, c’) = 0</p>
+          <p/>
+          <p>Les liaisons sont d’autant plus durables qu’il est plus difficile de faire varier leurs 2 termes sans les détruire.</p>
+          <p>La liaison irrationnelle type est la plus solide.</p>
+          <p>Théorème. Toute liaison rationnelle se réduit à une somme de liaisons irrationnelles. Ce théorème est faux.</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f9.image">[naf-19212_f5r]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_005r_01}</head>
+          <p><pb n="FS.I.753"/><pb/>Deux sphères sont données (x + y), (x’ + y’).</p>
+          <p>On peut se borner à cette suite.</p>
+          <p>On peut aussi chercher une hypothèse telle que</p>
+          <p>x’ + y’ = φ (x + y) = ψ (x + y) + Ω (x + y)</p>
+          <p><pb n="GA.I.253"/>Quelle que soit cette hypothèse les opérations (x+y/x’+y’) restent identiques comme résultats.</p>
+          <p>On peut aussi étudier x, x’ y, y’ de plus près.</p>
+          <p rend="noindent">Deux études [(x + y) = U <space>          </space>x’ + y’ = U’]</p>
+          <p rend="noindent">ou bien U et U’ ou leur détail x, y, x’, y’.</p>
+          <p/>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f11.image">[naf-19212_f6r]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_006r_01}</head>
+          <p>variation différente</p>
+          <table>
+            <row>
+              <cell>A appelle B.</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>A’ appelle B.</cell>
+              <cell>uniformité de R.</cell>
+            </row>
+            <row>
+              <cell>B est <hi rend="i">mental.</hi></cell>
+              <cell>uniformité de I.</cell>
+            </row>
+            <row>
+              <cell>Le problème se déplace alors.</cell>
+              <cell>u = l’uniforme en matière psychologique.</cell>
+            </row>
+            <row>
+              <cell>Qu’est-ce qu’appeler ?</cell>
+              <cell/>
+            </row>
+          </table>
+          <p/>
+          <p>——————————————————————————————————</p>
+          <p>Autre chose – plus générale.</p>
+          <p>Soit un état 1 et un état 2 de connaissance.</p>
+          <p rend="noindent"><space>     </space>Quel que soit le contenu et sa division –</p>
+          <p><space>         </space>L’état 2 peut conserver (ou répéter) certaines portions du (1).</p>
+          <p>(2) = (1) + X <space>         </space>(a)</p>
+          <p>——————————————</p>
+          <p>(2) = φ(1) + X <space>     </space>(b)</p>
+          <p/>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f12.image">[naf-19212_f6v]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_006v_01}</head>
+          <p><pb/><pb n="FS.I.754"/>En matière psychologique l’action n’est pas égale à la réaction, a priori. Bien au contraire, il y a différence radicale de toute manière entre A et R.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_006v_02}</head>
+          <p>Soit par exemple une cathédrale.</p>
+          <p>En imaginant des choses compliquées</p>
+          <p>et organisées, se commandant entr’elles</p>
+          <p>on procède toujours par opérations</p>
+          <p>successives.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_006v_03}</head>
+          <p><pb n="GA.I.254"/><pb/>Le monde extérieur est une convention, un être semblable à l’espace géométrique par exemple. On entend par lui bien autre chose que le simple tissu des sensations. Il y a des concepts et des images adjointes bien difficiles à en isoler.</p>
+          <p>ainsi</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f13.image">[naf-19212_f7r]</ref>
+          </p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_007r_01}</head>
+          <p>I + R = K</p>
+          <p/>
+          <p>on pourrait figurer que l’énergie cinétique sensible dans le système est le phénomène mental I, l’énergie potentielle étant le phénomène R fonction de sa situation.</p>
+          <p/>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f15.image">[naf-19212_f8r]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_008r_01}</head>
+          <table>
+            <row>
+              <cell>A<hi rend="sub">0</hi>  <space>   </space>→ <space>  </space>M<hi rend="sub">0</hi></cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>A =φ(x)</cell>
+              <cell>A=φ(x<hi rend="sub">1</hi>x...x<hi rend="sub">n</hi>)</cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">M = φ(x<hi rend="sub">1</hi>...x<hi rend="sub">n</hi>)</p>
+                <p rend="noindent"><space>       </space>–</p>
+                <p rend="noindent"><space>       </space>–</p>
+              </cell>
+              <cell>M = φ(x)</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>I + R = K.</cell>
+            </row>
+          </table>
+          <p/>
+          <p>Une portion physique homogène est une portion qui demande du ψ au bout d’un temps t</p>
+          <p>Une portion physique hétérogène –———————————— au bout d’un temps n t – ou <hi rend="i">t</hi> + <hi rend="i">Δt –</hi></p>
+          <p/>
+          <p>h(m) = 1/t x ψ.</p>
+          <p/>
+          <p>La quantité  par unité de temps est la mesure de <hi rend="i">la</hi> différence entre deux points – plus elle est grande par une unité de temps, plus la différence est grande.</p>
+          <p>[Formules mathématiques]</p>
+          <p/>
+          <p>
+            <pb n="GA.I.255"/>
+          </p>
+          <p>De plus</p>
+          <p>[Formules mathématiques]</p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_008r_02}</head>
+          <p>
+            <hi rend="i">a b c 
+        
+         m</hi>
+          </p>
+          <p>a, b, c, ab, <hi rend="i">ca</hi>, bac, d, e, <hi rend="i">ca</hi>d, be,</p>
+          <p/>
+          <p>Toutes les fois que ca se reproduit, il se reproduit avec un  nouveau<note place="bottom">[MARGIN] Ce passage est ajouté dans la marge de gauche, en travers de la page.</note>.</p>
+          <p/>
+          <p/>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f17.image">[naf-19212_f9r]</ref>
+          </p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_009r_01}</head>
+          <p/>
+          <p><pb n="GA.I.256FS.I.755"/>Extrait.</p>
+          <p>« Pendant qu’il y a variation consciente de la pensée la variation de la réalité est nulle ».</p>
+          <p rend="noindent center">——</p>
+          <p rend="noindent center"/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Par rapport à quoi varient les états ?</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>{</cell>
+              <cell>
+                <p rend="noindent">pensée</p>
+                <p rend="noindent">réalité</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+          <p>par rapport à un autre qui fait partie, portion de celui considéré.</p>
+          <p>Nous concevons un état par sa disparition, et alors ?</p>
+          <p>Si dans le rêve on ne se rappelait pas ? à chaque instant.</p>
+          <p>———————————————————————</p>
+          <p>La variation consciente. <space>                                   </space>[Calculs]</p>
+          <p>La réalité peut ne pas varier.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_009r_02}</head>
+          <p>&lt;La conscience de la sensation est instantanée.&gt;</p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_009r_03}</head>
+          <p>Avant tout dénominer et définir correctement – autrement je n’en sors pas. – </p>
+          <p>Donc.</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f21.image">[naf-19212_f11r]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_011r_01}</head>
+          <p><pb n="FS.I.756"/><pb/>Résumé des résultats récents</p>
+          <p>[Dessin]</p>
+          <p>—————————</p>
+          <p/>
+          <p>La connaissance est pleine. Si on la considère en tant qu’ensemble elle est fermée. Il y a une constante fondamentale – elle ne peut recevoir (à certains points de vue) ni augmentation ni diminution. Elle est de plus continue en un certain sens. Elle ne manque jamais d’objet</p>
+          <p>——</p>
+          <p>Dimensions de la connaissance<note place="bottom">Quatre mots entourés d’un cercle.</note>.</p>
+          <p>——</p>
+          <p><pb n="GA.I.257"/><pb/>Si elle est pleine, toute modification y est nécessairement extensible à l’ensemble.</p>
+          <p/>
+          <p/>
+          <p rend="noindent">Nous ne connaissons que des choses <hi rend="i">susceptibles de modifications</hi> – et à proportion de la modification possible<note place="bottom">Phrase entourée d’un trait.</note>.</p>
+          <p rend="noindent">Nous n’associons que des choses fixées. –</p>
+          <p rend="noindent"/>
+          <quote rend="border">
+            <p rend="noindent">Soient 2 ou n termes que nous associons – on peut rechercher le mode de cette association et constater ce qui advient des termes. On peut d’autre part attribuer à <hi rend="u"><hi rend="i">une sorte de milieu</hi></hi> l’opération à expliquer<note place="bottom">Passage encadré.</note>.</p>
+          </quote>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f24.image">[naf-19212_f12v]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_012v_01}</head>
+          <p>Une idée n’est déterminée que par elle-même.</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f25.image">[naf-19212_f13r]</ref>
+          </p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_013r_01}</head>
+          <p rend="noindent center"><pb n="FS.I.162"/><pb/>Esquisse d’une théorie des <hi rend="i">opérations</hi></p>
+          <p rend="noindent center">——</p>
+          <p/>
+          <p>Si on analyse la connaissance en une suite <hi rend="i">d’états</hi>, on peut se proposer de chercher les lois de succession, dans leur généralité.</p>
+          <p>L’observation montre que tout ensemble de deux états immédiatement successifs affecte l’une des 2 formes suivantes :</p>
+          <p><pb n="FS.I.163"/>Ou bien, l’état A étant donné, l’état B l’est également – et ce couple est purement juxtaposé dans le temps sans que l’on puisse reconnaître d’autre liaison entre ses 2 termes. J’appelle ce genre de succession <hi rend="i">irrationnelle</hi> ou <hi rend="i">symbolique.</hi> Le type de ce genre est le <hi rend="i">mot.</hi></p>
+          <p>Ou bien il y aura entre les 2 termes A et B plus d’une relation, c’est-à-dire une relation au moins autre que la séquence. Cette relation sera dite <hi rend="i">rationnelle.</hi> Ce type a pour représentants (par exemple) tous les couples (A, B) tels que B contient quelque chose de commun avec A ; c’est-à-dire tels que A étant donné, on pourra toujours construire un second terme B’ qui aura également quelque chose de commun avec A. La chose commune n’a pas d’existence, elle signifie ici seulement la possibilité de négliger certains termes. La métaphore, en écartant son voile verbal, est une relation rationnelle.</p>
+          <p>Toute relation <hi rend="i">symbolique</hi> est invariable. Elle est sans degrés. Au contraire la relation rationnelle – etc.</p>
+          <p>——</p>
+          <p><pb n="GA.I.258"/>Je vais vous suggérer ce que j’entends par opération et le pourquoi des définitions précédentes.</p>
+          <p>Soit un mot : <hi rend="i">maison.</hi> Aucune liaison autre que symbolique avec l’image d’une maison. Il y a juxtaposition solide et régulière.</p>
+          <p>Soit le dessin ou l’hiéroglyphe d’une maison ; [croquis] vous pouvez passer de cette image à celle de la maison par [inachevé<seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+Continuité ???--></seg>]</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f26.image">[naf-19212_f13v]</ref>
+          </p>
+          <p rend="noindent">une série <hi rend="i">d’opérations</hi> telles qu’agrandir le schéma, le colorer, etc. Aucune opération sur le <hi rend="i">mot</hi> ne vous conduira à la <hi rend="i">maison</hi> si vous ne connaissez d’avance la relation fixe, et alors vous la connaissez in integro<note place="bottom">Intégralement. En 1895, on lit dans l’<hi rend="i">Introduction</hi> : « La plupart des gens y voient par l’intellect bien plus souvent que par les yeux. Au lieu d’espaces colorés, ils prennent connaissance de concepts. Une forme cubique, blanchâtre, en hauteur, et trouée de reflets de vitres est immédiatement une maison, pour eux : la Maison ! Idée complexe, accord de qualités abstraites. S’ils se déplacent, le mouvement des files de fenêtres, la translation des surfaces qui défigure continûment leur sensation, leur échappe, – car le concept ne change pas » (Œ.I.128).</note>.</p>
+          <p>———————</p>
+          <p/>
+          <p>Supposons que nous désignions un état par la notation suivante E<hi rend="sub">1</hi> = (a, b, c, d… p). a, b etc. seraient par exemple des qualités (on pourrait aisément parfaire ces symboles).</p>
+          <p>Un autre état, le suivant sera par exemple :</p>
+          <p>E<hi rend="sub">2</hi> = (α, β, γ, δ,...p)</p>
+          <p><pb n="FS.I.164"/>la relation rationnelle sera E<hi rend="sub">1</hi> ≡  E<hi rend="sub">2</hi>.</p>
+          <p>(≡  signe conventionnel – périphrase)</p>
+          <p>On pourrait nommer cela une équation relative.</p>
+          <p>Une équation ordinaire est définie par cette propriété qu’on peut faire subir aux 2 membres les mêmes opérations.</p>
+          <p>Une équation relative n’existerait que pour <hi rend="i">certaines</hi> opérations et serait fausse pour d’autres. (Il y aurait un moment [inachevé]</p>
+          <p>Reprenons l’exemple de la maison (dessin). Une suite d’opérations <hi rend="i">possibles</hi> nous a conduit du schème à l’image plus riche.</p>
+          <p>Nous avons passé de E<hi rend="sub">1</hi> à E<hi rend="sub">2</hi>… (Ici je m’arrête sur ce point, il faudrait être long et algébrique – –)</p>
+          <p>—————</p>
+          <p/>
+          <p>Vous apercevez aisément que toute relation rationnelle subsiste pour certaines variations exercées sur ses 2 membres. Ces variations déterminent le terme commun. Je ne puis développer ce point délicat. Je me borne à une observation rapide :</p>
+          <p>Il y a dans la connaissance des choses telles que la <hi rend="i">seule</hi> [inachevé<seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+Continuité--></seg>]</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f27.image">[naf-19212_f14r]</ref>
+          </p>
+          <p rend="noindent"><hi rend="i">opération possible sur elles est la</hi><hi rend="u"><hi rend="i">substitution</hi></hi>. Là derrière se trouvent les sensations pures et simples et leur irréductibilité. La substitution totale serait donc la limite des opérations.</p>
+          <p/>
+          <p rend="noindent center">——</p>
+          <p/>
+          <p>Les relations sont réversibles ou non.</p>
+          <p>Toute relation symbolique est réversible. Il n’en est pas de même des rationnelles. Supposons une suite rationnelle suivie d’elle-même renversée (A, B), (B, A). On peut toujours dire que le 2<hi rend="sup">èmc</hi> A n’est pas égal au 1<hi rend="sup">er</hi>. Il en diffère dans le temps. Il ne serait égal au 1<hi rend="sup">er</hi> que s’il <pb n="GA.I.259"/>ramenait encore B. De ce point de vue (A, B,) ne serait pas réversible. Mais si l’on fait une convention d’après laquelle A’ (ou le 2<hi rend="sup">èmc</hi>A) serait relativement égal au 1<hi rend="sup">er</hi> A, le couple est réversible. Si l’on écrit alors comme tout à l’heure A ≡  A’ la réversibilité d’un couple rationnel ne dépend que du terme commun – c’est-à-dire de l’étendue des variations que peut subir le couple sans disparaître.</p>
+          <p><pb n="FS.I.165"/>En résumé : la réversibilité rigoureuse d’un couple rationnel n’existe pas. Si on la réalise par la convention précédente elle dépend d’une <hi rend="i">3<hi rend="sup">ème</hi> relation rationnelle</hi> A ≡ A’, et les relations (A, B) (B, A’) dépendent de la relation (A, A’).</p>
+          <p rend="noindent center">————————</p>
+          <p>J’appelle <hi rend="i">formation</hi> toute suite d’états regardée indépendamment des relations.</p>
+          <p>J’appelle <hi rend="i">opération</hi> une suite de relations <hi rend="u"><hi rend="i">rationnelles</hi></hi>.</p>
+          <p/>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f29.image">[naf-19212_f15r]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_015r_01}</head>
+          <p rend="noindent center">Esquisse de la théorie des opérations</p>
+          <p rend="noindent center">——</p>
+          <p/>
+          <p>Si on analyse la connaissance en une suite d<hi rend="i">’états</hi>, l’observation fait connaître que certains de ces états se succèdent régulièrement dès que l’un d’eux est donné. Il s’agit d’étudier les lois de ces successions dans leur généralité<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p>Il y a deux manières : ou bien un état étant donné, un autre est donné de suite ; et ce couple est purement juxtaposé dans le temps sans que l’on puisse reconnaître d’autre liaison entre ses deux termes. J’appelle ce genre de succession <hi rend="i">irrationnelle</hi> ou <hi rend="i">symbolique.</hi> Le type du genre est le <hi rend="i">mot.</hi></p>
+          <p>Ou bien, il y aura entre les deux termes une relation autre que la séquence. Si l’on suppose les deux termes classés chacun dans une série de termes analogues, le 1<hi rend="sup">er</hi> étant donné, on pourra toujours construire le second, ou (d’une façon indéterminée), un des <hi rend="i">isomères</hi> du second. Cette relation sera dite <hi rend="i">rationnelle.</hi> Cette relation a pour types généraux, la sensation et ses premiers effets psychologiques ; les abstractions telles que le dessin d’une chose par rapport à l’image de cette chose, etc.</p>
+          <p>On peut dire en général que toute relation rationnelle implique l’existence de quelque chose de <pb n="FS.I.166"/>commun, de répété, entre les deux termes composants.</p>
+          <p>On voit de suite que toute relation symbolique est invariable ; elle est, sans degrés.<pb/><pb n="GA.I.260"/><seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+--></seg><pb n=""/></p>
+          <p>Au contraire, toute relation rationnelle<seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+Continuité--></seg></p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f31.image">[naf-19212_f16r]</ref>
+          </p>
+          <p rend="noindent">peut subsister pour des variations exercées sur ces membres. Ces variations sont limitées par la durée du terme commun. Tant que ce terme subsiste, la relation subsiste.</p>
+          <p/>
+          <p>Une relation peut être <hi rend="i">réversible</hi> ou <hi rend="i">irréversible.</hi> Elle est réversible lorsque le couple d’états qui la forme peut être renversé dans le temps. Toutes les relations symboliques sont évidemment réversibles.</p>
+          <p>Les relations rationnelles, au contraire, sont très souvent impossibles à transposer. Si une sensation A est suivie d’une notion (<hi rend="i">rationnelle</hi>) quelconque B, je ne pourrai pas, dans le cas général, retrouver A en partant de B. Je retrouverai en A une image d’A, A’. Si A est réellement différent de A’, (A, B) est irréversible en (B, A). Mais si on fait une certaine convention d’après laquelle A serait <hi rend="i">relativement égal</hi> à A’, le couple (A ou A’, B) est réversible, à ce point de vue. Si on se place dans l’hypothèse précédente A ≡ A’, la réversibilité d’un couple rationnel ne dépend que du terme commun, c’est-à-dire de l’étendue des variations qu’il peut subir sans disparaître.</p>
+          <p>La réversibilité d’un couple rationnel n’existe pas. Si on la réalise par la convention A ≡  A’ elle dépend de cette nouvelle relation rationnelle (A, B) (B, A’) dépendant de (A, A’)<note place="bottom">[MARGIN] Cette phrase est ajoutée dans la marge de gauche, en travers de la page.</note>.</p>
+          <p/>
+          <p>J’appelle <hi rend="i">opération</hi>, une suite de relations rationnelles.</p>
+          <p>J’appelle <hi rend="i">formation</hi>, une suite réelle d’états regardée indépendamment des relations.</p>
+          <p>J’appelle <hi rend="i">construction</hi> une suite d’opérations parmi laquelle peuvent se trouver des relations symboliques, et qui satisfait à certaines conditions ou termes identiquement répétés jusqu’à ce qu’ils ne puissent plus l’être<note place="bottom">[MARGIN] En marge : « Construction par symétrie. Détail ».</note>...</p>
+          <p rend="cote">
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f33.image">[naf-19212_f17r]</ref>
+          </p>
+          <p/>
+        </div>
+        <div>
+          <head>* {naf-19212_017r_01}</head>
+          <p>Étant donnés n états distincts, il y a lieu d’étudier leur réversibilité.</p>
+          <p>Cette réversibilité dépend des relations qui sont entre les états. Soient A, B, C... .N ces états. Désignons par A/B, P/Q les relations rationnelles ; par A\B, P\Q les symboliques.</p>
+          <p><pb n="GA.I.261"/>On a μ groupes 2 à 2 de ces états ; il peut y avoir par conséquent μ relations rationnelles ou μ symboliques.</p>
+          <p>Si les μ sont rationnelles, si un état M est donné on connaîtra les N-1 autres, à partir de M, et du plus au moins et de 1 à N. (Ordre, symétrie.)</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>[Étude. I + R = K]</head>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f1.image">[naf-19212_f1r]</ref>
+          </head>
+          <div>
+            <head>[Titre] {naf-19212_001r_01}</head>
+            <p rend="noindent center"><pb n="FS.I.749 GA.I.250"/><pb/><note place="bottom">Ce Cahier est composé d’un ensemble de feuilles du ministère de la guerre.</note><hi rend="b"> 
+        Étude. I + R = K</hi><note place="bottom">Image + Réalité = Constante.</note>
+        .
+</p>
+            <p rend="noindent center b">——</p>
+            <p rend="noindent center b">recherche de la définition – base.</p>
+            <p rend="noindent center b">——</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f3.image">[naf-19212_f2r]</ref>
+          </head>
+          <p/>
+          <p/>
+          <p/>
+          <div>
+            <head>* {naf-19212_002r_01}</head>
+            <p/>
+            <p rend="noindent center">
+              <pb n="GA.I.251"/>
+              <pb/>
+              <hi rend="i">Rêve</hi>
+              <seg rend="marquedecommentaire">
+                <!-- User : 2017-09-18T13:04:00
+Titre à faire figurer ???-->
+              </seg>
+            </p>
+            <p/>
+            <p>Interprétation spéciale des sensations<note place="bottom">Ce dossier se compose de feuilles volantes.</note> –</p>
+            <p>pas de choix – théorie de ce choix (Voir – Cahier)</p>
+            <p>d’où égalité entre les états –</p>
+            <p>suppression des efforts ordinaires.</p>
+            <p>suppression des mises en habitude des impressions prolongées homogènes.</p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p>Individu dont le discours est tel qu’il <hi rend="i">dort</hi> en parlant avec inspiration !</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f6.image">[naf-19212_f6r]</ref>
+          </head>
+          <p/>
+          <p/>
+          <div>
+            <head>* {naf-19212_003v_01}</head>
+            <p><pb n="FS.I.750"/>Sensations</p>
+            <p/>
+            <table>
+              <row>
+                <cell>sens continu</cell>
+                <cell>
+                  <p rend="noindent">rétine –</p>
+                  <p rend="noindent">tympan –</p>
+                  <p rend="noindent center">derme –</p>
+                  <p rend="noindent right"/>
+                  <p rend="noindent right"/>
+                  <p rend="noindent right">” (θ) –</p>
+                  <p rend="noindent right">langue –</p>
+                  <p rend="noindent right">nez –</p>
+                  <p rend="noindent right">muscles –</p>
+                </cell>
+                <cell>
+                  <p rend="noindent">mouvements de l’éther</p>
+                  <p rend="noindent">vibrations de l’air et des corps</p>
+                  <p rend="noindent">pressions mécaniques</p>
+                  <p rend="noindent">d’une certaine valeur</p>
+                  <p rend="noindent">question de surface</p>
+                  <p rend="noindent">vibrations de l’éther spécial</p>
+                  <p rend="noindent">solutions de corps, actions chimiques.</p>
+                  <p rend="noindent">air, éther ?</p>
+                  <p rend="noindent">contractions ­</p>
+                </cell>
+                <cell>
+                  <p rend="noindent">éther</p>
+                  <p rend="noindent">gaz etc.</p>
+                </cell>
+              </row>
+            </table>
+            <p/>
+            <p><space>              </space> <space>                     </space> États. Exemple</p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="noindent center">I</p>
+                  <p rend="noindent center">D</p>
+                  <p rend="noindent center">D</p>
+                  <p rend="noindent center">Etc.</p>
+                </cell>
+                <cell>T’</cell>
+                <cell>R’</cell>
+                <cell>
+                  <p rend="noindent center">t</p>
+                  <p rend="noindent center">I</p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">R</p>
+                  <p rend="noindent center">a<pb n="" ana="src" xml:id="p"/></p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">T</p>
+                  <p rend="noindent center">b<hi rend="sub">q</hi></p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">D</p>
+                  <p rend="noindent center">c<hi rend="sub">r</hi></p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">D</p>
+                  <p rend="noindent center">e<hi rend="sub">s</hi></p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">L</p>
+                  <p rend="noindent center">f<hi rend="sub">t</hi></p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">N</p>
+                  <p rend="noindent center">o</p>
+                </cell>
+                <cell>
+                  <p rend="noindent center">M</p>
+                  <p rend="noindent center">g<hi rend="sub">u</hi></p>
+                </cell>
+                <cell>S</cell>
+              </row>
+            </table>
+            <p/>
+            <p/>
+            <p>Soit un état  ainsi défini, un objet</p>
+            <p>Quelconque sera alors isolé ainsi :</p>
+            <p>Φ[a<pb n="" ana="src" xml:id="p"/> c<hi rend="sub">r</hi> g<hi rend="sub">a</hi>] = phénomène psy<note place="bottom">« Psychique » ou « psychologique ».</note></p>
+            <p/>
+            <p>Soit un objet O. Quelle que soit sa position dans l’espace pourvu que cette position le conserve dans le champ rétinien – quelle que soit – – [inachevé]</p>
+            <p>L’objet est toute portion de la connaissance telle que si une seule détermination (sur 7) est donnée, elle est complétée par l’esprit avec une indétermination limitée. (?) Inversement il peut être réduit par l’esprit à l<hi rend="sup">d</hi>/7.</p>
+            <p>Cela ne peut se produire qu’à l’aide d’un groupement solide des 7 dimensions ; c’est-à-dire un groupement tel que toutes les variables entrant dans <pb n="GA.I.252"/>l’objet soient fonctions les unes des autres directement ou indirectement, et inversement de toutes façons.<note place="bottom">La flèche renvoie au passage de la page suivante qui commence par « il faudrait ».</note></p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f7.image">[naf-19212_f4r]</ref>
+          </head>
+          <p/>
+          <p/>
+          <div>
+            <head>* {naf-19212_004r_01}</head>
+            <p><pb n="FS.I.751"/><pb/>transformation d’une chose en autre –</p>
+            <p>imagination des complexes</p>
+            <p>Le phénomène B.</p>
+            <p>Les liaisons ; la pluralité nécessaire –</p>
+            <p>—</p>
+            <p rend="noindent">———————————————————————————————————</p>
+            <p/>
+          </div>
+          <div>
+            <head>* {naf-19212_004r_02}</head>
+            <p>Il faudrait passer de là au nom et à la généralité de l’objet :</p>
+            <p>Qu’entend-on par <hi rend="i">chose</hi> dans l’énoncé du Principe de Contradiction ?</p>
+            <p/>
+            <p rend="noindent">3n − m = K – ou mieux pn − m = K</p>
+            <p rend="noindent">m nombre d’équations</p>
+            <p rend="noindent">3 degré d’espace</p>
+            <p rend="noindent">———— Quid des équations de liaisons ?</p>
+            <p>(a, b, c) =0</p>
+            <p rend="noindent">(a’, b’, c’) = 0</p>
+            <p/>
+            <p>Les liaisons sont d’autant plus durables qu’il est plus difficile de faire varier leurs 2 termes sans les détruire.</p>
+            <p>La liaison irrationnelle type est la plus solide.</p>
+            <p>Théorème. Toute liaison rationnelle se réduit à une somme de liaisons irrationnelles. Ce théorème est faux.</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f9.image">[naf-19212_f5r]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_005r_01}</head>
+            <p><pb n="FS.I.753"/><pb/>Deux sphères sont données (x + y), (x’ + y’).</p>
+            <p>On peut se borner à cette suite.</p>
+            <p>On peut aussi chercher une hypothèse telle que</p>
+            <p>x’ + y’ = φ (x + y) = ψ (x + y) + Ω (x + y)</p>
+            <p><pb n="GA.I.253"/>Quelle que soit cette hypothèse les opérations (x+y/x’+y’) restent identiques comme résultats.</p>
+            <p>On peut aussi étudier x, x’ y, y’ de plus près.</p>
+            <p rend="noindent">Deux études [(x + y) = U <space>          </space>x’ + y’ = U’]</p>
+            <p rend="noindent">ou bien U et U’ ou leur détail x, y, x’, y’.</p>
+            <p/>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f11.image">[naf-19212_f6r]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_006r_01}</head>
+            <p>variation différente</p>
+            <table>
+              <row>
+                <cell>A appelle B.</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>A’ appelle B.</cell>
+                <cell>uniformité de R.</cell>
+              </row>
+              <row>
+                <cell>B est <hi rend="i">mental.</hi></cell>
+                <cell>uniformité de I.</cell>
+              </row>
+              <row>
+                <cell>Le problème se déplace alors.</cell>
+                <cell>u = l’uniforme en matière psychologique.</cell>
+              </row>
+              <row>
+                <cell>Qu’est-ce qu’appeler ?</cell>
+                <cell/>
+              </row>
+            </table>
+            <p/>
+            <p>——————————————————————————————————</p>
+            <p>Autre chose – plus générale.</p>
+            <p>Soit un état 1 et un état 2 de connaissance.</p>
+            <p rend="noindent"><space>     </space>Quel que soit le contenu et sa division –</p>
+            <p><space>         </space>L’état 2 peut conserver (ou répéter) certaines portions du (1).</p>
+            <p>(2) = (1) + X <space>         </space>(a)</p>
+            <p>——————————————</p>
+            <p>(2) = φ(1) + X <space>     </space>(b)</p>
+            <p/>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f12.image">[naf-19212_f6v]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_006v_01}</head>
+            <p><pb/><pb n="FS.I.754"/>En matière psychologique l’action n’est pas égale à la réaction, a priori. Bien au contraire, il y a différence radicale de toute manière entre A et R.</p>
+            <p/>
+          </div>
+          <div>
+            <head>* {naf-19212_006v_02}</head>
+            <p>Soit par exemple une cathédrale.</p>
+            <p>En imaginant des choses compliquées</p>
+            <p>et organisées, se commandant entr’elles</p>
+            <p>on procède toujours par opérations</p>
+            <p>successives.</p>
+            <p/>
+          </div>
+          <div>
+            <head>* {naf-19212_006v_03}</head>
+            <p><pb n="GA.I.254"/><pb/>Le monde extérieur est une convention, un être semblable à l’espace géométrique par exemple. On entend par lui bien autre chose que le simple tissu des sensations. Il y a des concepts et des images adjointes bien difficiles à en isoler.</p>
+            <p>ainsi</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f13.image">[naf-19212_f7r]</ref>
+          </head>
+          <p/>
+          <p/>
+          <div>
+            <head>* {naf-19212_007r_01}</head>
+            <p>I + R = K</p>
+            <p/>
+            <p>on pourrait figurer que l’énergie cinétique sensible dans le système est le phénomène mental I, l’énergie potentielle étant le phénomène R fonction de sa situation.</p>
+            <p/>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f15.image">[naf-19212_f8r]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_008r_01}</head>
+            <table>
+              <row>
+                <cell>A<hi rend="sub">0</hi>  <space>   </space>→ <space>  </space>M<hi rend="sub">0</hi></cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>A =φ(x)</cell>
+                <cell>A=φ(x<hi rend="sub">1</hi>x...x<hi rend="sub">n</hi>)</cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="noindent">M = φ(x<hi rend="sub">1</hi>...x<hi rend="sub">n</hi>)</p>
+                  <p rend="noindent"><space>       </space>–</p>
+                  <p rend="noindent"><space>       </space>–</p>
+                </cell>
+                <cell>M = φ(x)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>I + R = K.</cell>
+              </row>
+            </table>
+            <p/>
+            <p>Une portion physique homogène est une portion qui demande du ψ au bout d’un temps t</p>
+            <p>Une portion physique hétérogène –———————————— au bout d’un temps n t – ou <hi rend="i">t</hi> + <hi rend="i">Δt –</hi></p>
+            <p/>
+            <p>h(m) = 1/t x ψ.</p>
+            <p/>
+            <p>La quantité  par unité de temps est la mesure de <hi rend="i">la</hi> différence entre deux points – plus elle est grande par une unité de temps, plus la différence est grande.</p>
+            <p>[Formules mathématiques]</p>
+            <p/>
+            <p>
+              <pb n="GA.I.255"/>
+            </p>
+            <p>De plus</p>
+            <p>[Formules mathématiques]</p>
+            <p/>
+          </div>
+          <div>
+            <head>* {naf-19212_008r_02}</head>
+            <p>
+              <hi rend="i">a b c 
+        
+         m</hi>
+            </p>
+            <p>a, b, c, ab, <hi rend="i">ca</hi>, bac, d, e, <hi rend="i">ca</hi>d, be,</p>
+            <p/>
+            <p>Toutes les fois que ca se reproduit, il se reproduit avec un  nouveau<note place="bottom">[MARGIN] Ce passage est ajouté dans la marge de gauche, en travers de la page.</note>.</p>
+            <p/>
+            <p/>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f17.image">[naf-19212_f9r]</ref>
+          </head>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <div>
+            <head>* {naf-19212_009r_01}</head>
+            <p/>
+            <p><pb n="GA.I.256FS.I.755"/>Extrait.</p>
+            <p>« Pendant qu’il y a variation consciente de la pensée la variation de la réalité est nulle ».</p>
+            <p rend="noindent center">——</p>
+            <p rend="noindent center"/>
+            <table>
+              <row>
+                <cell>
+                  <p rend="noindent">Par rapport à quoi varient les états ?</p>
+                  <p rend="noindent"/>
+                </cell>
+                <cell>{</cell>
+                <cell>
+                  <p rend="noindent">pensée</p>
+                  <p rend="noindent">réalité</p>
+                  <p rend="noindent"/>
+                </cell>
+              </row>
+            </table>
+            <p>par rapport à un autre qui fait partie, portion de celui considéré.</p>
+            <p>Nous concevons un état par sa disparition, et alors ?</p>
+            <p>Si dans le rêve on ne se rappelait pas ? à chaque instant.</p>
+            <p>———————————————————————</p>
+            <p>La variation consciente. <space>                                   </space>[Calculs]</p>
+            <p>La réalité peut ne pas varier.</p>
+            <p/>
+          </div>
+          <div>
+            <head>* {naf-19212_009r_02}</head>
+            <p>&lt;La conscience de la sensation est instantanée.&gt;</p>
+            <p/>
+          </div>
+          <div>
+            <head>* {naf-19212_009r_03}</head>
+            <p>Avant tout dénominer et définir correctement – autrement je n’en sors pas. – </p>
+            <p>Donc.</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f21.image">[naf-19212_f11r]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_011r_01}</head>
+            <p><pb n="FS.I.756"/><pb/>Résumé des résultats récents</p>
+            <p>[Dessin]</p>
+            <p>—————————</p>
+            <p/>
+            <p>La connaissance est pleine. Si on la considère en tant qu’ensemble elle est fermée. Il y a une constante fondamentale – elle ne peut recevoir (à certains points de vue) ni augmentation ni diminution. Elle est de plus continue en un certain sens. Elle ne manque jamais d’objet</p>
+            <p>——</p>
+            <p>Dimensions de la connaissance<note place="bottom">Quatre mots entourés d’un cercle.</note>.</p>
+            <p>——</p>
+            <p><pb n="GA.I.257"/><pb/>Si elle est pleine, toute modification y est nécessairement extensible à l’ensemble.</p>
+            <p/>
+            <p/>
+            <p rend="noindent">Nous ne connaissons que des choses <hi rend="i">susceptibles de modifications</hi> – et à proportion de la modification possible<note place="bottom">Phrase entourée d’un trait.</note>.</p>
+            <p rend="noindent">Nous n’associons que des choses fixées. –</p>
+            <p rend="noindent"/>
+            <quote rend="border">
+              <p rend="noindent">Soient 2 ou n termes que nous associons – on peut rechercher le mode de cette association et constater ce qui advient des termes. On peut d’autre part attribuer à <hi rend="u"><hi rend="i">une sorte de milieu</hi></hi> l’opération à expliquer<note place="bottom">Passage encadré.</note>.</p>
+            </quote>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f24.image">[naf-19212_f12v]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_012v_01}</head>
+            <p>Une idée n’est déterminée que par elle-même.</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f25.image">[naf-19212_f13r]</ref>
+          </head>
+          <p/>
+          <p/>
+          <div>
+            <head>* {naf-19212_013r_01_part1}</head>
+            <p rend="noindent center"><pb n="FS.I.162"/><pb/>Esquisse d’une théorie des <hi rend="i">opérations</hi></p>
+            <p rend="noindent center">——</p>
+            <p/>
+            <p>Si on analyse la connaissance en une suite <hi rend="i">d’états</hi>, on peut se proposer de chercher les lois de succession, dans leur généralité.</p>
+            <p>L’observation montre que tout ensemble de deux états immédiatement successifs affecte l’une des 2 formes suivantes :</p>
+            <p><pb n="FS.I.163"/>Ou bien, l’état A étant donné, l’état B l’est également – et ce couple est purement juxtaposé dans le temps sans que l’on puisse reconnaître d’autre liaison entre ses 2 termes. J’appelle ce genre de succession <hi rend="i">irrationnelle</hi> ou <hi rend="i">symbolique.</hi> Le type de ce genre est le <hi rend="i">mot.</hi></p>
+            <p>Ou bien il y aura entre les 2 termes A et B plus d’une relation, c’est-à-dire une relation au moins autre que la séquence. Cette relation sera dite <hi rend="i">rationnelle.</hi> Ce type a pour représentants (par exemple) tous les couples (A, B) tels que B contient quelque chose de commun avec A ; c’est-à-dire tels que A étant donné, on pourra toujours construire un second terme B’ qui aura également quelque chose de commun avec A. La chose commune n’a pas d’existence, elle signifie ici seulement la possibilité de négliger certains termes. La métaphore, en écartant son voile verbal, est une relation rationnelle.</p>
+            <p>Toute relation <hi rend="i">symbolique</hi> est invariable. Elle est sans degrés. Au contraire la relation rationnelle – etc.</p>
+            <p>——</p>
+            <p><pb n="GA.I.258"/>Je vais vous suggérer ce que j’entends par opération et le pourquoi des définitions précédentes.</p>
+            <p>Soit un mot : <hi rend="i">maison.</hi> Aucune liaison autre que symbolique avec l’image d’une maison. Il y a juxtaposition solide et régulière.</p>
+            <p>Soit le dessin ou l’hiéroglyphe d’une maison ; [croquis] vous pouvez passer de cette image à celle de la maison par [inachevé<seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+Continuité ???--></seg>]</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f26.image">[naf-19212_f13v]</ref>
+          </head>
+          <div>
+            <head>* {naf-19212_013r_01_part2}</head>
+            <p rend="noindent">une série <hi rend="i">d’opérations</hi> telles qu’agrandir le schéma, le colorer, etc. Aucune opération sur le <hi rend="i">mot</hi> ne vous conduira à la <hi rend="i">maison</hi> si vous ne connaissez d’avance la relation fixe, et alors vous la connaissez in integro<note place="bottom">Intégralement. En 1895, on lit dans l’<hi rend="i">Introduction</hi> : « La plupart des gens y voient par l’intellect bien plus souvent que par les yeux. Au lieu d’espaces colorés, ils prennent connaissance de concepts. Une forme cubique, blanchâtre, en hauteur, et trouée de reflets de vitres est immédiatement une maison, pour eux : la Maison ! Idée complexe, accord de qualités abstraites. S’ils se déplacent, le mouvement des files de fenêtres, la translation des surfaces qui défigure continûment leur sensation, leur échappe, – car le concept ne change pas » (Œ.I.128).</note>.</p>
+            <p>———————</p>
+            <p/>
+            <p>Supposons que nous désignions un état par la notation suivante E<hi rend="sub">1</hi> = (a, b, c, d… p). a, b etc. seraient par exemple des qualités (on pourrait aisément parfaire ces symboles).</p>
+            <p>Un autre état, le suivant sera par exemple :</p>
+            <p>E<hi rend="sub">2</hi> = (α, β, γ, δ,...p)</p>
+            <p><pb n="FS.I.164"/>la relation rationnelle sera E<hi rend="sub">1</hi> ≡  E<hi rend="sub">2</hi>.</p>
+            <p>(≡  signe conventionnel – périphrase)</p>
+            <p>On pourrait nommer cela une équation relative.</p>
+            <p>Une équation ordinaire est définie par cette propriété qu’on peut faire subir aux 2 membres les mêmes opérations.</p>
+            <p>Une équation relative n’existerait que pour <hi rend="i">certaines</hi> opérations et serait fausse pour d’autres. (Il y aurait un moment [inachevé]</p>
+            <p>Reprenons l’exemple de la maison (dessin). Une suite d’opérations <hi rend="i">possibles</hi> nous a conduit du schème à l’image plus riche.</p>
+            <p>Nous avons passé de E<hi rend="sub">1</hi> à E<hi rend="sub">2</hi>… (Ici je m’arrête sur ce point, il faudrait être long et algébrique – –)</p>
+            <p>—————</p>
+            <p/>
+            <p>Vous apercevez aisément que toute relation rationnelle subsiste pour certaines variations exercées sur ses 2 membres. Ces variations déterminent le terme commun. Je ne puis développer ce point délicat. Je me borne à une observation rapide :</p>
+            <p>Il y a dans la connaissance des choses telles que la <hi rend="i">seule</hi> [inachevé<seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+Continuité--></seg>]</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f27.image">[naf-19212_f14r]</ref>
+          </head>
+          <div>
+            <head>* {naf-19212_013r_01_part3}</head>
+            <p rend="noindent"><hi rend="i">opération possible sur elles est la</hi><hi rend="u"><hi rend="i">substitution</hi></hi>. Là derrière se trouvent les sensations pures et simples et leur irréductibilité. La substitution totale serait donc la limite des opérations.</p>
+            <p/>
+            <p rend="noindent center">——</p>
+            <p/>
+            <p>Les relations sont réversibles ou non.</p>
+            <p>Toute relation symbolique est réversible. Il n’en est pas de même des rationnelles. Supposons une suite rationnelle suivie d’elle-même renversée (A, B), (B, A). On peut toujours dire que le 2<hi rend="sup">èmc</hi> A n’est pas égal au 1<hi rend="sup">er</hi>. Il en diffère dans le temps. Il ne serait égal au 1<hi rend="sup">er</hi> que s’il <pb n="GA.I.259"/>ramenait encore B. De ce point de vue (A, B,) ne serait pas réversible. Mais si l’on fait une convention d’après laquelle A’ (ou le 2<hi rend="sup">èmc</hi>A) serait relativement égal au 1<hi rend="sup">er</hi> A, le couple est réversible. Si l’on écrit alors comme tout à l’heure A ≡  A’ la réversibilité d’un couple rationnel ne dépend que du terme commun – c’est-à-dire de l’étendue des variations que peut subir le couple sans disparaître.</p>
+            <p><pb n="FS.I.165"/>En résumé : la réversibilité rigoureuse d’un couple rationnel n’existe pas. Si on la réalise par la convention précédente elle dépend d’une <hi rend="i">3<hi rend="sup">ème</hi> relation rationnelle</hi> A ≡ A’, et les relations (A, B) (B, A’) dépendent de la relation (A, A’).</p>
+            <p rend="noindent center">————————</p>
+            <p>J’appelle <hi rend="i">formation</hi> toute suite d’états regardée indépendamment des relations.</p>
+            <p>J’appelle <hi rend="i">opération</hi> une suite de relations <hi rend="u"><hi rend="i">rationnelles</hi></hi>.</p>
+            <p/>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f29.image">[naf-19212_f15r]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_015r_01_part1}</head>
+            <p rend="noindent center">Esquisse de la théorie des opérations</p>
+            <p rend="noindent center">——</p>
+            <p/>
+            <p>Si on analyse la connaissance en une suite d<hi rend="i">’états</hi>, l’observation fait connaître que certains de ces états se succèdent régulièrement dès que l’un d’eux est donné. Il s’agit d’étudier les lois de ces successions dans leur généralité<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+            <p>Il y a deux manières : ou bien un état étant donné, un autre est donné de suite ; et ce couple est purement juxtaposé dans le temps sans que l’on puisse reconnaître d’autre liaison entre ses deux termes. J’appelle ce genre de succession <hi rend="i">irrationnelle</hi> ou <hi rend="i">symbolique.</hi> Le type du genre est le <hi rend="i">mot.</hi></p>
+            <p>Ou bien, il y aura entre les deux termes une relation autre que la séquence. Si l’on suppose les deux termes classés chacun dans une série de termes analogues, le 1<hi rend="sup">er</hi> étant donné, on pourra toujours construire le second, ou (d’une façon indéterminée), un des <hi rend="i">isomères</hi> du second. Cette relation sera dite <hi rend="i">rationnelle.</hi> Cette relation a pour types généraux, la sensation et ses premiers effets psychologiques ; les abstractions telles que le dessin d’une chose par rapport à l’image de cette chose, etc.</p>
+            <p>On peut dire en général que toute relation rationnelle implique l’existence de quelque chose de <pb n="FS.I.166"/>commun, de répété, entre les deux termes composants.</p>
+            <p>On voit de suite que toute relation symbolique est invariable ; elle est, sans degrés.<pb/><pb n="GA.I.260"/><seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+--></seg><pb n=""/></p>
+            <p>Au contraire, toute relation rationnelle<seg rend="marquedecommentaire"><!-- User : 2017-09-18T13:04:00
+Continuité--></seg></p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f31.image">[naf-19212_f16r]</ref>
+          </head>
+          <div>
+            <head>* {naf-19212_015r_01_part2}</head>
+            <p rend="noindent">peut subsister pour des variations exercées sur ces membres. Ces variations sont limitées par la durée du terme commun. Tant que ce terme subsiste, la relation subsiste.</p>
+            <p/>
+            <p>Une relation peut être <hi rend="i">réversible</hi> ou <hi rend="i">irréversible.</hi> Elle est réversible lorsque le couple d’états qui la forme peut être renversé dans le temps. Toutes les relations symboliques sont évidemment réversibles.</p>
+            <p>Les relations rationnelles, au contraire, sont très souvent impossibles à transposer. Si une sensation A est suivie d’une notion (<hi rend="i">rationnelle</hi>) quelconque B, je ne pourrai pas, dans le cas général, retrouver A en partant de B. Je retrouverai en A une image d’A, A’. Si A est réellement différent de A’, (A, B) est irréversible en (B, A). Mais si on fait une certaine convention d’après laquelle A serait <hi rend="i">relativement égal</hi> à A’, le couple (A ou A’, B) est réversible, à ce point de vue. Si on se place dans l’hypothèse précédente A ≡ A’, la réversibilité d’un couple rationnel ne dépend que du terme commun, c’est-à-dire de l’étendue des variations qu’il peut subir sans disparaître.</p>
+            <p>La réversibilité d’un couple rationnel n’existe pas. Si on la réalise par la convention A ≡  A’ elle dépend de cette nouvelle relation rationnelle (A, B) (B, A’) dépendant de (A, A’)<note place="bottom">[MARGIN] Cette phrase est ajoutée dans la marge de gauche, en travers de la page.</note>.</p>
+            <p/>
+            <p>J’appelle <hi rend="i">opération</hi>, une suite de relations rationnelles.</p>
+            <p>J’appelle <hi rend="i">formation</hi>, une suite réelle d’états regardée indépendamment des relations.</p>
+            <p>J’appelle <hi rend="i">construction</hi> une suite d’opérations parmi laquelle peuvent se trouver des relations symboliques, et qui satisfait à certaines conditions ou termes identiquement répétés jusqu’à ce qu’ils ne puissent plus l’être<note place="bottom">[MARGIN] En marge : « Construction par symétrie. Détail ».</note>...</p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101882/f33.image">[naf-19212_f17r]</ref>
+          </head>
+          <p/>
+          <div>
+            <head>* {naf-19212_017r_01}</head>
+            <p>Étant donnés n états distincts, il y a lieu d’étudier leur réversibilité.</p>
+            <p>Cette réversibilité dépend des relations qui sont entre les états. Soient A, B, C... .N ces états. Désignons par A/B, P/Q les relations rationnelles ; par A\B, P\Q les symboliques.</p>
+            <p><pb n="GA.I.261"/>On a μ groupes 2 à 2 de ces états ; il peut y avoir par conséquent μ relations rationnelles ou μ symboliques.</p>
+            <p>Si les μ sont rationnelles, si un état M est donné on connaîtra les N-1 autres, à partir de M, et du plus au moins et de 1 à N. (Ordre, symétrie.)</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

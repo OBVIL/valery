@@ -1,0 +1,16 @@
+/**Pointer ici seulement les p avec indentation particulière, type fabula.css sur la-fontaie_fables.xml ;; Nécessité d'avoir un document stylé au préalable*/
+p.p.noindent0150   { margin-left: 1.5px; text-indent: 0; padding-left: 0; }
+p.p.noindent0200   { margin-left: 2px; text-indent: 0; padding-left: 0; }
+p.p.noindent0250   { margin-left: 2.5px; text-indent: 0; padding-left: 0; }
+p.p.noindent0550   { margin-left: 5.5px; text-indent: 0; padding-left: 0; }
+p.p.noindent0600   { margin-left: 6px; text-indent: 0; padding-left: 0; }
+p.p.noindent0950   { margin-left: 9.5px; text-indent: 0; padding-left: 0; }
+p.p.noindent1150   { margin-left: 11.5px; text-indent: 0; padding-left: 0; }
+p.p.noindent1200   { margin-left: 12px; text-indent: 0; padding-left: 0; }
+p.p.noindent1250   { margin-left: 12.5px; text-indent: 0; padding-left: 0; }
+
+
+.p{ font-size: 12px; font-family: Times; margin-top: 20px; background-color: #FBFAF8; border-radius: 8px;}
+
+.table{}
+
