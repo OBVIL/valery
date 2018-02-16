@@ -51,6 +51,38 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="noindent0050" scheme="css"> margin-left: 0.5px</rendition>
+        <rendition xml:id="noindent0080" scheme="css"> margin-left: 0.8px</rendition>
+        <rendition xml:id="noindent0100" scheme="css"> margin-left: 1px</rendition>
+        <rendition xml:id="noindent0150" scheme="css"> margin-left: 1.5px</rendition>
+        <rendition xml:id="noindent0200" scheme="css"> margin-left: 2px</rendition>
+        <rendition xml:id="noindent0250" scheme="css"> margin-left: 2.5px</rendition>
+        <rendition xml:id="noindent0300" scheme="css"> margin-left: 3px</rendition>
+        <rendition xml:id="noindent0350" scheme="css"> margin-left: 3.5px</rendition>
+        <rendition xml:id="noindent0400" scheme="css"> margin-left: 4px</rendition>
+        <rendition xml:id="noindent0450" scheme="css"> margin-left: 4.5px</rendition>
+        <rendition xml:id="noindent0500" scheme="css"> margin-left: 5px</rendition>
+        <rendition xml:id="noindent0550" scheme="css"> margin-left: 5.5px</rendition>
+        <rendition xml:id="indent0600" scheme="css"> margin-left: 6px</rendition>
+        <rendition xml:id="noindent0650" scheme="css"> margin-left: 6.5px</rendition>
+        <rendition xml:id="noindent0700" scheme="css"> margin-left: 7px</rendition>
+        <rendition xml:id="noindent0750" scheme="css"> margin-left: 7.5px</rendition>
+        <rendition xml:id="noindent0800" scheme="css"> margin-left: 8px</rendition>
+        <rendition xml:id="noindent0850" scheme="css"> margin-left: 8.5px</rendition>
+        <rendition xml:id="noindent0900" scheme="css"> margin-left: 9px</rendition>
+        <rendition xml:id="noindent0950" scheme="css"> margin-left: 9.5px</rendition>
+        <rendition xml:id="noindent1000" scheme="css"> margin-left: 10px</rendition>
+        <rendition xml:id="noindent1050" scheme="css"> margin-left: 10.5px</rendition>
+        <rendition xml:id="noindent1100" scheme="css"> margin-left: 11px</rendition>
+        <rendition xml:id="noindent1150" scheme="css"> margin-left: 11.5px</rendition>
+        <rendition xml:id="noindent1200" scheme="css"> margin-left: 12px</rendition>
+        <rendition xml:id="noindent1250" scheme="css"> margin-left: 12.5px</rendition>
+        <rendition xml:id="noindent1300" scheme="css"> margin-left: 13px</rendition>
+        <rendition xml:id="noindent1350" scheme="css"> margin-left: 13.5px</rendition>
+    </tagsDecl>
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>
@@ -74,20 +106,20 @@
             <pb n="C.I.118"/>
           </p>
           <p/>
-          <p rend="noindent0950">Livre de Loch<note place="bottom">Un loch sert à mesurer la vitesse d’un navire. Dans un livre de loch, on consigne ces mesures, mais aussi d’autres informations relatives à la navigation. Ce deuxième Cahier, semblable au précédent, a aussi le format d’un cahier d’écolier. Il ne figure pas dans l’édition du CNRS car il avait été originellement classé dans les Notes anciennes.</note></p>
+          <p xml:id="noindent0950">Livre de Loch<note place="bottom">Un loch sert à mesurer la vitesse d’un navire. Dans un livre de loch, on consigne ces mesures, mais aussi d’autres informations relatives à la navigation. Ce deuxième Cahier, semblable au précédent, a aussi le format d’un cahier d’écolier. Il ne figure pas dans l’édition du CNRS car il avait été originellement classé dans les Notes anciennes.</note></p>
           <p/>
           <p/>
           <p/>
           <p/>
           <p/>
-          <p rend="noindent0600">Calculs spéciaux.</p>
+          <p xml:id="indent0600">Calculs spéciaux.</p>
           <p/>
           <p/>
           <p/>
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Croquis]</p>
+          <p xml:id="noindentcenter">[Croquis]</p>
         </div>
       </div>
       <div>
@@ -111,7 +143,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Page de calculs]</p>
+          <p xml:id="noindentcenter">[Page de calculs]</p>
         </div>
       </div>
       <div>
@@ -137,7 +169,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Calculs et croquis sur presque toute la page]</p>
+          <p xml:id="noindentcenter">[Calculs et croquis sur presque toute la page]</p>
           <p/>
           <p/>
           <p/>
@@ -202,7 +234,7 @@
           <p>
             <pb n="C.I.120"/>
           </p>
-          <p rend="noindentcenter">Masse et force
+          <p xml:id="noindentcenter">Masse et force
 <lb/>——</p>
           <p>Soient m corps déterminés par n manières de les diviser (ou sens). On suppose qu’ils soient animés d’un mouvement rectiligne, parallèle et uniforme.</p>
           <p/>
@@ -233,9 +265,9 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">Motus duo interni</p>
-          <p rend="noindentcenter">Una visio<note place="bottom">Deux mouvements intérieurs. / Une vision.</note></p>
-          <p rend="noindentcenter">3 + 2 + 2 + 1 = 8</p>
+          <p xml:id="noindentcenter">Motus duo interni</p>
+          <p xml:id="noindentcenter">Una visio<note place="bottom">Deux mouvements intérieurs. / Une vision.</note></p>
+          <p xml:id="noindentcenter">3 + 2 + 2 + 1 = 8</p>
           <p/>
           <p/>
           <p>Debet, ut prosit, verbo actoque interna verba et acta ponere in adstan-tibus velut simulacrorum ipsa. Et quidquid suppositum ab illis erit, men-suraberit artificis praetium. Sic theatri lex. Aedificia sunt homo cum homine, vir cum muliere, vivens cum non vivente, res cum turba – in spatio conjuncti insulato, per fluentiam temporis exaltata et dissoluta, seu continuo modo seu discontinuo, neque valent si spectantorum mentibus mentalia aequalitate indigere viderentur. De insula scenae cadunt voces atque motus veniunt<note place="bottom">Le texte comporte des bizarreries. On peut traduire ainsi : « Il doit, pour être utile, susciter chez les spectateurs, par la parole et l’acte, des paroles et des actes intérieurs comme ceux des simulacres. Et quelle que soit la réaction des spectateurs que l’on suppose, par elle se mesurera la valeur de l’artiste. Telle est la loi du théâtre. Un humain avec un humain, un homme avec une femme, un vivant avec un non vivant, des choses avec la foule – réunis dans un espace insulaire, sont des édifices élevés et détruits selon le cours du temps, soit de manière continue soit de manière discontinue, et ils ne valent que si les réalités mentales ne semblent pas, pour les esprits des spectateurs, manquer d’égalité. De l’île de la scène tombent des voix et naissent des mouvements. »</note>.</p>
@@ -259,10 +291,10 @@
           <p>Maxwell p. 482. I<note place="bottom">Allusion au <hi rend="i">Traité d’électricité et de magnétisme</hi> (1885) que Valéry a lu dès 1893.</note></p>
           <ab type="ornament">——</ab>
           <p>De la proportionnalité dans les accords et les contacts.</p>
-          <p rend="noindent">Notion des ordres de quantité.</p>
-          <p rend="noindent">Idée du nombre fini de sons, de couleurs, (des courants alternatifs à 1.000.000 pulsations/seconde.</p>
-          <p rend="noindent">De la notion de nombre <hi rend="i">fini</hi> peut se tirer celle des ordres de quantité, et aussi celle de proportion, ou notion de <hi rend="i">l’unité.</hi> (Unités psychiques)</p>
-          <p rend="noindent">Note. &lt;Il est absurde de dire ainsi : nous ne connaissons que m sons. Car on appelle son., etc. La réalité est que nous avons rendu comparables aux sons, les <pb n="C.I.121"/>vibrations au-delà et en deçà, mais par ce seul point que nous attribuons aux vibrations les sons et nous confondons en parlant la sensation, le mécanisme de l’ouïe, et l’hypothèse physique connue<note place="bottom">Le passage est à la fois entouré et biffé de quelques discrets traits de crayon.</note>.&gt;</p>
+          <p xml:id="noindent">Notion des ordres de quantité.</p>
+          <p xml:id="noindent">Idée du nombre fini de sons, de couleurs, (des courants alternatifs à 1.000.000 pulsations/seconde.</p>
+          <p xml:id="noindent">De la notion de nombre <hi rend="i">fini</hi> peut se tirer celle des ordres de quantité, et aussi celle de proportion, ou notion de <hi rend="i">l’unité.</hi> (Unités psychiques)</p>
+          <p xml:id="noindent">Note. &lt;Il est absurde de dire ainsi : nous ne connaissons que m sons. Car on appelle son., etc. La réalité est que nous avons rendu comparables aux sons, les <pb n="C.I.121"/>vibrations au-delà et en deçà, mais par ce seul point que nous attribuons aux vibrations les sons et nous confondons en parlant la sensation, le mécanisme de l’ouïe, et l’hypothèse physique connue<note place="bottom">Le passage est à la fois entouré et biffé de quelques discrets traits de crayon.</note>.&gt;</p>
         </div>
       </div>
       <div>
@@ -282,19 +314,19 @@
           </index>
           <p>&lt;Je suppose qu’on écrive ceci : la pensée est un [illisible] complexe.&gt;</p>
           <p/>
-          <p rend="noindentcenter">Approximations :</p>
+          <p xml:id="noindentcenter">Approximations :</p>
           <p/>
-          <p rend="noindent">Passion, Passionné.</p>
-          <p rend="noindent0150">Limites.</p>
-          <p rend="noindent0150"/>
-          <p rend="noindent0150">On est m temps passionné sur n temps.</p>
-          <p rend="noindent0150">A est a fois passionné dans <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> temps.</p>
-          <p rend="noindent0150">B l’est b fois.</p>
-          <p rend="noindent0150">État et habitude.</p>
-          <p rend="noindent0150"/>
-          <p rend="noindent">La passion est un certain <hi rend="i">emploi</hi> du temps.</p>
-          <p rend="noindent"/>
-          <p rend="noindent">Laplace – « exagération des probabilités par les passions<note place="bottom">« Nous établirons enfin, comme principe de psychologie, l’exagération des probabilités par les passions. La chose que l’on craint ou que l’on désire vivement nous semble, par cela même, plus probable » (<hi rend="i">Essai philosophique sur les probabilités</hi>, in <hi rend="i">Œuvres complètes</hi>, t. VII, [1814], rééd. 1847, p. CLI <hi rend="i">sq.</hi></note>. » Il y a donc un phénomène qui consiste à <hi rend="u"><hi rend="i">souligner</hi></hi> certaines images. –</p>
+          <p xml:id="noindent">Passion, Passionné.</p>
+          <p xml:id="noindent0150">Limites.</p>
+          <p xml:id="noindent0150"/>
+          <p xml:id="noindent0150">On est m temps passionné sur n temps.</p>
+          <p xml:id="noindent0150">A est a fois passionné dans <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> temps.</p>
+          <p xml:id="noindent0150">B l’est b fois.</p>
+          <p xml:id="noindent0150">État et habitude.</p>
+          <p xml:id="noindent0150"/>
+          <p xml:id="noindent">La passion est un certain <hi rend="i">emploi</hi> du temps.</p>
+          <p xml:id="noindent"/>
+          <p xml:id="noindent">Laplace – « exagération des probabilités par les passions<note place="bottom">« Nous établirons enfin, comme principe de psychologie, l’exagération des probabilités par les passions. La chose que l’on craint ou que l’on désire vivement nous semble, par cela même, plus probable » (<hi rend="i">Essai philosophique sur les probabilités</hi>, in <hi rend="i">Œuvres complètes</hi>, t. VII, [1814], rééd. 1847, p. CLI <hi rend="i">sq.</hi></note>. » Il y a donc un phénomène qui consiste à <hi rend="u"><hi rend="i">souligner</hi></hi> certaines images. –</p>
           <p>Il n’y a pas de théorie de la passion. C’est un mot aussi, à reléguer dans la littérature. Il éveille (et est éveillé par) les images de rythme brusque.</p>
           <p>
             <pb n="C.I.122"/>
@@ -302,17 +334,17 @@
           <table>
             <row>
               <cell>
-                <p rend="noindent">Se représente par</p>
-                <p rend="noindent"/>
+                <p xml:id="noindent">Se représente par</p>
+                <p xml:id="noindent"/>
               </cell>
               <cell>
-                <p rend="noindent">orages</p>
-                <p rend="noindent">chaleur</p>
-                <p rend="noindent">tempêtes</p>
-                <p rend="noindent">extrême lumière <space>             </space>[Croquis]</p>
-                <p rend="noindent">extrême végétation</p>
-                <p rend="noindent">et autres foutaises.</p>
-                <p rend="noindent"/>
+                <p xml:id="noindent">orages</p>
+                <p xml:id="noindent">chaleur</p>
+                <p xml:id="noindent">tempêtes</p>
+                <p xml:id="noindent">extrême lumière <space>             </space>[Croquis]</p>
+                <p xml:id="noindent">extrême végétation</p>
+                <p xml:id="noindent">et autres foutaises.</p>
+                <p xml:id="noindent"/>
               </cell>
             </row>
           </table>
@@ -334,7 +366,7 @@
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r/010</term>
           </index>
           <p/>
-          <p rend="noindent1150">K = 1 − p + 1 [Croquis]</p>
+          <p xml:id="noindent1150">K = 1 − p + 1 [Croquis]</p>
           <p/>
           <p/>
           <p>Je représente par une sphère / surface / le lieu des représentations. Nous ne connaissons alors que des sphères successives mais toujours complètes et closes. Il peut se produire dans les portions de cette surface des déplacements, ou des changements.</p>
@@ -366,11 +398,11 @@
             <pb n="C.I.123"/>
           </p>
           <p/>
-          <p rend="noindentcenter">Notion de la variable indépendante. 
+          <p xml:id="noindentcenter">Notion de la variable indépendante. 
 <lb/>——</p>
           <p/>
           <p>&lt;Étant donné un nombre limité de choses, on suppose que ces choses sont liées entre elles, c’est-à-dire que tout changement dans l’ensemble soit accompagné d’un changement dans les parties, – ou qu’un changement dans une partie entraîne un changement général. Il faut pour cela une sorte d’<hi rend="i">homogénéité</hi> dans cet accord. La variable indépendante représente le <hi rend="i">connu</hi> dans une opération de ce genre. Cette opération consiste à évaluer une variation complexe en une variation simple. C’est une unité de variation. Conditions de minimum.</p>
-          <p rend="noindent">Généralisant l’énoncé on peut dire : [inachevé]&gt;</p>
+          <p xml:id="noindent">Généralisant l’énoncé on peut dire : [inachevé]&gt;</p>
         </div>
       </div>
       <div>
@@ -388,16 +420,16 @@
           <index>
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r/012</term>
           </index>
-          <p rend="noindentcenter">Mémoire justificatif. 
+          <p xml:id="noindentcenter">Mémoire justificatif. 
 <lb/>——</p>
           <p/>
           <p>Tout ce qui est, est sensation ou représentation. (C’est-à-dire qu’à un moment donné, toute connaissance se divise ainsi par une comparaison différentielle qu’on peut fonder analytiquement sur une méthode de variation etc.)</p>
           <p>à partir d’un moment donné la connaissance venant à changer on se trouve en présence de deux séries de problèmes.</p>
-          <p rend="noindent">Ceux relatifs aux variations de la sensation.</p>
-          <p rend="noindent">Ceux <space/>– – <space>     </space>–<space>       </space> –<space>      </space> de la représentation.</p>
-          <p rend="noindent">Les 1<hi rend="sup">ers</hi> sont étudiés par la mécanique générale, et ses annexes – physiologie, sociologie etc.</p>
-          <p rend="noindent">Les 2<hi rend="sup">mes</hi> demeurent peu connus.</p>
-          <p rend="noindent">Noter avant tout que l’étude des premiers rentre dans celle des seconds puisque cette étude revient à exprimer les 1<hi rend="sup">ers</hi> à l’aide des seconds.</p>
+          <p xml:id="noindent">Ceux relatifs aux variations de la sensation.</p>
+          <p xml:id="noindent">Ceux <space/>– – <space>     </space>–<space>       </space> –<space>      </space> de la représentation.</p>
+          <p xml:id="noindent">Les 1<hi rend="sup">ers</hi> sont étudiés par la mécanique générale, et ses annexes – physiologie, sociologie etc.</p>
+          <p xml:id="noindent">Les 2<hi rend="sup">mes</hi> demeurent peu connus.</p>
+          <p xml:id="noindent">Noter avant tout que l’étude des premiers rentre dans celle des seconds puisque cette étude revient à exprimer les 1<hi rend="sup">ers</hi> à l’aide des seconds.</p>
           <ab type="ornament">———————</ab>
           <p/>
           <p>Ce qu’on appelle improprement analyse ou synthèse par rapport à une quantité donnée d’objets de pensée, revient à une opération subséquente de la pensée et à une production nouvelle.</p>
@@ -423,7 +455,7 @@
           </p>
           <p/>
           <p/>
-          <p rend="noindentcenter">Conservation de la connaissance à un <hi rend="i">instant</hi> donné. 
+          <p xml:id="noindentcenter">Conservation de la connaissance à un <hi rend="i">instant</hi> donné. 
 <lb/>——</p>
           <p/>
           <p/>
@@ -432,8 +464,8 @@
             <row>
               <cell>{</cell>
               <cell>
-                <p rend="noindent">ceux accompagnés de la sensation volonté.</p>
-                <p rend="noindent">ceux non accompagnés . . . . . . . . . . . . .</p>
+                <p xml:id="noindent">ceux accompagnés de la sensation volonté.</p>
+                <p xml:id="noindent">ceux non accompagnés . . . . . . . . . . . . .</p>
               </cell>
             </row>
           </table>
@@ -483,7 +515,7 @@
           <p/>
           <p/>
           <p>L’action à distance est <hi rend="u"><hi rend="i">inimaginable</hi></hi> – elle est possible etc. mais elle est inimaginable.</p>
-          <p rend="noindent">Nous pouvons imaginer une action à distance mais une action à distance étant donnée nous ne pouvons qu’imaginer autre chose<note place="bottom">Feuille volante.</note>.]</p>
+          <p xml:id="noindent">Nous pouvons imaginer une action à distance mais une action à distance étant donnée nous ne pouvons qu’imaginer autre chose<note place="bottom">Feuille volante.</note>.]</p>
         </div>
       </div>
       <div>
@@ -504,7 +536,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Petite feuille de dessins]</p>
+          <p xml:id="noindentcenter">[Petite feuille de dessins]</p>
         </div>
       </div>
       <div>
@@ -525,7 +557,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Feuille de croquis]</p>
+          <p xml:id="noindentcenter">[Feuille de croquis]</p>
         </div>
       </div>
       <div>
@@ -544,21 +576,21 @@
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v/018</term>
           </index>
           <p>Soit le groupe donné M.</p>
-          <p rend="noindent">Soient les <hi rend="i">différences définies</hi> le constituant A, B, C.</p>
-          <p rend="noindent">Étant donné ce groupe M l’équation à sa disposition est</p>
-          <p rend="noindent0250">M = δ(A, B, C).</p>
+          <p xml:id="noindent">Soient les <hi rend="i">différences définies</hi> le constituant A, B, C.</p>
+          <p xml:id="noindent">Étant donné ce groupe M l’équation à sa disposition est</p>
+          <p xml:id="noindent0250">M = δ(A, B, C).</p>
           <p>&lt;Je dis que cette disposition est psychique si [inachevé]&gt;</p>
-          <p rend="noindent">L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> de M étant m, celui de A étant a, celui de B, b etc., a pouvant d’ailleurs être égal à b, à c, etc. Je dis que cette disposition est <hi rend="i">psychique</hi> lorsqu’on aura</p>
-          <p rend="noindent0250">a, b, c, &gt; m</p>
-          <p rend="noindent">ou lorsque a, b, c seront chacun beaucoup / suffisamment / plus petits que m. En d’autres [termes] si les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> suivent la série arithmétique</p>
+          <p xml:id="noindent">L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> de M étant m, celui de A étant a, celui de B, b etc., a pouvant d’ailleurs être égal à b, à c, etc. Je dis que cette disposition est <hi rend="i">psychique</hi> lorsqu’on aura</p>
+          <p xml:id="noindent0250">a, b, c, &gt; m</p>
+          <p xml:id="noindent">ou lorsque a, b, c seront chacun beaucoup / suffisamment / plus petits que m. En d’autres [termes] si les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> suivent la série arithmétique</p>
           <p>1. 2. 3. 4… m</p>
-          <p rend="noindent"><pb n="C.I.125"/>et si les parties sont de l’ordre n, le groupe peut être des ordres (n – x), n, (n + x).</p>
+          <p xml:id="noindent"><pb n="C.I.125"/>et si les parties sont de l’ordre n, le groupe peut être des ordres (n – x), n, (n + x).</p>
           <p>Si le groupe est de l’ordre n, solution <hi rend="i">naturelle</hi> ;</p>
           <p>si le groupe est de l’ordre n − x &lt;n solution – <hi rend="i">psychique</hi> ;</p>
           <p>si   – – –                   – –     n + x &gt; n la solution est psychique si n est suffisamment grand, ou naturelle si n est suffisamment petit. - - etc.</p>
-          <p rend="noindent">Démonstration. L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> a pour définition la <hi rend="i">production</hi> ou son expression le travail nécessaire pour passer d’un élément quelconque à un autre de l’objet d’une façon continue c’est-à-dire en satisfaisant à un minimum particulier.</p>
+          <p xml:id="noindent">Démonstration. L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> a pour définition la <hi rend="i">production</hi> ou son expression le travail nécessaire pour passer d’un élément quelconque à un autre de l’objet d’une façon continue c’est-à-dire en satisfaisant à un minimum particulier.</p>
           <p>Entre un élément A et un élément B envisagés en groupe considérés comme des variations d’une même propriété [suite illisible parce que la page est déchirée].</p>
-          <p rend="noindent1200">le circuit [fragment déchiré]</p>
+          <p xml:id="noindent1200">le circuit [fragment déchiré]</p>
         </div>
       </div>
       <div>
@@ -576,8 +608,8 @@
           <index>
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/019</term>
           </index>
-          <p rend="noindent">d’éléments intérieurs dépend évidemment de A et B, explicitement + un certain facteur indéterminé et relatif à l’individu. Le travail sera donc égal au nombre et aux <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> des figures fournies pour passer continûment de A à B.</p>
-          <p rend="noindentcenter">T = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi> = ∑a<hi rend="sub">x</hi></p>
+          <p xml:id="noindent">d’éléments intérieurs dépend évidemment de A et B, explicitement + un certain facteur indéterminé et relatif à l’individu. Le travail sera donc égal au nombre et aux <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> des figures fournies pour passer continûment de A à B.</p>
+          <p xml:id="noindentcenter">T = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi> = ∑a<hi rend="sub">x</hi></p>
           <p/>
           <table>
             <row>
@@ -614,7 +646,7 @@
             <pb n="C.I.126"/>
           </p>
           <p>… Et la faculté psychique étant de classer les images d’ordre i, j, k en ensemble d’ordre a ou z, sera donc de négliger ces ordres i, j, k et de réduire ces images (par oublis) en objets d’ordre a ou z. Un homme sera un point matériel, une unité, et un point matériel sera un homme.</p>
-          <p rend="noindent">Conséquence : impossibilité de penser à construire quelque chose sinon symétriquement, avec la réserve des conditions posées par la position <hi rend="i">réelle</hi> du problème.</p>
+          <p xml:id="noindent">Conséquence : impossibilité de penser à construire quelque chose sinon symétriquement, avec la réserve des conditions posées par la position <hi rend="i">réelle</hi> du problème.</p>
         </div>
       </div>
       <div>
@@ -633,10 +665,10 @@
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/021</term>
           </index>
           <p>à quel degré de complexité est arrivée l’ingéniosité humaine</p>
-          <p rend="noindent0250">1º quant aux notions.</p>
-          <p rend="noindent0250">Évidemment au maximum concevable et par cette conception même</p>
-          <p rend="noindent0250">2º quant aux objets</p>
-          <p rend="noindent0250">au moyen de l’abstraction (rôle postérieur de la logique).</p>
+          <p xml:id="noindent0250">1º quant aux notions.</p>
+          <p xml:id="noindent0250">Évidemment au maximum concevable et par cette conception même</p>
+          <p xml:id="noindent0250">2º quant aux objets</p>
+          <p xml:id="noindent0250">au moyen de l’abstraction (rôle postérieur de la logique).</p>
           <p/>
           <p/>
         </div>
@@ -645,9 +677,9 @@
           <index>
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/022-part1</term>
           </index>
-          <p rend="noindent">Mécanique de l’abstraction</p>
+          <p xml:id="noindent">Mécanique de l’abstraction</p>
           <ab type="ornament">———————————————</ab>
-          <p rend="noindent1250">Préliminaires</p>
+          <p xml:id="noindent1250">Préliminaires</p>
           <p>Soient A  b ; b  c ; c  m ; je constate en même temps ces différences : soit m et (m + 1) je constate m  m + 1 (la forme complète de (1) doit être</p>
           <p>[calculs]</p>
           <p>Mais je ne puis constater m + 1  a  etc.</p>
@@ -671,13 +703,13 @@
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r/022-part2</term>
           </index>
           <p>Nous tendons toujours à évaluer au moyen de m tout nombre supérieur et à diviser par <hi rend="i">m</hi> tout nombre &lt; 1 ou = 1.</p>
-          <p rend="noindent0080">Démonstration par la quantité de connaissance constante.</p>
+          <p xml:id="noindent0080">Démonstration par la quantité de connaissance constante.</p>
           <p>Opération élémentaire d’abstraction.</p>
-          <p rend="noindent0080">Soit les n objets dont nous avons pu constater les différences simultanées : nous les distinguons entre eux : n est une base possible. Soit à vouloir y réunir h autres objets : les différences simultanées dans l’intérieur du groupe n + h nous échappent. Nous sommes forcés de considérer n comme <hi rend="i">unité</hi> et h comme une fonction de cette unité.</p>
+          <p xml:id="noindent0080">Soit les n objets dont nous avons pu constater les différences simultanées : nous les distinguons entre eux : n est une base possible. Soit à vouloir y réunir h autres objets : les différences simultanées dans l’intérieur du groupe n + h nous échappent. Nous sommes forcés de considérer n comme <hi rend="i">unité</hi> et h comme une fonction de cette unité.</p>
           <p>Nous opérerons sur h comme nous avons fait sur n et <hi rend="i">alors</hi> si nous voulons considérer le groupe n + h nous réduirons la différence à n’exister que de (n) à n + 1 jusqu’à h. Toute différence entre un objet θn et ξh étant particulièrement perceptible.</p>
           <p>Réellement n se <hi rend="i">diminue</hi> et devient comme une de ses parties θ, etc.</p>
           <p>D’où création d’indices de sorte que d’une part la notation indique la valeur abstraite de tout nombre et d’autre [part] sa valeur perceptible.</p>
-          <p rend="noindent">2000/10.000 = 2/10 = 1/5 sont à l’intérieur de la limite de simultanéité qui est 10 conventionnellement… (Les nombres physiologiques doivent en différer très peu). Toutes les opérations psychologiques faites sur des nombres &gt; n ne s’opèrent que sur leurs portions perceptibles : l’abstraction consiste à <hi rend="i">oublier</hi> leurs portions non perceptibles et à s’en rappeler ensuite, sans les avoir fait varier. Dans toute opération où entre l’abstraction il y a donc une part actuelle et une part potentielle. Quand on pense à aligner des arbres on <hi rend="i">oublie</hi> leur nature propre en pensant à leur ensemble. Et quand on compare des nombres on oublie leur valeur</p>
+          <p xml:id="noindent">2000/10.000 = 2/10 = 1/5 sont à l’intérieur de la limite de simultanéité qui est 10 conventionnellement… (Les nombres physiologiques doivent en différer très peu). Toutes les opérations psychologiques faites sur des nombres &gt; n ne s’opèrent que sur leurs portions perceptibles : l’abstraction consiste à <hi rend="i">oublier</hi> leurs portions non perceptibles et à s’en rappeler ensuite, sans les avoir fait varier. Dans toute opération où entre l’abstraction il y a donc une part actuelle et une part potentielle. Quand on pense à aligner des arbres on <hi rend="i">oublie</hi> leur nature propre en pensant à leur ensemble. Et quand on compare des nombres on oublie leur valeur</p>
         </div>
       </div>
       <div>
@@ -695,18 +727,18 @@
           <index>
             <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v/022-part3</term>
           </index>
-          <p rend="noindent">propre pour ne s’occuper que de leur classification entre eux comme formant une série.</p>
+          <p xml:id="noindent">propre pour ne s’occuper que de leur classification entre eux comme formant une série.</p>
           <p>La logique consiste à <hi rend="i">rappeler</hi> ce qui a été oublié. Au point de vue <hi rend="i">mécanique</hi>, l’abstraction – prenons le cas élémentaire de la <hi rend="i">numération</hi> – nécessite</p>
-          <p rend="noindent0200">1º Considération d’un <hi rend="i">groupe</hi> A.</p>
-          <p rend="noindent0200">2º Division de cet A en éléments différentiels</p>
-          <p rend="noindent0200">A = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi></p>
-          <p rend="noindent0200"><pb n="C.I.128"/><pb/>3º Connaissance simultanée de ces différences</p>
-          <p rend="noindent0200">4º Essai vers a<hi rend="sub">n</hi> + <hi rend="sub">l</hi>. Impossibilité de retenir la différence a</p>
-          <p rend="noindent0200">5º Donc (a<hi rend="sub">n</hi>) nombre limite de simultanéité</p>
-          <p rend="noindent0200">6º Abandon de la perception d’A.</p>
-          <p rend="noindent0200">Substitution à A d’un signe de groupe ou indice.</p>
-          <p rend="noindent0200">Anastomosie complète de A.</p>
-          <p rend="noindent0200">7º Recommencement dans a<hi rend="sub">n + 1</hi> + a<hi rend="sub">n + 2</hi> + a<hi rend="sub">m</hi></p>
+          <p xml:id="noindent0200">1º Considération d’un <hi rend="i">groupe</hi> A.</p>
+          <p xml:id="noindent0200">2º Division de cet A en éléments différentiels</p>
+          <p xml:id="noindent0200">A = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi></p>
+          <p xml:id="noindent0200"><pb n="C.I.128"/><pb/>3º Connaissance simultanée de ces différences</p>
+          <p xml:id="noindent0200">4º Essai vers a<hi rend="sub">n</hi> + <hi rend="sub">l</hi>. Impossibilité de retenir la différence a</p>
+          <p xml:id="noindent0200">5º Donc (a<hi rend="sub">n</hi>) nombre limite de simultanéité</p>
+          <p xml:id="noindent0200">6º Abandon de la perception d’A.</p>
+          <p xml:id="noindent0200">Substitution à A d’un signe de groupe ou indice.</p>
+          <p xml:id="noindent0200">Anastomosie complète de A.</p>
+          <p xml:id="noindent0200">7º Recommencement dans a<hi rend="sub">n + 1</hi> + a<hi rend="sub">n + 2</hi> + a<hi rend="sub">m</hi></p>
         </div>
       </div>
       <div>
@@ -731,7 +763,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Une demi-page de formules mathématiques]</p>
+          <p xml:id="noindentcenter">[Une demi-page de formules mathématiques]</p>
           <p/>
           <p/>
           <p/>
@@ -782,7 +814,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Page de calculs]</p>
+          <p xml:id="noindentcenter">[Page de calculs]</p>
         </div>
       </div>
       <div>
@@ -803,7 +835,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindentcenter">[Page de calculs]</p>
+          <p xml:id="noindentcenter">[Page de calculs]</p>
         </div>
       </div>
       <div>
@@ -824,7 +856,7 @@
           <p>
             <pb n="C.I.780 C.I.129"/>
           </p>
-          <p rend="noindent1200">
+          <p xml:id="noindent1200">
             <hi rend="u">My Psychology</hi>
             <note place="bottom">Ma psychologie.</note>
           </p>
@@ -852,7 +884,7 @@
             <pb n="C.I.781"/>
           </p>
           <p/>
-          <p rend="noindentcenter">Expression du principe d’Homogénéité 
+          <p xml:id="noindentcenter">Expression du principe d’Homogénéité 
 <lb/>——</p>
           <p/>
           <p/>
@@ -885,10 +917,10 @@
           <p/>
           <p>v<hi rend="sup">2</hi>/2 force vive gh ou potentiel</p>
           <ab type="ornament">——</ab>
-          <p rend="noindent">Descartes. Principe de la conservation du mouvement (faux).</p>
+          <p xml:id="noindent">Descartes. Principe de la conservation du mouvement (faux).</p>
           <p>Il écrivait : ∑ m<hi rend="sub">i</hi> v<hi rend="sub">i</hi> = K</p>
           <p/>
-          <p rend="noindent">Leibniz cherche comme Descartes ce qui doit rester invariable dans l’univers –</p>
+          <p xml:id="noindent">Leibniz cherche comme Descartes ce qui doit rester invariable dans l’univers –</p>
           <p>m<hi rend="sub">i</hi> v<hi rend="sub">i</hi><hi rend="sup">2</hi>=mi(ξ<hi rend="sub">i</hi><hi rend="sup">2</hi>+η<hi rend="sub">i</hi><hi rend="sup">2</hi>+ζ<hi rend="sub">i</hi><hi rend="sup">2</hi>)</p>
         </div>
       </div>
@@ -913,8 +945,8 @@
           <p/>
           <p>Sur la définition psychique de l’espace. –</p>
           <p>L’espace psychique et analytique est en deux fragments. Vue et toucher. Notion aussi de superficie et volume par oreille, nez, poumons. Nous faisons des interpolations. –</p>
-          <p rend="noindent">Il est relatif surtout à l’imagination visuelle. –</p>
-          <p rend="noindent">Possibilité de substituer au <hi rend="i">même</hi> endroit des figures différentes. Car nous croyons toujours imaginer dans le même et seul lieu ou cadre, nous localisons <pb n="C.I.131"/>les images à la place des yeux. Il y a aussi une idée d’énergie. Car nous pouvons dans la réalité changer un objet de place en fournissant du travail.</p>
+          <p xml:id="noindent">Il est relatif surtout à l’imagination visuelle. –</p>
+          <p xml:id="noindent">Possibilité de substituer au <hi rend="i">même</hi> endroit des figures différentes. Car nous croyons toujours imaginer dans le même et seul lieu ou cadre, nous localisons <pb n="C.I.131"/>les images à la place des yeux. Il y a aussi une idée d’énergie. Car nous pouvons dans la réalité changer un objet de place en fournissant du travail.</p>
         </div>
       </div>
       <div>
@@ -962,18 +994,18 @@
           <p>Théorie de l’acte.</p>
           <p>Théorie de la combinaison ; hypothèse quant au temps.</p>
           <p/>
-          <p rend="noindent">[Illisible] homogénéité, relativisme extérieur.</p>
+          <p xml:id="noindent">[Illisible] homogénéité, relativisme extérieur.</p>
           <p>Théorie des phénomènes inconscients.</p>
           <p>Théorie de la discontinuité et de la continuité.</p>
           <p>Théorie de l’abstraction.</p>
           <p>Théorie des déclenchements.    Récurrence → ordre de quantités.</p>
           <p/>
           <p>Théorie de l’implicite<note place="bottom">Une flèche renvoie à : « Théorie de l’abstraction », au-dessus.</note>.</p>
-          <p rend="noindent0550">imaginables –</p>
-          <p rend="noindent0550">possibles –</p>
-          <p rend="noindent0550">probables –</p>
-          <p rend="noindent0550">concevables –</p>
-          <p rend="noindent0550">
+          <p xml:id="noindent0550">imaginables –</p>
+          <p xml:id="noindent0550">possibles –</p>
+          <p xml:id="noindent0550">probables –</p>
+          <p xml:id="noindent0550">concevables –</p>
+          <p xml:id="noindent0550">
             <hi rend="i">faisables</hi>
           </p>
         </div>
