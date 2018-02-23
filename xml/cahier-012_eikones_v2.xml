@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:29:47+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eikones</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19217. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f1.image">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897-1898"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Eikones</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r</term>
+        </index>
+        <div>
+          <head>
+            <num>1899-10</num>
+            <term rend="index" key="1899-10"/>
+          </head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.721 C.I.302"/>
+          </p>
+          <dateline>Oct. 1899<note place="bottom"><p>De la main de M<hi rend="sup">me</hi> Valéry, mais ce Cahier date plutôt de la fin de 1897 et du début de 1898. Ce Cahier est constitué de feuilles de papier du ministère de la Guerre. Le titre en caractères grecs (<hi rend="i">Eikones</hi>) signifie <hi rend="i">Images</hi>. L’imagination est une question essentielle chez Valéry, qu’il s’agisse des formations involontaires d’images ou des productions conscientes et maîtrisées. La « logique imaginative » est une des questions abordées dans l’<hi rend="i">Introduction</hi>.</p><p/></note></dateline>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r/002</term>
+          </index>
+          <p rend="noindent0450">Εικονες</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f3.image">
+            <seg rend="lienhypertexte">[Fol. 2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r</term>
+        </index>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose"><seg rend="lienhypertexte">Poème en prose</seg></ref> (« Campagne »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r/003</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.722 C.I.303"/><pb/>Campagne 
+<lb/>——</p>
+          <p/>
+          <p>blancheur d’amande – l’air mouvant parmi et sur le rugueux et le poli de l’arbre – le nu de la feuille glacée, de la flaque d’eau, la lumière sur le terrain, petits morceaux durs, mottes spongieuses, langues de sable –</p>
+          <p>La machine fruste, odeur, bouffée d’un arbre qui éclate, nue, mise en place de chaque eau et de chaque herbe – circulations, agréments, idées en viennent, marche.</p>
+          <p/>
+          <p>attaque.</p>
+          <p>Prendre tout cela, déformer, éprouver – chauffer – tordre comme un linge, gerbe d’étincelles électriques, dirigée comme une lance d’arroseur.</p>
+          <p rend="noindent0300">——</p>
+          <p/>
+          <p rend="noindent0250">amour –</p>
+          <p>Cuir et cheveux.</p>
+        </div>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Le soleil fond et se liquéfie… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r/004</term>
+          </index>
+          <p>Le soleil fond et se liquéfie, se déverse sur les dômes et les tuiles, dans un marécage magnifique de toits abondants, dans un abondant marécage de toitures magnifiques.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f5.image">
+            <seg rend="lienhypertexte">[Fol. 3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-03r</term>
+        </index>
+        <div>
+          <head>* « Note politique »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-03r/005</term>
+          </index>
+          <p rend="noindent center">Note politique 
+<lb/>——</p>
+          <p rend="noindent"/>
+          <p rend="noindent">I. Un peuple continue à être par ses besoins et ses habitudes :</p>
+          <p>Tout trouble qui n’altère pas ces choses est superficiel.</p>
+          <p>L’individu n’a aucune action sur ces choses.</p>
+          <p rend="noindent">II. Les idées générales d’un peuple changent lentement.</p>
+          <p>Le fond de ces idées ne change pas.</p>
+          <p rend="noindent">III. Les idées générales d’un peuple sont les symboles de ses besoins.</p>
+          <p>Le besoin reste sous les divers symboles.</p>
+          <p rend="noindent">IV. Un peuple peut subir certaines opérations.</p>
+          <p rend="noindent">V. &lt;Un peuple est un individu médiocre, indolent, brutal.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f7.image">
+            <seg rend="lienhypertexte">[Fol. 4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Chose curieuse, on passe de soi, soleil, lignes de la rue droite… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-04r/006</term>
+          </index>
+          <p><pb n="C.I.723 C.I.304"/><pb/>Chose curieuse, on passe de soi, soleil, lignes de la rue droite, éclats, zones ternes de murs, efforts de marche – à un état de vacillation, le soleil douloureux etc. en se figurant l’esprit d’un malade qui passe à pas pénibles, jaune et noir.</p>
+          <p/>
+          <p>Transformation Z/Z′</p>
+          <p/>
+          <p>Quand il soulève une jambe – considérable –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f9.image">
+            <seg rend="lienhypertexte">[Fol. 5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-05r</term>
+        </index>
+        <div>
+          <head>* « Tableau de l’esprit tel que je le conçois aujourd’hui »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-05r/007</term>
+          </index>
+          <p rend="noindent center">Tableau de l’esprit tel que je le conçois aujourd’hui 
+<lb/>——</p>
+          <p/>
+          <p>D’abord et justement je vois qu’il me faut un système de représentation. Le langage ordinaire ne permet pas de spéculer sur ses éléments car il n’institue aucune relation (de construction) entre ses éléments. Chaque mot est construit à part et les relations entre mots ne permettent pas de transformations l’un dans l’autre –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f11.image">
+            <seg rend="lienhypertexte">[Fol. 6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-06r</term>
+        </index>
+        <div>
+          <head>* « La bouche, succion, soufflet, la langue pilon, pinceau… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-06r/008</term>
+          </index>
+          <p>La bouche, succion, soufflet, la langue pilon, pinceau.</p>
+          <p>La mâchoire, – cisaille, pince, crochets et meules.</p>
+          <p>Les jambes, support, arcs, ressorts, crémaillères, compas, roues.</p>
+          <p>Les bras, arcs, bielles, marteaux, leviers, étireurs, grues.</p>
+          <p>Les mains, intégrateurs, trembleurs, fouilleurs, dragues, limes, fraises, vrilles, pelles et pioches. –</p>
+          <p>Les pieds, pelles, pics –</p>
+          <p>Les reins et le torse, cric, ressorts, vis, piston<note place="bottom">[MARGIN] Ajouté dans la marge de gauche : « pompes ».</note>.</p>
+          <p>Les yeux, sphères à la Cardan<note place="bottom">Gerolamo Cardano dit Jérôme Cardan (1501-1576), philosophe, médecin et mathématicien. Dans son <hi rend="i">Opus novum</hi>, il cherche à déterminer la pesanteur d’une sphère qui roule sur un plan incliné, et juge qu’elle est proportionnelle à sa vitesse.</note>,</p>
+          <p>Le cerveau – images de tous ces outils et de leur champ de travail.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f13.image">
+            <seg rend="lienhypertexte">[Fol. 7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Un système dont une portion a un déplacement absolu… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-07r/009</term>
+          </index>
+          <p><pb n="C.I.724"/><pb/>Un système dont une portion a un déplacement absolu et une autre un déplacement relatif ; dont toutes les variations laissent fixe un point (A) – ou <pb n="C.I.305"/>plutôt laissent identique un point dont on ignore la coïncidence avec lui-même ; qui a des liaisons d’ordre différent – pour des parties semblables sinon identiques ; qui se déforme dans des espaces de dimensions différentes et qui projette ces diversités sur un même lieu particulier, successivement ou simultanément ; qui établit en lui-même des liaisons nouvelles à son gré et en détruit, sauf celles primitives ; qui applique <hi rend="i">n’importe</hi> où, des forces caractérisées comme pures possibilités choisies dans un lot limité… qui existe par moments finis et par transformations – <hi rend="i">directes</hi> ! – qui ne repasse jamais par le même point absolu à moins d’ignorer ce nouveau passage ; dont les parties sont tantôt variables et tantôt invariables ; qui détermine des points symétriques et correspondants – <hi rend="i">dont les parties ont une inertie différente et graduée</hi> déterminant par continuité un point d’inertie infinie (A).</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f15.image">
+            <seg rend="lienhypertexte">[Fol. 8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-08r</term>
+        </index>
+        <div>
+          <head>* « Jam umbra ridens divisa undique foliis foliorumque… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-08r/010</term>
+          </index>
+          <p>Jam umbra ridens divisa undique foliis foliorumque impetibus mollibus, jam aeterna diurnaque nox particularis sub arboribus augebat nec sol superstabat si tamen excelsa lumen superans maneret sicut nectaris in rhytone post falernum exhaustum odor<note place="bottom">Passage en latin : « Déjà l’ombre riante partout divisée par les feuilles et leurs douces poussées, déjà l’éternelle nuit particulière à chaque jour croissait sous la diversité des arbres et le soleil ne les surplombait plus quoique se maintînt la haute lumière semblable au parfum du nectar dans la coupe quand le vin de Falerne a été bu. »</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f17.image">
+            <seg rend="lienhypertexte">[Fol. 9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r</term>
+        </index>
+        <div>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Le fleuve, long poil, cheveu de verre –… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r/011</term>
+          </index>
+          <p><pb n="C.I.725"/><pb/>Le fleuve, long poil, cheveu de verre –</p>
+          <p rend="noindent">le ciel / air /tout velu, de lueur, de lumière = ciel lion</p>
+          <p rend="noindent">morceau d’ambre –</p>
+          <p rend="noindent">large goutte – sucre dans l’eau</p>
+          <p rend="noindent">à midi, meule rayonnante,</p>
+          <p rend="noindent">le soir, un feu sur lequel du sucre fond dans l’eau.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il a mis le soleil et le sommeil dans une phrase. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r/012</term>
+          </index>
+          <p rend="noindent0550">Il a mis le soleil et le sommeil dans une phrase.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f19.image">
+            <seg rend="lienhypertexte">[Fol. 10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-10r</term>
+        </index>
+        <div>
+          <head>* « L’invention s’est reportée dans le domaine de la machine… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-10r/013</term>
+          </index>
+          <p><pb n="C.I.306"/><pb/>L’invention s’est reportée dans le domaine de la machine – sans préférences.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f21.image">
+            <seg rend="lienhypertexte">[Fol. 11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r</term>
+        </index>
+        <div>
+          <head>* « raconter les poissons. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r/014</term>
+          </index>
+          <p rend="noindent1050">raconter les poissons.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’ornement, celui qui plaît, est un heureux accident… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r/015</term>
+          </index>
+          <p>L’ornement, celui qui plaît, est un heureux accident dans l’ensemble des choses visibles<note place="bottom">Valéry a lu très tôt la <hi rend="i">Grammaire de l’ornement</hi> d’Owen Jones (1809-1874), et l’ornement sera l’un des thèmes de l’<hi rend="i">Introduction</hi> en 1895.</note> ; et, comme on veut toujours être le maître de ce qui a plu, il amène à se mêler dans l’esprit les formes de la volupté et celles de la fabrication.</p>
+          <p rend="noindent0200">&lt;Je ne crois pas qu’on s’en rende compte.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f25.image">
+            <seg rend="lienhypertexte">[Fol. 13r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-13r</term>
+        </index>
+        <div>
+          <head>* « accident heureux… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-13r/016</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.726"/><pb/>accident heureux</p>
+          <p>formule de mouvements –</p>
+          <p rend="noindent0150">seulement elle vient</p>
+          <p/>
+          <p/>
+          <p rend="noindent0300">puis je regardai tout ainsi.</p>
+          <p/>
+          <p rend="noindent0950">associe l’idée de plaisir et celle</p>
+          <p rend="noindent0950">de construction</p>
+          <p rend="noindent0950">cherche la bonne</p>
+          <p rend="noindent0950">place.</p>
+          <p/>
+          <p rend="noindent0350">Transformation de plaisir en construction.</p>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent1050">L’état instinctivement bête.</p>
+          <p/>
+          <p rend="noindent0950">Sur le coin, un arbre était. Il était.</p>
+          <p rend="noindent">Théâtre</p>
+          <p rend="noindent">et ensemble de mécanismes</p>
+          <p rend="noindent0050">à demi connus dont on</p>
+          <p rend="noindent0050">est et dont on n’est pas.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f27.image">
+            <seg rend="lienhypertexte">[Fol. 14r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-14r</term>
+        </index>
+        <div>
+          <head>1898-01-11<term rend="index" key="1898-01-11"/> (« La vérité c’est ce qui emmerde !… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-14r/017</term>
+          </index>
+          <p><pb n="C.I.307"/><pb/>La vérité c’est ce qui emmerde !</p>
+          <p/>
+          <p rend="noindent">Ils ont tous peur de se faire extrêmement plaisir<note place="bottom">Les éditeurs des <hi rend="i">Cahiers 1894-1914</hi> remarquent à juste titre que ces deux phrases figurent dans une lettre à Gide du 11 janvier 1898, ce qui permet de dater cette page.</note> –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f29.image">
+            <seg rend="lienhypertexte">[Fol. 15r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-15r</term>
+        </index>
+        <div>
+          <head>* « Politics »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-15r/018</term>
+          </index>
+          <p rend="noindent center">Politics<note place="bottom">La politique. Le fragment fait visiblement référence à l’affaire Dreyfus qui entre dans une phase capitale au début de 1898, au moment du « J’accuse » de Zola.</note> 
+<lb/>—</p>
+          <p/>
+          <p>Dans tous les grands procès du régime actuel – à caractère politique, le ministère est intervenu et a pressé sur les magistrats.</p>
+          <p>Or sous l’ancien régime il fallait un lit de justice et le roy. Voilà le résultat.</p>
+          <p>Rendre de la force au magistrat par l’élection par les Cours d’appel de tous les magistrats du ressort.</p>
+          <p>Aussi par l’extension du pouvoir jurisprudentiel.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f33.image">
+            <seg rend="lienhypertexte">[Fol. 17r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r</term>
+        </index>
+        <div>
+          <head>* « forêt, foule, multiplicité, telle – … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r/019</term>
+          </index>
+          <p/>
+          <p/>
+          <p rend="noindent0500"><pb n="C.I.726"/><pb/>forêt, foule, multiplicité, telle –</p>
+          <p rend="noindent0550">1.000 arbres se <hi rend="i">répondaient</hi>.</p>
+          <p rend="noindent0600">Écho, nombre.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « feu, poêle, quelqu’un, caché... »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r/020</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">feu, poêle,</p>
+                <p rend="noindent">      quelqu’un, caché,</p>
+                <p>sourdement actif</p>
+                <p>vigilant</p>
+                <p>changeant</p>
+                <p/>
+                <p/>
+                <p rend="noindent">Vent massif</p>
+              </cell>
+              <cell>
+                <p>Et se confronter malheureusement avec tout ce qu’on n’a pas fait.</p>
+                <p/>
+                <p>Il se représentait des têtes et des allures de gens ingénieux et forts, et cela lui servait à être tel ou tel.</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f35.image">
+            <seg rend="lienhypertexte">[Fol. 18r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-18r</term>
+        </index>
+        <div>
+          <head>* « S/S »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-18r/021</term>
+          </index>
+          <p>
+            <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ss">
+              <seg rend="lienhypertexte">S/S</seg>
+            </ref>
+          </p>
+          <p/>
+          <p>Délice de la compréhension ! au milieu des oiseaux, comme des toupies ! subites – je suis, vais et viens – cette sensation / et ceci me / me laisse penser à autre chose, s’y mêle parfois – pas toujours.</p>
+          <p><pb n="C.I.308"/>Tableau. Un ensemble – d’abord certaines variables – et certaines constantes, puis on change – peindre ainsi et de transformations en transformations.</p>
+          <p rend="noindent0080">Nombre des relations possibles entre 2 états donnés de 0 à ∞.</p>
+          <p rend="noindent0080">– Curieux effet de groupes rendus incomplets, insatisfaits par mémoire insuffisante.</p>
+          <p rend="noindent0080">– Donner concrètement certaines suites – y découvrir un groupe de transformations, <hi rend="i">résumé</hi>, développement sûr, toujours possible –</p>
+          <p rend="noindent0080">Peu à peu, ainsi l’homme creux s’éclaire, se peuple.</p>
+          <p rend="noindent0080">N’écrire que ce que parle l’homme intérieur – sicut ante Deum quia ille est<note place="bottom">Comme devant Dieu puisqu’Il est.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f37.image">
+            <seg rend="lienhypertexte">[Fol. 19r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-19r</term>
+        </index>
+        <div>
+          <head>* « Daughter – (dahitâ) = celle qui trait… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-19r/022</term>
+          </index>
+          <p>Daughter – (dahitâ) = celle qui trait.</p>
+          <p>Father – (pater pitâ) = le défenseur.</p>
+          <p>Brother – (bhrâtá frater) = le porteur (bhar, bear, ferre<note place="bottom">Mélange de mots empruntés à diverses langues (dont le sanscrit) pour désigner la fille, le père et le frère.</note>).</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f39.image">
+            <seg rend="lienhypertexte">[Fol. 20r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-20r</term>
+        </index>
+        <div>
+          <head>* « Tableau de formes psychologiques – (orchestre !) classées suivant l’énergétique »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-20r/023</term>
+          </index>
+          <p><pb n="C.I.729"/><pb/>Tableau de formes psychologiques – (orchestre !) classées suivant l’énergétique</p>
+          <p/>
+          <table>
+            <row>
+              <cell>ennui <space>                </space>(potentiel)</cell>
+              <cell>colère <space>       </space>(cinétique)</cell>
+            </row>
+            <row>
+              <cell>disposition <space>    </space>– (potentiel)</cell>
+              <cell>émotion –</cell>
+            </row>
+            <row>
+              <cell>attention</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>intention</cell>
+              <cell>
+                <p>intelligence – moment où l’on perçoit</p>
+                <p>un ensemble –.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>désir</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">volonté</p>
+                <p/>
+                <p><space>       </space>insouciance</p>
+                <p>
+</p>
+                <p>formations</p>
+                <p/>
+                <p>
+                  <hi rend="i">sommeil</hi>
+                </p>
+              </cell>
+              <cell>
+                <p><space>              </space>raisonnement</p>
+                <p/>
+                <p/>
+                <p><hi rend="i">fixations.</hi> –</p>
+                <p rend="noindent">
+</p>
+                <p rend="noindent">variation –</p>
+                <p rend="noindent">changement</p>
+                <p rend="noindentright">Le langage a désigné</p>
+                <p rend="noindentright">grossièrement ces formes.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>tristesse –</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>ardeur <space>    </space>(cinétique)</cell>
+              <cell>A) formes du moment –</cell>
+            </row>
+            <row>
+              <cell>enthousiasme</cell>
+              <cell>a) instables, brusques</cell>
+            </row>
+            <row>
+              <cell>efforts</cell>
+              <cell>b) stables</cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f43.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">22r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-22r</term>
+        </index>
+        <div>
+          <head>* « Paris – octobre – midi… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-22r/024</term>
+          </index>
+          <p rend="noindent0200"><pb n="C.I.309"/><pb/>Paris – octobre – midi.</p>
+          <p rend="noindent">I. <space>  </space>Boulevard Capucines, soyeux,</p>
+          <p>vitres <del>laquées</del> glacées d’azur sombre, feuillages, corniches dorées</p>
+          <p>ombre froide et charmante, lacs de soleil, chauffage</p>
+          <p>femmes grandes fourrures. 2 s’embrassent à la blague à la terrasse du Café de la Paix</p>
+          <p>odeur de peinture fraîche</p>
+          <p>chevaux, cabs, passants continus presque en silence un ronflement.</p>
+          <p>   Ce mélange est traversé par le motif d’un passant.</p>
+          <p>   Notion de la devanture, de l’exhibition.</p>
+          <p>Idée de la grande fortune. Ce coupé est le mien.</p>
+          <p rend="noindent">II. <space>                         </space>–—————————————</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. Δ1]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ1</term>
+        </index>
+        <div>
+          <head>* « M. Teste – après la Rue – dit : … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ1/025</term>
+          </index>
+          <p rend="noindent">[M. Teste –</p>
+          <p>après la Rue – dit :</p>
+          <p rend="noindent0500">mène</p>
+          <p>J’ai été aussi loin que l’esprit même (devrait) / autour de /<note place="bottom">Feuille volante. Comme l’indiquent les éditeurs des <hi rend="i">Cahiers 1894-1914</hi>, cette feuille qui figure dans le microfilm de 1948 a ensuite été déplacée et intégrée au dossier de Monsieur Teste (Naf 19025, fº 103).</note>]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="../%20http:/gallica.bnf.fr/ark:/12148/btv1b531101937/f45.image">
+            <seg rend="lienhypertexte">[Fol. 23r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-23r</term>
+        </index>
+        <div>
+          <head>* « Toute la nue et le rose <del>final</del> du soir… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-23r/026</term>
+          </index>
+          <p/>
+          <p/>
+          <p><pb n="C.I.730"/>[Toute la nue et le rose <del>final</del> du soir</p>
+          <p><del>Du jour</del><space/>léger se joue et se noue à / autour de / la paille</p>
+          <p>Légère qui dans les boucles du ciel noir</p>
+          <p>Qui tremblera sur la touffe d’or noir<note place="bottom">Feuille volante.</note>]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f47.image">
+            <seg rend="lienhypertexte">[Fol. 24r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-24r</term>
+        </index>
+        <div>
+          <head>* « Sensations. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-24r/027</term>
+          </index>
+          <p rend="noindent1350">φ(u)= Δφ(v)</p>
+          <p/>
+          <p>Sensations.</p>
+          <p/>
+          <p>Grosse bouffe grossissant d’un corsage clair qui se déplace sur ma gauche, en flottant, m’emplit et cesse.</p>
+          <p><pb n="C.I.310"/>squelette     échelle, (échelet)te</p>
+          <p>sk. <space>    </space>σκελετρον <space>  </space>scala. – schola<note place="bottom">Le mot grec exact est <hi rend="i">skeleton</hi> et non <hi rend="i">skeletron</hi> (<hi rend="i">momie</hi>, plutôt que <hi rend="i">squelette</hi>) ; le latin <hi rend="i">scala</hi> signifie <hi rend="i">échelle</hi>, et <hi rend="i">schola, loisir</hi> ou <hi rend="i">école</hi>.</note></p>
+          <p/>
+          <p>L’homme qui se déplace, associe son mouvement aux variations de la région où il se déplace. S’il se déplace sans se mouvoir par soi-même..… – trou –..…  <hi rend="i">Dans la connaissance</hi>, il pense que son moi est fixe, que son esprit se déroule, et qu’il (lui) se déplace devant la <hi rend="i">Réalité.</hi> Dans cette hypothèse inconsciente 2 points supposés fixes Moi et Réalité actuelle (fixité relative naturellement). Le monde mental se déplace par rapport aux 2 points.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f52.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">26v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-26v</term>
+        </index>
+        <div>
+          <head>* « Fragmentum »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-26v/028</term>
+          </index>
+          <p rend="noindent center">Fragmentum<note place="bottom">Fragment.</note> 
+<lb/>—</p>
+          <p>… Et ce voyant, j’ordonnai à la troupe que chacun fermât ses yeux. Moi seul regardai le champ qui était capable de donner de l’inquiétude ; j’étais calme car j’ai coutume de recouvrer tout mon sens et de m’assurer pourvu que je ne sois pas seul.</p>
+          <p>… Enfin je voulus leur ôter jusqu’à la réflexion. Je commandai qu’on marchât dans le meilleur ordre et je les ralentissais pour leur mettre envie de courir. Je les arrêtais fréquemment et faisais tirer bien ensemble.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f53.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">27r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-27r</term>
+        </index>
+        <div>
+          <head>* [Dessin d’une femme nue]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-27r/029</term>
+          </index>
+          <p rend="noindent center">[Dessin d’une femme nue sur une feuille volante]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f55.image">
+            <seg rend="lienhypertexte">[Fol. 28r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28r</term>
+        </index>
+        <div>
+          <head>* « L’accommodation aux différents individus qui se rencontrent… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28r/030</term>
+          </index>
+          <p><pb n="C.I.731"/><pb/>L’accommodation aux différents individus qui se rencontrent, habileté, faiblesse, courtoisie.</p>
+          <p>Cloches de Sainte Clotilde<note place="bottom">Église proche de la rue Saint-Dominique où Valéry travaillait au ministère de la Guerre.</note>, soleil encore faible dans les rideaux, sur le bureau étonné, sur moi.</p>
+          <p>Rage de ne rien pouvoir contre Impossibilité de comprendre que <hi rend="i">moi</hi>, ici…., Idée de l’importance exagérée donnée à ce moi. Jamais trop ! Absurdité des mots : importance exagérée.</p>
+          <p><pb n="C.I.311"/>My dear P. a., you are in a very deep feature. You have in a minute drawn the path of all your life. You can look at your own death so easily as anyone, for many and many years (perhaps) after, beeing, according to probability, the neighbour of the death, you could be in the same building, in the same chair, with the same words of the same faces around you.</p>
+          <p>We have thought, dear P., to interlocute as nearly of the <hi rend="i">other</hi>, as we shall can<note place="bottom">« Mon cher Paul Ambroise [premier prénom de Valéry] tu as bien creusé ton sillon. Tu as, en un instant, tracé le chemin de ta vie. Tu peux désormais regarder en face ta mort autant que quiconque, et cela pendant des années et des années (peut-être) après cet événement, étant, selon toute probabilité, le voisin de la mort, tu pourrais être dans le même bâtiment, sur la même chaise, avec les mêmes mots prononcés par les mêmes visages autour de toi / Nous avons songé, mon cher Paul, à nous entretenir l’un de l’autre d’aussi près que possible. »</note>…</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f56.image">
+            <seg rend="lienhypertexte">[Fol. 28v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28v</term>
+        </index>
+        <div>
+          <head>* « Projet pour <hi rend="i">lutter</hi> contre le présent. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28v/031</term>
+          </index>
+          <p rend="noindent center">Projet pour <hi rend="i">lutter</hi> contre le présent. 
+<lb/>——</p>
+          <p>Le présent étant autour de moi, comme visqueux, et mortifiant les mouvements de mon esprit, il faut me déterminer à une lutte aussi énergique que possible.</p>
+          <p>Il sera procédé à l’étude méthodique des idées antérieures, relatives à la psychologie, que j’ai déjà essayées : -</p>
+          <p>Et puis j’examinerai l’étendue du temps de la journée.</p>
+          <p>——</p>
+          <p>Étudier très en détail le Souper de Singapour. – –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f57.image">
+            <seg rend="lienhypertexte">[Fol. 29r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29r</term>
+        </index>
+        <div>
+          <head>* « Lit »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29r/032</term>
+          </index>
+          <p rend="noindent center">
+            <hi rend="u">Lit</hi>
+          </p>
+          <p/>
+          <p>Lit, Horizon de délice et de douleur –</p>
+          <p>avec ses masses blanches suspendues – son profil d’ombre écrue.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f57.image">
+            <seg rend="lienhypertexte">[Fol. 29v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29v/033</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f59.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">30r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-30r</term>
+        </index>
+        <div>
+          <head>* « toute <hi rend="i">barric</hi>adée D’ondes… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-30r/034</term>
+          </index>
+          <p><pb n="C.I.734"/><pb/>————————————————— toute <hi rend="i">barric</hi>adée</p>
+          <p>D’ondes.</p>
+          <p rend="noindent0650">barriques flottantes</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f61.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">31r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-31r</term>
+        </index>
+        <div>
+          <head>* « L’empirisme littéraire »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-31r/035</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.312"/><pb/>L’empirisme littéraire 
+<lb/>——</p>
+          <p>Je suppose qu’un individu, <del>tout</del> rigueur et finesse, pareil à ceux qui ont inventé ce que nous trouvons le plus sûr, pense à la littérature, prenne à l’égard de ce domaine, son attitude qui lui soit la plus favorable pour les aventures <del>spirituelles</del> analytiques et donnant de force à son esprit la forme particulière qui lui donne ce qu’on nomme problème, – verse de la difficulté dans ce sujet : écrire, jusque-là &lt;voué au vague et au laisser-aller.&gt;</p>
+          <p>S’il commence par étudier l’écrivain, il se trouvera dans la vanité et l’argent.</p>
+          <p>Mais cela se lève – en regardant l’écrit – il y verra la transformation de faits mentaux en d’autres faits mentaux irréductibles aux 1<hi rend="sup">ers</hi>. Ce rapport est le rendement (personnel) mais [inachevé]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f65.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">33r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-33r</term>
+        </index>
+        <div>
+          <head>* « Exercices – particuliers. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-33r/036</term>
+          </index>
+          <p rend="noindent center">[Exercices – particuliers.</p>
+          <p/>
+          <table>
+            <row>
+              <cell>Virtuel – –</cell>
+              <cell>Rov.</cell>
+            </row>
+            <row>
+              <cell>Demi.</cell>
+              <cell>Pin.</cell>
+            </row>
+            <row>
+              <cell>dº</cell>
+              <cell>M.T. P.</cell>
+            </row>
+            <row>
+              <cell>Entier.</cell>
+              <cell>Bath.</cell>
+            </row>
+            <row>
+              <cell>+</cell>
+              <cell>
+                <p>Clau.</p>
+                <p>Loul.</p>
+                <p>Loulboul.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>Divers.</cell>
+              <cell>
+                <p>H. Fin-Hill Fan.</p>
+                <p>Joh  –</p>
+                <p>Zo – –  +</p>
+                <p>Caracci –</p>
+                <p>Md<note place="bottom">Il n’est pas possible d’identifier toutes ces femmes. De 1889 à 1892, Valéry a été follement amoureux de la baronne Sylvie de Rovira qu’il croisait dans les rues de Montpellier ; il a été un peu amoureux de Pinetta, c’est-à-dire Pauline de Rin, petite-fille de sa tante maternelle ; Bath. désigne Bathilde Monsimier, une écuyère de cirque qu’il a aimée de 1894 à novembre 1895 ; Zo renvoie à Zohra Bent Brahim, une jeune Mauresque que Pierre Louÿs fit venir à Paris et avec laquelle Valéry eut une brève liaison en 1899.</note> –</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p rend="noindent center">Tout cela n’a rien d’extraordinaire.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f69.image">
+            <seg rend="lienhypertexte">[Fol. 35r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35r</term>
+        </index>
+        <div>
+          <head>* « Jeannie et Julie et Paule… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35r/037</term>
+          </index>
+          <p/>
+          <l><pb n="C.I.313"/>[&lt;Jeannie et Julie et Paule</l>
+          <l>Chacune sur son épaule</l>
+          <l>Penchant un chignon divers<note place="bottom">Paule Gobillard et sa sœur Jeannie que Valéry épousera en 1900 ; Julie Manet, fille d’Eugène Manet (frère d’Édouard) et de Berthe Morisot est leur cousine : elle épousera Ernest Rouart, fille d’Henri Rouart, en 1900 également. Valéry commence à les fréquenter à partir du 22 décembre 1898. Ces feuilles volantes datent donc de 1899.</note>&gt;</l>
+          <l>                                                                         ûle</l>
+          <l>                                                                                   joue</l>
+          <l>                                                            <del>Ô</del><del> solitude dénoue</del></l>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <l/>
+                <l>Ô solitude !</l>
+              </cell>
+              <cell>
+                <l>Je brûle comme on se joue</l>
+                <l>Ma solitude  <del>des soirs</del> ample nuit</l>
+                <l>À la flamme d’une joue</l>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <l>&lt;Tes regards revenus des sonores voyages</l>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <l>Tes regards souvenirs des</l>
+                <l>Éperdus</l>
+              </cell>
+              <cell>
+                <l>merveilleux<note place="bottom">Lecture incertaine.</note> orages</l>
+                <l>fluides tourmentes</l>
+                <l>pures aventures</l>
+                <l>plus nobles&gt;</l>
+              </cell>
+            </row>
+          </table>
+          <l/>
+          <l/>
+          <l>Et de la page en feu des seigneurs<note place="bottom">Feuille volante.</note>]</l>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f70.image">
+            <seg rend="lienhypertexte">[Fol. 35v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35v</term>
+        </index>
+        <div>
+          <head>* « Lampe qui fais briller – – le livre… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35v/038</term>
+          </index>
+          <p rend="noindent0080">[Lampe qui fais briller – – le livre</p>
+          <p rend="noindent0150">Diamants</p>
+          <p rend="noindent0300">Berceuse</p>
+          <p/>
+          <p/>
+          <p>&lt;Encore un peu de temps et la grande douceur<note place="bottom"> [MARGIN] En marge : &lt;Toute lumière rose nie L’hiver&gt;.</note> De mes livres brillant sous la lampe dorée Touchera le regard d’une&gt;</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <l>ma vieille solitude est encore étonnée</l>
+          <l>qu’en Dans son vieux tourment une autre fleur est née</l>
+          <l>qu’une joue adorable éclaire <del>son recoin</del></l>
+          <l>et que de grands regards qui<note place="bottom">Feuille volante. Valéry a écrit ce dernier fragment en prenant la feuille à l’envers.</note>]</l>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f71.image">
+            <seg rend="lienhypertexte">[Fol. 36r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-36r</term>
+        </index>
+        <div>
+          <head>*</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-36r/039</term>
+          </index>
+          <p><pb n="C.I.735 C.I.314"/><pb/>[Anciens écrivains – lait et vins puis – tel et tels – alcools plus ou moins aigus, fins et forts</p>
+          <p>et là, les détestables apéritifs ou ivresses différentes –<note place="bottom">Feuille volante.</note>]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f75.image">
+            <seg rend="lienhypertexte">[Fol. 38r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-38r</term>
+        </index>
+        <div>
+          <head>* « “Dis-moi que V. [Valéry] est bête”… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-38r/040</term>
+          </index>
+          <p>[« Dis-moi que V. [Valéry] est bête »</p>
+          <p rend="noindent0550">J. G. [Jeannie Gobillard<note place="bottom">Propos sans doute tenu à sa sœur Paule. C’est en janvier 1899 que Valéry commence à fréquenter les deux sœurs.</note>]</p>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">Dire qu’on se sent si inférieur<note place="bottom">Feuille volante.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f79.image">
+            <seg rend="lienhypertexte">[Fol. 40r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-40r</term>
+        </index>
+        <div>
+          <head>* « Mahmoud s’étendit sur le dos sur le sommet étroit du mont… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-40r/041</term>
+          </index>
+          <p>[Mahmoud s’étendit sur le dos sur le sommet étroit du mont et il vit et il pensa :</p>
+          <p>Et il voulut fortement connaître la loi et le principe, et il les devint.</p>
+          <p>Il regarda des yeux le haut du ciel et en même temps toutes les formes dans son esprit.</p>
+          <p>Toutes les formes et un seul soleil –</p>
+          <p>Tout ce qu’il voyait entrait en vie dans son esprit et mourait au delà.</p>
+          <p>Tout ce qui entrait dans son esprit prenait le mouvement et la force et prenait une force propre.</p>
+          <p>Tout ce qui naissait dans son esprit prenait la couleur de la lumière régnante et l’intrépidité du rayon qui arrive.</p>
+          <p>&lt;Et il dit : je suis la loi du réel et la lumière<note place="bottom">Feuille volante.</note>.&gt;]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101937/f81.image">
+            <seg rend="lienhypertexte">[Fol. 41r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-41r</term>
+        </index>
+        <div>
+          <head>* « Le coq ou le soleil fendait les rêves d’Egraphos dès l’aube… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-41r/042</term>
+          </index>
+          <p><pb n="C.I.738 C.I.315"/><pb/>[Dessin]</p>
+          <p>[Le coq ou le soleil fendait les rêves d’Egraphos dès l’aube.</p>
+          <p>Le coq ou l’aube perçait les rêves d’Egraphos. Le soleil comme un coq ou</p>
+          <p>Un coq comme le soleil<note place="bottom">Feuille volante.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="file:///D:/commit/valery/commit_2017-11-28/cahier-012_eikones_fol-Δ2">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">Δ</seg>
+            <seg rend="lienhypertexte">2]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ2</term>
+        </index>
+        <div>
+          <head>* « Opérations. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ2/043</term>
+          </index>
+          <p><pb n="C.I.736"/><pb/>Opérations.</p>
+          <p/>
+          <p>une formule algébrique est l’indication d’une suite d’opérations à effectuer. Si on égale cette formule à quelque chose − (0), elle implique que l’on peut faire subir aux 2 membres la même série d’opérations.</p>
+          <p rend="noindent">a + b + c  = d</p>
+          <p rend="noindent">a + b = d − c. D’abord les quantités sont distinctes et indépendantes des opérations.</p>
+          <p>Au fond elle constitue une relation entre des opérations.</p>
+          <p/>
+          <p/>
+          <p>Elle implique [que] toute suite d’opérations quelconques <hi rend="i">peut</hi> être égale à toute autre suite quelconque si les quantités sont convenablement choisies.</p>
+          <p rend="noindent">Elle institue alors une relation <hi rend="i">momentanée</hi> entre les quantités et les opérations qui ne sont plus indépendantes les unes des autres<note place="bottom">[MARGIN] Phrase soulignée en marge.</note>.</p>
+          <p/>
+          <p/>
+          <p><pb n="C.I.316"/>Dès lors tout changement dans les quantités doit affecter un changement dans les opérations et réciproquement (?)</p>
+          <p>De plus en algèbre pure les opérations sont et doivent [être] inexécutables au sens arithmétique de confusion.</p>
+          <ab type="ornament">———————————————</ab>
+          <p>a + b = c</p>
+          <p>d + b = c’</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="file:///D:/commit/valery/cahier-012_eikones_fol-Δ3">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">Δ</seg>
+            <seg rend="lienhypertexte">3]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ3</term>
+        </index>
+        <div>
+          <head>* « Il y a des choses dont l’oubli est ou n’est pas, <hi rend="i">presque</hi> sans degrés… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ3/044</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.740"/>[Il y a des choses dont l’oubli est ou n’est pas, <hi rend="i">presque</hi> sans degrés.</p>
+          <p>Étude des altérations produites par l’oubli :</p>
+          <p rend="noindent">Oublis d’objets mêmes et oublis de relations</p>
+          <p rend="noindent">[Croquis]</p>
+          <p rend="noindent">L’oubli est un jugement – au point de vue du moi –<note place="bottom">Feuille volante.</note>]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="file:///D:/commit/valery/cahier-012_eikones_fol-Δ4">
+            <seg rend="lienhypertexte">[Fol. </seg>
+            <seg rend="lienhypertexte">Δ</seg>
+            <seg rend="lienhypertexte">4]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ4</term>
+        </index>
+        <div>
+          <head>* « Mesure du continu »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ4/045</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.737"/><pb/>Mesure du continu 
+<lb/>——</p>
+          <p>(soit l’intervalle 0-1)</p>
+          <p/>
+          <p>dans cette mesure on prend un point arbitraire de départ, on peut toujours donner une valeur numérique à un point quelconque – c’est-à-dire qu’on fait correspondre une origine <hi rend="i">arbitraire</hi> à une origine donnée – d’une autre chose – (1, 2, 3, 4).</p>
+          <p/>
+          <p>Tout compte ou mesure discrète divise le domaine donné en 2 parties dont l’une ne contient que les choses comptées et l’autre le reste.</p>
+          <p>Si ces 2 parties sont bien distinguées, le compte des choses déjà comptées est indépendant de leur position.</p>
+          <p/>
+          <p/>
+          <p>La mesure du continu est indépendante de l’origine – Donc les singularités arithmétiques qui se produisent c’est-à-dire les différences de nature entre les nombres successifs qui expriment ledit continu en un point quelconque, sont indépendantes de ce continu.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

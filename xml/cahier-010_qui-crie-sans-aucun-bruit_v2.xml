@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:14:12+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>… qui crie sans aucun bruit —</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19214. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f1.image">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>… qui crie sans aucun bruit —</head>
+      <div>
+        <head>
+          <ref target="../%20http:/gallica.bnf.fr/ark:/12148/btv1b53110190w/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-01r</term>
+        </index>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.806 C.I.274"/>
+          </p>
+          <p/>
+          <p/>
+          <p rend="noindent0300">… qui crie sans aucun bruit —</p>
+          <p>Parlant sans aucun bruit, criant même !<note place="bottom">Ce Cahier est constitué de feuilles de papier du ministère de la Guerre.</note></p>
+          <p/>
+          <p/>
+          <p rend="noindent0300">———————</p>
+          <p/>
+          <p/>
+          <p rend="noindent">Le Conseil des X- - -</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f3.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Je ne suis rien… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-02r/002</term>
+          </index>
+          <p/>
+          <p/>
+          <p><pb n="C.I.275"/><pb/>Je ne suis rien. Mes idées ne me paraissent jamais uniques : elles me laissent le possible.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f5.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-03r</term>
+        </index>
+        <div>
+          <head>* « Chaque suite d’états de connaissance… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-03r/004</term>
+          </index>
+          <p><pb n="C.I.807"/>&lt;Chaque suite d’états de connaissance comprend des portions mobiles et des portions fixes, nécessairement.&gt;</p>
+          <p/>
+          <p>Non – chaque état est fixe, en lui-même, puis vient un autre, puis un autre. [Équations]</p>
+          <p/>
+          <p>Les états successifs, plus ou moins clairs, sont de véritables éléments différentiels. Nous dirons que chaque état <hi rend="i">est</hi> par rapport au précédent.</p>
+          <p>Chaque état nouveau est produit dès qu’il y a un changement dans le 1<hi rend="sup">er</hi>. Ce changement peut provenir soit de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> soit de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>.</p>
+          <p>Chaque changement est par hypothèse supposé évalué par la valeur d’une fonction – « l’Énergie ». Cette fonction est continue.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Éléments fixes dans la pensée – mots – … »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-03r/005</term>
+          </index>
+          <p>Éléments fixes dans la pensée – mots –, et résidus derniers d’images réelles, couleurs etc. Au-delà de ces éléments fixes pas d’imagination possible.</p>
+          <p rend="noindent">
+            <hi rend="u">
+              <hi rend="i">combinaisons nouvelles d’impressions (important littérairement</hi>
+            </hi>
+            <note place="bottom">[MARGIN] Phrase soulignée en marge.</note>
+            <hi rend="u">
+          )
+</hi>
+          </p>
+          <p rend="noindent0750">et <hi rend="i">simplifier</hi> Cldl<note place="bottom">Abréviation énigmatique. Il est improbable qu’il s’agisse de Claudel, que Valéry a un peu connu chez Mallarmé mais ne lit guère.</note></p>
+          <p/>
+          <p>L’ensemble des substitutions dont un concept donné est susceptible.</p>
+          <p/>
+          <p rend="noindent1100">Choses dépendantes dans la</p>
+          <p rend="noindent1100">réalité et indépendantes</p>
+          <p rend="noindent1100">dans l’esprit et inversement.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f7.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Recherche de l’unité ou d’un système d’unités »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-04r/006</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.808 C.I.276"/><pb/>Recherche de l’unité ou d’un système d’unités 
+<lb/>——</p>
+          <p>
+            <hi rend="u">Points acquis.</hi>
+          </p>
+          <p rend="noindent">1) L’unité comprend à la fois les 2 zones : elle les détermine, même.</p>
+          <p rend="noindent">2) On peut prendre soit l’état, soit le changement d’état.</p>
+          <p rend="noindent"/>
+          <p>Est-elle dépendante ou non de l’intérieur de l’état –</p>
+          <p>Elle détermine en tout cas les <hi rend="i">liaisons.</hi></p>
+          <p>Elle <hi rend="i">semble</hi> réduire le complexe et compliquer le simple.</p>
+          <p/>
+          <p rend="noindent0250">Y a-t-il un moyen de comparer 2 états entre eux ou 2 idées (entre elles ?)</p>
+          <p rend="noindent0250"/>
+          <p rend="noindent0250">Si l’unité était justement une unité d’énergie – espèce, ordre de grandeur ?</p>
+          <p/>
+          <p>Série hétérogène, mais à succession <hi rend="i">arbitraire</hi> c’est-à-dire homogène – a – c – d – n.</p>
+          <p/>
+          <p><space>   </space>Essayons.</p>
+          <p rend="noindent">On aurait alors une suite d’états.</p>
+          <p rend="noindent">Cette suite serait d’abord entièrement rationnelle –</p>
+          <p rend="noindent">On créerait ensuite des relations symboliques par suppression de termes –</p>
+          <p>b = φ (a)     c = f (b)     d = F (c) etc.      d’où on peut faire b\d.</p>
+          <p rend="noindent">Inversement dans l’état b\d on peut toujours interpoler des relations rationnelles sauf dans les cas de symboles parfaits – mots.</p>
+          <p rend="noindent">La succession des phénomènes physiques est hétérogène également mais leur fixité ou leurs variations sont indépendantes, leur hétérogénéité / (sensation) / est indépendante entre elle. Au contraire, l’hétérogénéité psychique est dépendante, fonctionnelle<note place="bottom">Feuille volante.</note><note place="bottom">[MARGIN] La dernière phrase est soulignée en marge.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f9.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-05r</term>
+        </index>
+        <div>
+          <head>* « La pensée ne se connaît elle-même que par des formes… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-05r/007</term>
+          </index>
+          <p/>
+          <p/>
+          <p>La pensée ne se connaît elle-même que par des formes et des changements analogues à ceux qui lui font connaître le monde. Seulement, les changements des formes pensées ne sont [pas] de même nature que ceux visibles. Les lois de succession diffèrent. De plus ces modes et leurs contenus sont sans cesse confrontés à ceux de l’extérieur et s’en écartent continuellement avec évidence.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f11.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-06r</term>
+        </index>
+        <div>
+          <head>* « Poe – ou bien quelque δαίμών… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-06r/008</term>
+          </index>
+          <p><pb n="C.I.809 C.I.277"/><pb/>[Poe – ou bien quelque δαίμών<note place="bottom">Démon. Allusion au démon de Socrate, voix intérieure qui ne lui conseillait jamais, mais lui déconseillait parfois, de commettre une action (Platon, <hi rend="i">Apologie</hi> 31d).</note> – souffle :</p>
+          <p rend="noindent">La limite même de l’analyse – où ?</p>
+          <ab type="ornament">—————————————————————————————————————</ab>
+        </div>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/conscience"><seg rend="lienhypertexte">Conscience</seg></ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/intelligence"><seg rend="lienhypertexte">Intelligence</seg></ref> (« Personne ne va au bout – à l’extrême nord humain… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-06r/009</term>
+          </index>
+          <p>Personne ne va au bout – à l’extrême nord humain<note place="bottom">Cf. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-017_tabulae-meae-tentationum/fol-22v/168">« To go to the last point »</ref>. Selon Maeterlinck, traducteur et préfacier de <hi rend="i">L’Ornement des noces spirituelles</hi> que Valéry a lu, Ruysbroek l’Admirable, malgré sa bizarrerie, est toujours exemplaire par sa volonté d’aller jusqu’aux « confins de la pensée humaine et bien au-delà du cercle polaire de l’esprit » (<hi rend="i">L’Ornement des noces spirituelles</hi>, Bruxelles, Lacomblez, 1891, p. <num>vi</num>).</note> – ni au dernier point intelligible – imaginable – ni jusqu’à un certain mur – et la certitude que là commence vraiment l’infranchissable. Je me parcours indéfiniment. Je me regarde me parcourir – et <hi rend="i">ainsi de suite</hi>.</p>
+          <p>Pas de couleur, parfum, odeur qui résiste à ce mouvement. Reconstruire la saveur des fruits. L’homme intérieur tient la mer dans le creux de sa main imaginée. Fantasmagorie absurde psychologique –</p>
+          <p>Art, connaissance, vertu etc. – exercices des matins ordinaires – sport et bien-être, – des jours transparents où sonne tout seul le sentiment seulement du facile et du difficile - ce sens divisant le monde connu en 2 domaines, peut-être pauvres.</p>
+          <p>Thème du pouvoir. Agrandissement du pouvoir silencieusement. Le seul but étant peut-être le mépris <hi rend="i">compétent.</hi></p>
+          <p>Seule, la recherche – vaut la peine. Immense. Décrire une nuit de travail. La grandeur du système pensé qui se transforme, le roulement des transformations. Le travail dans un intervalle de temps fini. La descente de Boulogne sur l’Autriche<note place="bottom">Le camp de Boulogne fut constitué par Bonaparte en 1803 en vue d’une invasion de l’Angleterre qui, par réaction, suscita en 1805 l’hostilité de l’Autriche : Napoléon décida alors de porter ses troupes vers le Rhin.</note>. L’ivresse de la précipitation des pensées dans un bref moment. <hi rend="i">Tout</hi>, considéré comme matière à calculs, ici ; là, comme aliment de rêves.</p>
+          <p>Le retentissement de l’être seul. Abondance peu à peu des rumeurs et des cris – de l’esprit. Extraordinaire écho. De ce lieu, la gloire paraît et ânonne comme une chose éminemment villageoise.</p>
+          <p>Amitié – le 1<hi rend="sup">er</hi> besoin in the world<note place="bottom">Au monde.</note>. Amitié, c’est pouvoir être faibles ensemble. Bêtes même<note place="bottom">On lira dans la « Lettre de Madame Émilie Teste » : « M. Teste, d’ailleurs, pense que l’amour consiste <hi rend="i">à pouvoir être bêtes ensemble</hi> » (O.I.1037).</note>.</p>
+          <ab type="ornament">———————————————————————————————————</ab>
+          <p>Homme – sommeil – faire sa soie, sa laine, sa coquille – l’esprit considéré comme « l’industrieuse araignée ou abeille ! »<note place="bottom">Feuille volante. Valéry a pris la feuille à l’envers pour écrire cette phrase.</note>]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f13.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Homo nudus »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-07r/010</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.278"/><pb/>Homo nudus<note place="bottom">Homme nu. Cf. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-014_sans-titre-1/fol-10r/031">« Thème de l’homo nudus pour chacun »</ref>.</note><lb/>——</p>
+          <p/>
+          <p>être prêt à tout. Oublier, mais prévoir.</p>
+          <p rend="noindent">voir.</p>
+          <p rend="noindent">aimer sous condition un petit nombre.</p>
+          <p rend="noindent">ne se croire jamais vaincu – mais mort ou non.</p>
+          <p rend="noindent">aller jusqu’à l’extrémité de son idée, là où elle est tout autre, et d’où l’on ne reviendrait pas sûrement à l’origine, si on l’ignorait. Devenue irréversible.</p>
+          <p>Mais si elle est devenue irréversible, que s’est-il passé ?</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f15.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-08r</term>
+        </index>
+        <div>
+          <head>* « letter about love. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-08r/011</term>
+          </index>
+          <p><pb n="C.I.810"/>letter about love<note place="bottom">Lettre sur l’amour.</note>. <space>                     </space>[Illisible]</p>
+          <p rend="noindent0150">–———</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « … l’art de faire cette tresse de 2 êtres… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-08r/012</term>
+          </index>
+          <p>… l’art de faire cette tresse de 2 êtres qui finit par haleter et se tordre comme le feu – que parcourent des frissons immenses – qui se détord dans un calme suprême.</p>
+          <p/>
+          <p rend="noindent0150">——</p>
+          <p>l’esprit aussi doit devenir ardent et ultra-sensible, prêt à secourir de son énergie imaginaire et de ses visions multipliées, l’amour.</p>
+          <p>Il se faut deviner – se lire et se goûter longuement de toutes parts.</p>
+          <p rend="noindent0500">————————————</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f16.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">8v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-08v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs et croquis]</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-08v/013</term>
+          </index>
+          <p rend="noindent center">[Page de calculs et croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f17.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-09r</term>
+        </index>
+        <div>
+          <head>* « important. Création d’un mot, par omission de ce mot… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-09r/014</term>
+          </index>
+          <p/>
+          <p/>
+          <p rend="noindent0150"><pb n="C.I.811"/><pb/>important.</p>
+          <p>Création d’un mot, par omission de ce mot – et faire tout ce qu’il faut pour l’amener – <hi rend="i">presque</hi> – au ras de l’esprit-lecteur.</p>
+          <ab type="ornament">——</ab>
+          <p>Métaphore d’<hi rend="i">états</hi> et non d’objets –</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « bustes du <hi rend="i">Louvre</hi>. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-09r/015</term>
+          </index>
+          <p rend="noindent1000">bustes du <hi rend="i">Louvre</hi>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f19.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-10r</term>
+        </index>
+        <div>
+          <head>* « Dans l’esprit, pas de dimensions absolues… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-10r/016</term>
+          </index>
+          <p><pb n="C.I.279"/><pb/>Dans l’esprit, pas de dimensions absolues.</p>
+          <p>Les opérations sont indépendantes des quantités.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f21.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-11r</term>
+        </index>
+        <div>
+          <head>* « L. F. [Loïe Fuller]… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-11r/017</term>
+          </index>
+          <p>L. F. [Loïe Fuller<note place="bottom">Danseuse américaine (1862-1928). À la fin de 1892, Gide invita Valéry à l’accompagner aux Folies Bergère où, faisant voler autour d’elle de grands voiles de soie, elle a su créer sur des variations de lumière un art nouveau qui le fascine autant que ses contemporains. </note>] <space>                </space>i (x) – 1 <space>                </space> Style R.</p>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Scène, noir, public, musique etc.</p>
+                <p rend="noindent">La Loïe. Couleurs, formes, changements.</p>
+                <p rend="noindent">Sa danse ; le mouvement.</p>
+                <p rend="noindent"><space>                        </space>Saoule.</p>
+              </cell>
+              <cell>
+                <p rend="noindent"><space> </space>La description a passé par</p>
+                <p rend="noindent">cœur – œil – abstrait –</p>
+                <p rend="noindent">tact – mouvement</p>
+                <p rend="noindent">faire l’énergie, la vitesse,</p>
+                <p rend="noindent">la chaleur etc. – les</p>
+                <p rend="noindent">sentiments suggérés.</p>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"/>
+          <p rend="noindent">énergie –</p>
+          <p rend="noindent">chose à 2 variations dont une double</p>
+          <p>système qui se meut, change de forme et [de] couleur –</p>
+          <table>
+            <row>
+              <cell>astre en formation.</cell>
+              <cell/>
+              <cell>(1)</cell>
+              <cell>(2)<hi rend="sup">n</hi></cell>
+              <cell>(3)<hi rend="sup">n</hi></cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">formes particulières –</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">côté Degas</p>
+              </cell>
+              <cell>{</cell>
+              <cell>
+                <p rend="noindent">coquille</p>
+                <p rend="noindent">arum</p>
+                <p rend="noindent">tison</p>
+                <p rend="noindent">flaque</p>
+                <p rend="noindent">papillon – carène</p>
+                <p rend="noindent">femme dans astre</p>
+                <p rend="noindent">astre – etc.</p>
+              </cell>
+              <cell>
+                <p rend="noindent">charnu</p>
+                <p rend="noindent">nacré</p>
+                <p rend="noindent">ardeur</p>
+                <p rend="noindent">pôle</p>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">passage</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* [Croquis]</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-11r/018</term>
+          </index>
+          <p rend="noindent center">[Croquis sur la moitié inférieure de la page]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f23.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">12r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-12r</term>
+        </index>
+        <div>
+          <head>* « πορν. Pornogrloi »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-12r/019</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.812"/><pb/>πορν. Pornogrloi<note place="bottom">« Porn » en lettres grecques, puis « Pornographie » dans une graphie qui ressemble aux caractères cyrilliques.</note></p>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">A</p>
+              </cell>
+              <cell>
+                <p>Account of the day of a man.</p>
+                <p>First.    He awakes, thinks, eats, smokes, thinks, speaks, reads, writes, in a very good form of thought. He seems a well minded gentleman.</p>
+                <p><pb n="C.I.281"/>Second.   On the sunset, the process of ideas becomes (first) clearer (second) too much speedy ; the idea of love and of the female skin enters in him. They bring him to excitation of the kind of tears. He realizes to the night by dining and home meeting with a girl. He does. He becomes ordinary. During the act, he turns indifferent, thinks of other things, accomplishes with inconscience.</p>
+                <p>He falls in a sleep of a special nature – to be precised.</p>
+                <p>The eminent point of the scheme is the cynic account of the kissing scene. Must be very nude and without the smallest romantism.</p>
+                <p>Twenty pages be sufficient. How proportion them ? This question is hardly resoluble a priori. Write first all the story : each part being of the free length –</p>
+                <p>——</p>
+                <p>In A combine dialogue with narration. In cases of this kind, it must be prepared the first word of speaker by the narration, which is owing incline to the mind of he who is just to speak and let then the speech appear, to be create<note place="bottom"><p>L’anglais de Valéry est assez fantaisiste. On peut traduire ainsi : « Récit de la journée d’un homme.</p><p>« D’abord. Il se réveille, pense, mange, fume, pense, parle, lit, écrit, formulant très bien sa pensée. Il semble être un monsieur comme il faut.</p><p>« Ensuite. Au couchant, l’afflux des idées devient (d’abord) plus clair (ensuite) trop rapide ; l’idée de l’amour et celle de la peau d’une femme pénètrent en lui. Elles le conduisent à un état d’excitation voisin de celui des larmes. Il passe à l’acte le soir même en dînant en compagnie d’une fille qu’il ramène chez elle. Il agit. Il devient ordinaire. Pendant l’acte, il devient indifférent, pense à autre chose, boucle tout dans l’inconscience.</p><p>« Il tombe dans un sommeil d’un genre particulier, à préciser.</p><p>« Le point capital de ce schéma est le récit cynique de la scène de la baisade. Cette scène doit être très nue et sans le moindre romantisme.</p><p>« Il suffira d’une vingtaine de pages. Comment les agencer ? La question est difficile à résoudre <hi rend="i">a priori</hi>. D’abord rédiger l’ensemble du récit : chaque partie prenant la longueur qu’elle veut.</p><p>« En A, combiner dialogue et récit. Dans des cas de ce genre, le premier mot de celui qui parle doit être préparé par le récit qui est infléchi selon l’esprit qui va intervenir, prélude qui appelle à son tour ce qui est dit, cette parole semblant dès lors comme suscitée par le récit. »</p></note>.</p>
+                <p/>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f23.image">
+            <seg rend="lienhypertexte">[Fol. 13r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-13r</term>
+        </index>
+        <div>
+          <head>* « Difficulté de construire mentalement une chose compliquée… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-13r/020</term>
+          </index>
+          <p/>
+          <p>Difficulté de construire mentalement une chose compliquée, par exemple des surfaces s’entrecoupant etc. – trouver un moyen de classer les difficultés.</p>
+          <p>Naturellement la difficulté est proportionnelle à la symétrie + ou − grande des ensembles proposés. –</p>
+          <ab type="ornament">————
+<lb/>————</ab>
+          <p><pb n="C.I.813"/>La chose la plus claire de l’univers pour un individu, est sa sensation <hi rend="u"><hi rend="i">à lui</hi></hi>. Plus cette sensation aura été répétée, d’autant il la trouvera plus claire et toute explication revient là.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f27.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">14r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-14r</term>
+        </index>
+        <div>
+          <head>* « Un individu gai, puissant, profond : … »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-14r/021</term>
+          </index>
+          <p/>
+          <p>Un individu gai, puissant, profond :</p>
+          <p/>
+          <p/>
+          <p>Je serais presque religieux ou mystique par plaisir, si je pouvais changer les noms des objets de ces choses-là. Il est clair que dans cet ordre se trouvent des impressions toutes particulières, des états à la fois sérieux et délicieux, une <pb n="C.I.282"/>manière de reculer sûrement dans son esprit à chaque époque, et de chercher en arrière en réduisant chaque pas fait au rang des précédents, qui me plaît. Je sens que [ce] genre de penser ne m’empêcherait pas d’agir ni de penser à l’ordinaire comme je fais, et même pirement, car je suis très habitué à n’attacher d’importance qu’à ce que j’ai déterminé et à pouvoir penser sans me lier à ce que j’ai pensé. Mais ainsi je ne serais pas orthodoxe. Pourquoi ne pas s’abandonner à toutes les imaginations même mystiques si l’on n’en conclut pas des affirmations fausses ? Dire que Dieu existe parce qu’on le sent, c’est jouer sur les 3 mots de cette phrase et ne pas les mesurer correctement.</p>
+          <p>Dans le domaine de l’esprit tout est permis ; puisqu’on ne peut concevoir d’indépendance plus grande<note place="bottom">[MARGIN] Membre de phrase souligné en marge.</note> on peut cependant en nommer : ainsi, concevoir la contradiction est un jeu de mots.</p>
+          <p>Les conditions deviennent infiniment plus strictes si on envisage les ensembles formés par l’esprit et les relations physiques, ou le langage. De même, la société.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f29.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">15r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-15r</term>
+        </index>
+        <div>
+          <head>* « Vie et Œuvres de X. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-15r/022</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.814"/><pb/>Vie et Œuvres de X. 
+<lb/>—————</p>
+          <p/>
+          <p>Constitution de la raison. 3 vol. etc.</p>
+          <p rend="noindent0250">————————</p>
+          <p>Théorie des lieux et points relativement fixes dans la psychotechnique.</p>
+          <p rend="noindent0550">———————</p>
+          <p>Lois de la conception et de l’exécution.</p>
+          <p rend="noindent0350">————</p>
+          <p>Graphiques théoriques des constructions <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>.</p>
+          <p rend="noindent0350">—————</p>
+          <p>Théorie générale des opérations et des transformations.</p>
+          <p>I. Extension et hypothèse sur les opérations. Définitions. Opérations multiples, complexes etc. Opérations combinées.</p>
+          <p>II. Résultats des opérations. Leur critique.</p>
+          <p>III. Essais sur les nombres d’opérations. Généralisation de la quantité. Quantification des opérations.</p>
+          <p>IV. Tentatives de calculs symboliques sur les quantités d’opérations. Intégrales généralisées.</p>
+          <p rend="noindent0150">—————————————————————————————————</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f31.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">16r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-16r</term>
+        </index>
+        <div>
+          <head>* « Groupes (silence chaleur) »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-16r/023</term>
+          </index>
+          <p>
+            <pb n="C.I.283"/>
+          </p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>Groupes</cell>
+              <cell>(</cell>
+              <cell>
+                <p rend="noindent">silence</p>
+                <p rend="noindent">chaleur</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>)</cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Plaisir de faire douter quelqu’un de quelque chose… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-16r/024</term>
+          </index>
+          <p>Plaisir de faire douter quelqu’un de quelque chose.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f32.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">16v-17r]</seg>
+          </ref>
+        </head>
+        <p/>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-16v-017r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u">Composition</hi> bobines »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-16v-017r/025</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.815"/><pb/><hi rend="u">Composition</hi><space>                         </space>bobines</p>
+          <table>
+            <row>
+              <cell>Faire en double état une même chose ?</cell>
+              <cell>
+                <p rend="noindent"><hi rend="u">Eléments</hi> –</p>
+                <p rend="noindent"/>
+                <p rend="noindent">Emploi déterminé et connu des éléments (pupitres)</p>
+                <p rend="noindent">Nuancer / travail / habilement.</p>
+                <p rend="noindent"/>
+                <p rend="noindent">1 º les séparer.</p>
+                <p>Corollaire. Rechercher dans l’existant leurs effets –</p>
+                <p rend="noindent">2º les démontrer – et régler.</p>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent center"/>
+          <p rend="noindent0750">———————————————————</p>
+          <p rend="noindent0750">Soit à exprimer A</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Éléments du discours</p>
+                <p rend="noindent">Éléments de la pensée</p>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">La crédibilité est proportionnelle à la résistance. Il faut fabriquer des résistances.</p>
+                <p rend="noindent">La puissance a lieu soit par logique, soit par imagination <hi rend="i">autre.</hi></p>
+                <p rend="noindent">
+                  <hi rend="i">—————————————</hi>
+                </p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">
+                  <pb n="C.I.284"/>
+                  <hi rend="u">Trouvailles générales courantes</hi>
+                </p>
+                <p rend="noindent">Dialogue.</p>
+                <p rend="noindent">Description a. et b. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref></p>
+                <p>a′ et b′ψ (ours<note place="bottom">Les nôtres, en anglais.</note>) faire ((φψ) et ψ) surtout.</p>
+                <p rend="noindent">Chant personnel.</p>
+                <p rend="noindent">(succession d’états selon des conditions purement internes : à travailler pour discontinuités).</p>
+              </cell>
+              <cell>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p rend="noindent">Comment se résout mécaniquement</p>
+                <p rend="noindent">Le procédé poétique de composition ?</p>
+                <p>—————————————</p>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"/>
+          <p rend="noindent0950">Problème des liaisons dans le chant personnel.</p>
+          <p>——————————————————</p>
+          <p>Autres recherches. Rimbaud.</p>
+          <p>                Trituration intime de ces 3 types.</p>
+          <p>B. Mallarmé. Chant personnel englobant tout.</p>
+          <p>A. L’ancien roman séparait ces 3 choses. Balzac, <hi rend="u"><hi rend="i">Poe</hi></hi>, distribution spéciale. / C.</p>
+          <p>Essai d’Huysmans –</p>
+          <p>————————————————————————————————</p>
+          <p>Le problème A n’a été résolu par B que sur des œuvres <hi rend="i">très courtes.</hi> Les travaux C également.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f34.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">18r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-18r</term>
+        </index>
+        <div>
+          <head>* « S/S »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-18r/026</term>
+          </index>
+          <p rend="noindent center">
+            <pb n="C.I.816"/>
+            <pb/>
+            <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ss">
+              <seg rend="lienhypertexte">S/S</seg>
+            </ref>
+          </p>
+          <p/>
+          <p/>
+          <p rend="noindent0700">Votre dernière lettre m’avait rempli d’espoir</p>
+          <p rend="noindent0600">il me semblait que j’étais <hi rend="i">regardé dans les yeux</hi>.</p>
+          <p/>
+          <p>l’éloignement épais etc.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Journées blanches, nuits noires… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-18r/027</term>
+          </index>
+          <p rend="noindent">Journées blanches, nuits noires</p>
+          <p>Voici une chose claire.</p>
+          <p rend="noindent">J’aime et ne verrai plus.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f37.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">19v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-19v</term>
+        </index>
+        <div>
+          <head>* « évolution – <hi rend="i">vague</hi> et <hi rend="i">claire</hi>. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-19v/028</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.285"/><pb/>évolution – <hi rend="i">vague</hi> et <hi rend="i">claire</hi>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f38.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">20r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-20r</term>
+        </index>
+        <div>
+          <head>* « Sur Talleyrand. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-20r/029</term>
+          </index>
+          <p rend="noindent center">Sur Talleyrand<note place="bottom">Un des personnages envisagés dans <hi rend="i">Le Souper de Singapour</hi>.</note>.</p>
+          <p/>
+          <p>Un homme indifférent, froid, social, spirituel, juge impartial, joueur glacé, noble, un peu infirme, ayant tout vu d’avance, sans premier mouvement, sans dernier mot, qui touche au dernier Diderot, aux économistes, aux dernières duchesses, aux Américains, aux jacobins, à Napoléon, aux prêtres, aux bourgeois.</p>
+          <p>Réalité extraordinaire de son indifférence. <quote>« Parjure élégant et récompensé<note place="bottom">Le jour de la mort de Talleyrand, Vigny note qu’il est « le <hi rend="i">type du parjure élégant et récompensé</hi> » (<hi rend="i">Journal d’un poète</hi>, in <hi rend="i">Œuvres complètes</hi>, « Bibliothèque de la Pléiade », 1993, p. 110).</note> »</quote> (de Vigny) bien beau mot injuste.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110190w/f40.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">21r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-21r</term>
+        </index>
+        <div>
+          <head>* « voici comme je vais : … »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-21r/030</term>
+          </index>
+          <p/>
+          <p rend="noindent"><pb n="C.I.817"/><pb/>voici comme je vais :</p>
+          <p>une clarté m’arrête. Je l’entoure. Vite je la relie à mainte chose sans vouloir me fixer à aucune ni choisir une relation plus qu’une autre. Puis je n’y vois plus. Je veux dire que voulant penser à cette recherche, tout m’en distrait et je ne me retrouve que vis-à-vis [de] tout autre objet.</p>
+          <p>Puis je vois encore, je m’étends subitement, je tiens le système. Puis je n’y vois plus, je ne verrai plus jamais…</p>
+          <p>Puis je recommence.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

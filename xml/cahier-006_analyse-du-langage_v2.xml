@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:13:11+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Analyse du Langage</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19211. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Analyse du Langage</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-01r</term>
+        </index>
+        <div>
+          <head>
+            <num>1897-02</num>
+            <term rend="index" key="1897-02"/>
+          </head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.141 C.I.236"/>
+          </p>
+          <dateline>février 97 <note place="bottom">Ce Cahier est constitué de feuilles de papier du ministère de la Guerre. Valéry a dû mentionner cette date plus tard car il n’entre au ministère de la Guerre qu’au mois de mai.</note></dateline>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-01r/002</term>
+          </index>
+          <p rend="noindent center">Analyse du Langage 
+<lb/>———————————</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f3.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Propositions Préliminaires (P. P.) »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-02r/003</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.142 C.I.237"/><pb/>Propositions Préliminaires (P. P<note place="bottom">Le 19 avril 1897, Valéry écrit à Gide qu’il « macère en d’abstruses excogitations sur le langage, et il cite sa définition du mot qu’on trouvera ci-dessous : « On le pense sans l’altérer », définition qui figure aussi dans l’essai sur Mallarmé qui est contemporain (<hi rend="i">Cahiers 1894-1914</hi>, t II, p. 281). Le présent cahier date donc pour une part de ce printemps. Mais liées à la lecture de <hi rend="i">La Sémantique</hi> de Michel Bréal dont Valéry doit faire un compte rendu, ces pages sont aussi écrites au cours du second semestre de 1897 : il reçoit le livre au mois d’août et tarde à rédiger l’article qui ne paraît dans le <hi rend="i">Mercure de France</hi> qu’au mois de janvier suivant.</note>.) 
+<lb/>——</p>
+          <p>Impossibilité d’étudier le langage en soi.</p>
+          <p>(1) Nécessité de le placer dans un milieu spécial dit psychique.</p>
+          <ab type="ornament">——</ab>
+          <p>(2) Constitue une des singularités remarquables du Champ de Connaissance.</p>
+          <ab type="ornament">——</ab>
+          <p>(3) Placé au milieu des phénomènes, sert à une détermination de ces phénomènes à l’aide d’éléments fixes – et est fondé non sur les phénomènes mentaux eux-mêmes, mais sur les lois d’existence et de succession de ces phénomènes.</p>
+          <ab type="ornament">——</ab>
+          <p>(4) Fondé sur référence commune, considérée fixe.</p>
+          <ab type="ornament">——</ab>
+          <p>Doit se traiter comme je fais de façon à conserver entiers les phénomènes dits physiques et à remplacer les phénomènes psychiques par des groupements de phénomènes, des notions de variation et de liaison.</p>
+          <ab type="ornament">——</ab>
+          <p>(5) En quoi renseigne-t-il sur phénomènes mentaux ? Mesure exacte.</p>
+          <p><space>    </space>En quoi <space>   </space>– – – –<space>    </space>sur phénomènes physiques ? <space>  </space>– – –</p>
+          <ab type="ornament">——</ab>
+          <p>(6) Idée de mesure commune. Problème d’un langage à inventer de toutes pièces pour tels êtres. – Problème d’une notation de la pensée. Voir (4)</p>
+          <p>Langage animal. Signaux, extension.</p>
+          <p>Langages spéciaux. Algèbre. Formes ornementales élémentaires – arts à ce point de vue.</p>
+          <ab type="ornament">——</ab>
+          <p>Note utile<note place="bottom">[MARGIN] Mots soulignés en marge.</note>. L’imagination tend à la réalité.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f4.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-02v</term>
+        </index>
+        <div>
+          <head>* « (A) Si on nous pique avec une pointe, nous pouvons imaginer… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-02v/004</term>
+          </index>
+          <p/>
+          <p rend="noindent0080"><pb n="C.I.238"/>(A) Si on nous pique avec une pointe, nous pouvons imaginer un objet <hi rend="i">derrière</hi> la piqûre et un tas de choses derrière cet objet. Nous établirons une relation entre la piqûre sensation et les idées séquentes<note place="bottom">En latin, <hi rend="i">qui suivent</hi>.</note> de causalité.</p>
+          <p rend="noindent0080">(B) Si on prononce le mot piqûre nous pourrons imaginer des choses analogues aux précédentes (moins déterminées) mais entre la sensation du son de ce mot et les idées il n’y aura aucune liaison rationnelle.</p>
+          <p><pb n="C.I.143"/>Donc 1º ce mot aura remplacé dans une certaine mesure<note place="bottom">Deux croix renvoient à « moins déterminées » (au-dessus).</note> la sensation origine (A) – À partir de ce mot se produiront des phénomènes analogues à ceux à partir de la piqûre               φ(p<hi rend="sub">s</hi>) = φ(p<hi rend="sub">m</hi>)</p>
+          <p>2º La relation [piqûre (mot) – phénomènes mentaux séquents] sera invariable en ce sens que la piqûre sensation peut varier, ne pas être obtenue à volonté ;</p>
+          <p>La chose intéressante et importante est que <hi rend="i">une chose qui n’est pas une piqûre produise certains effets d’une piqûre</hi> – etc. Elle place l’être dans une situation après piqûre et à partir de là, il marche mentalement comme si –</p>
+          <p>La référence commune sera la piqûre.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Produire à tout instant des effets de sensation. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-02v/005</term>
+          </index>
+          <p>Produire à tout instant des effets de sensation.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f5.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03r</term>
+        </index>
+        <div>
+          <head>* « A. Le mot proposé. A′ Le mot produit… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03r/006</term>
+          </index>
+          <p rend="noindent0250">A. Le mot proposé. A′ Le mot produit.</p>
+          <p rend="noindent0500">——</p>
+          <p>Discontinuité des mots.</p>
+          <p rend="noindent0500">——</p>
+          <p/>
+          <p>Le mot parmi toutes les sensations</p>
+          <p>Définition analytique du mot par rapport au reste.</p>
+          <p>Invariance de la relation fondamentale. Régularité nécessaire.</p>
+          <p>Le mot, on le pense sans l’altérer. <space>            </space>φ(mph) = K</p>
+          <p rend="noindent0750"><space>           </space>δφ = 0</p>
+          <p rend="noindent0500">——</p>
+          <p/>
+          <p><pb n="C.I.239"/>Étude de cette relation invariable dans un espace psychologique à 1 dimension, – à 2. id.</p>
+          <p>Questions voisines : Peut-on exprimer I en fonction de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> et inversement ?</p>
+          <p rend="noindent0500">——</p>
+          <p>Origine arbitraire du mot. Il est soustrait à faction individuelle.</p>
+          <p>Impossibilité d’une relation rationnelle. x = K.</p>
+          <p rend="noindent0500">——</p>
+          <p>Possibilité de production du mot physique.</p>
+          <p rend="noindent0500">——</p>
+          <p>Les parties du discours – recherche de leurs définitions analytiques.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f6.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03v</term>
+        </index>
+        <div>
+          <head>* « La durée est altérée par le langage… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03v/007</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p><pb n="C.I.144"/><pb/>La durée est <del>altérée</del> par le langage.</p>
+          <p>Un livre qui dure 2 h. à lire peut donner etc. –</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Travail mental = … »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03v/008</term>
+          </index>
+          <p>Travail mental = [Formules mathématiques]</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Le “datum” tout ce qui sera conçu comme fixe… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03v/009</term>
+          </index>
+          <p>Le « datum<note place="bottom">Donné.</note> » tout ce qui sera conçu comme fixe, et invariable.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La différence entre 2 mots n’est pas du tout proportionnelle… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-03v/010</term>
+          </index>
+          <p>La différence entre 2 mots n’est pas du tout proportionnelle aux différences de toute nature entre les 2 choses signifiées.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f7.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Valeurs des mots ; substantifs et radicaux psychologiques analogues… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-04r/011</term>
+          </index>
+          <p rend="noindent0300">Le mot produit</p>
+          <p>Valeurs des mots ; substantifs et radicaux psychologiques analogues ; abstraits – concrets – vieille division à refaire.</p>
+          <p/>
+          <p/>
+          <p>
+            <pb n="C.I.240"/>
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent center">référence commune</p>
+                <p rend="noindent center">r. c.</p>
+              </cell>
+              <cell>{</cell>
+              <cell>
+                <p rend="noindent">concrets</p>
+                <p rend="noindent">généralisés</p>
+                <p/>
+              </cell>
+            </row>
+          </table>
+          <ab type="ornament">——</ab>
+          <p>Tout n’est pas nommé. Il y a choix dans l’ensemble des choses. On a un rapport entre une somme d’éléments continus et un nombre abstrait fini discontinu.</p>
+          <ab type="ornament">——</ab>
+          <p>L’événement de langage a réussi lorsque après assimilation tout dans l’esprit récepteur se passe comme si les <del>faits</del> et objets liés aux mots y avaient lieu. On se souviendra d’avoir assisté à une fête dont on n’a que lu la description etc. On apercevra plusieurs cas particuliers – racines d’une proposition abstraite qu’on a lue.</p>
+          <p>On pourra faire subir une variation δφ à un ensemble ainsi transmis.</p>
+          <p>Encore ici la <hi rend="i">possibilité.</hi></p>
+          <p/>
+          <p/>
+          <p><pb n="C.I.145"/><pb/>Une loi fondamentale de partout donc de l’esprit est l’équilibre continuel dans un groupe considéré. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">φ + ψ = 0</ref>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f8.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">4v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-04v</term>
+        </index>
+        <div>
+          <head>* « Lecture audition… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-04v/012</term>
+          </index>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Lecture</p>
+                <p rend="noindent">audition</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>}</cell>
+              <cell>
+                <p rend="noindent">S  Le mot<space>   </space>cheval produit image et associations connexes et autres.</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">Vue</p>
+                <p rend="noindent">etc</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>}</cell>
+              <cell>
+                <p rend="noindent">S′  La chose cheval <space/>–— <space>  </space>associations et mot</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">Idée</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell/>
+              <cell>
+                <p rend="noindent">I <space> </space>L’image  cheval<space> </space>–— <space>  </space>associations et mot</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* [Équations et croquis]</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-04v/013</term>
+          </index>
+          <p rend="noindent center">[Équations et croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f9.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-05r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u">a b c d e m –</hi>… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-05r/014</term>
+          </index>
+          <p>a b c d e m –</p>
+          <p/>
+          <p>Figuration :</p>
+          <p/>
+          <p>a/t ;b/t,c/t,ab/t,ca/t,bac/t,db/t,e/t,cad/t,bacd/t,bcde/t,edb/t  /  /  /</p>
+          <p/>
+          <p><pb n="C.I.241"/>Chaque fois qu’un terme se reproduit il s’y ajoute quelque chose – les temps sont égaux. –</p>
+          <p rend="noindent">————————————————————————————————————</p>
+          <p>2 choses à distinguer en somme :</p>
+          <p>1º Succession des états – Théorème général</p>
+          <p>2º Étude des liaisons des états –</p>
+          <p>—————————————</p>
+          <p>1º La succession des états est le temps absolu ;</p>
+          <p rend="noindent">&lt;elle est une fonction de certaines choses qui changent&gt;</p>
+          <p rend="noindent">elle se confond avec lui. Elle est caractérisée par <hi rend="i">ce fait</hi> <hi rend="u"><hi rend="i">donné que un</hi></hi> état quelconque est connu immédiatement.</p>
+          <p><pb n="C.I.146"/>J’appelle succession des états mentaux un certain état – oui !</p>
+          <p rend="noindent">————————————————————————————————————</p>
+          <p>La succession est marquée par les différences d’une certaine fonction –</p>
+          <p>Il y a succession parce que les états sont différents, en ce sens qu’ils ne peuvent coexister et <hi rend="u"><hi rend="i">par ce fait même</hi></hi>.</p>
+          <p>Une certaine opération constate les différences.</p>
+          <p>Les États se succèdent par rapport à quelque chose de <hi rend="u"><hi rend="i">fixe</hi></hi>.</p>
+          <p rend="noindent">————————————————————————————————————</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f11.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-06r</term>
+        </index>
+        <div>
+          <head>* « B. La phrase. »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-06r/015</term>
+          </index>
+          <p rend="noindent0400">B. La phrase.</p>
+          <p rend="noindent0450">——</p>
+          <p/>
+          <p>Étude descriptive –</p>
+          <p>succession, <del>groupe</del></p>
+          <p>fonction du temps</p>
+          <p>groupe en mouvement,</p>
+          <p><pb n="C.I.242"/>Étude d’un groupe de mots, liaisons.</p>
+          <p>Réversibilité, combinaisons totales.</p>
+          <p rend="noindent0500">—</p>
+          <p>Conditions nécessaires de la phrase –</p>
+          <p>——————————————————————</p>
+          <p>(K) Phrase élémentaire. Définition.</p>
+          <p>Invariants de cet élément.</p>
+          <p>Étude de la transformation de la phrase ordinaire en phénomènes mentaux.</p>
+          <p rend="noindent0500">—</p>
+          <p>Étude de la position dans la phrase. –</p>
+          <p rend="noindent0500">—</p>
+          <p>Mots de liaison. Accords.</p>
+          <p rend="noindent0500">——</p>
+          <p>Étude psychologique.</p>
+          <p>La phrase en tant que changement de configuration d’un système préexistant.</p>
+          <p>Déduction - travail - potentiel - différences.</p>
+          <p>Méthode des variations dans la phrase.</p>
+          <p>Application de la théorie des <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">degrés de symétrie</ref>.</p>
+          <p rend="noindent">(voir K) Degrés de liberté dans une phrase – dans le langage en général.</p>
+          <p rend="noindent0150">Expressions fonctionnelles.</p>
+          <p rend="noindent0500">——</p>
+          <p>Extensions.</p>
+          <p>Conception et construction des phrases.</p>
+          <p>Déterminations imposées, littérature + ou - <hi rend="u"><hi rend="i">libre</hi></hi> -</p>
+          <p rend="noindent0500">—</p>
+          <p><pb n="C.I.147"/>Déformation vocale des significations par le ton de la voix.</p>
+          <p>Limites de cette action.</p>
+          <p rend="noindent0500">——</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f12.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">6v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-06v</term>
+        </index>
+        <div>
+          <head>* « Considérer alors la logique… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-06v/016</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.243"/><pb/>Considérer alors la logique</p>
+          <p>possible parce qu’il y a langage</p>
+          <p rend="noindent">c’est-à-dire fixation.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f13.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Pour produire tel mot il faut qu’un quantum soit atteint… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-07r/017</term>
+          </index>
+          <p>Pour produire tel mot il faut qu’un quantum soit atteint. Quand on nous le donne, on nous replace dans la situation où nous serions en le <hi rend="i">trouvant</hi>.</p>
+          <p>Pour dire une phrase il faut avoir connaissance d’une certaine quantité de pensée (à exprimer), la supposer finie et arrêtée : tâcher de placer l’auditeur dans la même situation, donc le problème est de placer l’auditeur dans une situation mentale <hi rend="i">égale</hi> (autant que possible) à celle finie et connue entièrement où l’on a été et qu’on suppose <hi rend="u"><hi rend="i">fixe</hi></hi>.</p>
+          <p>Or pour résoudre le problème il faut 1º connaître cette situation initiale propre – 2º la fixer. – 3º la transformer en symboles verbaux. 4º l’organiser suivant une audition grammaticale – 5º la proférer.</p>
+          <p>Problème. II Étant donné un ensemble de connaissance le diviser en mots.</p>
+          <p>Chaque mot = n phénomènes mentaux (ou objets) il est invariable pour n à + ou – de ces phénomènes mentaux.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f15.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-08r</term>
+        </index>
+        <div>
+          <head>* « Sur la Notation de la Pensée »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-08r/018</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.149"/><pb/>Sur la Notation de la Pensée 
+<lb/>——</p>
+          <p>La logique atteint la pensée par le langage, mais relativement au Principe de Contradiction. Un syllogisme <hi rend="i">renversé</hi> A E E &lt; E E A</p>
+          <p/>
+          <p>Si on avait une notation</p>
+          <p/>
+          <p>Étant donnée une suite indéfinie de propositions, constituant une série de syllogismes valides, et si les propositions initiales composant le 1<hi rend="sup">er</hi> syllogisme <hi rend="i">expriment</hi> exactement certaines propriétés de la réalité –, une proposition quelconque correspondra à une propriété de la réalité<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p><pb n="C.I.244"/>Il faudrait démontrer que les variations de toute nature dans la réalité (ou les faits) laissent invariable <hi rend="i">quelque chose</hi>, ou qu’elles ne peuvent se produire que conformément à une logique rigoureuse –</p>
+          <p>[Graphique.] Il faudrait expliquer le mot souligné, <hi rend="i">(expriment)</hi>.</p>
+          <p>Il y aurait alors dans l’étude du champ de connaissance à établir les liaisons entre les 2 ordres de variation.</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">On a d’abord</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>(</cell>
+              <cell>
+                <p rend="noindent">
+                  <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I+R = K</ref>
+                </p>
+                <p rend="noindent">dI = − dR</p>
+                <p/>
+              </cell>
+              <cell>)</cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent">(1)</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p>On aurait ensuite : I = φ(R) &lt;ou I = φ(ΣR)&gt; R = Σ r<hi rend="sub">1</hi> r<hi rend="sub">2</hi> r<hi rend="sub">n</hi></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f19.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-09r</term>
+        </index>
+        <div>
+          <head>* « Expériences de variations psychologiques pour une classification… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-09r/018</term>
+          </index>
+          <p><pb n="C.I.151"/><pb/>[Expériences de variations psychologiques pour une classification id. des substantifs –</p>
+          <p rend="noindent center">(Dimensions)</p>
+          <table>
+            <row>
+              <cell/>
+              <cell>images</cell>
+              <cell>concepts</cell>
+              <cell>Référence Commune</cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">arbre</p>
+                <p rend="noindent">rougeur</p>
+                <p rend="noindent">valeur</p>
+                <p rend="noindent">raison</p>
+                <p rend="noindent">mouvement</p>
+                <p rend="noindent">paroi</p>
+                <p rend="noindent">ciel</p>
+                <p rend="noindent">ivresse</p>
+                <p rend="noindent">Dieu</p>
+                <p rend="noindent">esprit</p>
+                <p rend="noindent">définition</p>
+                <p rend="noindent">calcul</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n − m(= 1)</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent">0</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">n</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent">0</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent">r.c.</p>
+                <p rend="noindent">r.c.</p>
+                <p rend="noindent">≡</p>
+                <p rend="noindent">≡</p>
+                <p rend="noindent">r.c.</p>
+                <p rend="noindent">id.</p>
+                <p rend="noindent">id.</p>
+                <p rend="noindent">id.</p>
+                <p rend="noindent">≡</p>
+                <p rend="noindent">≡</p>
+                <p rend="noindent">r.c.</p>
+                <p rend="noindent">r.c.<note place="bottom">Feuille volante.</note>]</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f21.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-10r</term>
+        </index>
+        <div>
+          <head>* « Loi de spécialité »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-10r/019</term>
+          </index>
+          <p><pb n="C.I.245"/><pb/>[<hi rend="u">Loi de spécialité</hi></p>
+          <p>tendance aux trucs invariables</p>
+          <p rend="noindent0150">dulcior, <hi rend="i">magis</hi> dulcis<note place="bottom"><hi rend="i">Dulcior</hi> est le comparatif de <hi rend="i">dulcis</hi> (doux) ; <hi rend="i">magis</hi> signifie <hi rend="i">plus que</hi>.</note></p>
+          <p rend="noindent0150">Magis perd son sens après avoir été ballotté dans 1.000 groupes.</p>
+          <p>Suppression des cas, emploi des prépositions.</p>
+          <p rend="noindent0500">——</p>
+          <p>Loi de répartition</p>
+          <p>(a-synonymie)</p>
+          <p/>
+          <p>Irradiation<note place="bottom">Feuille volante. « La loi de spécialité », « La loi de répartition » et « L’irradiation » sont des titres de chapitres du livre de Bréal.</note>]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f23.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-11r</term>
+        </index>
+        <div>
+          <head>* « Plaçons sur la même surface plane les 2 ordres de phénomènes… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-11r/020</term>
+          </index>
+          <p rend="noindent">Plaçons sur la même surface plane les 2 ordres de phénomènes.</p>
+          <p rend="noindent">Nous supposons la surface totale limitée – [Croquis]</p>
+          <p rend="noindent">Les portions verbo-physiques – seront liées à des portions mentales.</p>
+          <p>Il faudrait pour cette étude trouver une représentation très nette du Champ de connaissance.</p>
+          <p>——————————————————————————————————</p>
+          <p rend="noindent"><pb n="C.I.148"/>En somme, si l’<hi rend="i">on</hi> avait une bonne représentation dudit Champ permettant l’étude des <hi rend="i">2 ordres combinés</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi£">φ</ref> et les <hi rend="i">substitutions</hi> et les <hi rend="i">groupes</hi> on aurait un <hi rend="u"><hi rend="i">instrument</hi></hi> incomparable<note place="bottom">[MARGIN] Passage souligné en marge.</note> ↓ —</p>
+          <p>———————————————————————————————————</p>
+          <p>En effet, toute explication d’un phénomène est une combinaison de phénomènes mentaux : tout ce qui est est A ou B, I ou <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> ; l’existence est de mitiger ces deux séries en des proportions variables ; <hi rend="i">l’art en général consiste à déterminer certains</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref><hi rend="i"> par certains</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> – ou (avec une belle <hi rend="i">perspective</hi>) <hi rend="u"><hi rend="i">à former, à prévoir un groupe</hi><hi rend="i">homogène</hi><hi rend="i"> de φ et de</hi><hi rend="i">ψ</hi></hi>.</p>
+          <p>La relation fondamentale <hi rend="u"><hi rend="i">devrait</hi></hi> être une certaine</p>
+          <p rend="noindent">(voir page précédente<note place="bottom">Cette page manque dans le cahier.</note>).</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f25.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">12r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-12r</term>
+        </index>
+        <div>
+          <head>* « Si on reconstituait tous les termes (hypothétiques en détail) probables… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-12r/021</term>
+          </index>
+          <p><pb n="C.I.246"/><pb/>Si on reconstituait tous les termes (hypothétiques en détail) probables entre un état mental et sa transcription verbale, – [inachevé]</p>
+          <p/>
+          <p>Le langage reproduit grossièrement certaines propriétés mentales</p>
+          <p>ainsi l’association des idées –</p>
+          <p>Les lois du langage sont réciproques à certaines lois de l’association-théorie des passages.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Dans le langage algébrique toute combinaison est plausible – »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-12r/022</term>
+          </index>
+          <p>Dans le langage algébrique toute combinaison est plausible –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f26.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">12v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-12v</term>
+        </index>
+        <div>
+          <head>* « Une phrase “successive” donnant un état instantané… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-12v/023</term>
+          </index>
+          <p/>
+          <p/>
+          <p>Une phrase « successive » donnant un état instantané. Elle crée la succession de cet ensemble.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f27.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">13r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-13r</term>
+        </index>
+        <div>
+          <head>* « Phrases »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-13r/024</term>
+          </index>
+          <p rend="noindent0400"><pb n="C.I.149"/><pb/>Phrases</p>
+          <p rend="noindent0500">—</p>
+          <p/>
+          <p>Toute phrase nous soumet à un travail entre des éléments <hi rend="i">fournis</hi> par nous et <hi rend="i">disposés</hi> par un autre.</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f29.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">14r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-14r</term>
+        </index>
+        <div>
+          <head>* « Remplacement d’une chose par une autre… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-14r/025</term>
+          </index>
+          <p>Remplacement d’une chose par une autre qui n’a pas avec la 1<hi rend="sup">re</hi> un lien rationnel et même concevable.</p>
+          <ab type="ornament">——</ab>
+          <p>Discontinu du langage – continu du non langage.</p>
+          <ab type="ornament">——</ab>
+          <p>Il commence par simplifier les phénomènes mentaux.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110187m/f32.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">15v-16r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-15v-16r</term>
+        </index>
+        <div>
+          <head>* « En résumé : il y a une certaine indépendance entre ce qui est écrit ou lu… »</head>
+          <index>
+            <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage/fol-15v-16r/026</term>
+          </index>
+          <p/>
+          <p/>
+          <p><pb n="C.I.150 C.I.247"/><pb/>En résumé : il y a une certaine indépendance entre ce qui est écrit ou lu et ce qui est pensé par l’écrivain ou par son lecteur.</p>
+          <p>a) Le mot joue un rôle identique par rapport à toute une classe d’états différents vis-à-vis desquels il se comporte indifféremment.</p>
+          <p>Donc à chaque mot correspondent N déterminations possibles.</p>
+          <p>Toutefois il y a un élément fixe. Toutes les déterminations de la même classe comprennent une constante commune, μ = ψ(x) + k = φ(x) + k ; etc.</p>
+          <p>Le langage par rapport à une pensée qu’il <hi rend="i">exprime</hi> et à une autre qui le reçoit est une sorte de moyenne. Il forme avec la réalité un ensemble particulier.</p>
+          <p><hi rend="i">C’est une portion + commode de la réalité, la + commode</hi> ;</p>
+          <p rend="noindent">b) La théorie du langage est le résumé des lois suivant lesquelles se succèdent concomitamment les phénomènes verbaux et les phénomènes mentaux (en établissant entre eux une correspondance purement mathématique). – C’est de cette série double qu’il faut déduire les propriétés et les formes du langage.</p>
+          <p rend="noindent">c) La forme d’une phrase est proportionnée aux éléments supposés communs des correspondants.</p>
+          <p rend="noindent">b′) Le langage n’est pas la reproduction de la pensée, il ne connaît pas des phénomènes mentaux réels – mais bien d’une conception simplifiée et très lointaine de ces phénomènes. Il est impossible de remonter du langage à la pensée, autrement que par probabilités).</p>
+          <p rend="noindent">d) Extension des propriétés du langage – littérature<note place="bottom">Dans son <hi rend="i">Essai sur Mallarmé</hi> qui date aussi de 1897, Valéry écrit : « Je prends la littérature pour une extension des propriétés du langage (<hi rend="i">Cahiers 1894-1914</hi>, t. II, p. 279). La formule reviendra quasi identique en 1937 dans « De l’enseignement de la poétique au Collège de France » (Œ.III.947).</note>.</p>
+          <p rend="noindent">e) Il y a lieu de l’étudier dans un espace à 1 dimension.</p>
+          <ab type="ornament">——</ab>
+          <p rend="noindent">f) Importance toujours croissante du « tout fait » en matière de langage.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

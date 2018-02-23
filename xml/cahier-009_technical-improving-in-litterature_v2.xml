@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:14:04+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Technical improving in littérature</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19213. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f1.image">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Technical improving in littérature</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-01r</term>
+        </index>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.264"/>
+          </p>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent0400">Technical improving in littérature<note place="bottom">Amélioration technique en littérature. Le cahier est constitué de feuilles de papier du ministère de la Guerre.</note></p>
+          <p/>
+          <p rend="noindent0700">— etc</p>
+          <p/>
+          <p rend="noindent0700">….</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f3.image">
+            <seg rend="lienhypertexte">[Fol. 2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Littérature – … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-02r/002</term>
+          </index>
+          <p><pb n="C.I.265"/><pb/>Littérature –</p>
+          <p>—</p>
+          <p/>
+          <p rend="noindent">Courbe du maximum<note place="bottom">Une flèche renvoie à « Interventions » (en dessous).</note> de plaisir à tel sujet.</p>
+          <p rend="noindent">Courbe du maximum de clarté et de division… dº –</p>
+          <p/>
+          <p rend="noindent0300">Interventions.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f5.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-03r</term>
+        </index>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme"><seg rend="lienhypertexte">Mallarmé</seg></ref> (« Sur “le coup de dés” »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-03r/003</term>
+          </index>
+          <p rend="noindent center">Sur « le coup de dés<note place="bottom">C’est le 30 mars 1897 que Mallarmé lit à Valéry son poème et lui fait cadeau des épreuves. Voir « Le Coup de dés » (Œ.I.1197-1209).</note> »</p>
+          <p/>
+          <p/>
+          <p>Littérature courante – fait du temps gris, nul, sans effort – ; plus élevée, se trouve dans l’embarras – pour <hi rend="i">cela</hi> qui est indispensable aux effets et à la conduite psychologique de l’œuvre.</p>
+          <p><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm">S. M.</ref> [Stéphane Mallarmé] y a mis des blancs.</p>
+          <p rend="noindent">Le problème demeure.</p>
+          <p>Heureuse musique – avec ses dessins reproductibles –</p>
+          <ab type="ornament">——</ab>
+          <p>Mais pourquoi cet embarras en littérature ?</p>
+          <p>Le mot demande donc la marche en… <hi rend="i">avant</hi> ?</p>
+          <p>Pourquoi ne permet-il pas une certaine attente, ni les répétitions – Même répété <hi rend="i">un peu</hi> comme on le fait il va plus vite que sa répétition. Il ne demeure pas dans les sens (cf. erreur du sonore) – et devant ce à quoi il s’adresse <hi rend="i">il n’y a pas de répétition</hi>.</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f7.image">
+            <seg rend="lienhypertexte">[Fol. 4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Trajets transcendants en littérature – »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-04r/004</term>
+          </index>
+          <p>Trajets transcendants en littérature –</p>
+          <p>Union dans le même ensemble transcendant de résultats de divers ordres relatifs à une même chose –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f9.image">
+            <seg rend="lienhypertexte">[Fol. 5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-05r</term>
+        </index>
+        <div>
+          <head>* « Sur Mallarmé — »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-05r/005</term>
+          </index>
+          <p/>
+          <p rend="noindent0250"><pb n="C.I.266"/><pb/>Sur Mallarmé –—</p>
+          <p/>
+          <p>— La pensée – avec ses trous, échappatoires, insinuations neuves et ses fils distincts <hi rend="i">non interrompus par les interruptions</hi> les plus irréductibles –</p>
+          <p>est le style – à condition –</p>
+          <p rend="noindent">de se rappeler (et lutter contre) – quelle distance demeure absolue entre les éléments de l’une et ceux de l’autre –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f13.image">
+            <seg rend="lienhypertexte">[Fol. 7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r</term>
+        </index>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner"><seg rend="lienhypertexte">Wagner</seg></ref> (« Wagner – introduit dans le drame la symphonie… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/006</term>
+          </index>
+          <p>Wagner – introduit dans le drame la symphonie – et précise l’une et enveloppe l’autre. Il généralise donc chaque acte dramatique et donne d’autre part une certaine <hi rend="i">clef</hi> de la musique. La crédibilité chez lui consiste à perfectionner le système de correspondance – à lier plus étroitement le sujet et le drame et les sensations entre eux.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « En littérature on a tenté de se servir des philosophies… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/007</term>
+          </index>
+          <p>En littérature on a tenté de se servir des philosophies – mais résultats incomplets par défaut d’une psychologie assez rigoureuse. Néanmoins Poe, Rimbaud, Mallarmé – ont vu la voie – et ont démontré la possibilité.</p>
+          <p>Il s’agit de trouver les moyens techniques. – Le leitmotiv est aussi pauvre que possible en littérature –</p>
+          <p>ДОСТОЕВСКИЙ<note place="bottom">« Dostoïevsky »  en caractères cyrilliques. Dans la pension de la rue Gay-Lussac où il logeait, Valéry avait des amis russes et avait commencé à apprendre des rudiments de leur langue.</note></p>
+          <p/>
+        </div>
+        <div>
+          <head>* « On peut déterminer les conditions d’un art plus satisfaisant… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/008</term>
+          </index>
+          <p>On peut déterminer les conditions d’un art plus satisfaisant. Il ne faut pas oublier que la formule brutale est la suivante : Enrichir du plus grand nombre de combinaisons mentales possibles ; à condition d’augmenter proportionnellement la crédibilité. Tout ceci existant dans les limites du langage.</p>
+          <p/>
+          <p>On pourrait écrire cette – équation :</p>
+          <p>Un certain effet (d’origine écrite) produit par une symétrie, une suite d’heureuses coïncidences, un ordre etc., dans une œuvre aussi imaginative qu’on <pb n="C.I.267"/>voudra = un certain effet produit par un fait divers très réaliste, et éminemment croyable. Ou bien la coordination des parties et des effets d’une œuvre toute formelle – égale – l’incoordination et la vraisemblance (effets) d’une œuvre très significative.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f17.image">
+            <seg rend="lienhypertexte">[Fol. 9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-09r</term>
+        </index>
+        <div>
+          <head>* « Un drame est un rêve – si l’on parvient à y croire… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-09r/009</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p>Un drame est un rêve – si l’on parvient à y croire et l’on y parvient.</p>
+          <p>En général tout fait extraordinaire auquel on assiste – devient rêve – et lorsqu’on s’en souvient, c’est d’un rêve.</p>
+          <ab type="ornament">——</ab>
+          <p>Un drame dont l’acte P est tel : Alpha s’endort, elle voit en rêve tout l’acte qui est joué derrière elle par la troupe. Mais que ce soit un rêve tout en se liant au drame. C’est-à-dire lier les états de cette scène comme sont liés les états du rêve.</p>
+          <p>d’abord apparition de ceci – puis de cela – obscurité, changements, présence d’elle-même qui va ou se mêler au rêve ou y est représentée par une sosie –</p>
+          <p>x Chercher ce qu’on ne peut faire ou poser qu’ainsi.</p>
+          <table>
+            <row>
+              <cell>En vers ?</cell>
+              <cell>
+                <p rend="noindent">elle s’endort</p>
+                <p rend="noindent">obscurcissement de la scène,</p>
+                <p rend="noindent">d’abord pantomime</p>
+                <p rend="noindent">puis discours.</p>
+                <p rend="noindent">aboutissement enfin du rêve.</p>
+                <p rend="noindent">résolution. Non grossièrement par crédibilité au rêve, mais par association d’idées.</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f21.image">
+            <seg rend="lienhypertexte">[Fol. 11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11r</term>
+        </index>
+        <div>
+          <head>* « Génie, nature, émerveillements, surabondance, etc. … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11r/010</term>
+          </index>
+          <p>[Génie, nature, émerveillements,</p>
+          <p>surabondance etc.</p>
+          <p>non absolument faux –</p>
+          <p>effets certains – mais à mieux</p>
+          <p>étudier<note place="bottom">Feuille volante.</note> –]</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f22.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">11v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11v</term>
+        </index>
+        <div>
+          <head>* [Petite feuille volante de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11v/011</term>
+          </index>
+          <p rend="noindent center">[Petite feuille volante de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f23.image">
+            <seg rend="lienhypertexte">[Fol. 12r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r</term>
+        </index>
+        <div>
+          <head>* « Tous les hommes sont mortels… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r/012</term>
+          </index>
+          <p><pb n="C.I.268"/><pb/>Tous les hommes sont mortels</p>
+          <p>Socrate est <hi rend="i">homme</hi> con A.</p>
+          <p>Socrate est mortel ab a.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « α. Il marche… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r/013</term>
+          </index>
+          <p rend="noindent0300">α. <space>   </space>Il marche</p>
+          <p rend="noindent0300"><space>       </space>Il est marchant</p>
+          <p rend="noindent0300"><space>       </space>Il est étant march<hi rend="i">ant</hi></p>
+          <p/>
+          <p rend="noindent">Je puis marcher</p>
+          <p rend="noindent">Je puis imaginer que je marche</p>
+          <p/>
+          <p>[Dessin] il <space>         </space>marcher</p>
+          <p>image <space>                </space>marcher <space>        </space>c’est moi qui marche</p>
+          <p rend="noindent0700">et <hi rend="i">j’ajoute il</hi>.</p>
+          <p rend="noindent0400">pour comprendre cela il faut,</p>
+          <p rend="noindent0400">les mots étant compris –</p>
+          <p rend="noindent0400">arbre c’est celui que <hi rend="i">j’ai</hi> vu</p>
+          <p rend="noindent0400">marcher c’est <hi rend="i">ma</hi> marche</p>
+          <p rend="noindent0400">il c’est l’homme que j’ai vu – –</p>
+          <p rend="noindent0400">il faut rapporter</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f24.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">12v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12v/014</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f25.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">13r]</seg>
+          </ref>
+        </head>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-13r/015</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f27.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">14r]</seg>
+          </ref>
+        </head>
+        <div>
+          <head>* « The Way to Uebermensch. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-14r/016</term>
+          </index>
+          <p>[The Way to Uebermensch<note place="bottom">La voie vers le surhomme. <hi rend="i">Ainsi parlait Zarathoustra</hi> est traduit par Henri Albert, ami de Valéry, en 1898.</note>.</p>
+          <p rend="noindent0250">——</p>
+          <p>La littérature – ou plutôt l’opus litterarum<note place="bottom">L’ouvrage de lettres.</note> est une formule de transformations adéquate à l’esprit courant et qui occasionne p. transformations de cet esprit. Elle le mène de a<hi rend="sub">1</hi> à a<pb n="" ana="src" xml:id="p"/> par une série d’états. Ces états peuvent être neufs – leurs éléments d’un certain ordre sont connus. L’écrit ne fournit que l’ordre.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « De la <hi rend="i">prédiction</hi> en littérature – »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-14r/017</term>
+          </index>
+          <p><pb n="C.I.269"/><pb/>De la <hi rend="i">prédiction</hi> en littérature –</p>
+          <p rend="noindent0150">loi de la certitude (inverse du temps considéré)</p>
+          <p rend="noindent0400">ε =1/t</p>
+          <p>Relation avec la compréhension<note place="bottom">Feuille volante.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f29.image">
+            <seg rend="lienhypertexte">[Fol. 15r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-15r</term>
+        </index>
+        <div>
+          <head>* « Littérature »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-15r/018</term>
+          </index>
+          <p>Littérature</p>
+          <p rend="noindent0150">—</p>
+          <p/>
+          <p rend="noindent">1. <space> </space><hi rend="i">Phrase</hi> – déterminée par ses éléments en position et en nombre – recherche de la disposition et du lien apparent.</p>
+          <p rend="noindent">2. <space> </space>dº déterminée par son ton – recherche de son développement.</p>
+          <p rend="noindent">3. <space> </space>dº déterminée par son sens seulement</p>
+          <p rend="noindent0200">a) sens = image. – mise en mots</p>
+          <p rend="noindent0200">b) sens = idées – <space>       </space>id. –</p>
+          <p/>
+          <table>
+            <row>
+              <cell>Rôle de l’intonation dans <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm">S. M.</ref> [Stéphane Mallarmé]</cell>
+              <cell>
+                <p>musique part de parole</p>
+                <p>intonation.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p rend="noindent">Loi : l’intonation ↓<note place="bottom">La flèche renvoie à « donc » (en dessous).</note> l’emporte sur le sens – si intonation contraire au sens</p>
+          <table>
+            <row>
+              <cell>
+                <p>nature de la relation intonation ??</p>
+                <p>donc elle semblerait moins arbitraire,</p>
+                <p rend="noindent">moins dissociable.</p>
+              </cell>
+              <cell>
+                <p rend="noindent">de plus l’intonation</p>
+                <p rend="noindent">ne se prête pas à la</p>
+                <p rend="noindent">simulation autant que</p>
+                <p rend="noindent">le langage</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent">Expression des sentiments : ou mieux des variations d’intensité  –</p>
+          <p>par le ton mille fois plus que par le sens.</p>
+          <p/>
+          <p>Nombre des phénomènes mentaux</p>
+          <p>donnés par unité de temps ?</p>
+          <p>Théorème. Tous les moyens de communication pour les autres valent d’abord pour soi.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f33.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">17r]</seg>
+          </ref>
+        </head>
+        <div>
+          <head>* « Directive »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-17r/019</term>
+          </index>
+          <p rend="noindent0350"><pb n="C.I.270"/><pb/>Directive</p>
+          <p rend="noindent0400">—</p>
+          <p/>
+          <p>L’homme en tant que puissance –</p>
+          <p>en tant que possibilité</p>
+          <p>en tant que facilité –</p>
+          <p/>
+          <p rend="noindent">Moi – incommensurable en certaines choses – commun en d’autres.</p>
+          <p/>
+          <p>Mille moi.</p>
+          <p/>
+          <p rend="noindent">Sommeils partiels.</p>
+          <p/>
+          <p rend="noindent0250">Les allures du moi actif, presto – – etc.</p>
+          <p/>
+          <p>Construction infinitésimale</p>
+          <p><space/> et par lois.</p>
+          <p/>
+          <p/>
+          <p>Peindre :</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">a) homme</p>
+                <p rend="noindent"><space> </space>seul</p>
+              </cell>
+              <cell>
+                <p rend="noindent">l’éclairement de l’esprit sur un point sans nouveaux éléments.</p>
+                <p rend="noindent">la trouvaille –</p>
+                <p rend="noindent">la non compréhension</p>
+                <p rend="noindent">l’excitation spirituelle etc.</p>
+                <p rend="noindent">le rêve – la rêverie –</p>
+                <p rend="noindent">la réflexion – telle qu’elle est</p>
+                <p rend="noindent">la contemplation passive –</p>
+                <p rend="noindent">l’introduction de nouveaux éléments –</p>
+                <p rend="noindent">sensation, éveil –</p>
+                <p rend="noindent">le malaise –  <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>. l’ennui –</p>
+                <p rend="noindent">la formation et la nomination d’un invariant.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">b) homme</p>
+                <p rend="noindent"><space> </space>multiple.</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">conversation</p>
+                <p rend="noindent">mensonges – etc.</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f35.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">18r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18r</term>
+        </index>
+        <div>
+          <head>* « Organes ou fonctions – exceptionnelles ou continuelles… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18r/020</term>
+          </index>
+          <p>[Organes ou fonctions – exceptionnelles</p>
+          <p rend="noindent0150">ou continuelles ou périodiques</p>
+          <p/>
+          <p rend="noindent">respiration – –</p>
+          <p rend="noindent">génération etc.</p>
+          <p/>
+          <p/>
+          <p>
+            <pb n="C.I.271"/>
+          </p>
+          <table>
+            <row>
+              <cell>États dº –</cell>
+              <cell>marche –</cell>
+            </row>
+            <row>
+              <cell>sommeil –</cell>
+              <cell>
+                <p rend="noindent"><space>     </space>decubitus<note place="bottom">En médecine, le décubitus est la position du corps allongé.</note> –</p>
+              </cell>
+            </row>
+            <row>
+              <cell>excitation –</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>digestion – etc.</cell>
+              <cell>la mort.</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+            </row>
+          </table>
+          <p rend="noindent">États de l’esprit et fonctions de l’esprit – dº</p>
+          <table>
+            <row>
+              <cell>constatation –</cell>
+              <cell>ennui.</cell>
+            </row>
+            <row>
+              <cell>invention, activité –</cell>
+              <cell>–</cell>
+            </row>
+            <row>
+              <cell>volition –</cell>
+              <cell>
+                <p rend="noindent">inconscience</p>
+                <p rend="noindent">perte de connaissance.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>impressions(temps – décor)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="noindent">Croissance<note place="bottom">Feuille volante.</note>]</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f36.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">18v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18v</term>
+        </index>
+        <div>
+          <head>* [Calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18v/021</term>
+          </index>
+          <p rend="noindent center">[Calculs au verso de la feuille volante qui précède]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f37.image">
+            <seg rend="lienhypertexte">[Fol. 19r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-19r</term>
+        </index>
+        <div>
+          <head>* « du jour où l’on distingue bien le thème… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-19r/022</term>
+          </index>
+          <p>du jour où l’on distingue bien le thème  – et les thèmes – de leur expression ! – – tout</p>
+          <p/>
+          <p/>
+          <p>Littérature</p>
+          <p/>
+          <p rend="noindent">où la mode est impossible</p>
+          <p rend="noindent">où ce ruisseau de syllogismes, de métaphores, de coq-à-l’âne, de réunions et de transformations, une fois bien compris est refait en sachant qu’on fait des syllogismes, des métaphores etc. –</p>
+          <p rend="noindent">où l’orchestre est enfin recréé divisé – l’esprit vu dans ses linéaments, l’esprit de l’auteur imaginé en même temps que le conte.</p>
+          <p rend="noindent">On fuit toujours l’expression <hi rend="i">originale</hi> c’est-à-dire exacte de sa pensée. Elle paraît ou devoir être incomprise, ou non usitée, = devant attirer l’attention sur autre chose que l’idée qu’on a à dire.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:30:15+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cahier sans titre (« 3 »)</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19223. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f1.image">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1898"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Cahier sans titre (« 3 »)</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-01r</term>
+        </index>
+        <div>
+          <head>* 1898<term rend="index" key="1898"/> (« Summer 98 1898 3 »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-01r/001</term>
+          </index>
+          <p/>
+          <p rend="noindent center">Summer 98<note place="bottom">Été 98 (de la main de Valéry). On notera que, en dépit de cette date, Valéry, sans doute pour des raisons thématiques, a classé ce Cahier après le numéro 2 achevé en octobre.</note></p>
+          <p/>
+          <dateline>1898<note place="bottom">De la main de Mme Valéry.</note></dateline>
+          <p/>
+          <p rend="noindent center">3<note place="bottom">Cet ensemble de feuillets du ministère de la Guerre ne porte pas de titre, mais seulement ce numéro. Sur la couverture, Valéry a recopié maladroitement une partie de la dédicace que le docteur Mardrus avait inscrite en arabe dans le cahier <hi rend="i">Tabulae</hi>.</note></p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Géométrie Imaginative »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-01r/002</term>
+          </index>
+          <p>Géométrie Imaginative<note place="bottom">Ces deux mots (abrégés et tracés au crayon) ont sans doute été ajoutés ultérieurement.</note></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f3.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Il y a deux domaines de la conscience, φ et ψ… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-02r/003</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.454C.III.147"/>Il y a deux domaines de la conscience, <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>. et deux seuls, mais pour les besoins d’expliquer on est obligé d’en supposer un 3<hi rend="sup">me</hi>, le domaine inconscient [c’est-à-dire du <hi rend="i">développement après coup</hi> ou de <hi rend="i">la conscience après coup</hi>], qui n’a aucune existence distincte des 2 autres.</p>
+          <p>Dans la même 3<hi rend="sup">me</hi> partie se range le potentiel mental qu’on est également forcé de mettre en jeu (sans admettre son existence).</p>
+          <p>Mais la question est de savoir ce qu’on veut employer pour expliquer (c’est-à-dire en psychologie analytique pour réduire toute espèce à des variables déterminées en nombre fini et à des opérations également déterminées). Enfin résultat pratique à avoir. Mon invention de la décomposition en « temps » est très grave pour toute explication.</p>
+          <p/>
+          <p/>
+          <p rend="noindent0700">ce que <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> devient en <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref></p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La moitié de la recherche humaine sinon toute… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-02r/004</term>
+          </index>
+          <p>La moitié de la recherche humaine sinon toute est de chercher des procédés de transformation –</p>
+          <p>d’idées en paroles, de sensations en idées, de sensations en sensations, d’idées en idées – idées en sensations (volonté action pouvoir)</p>
+          <p>de groupes de ces choses entre autres groupes.</p>
+          <p rend="noindent">Nous cherchons même instinctivement à prédire et à faire l’avenir, à être les maîtres du changement.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f4.image">
+            <seg rend="lienhypertexte">[Fol. 2v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-02v</term>
+        </index>
+        <div>
+          <head>* « <del>Servant</del> Thème… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-02v/005</term>
+          </index>
+          <p rend="noindent"><del>Servant</del><note place="bottom">Domestique.</note> Thème</p>
+          <p rend="noindent">esclave le jour</p>
+          <p rend="noindent">maître la nuit ou maîtresse<note place="bottom">Deux lignes à demi encerclées.</note></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f5.image">
+            <seg rend="lienhypertexte">[Fol. 3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-03r</term>
+        </index>
+        <div>
+          <head>* [Calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-03r/006</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">[Calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f6.image">
+            <seg rend="lienhypertexte">[Fol. 3v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-03v</term>
+        </index>
+        <div>
+          <head>* « ABABAB… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-03v/007</term>
+          </index>
+          <p>
+            <pb n="C.I.455 C.III.148"/>
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">ABABAB</p>
+                <p rend="noindent"/>
+                <p rend="noindent0200">CDCD</p>
+                <p rend="noindent"/>
+                <p rend="noindent0300">U – dU<note place="bottom">Une flèche relie la première ligne à la deuxième, une autre la deuxième à la troisième.</note></p>
+              </cell>
+              <cell>
+                <p><hi rend="i">Relations symboliques</hi> – Les symboliques – <space>    </space>ont déjà eu lieu – les autres se créent.</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"><space>          </space>A ≡ B(mod. t</p>
+          <p rend="noindent"><space>       </space><space> </space>B ≡ A(mod. t′ } (1)</p>
+          <p rend="noindent">mais alors il n’y aurait plus de raison pour en finir. La pensée serait ABAB etc.</p>
+          <p>Il faut donner la porte. C’est le mouvement perpétuel à démolir.</p>
+          <p rend="noindent">Il faut que (A/B) t<hi rend="sub">a</hi> ne puisse pas retomber indéfiniment dans (B/A) t<hi rend="sub">a + 1</hi> sans quoi la pensée est impossible.</p>
+          <table>
+            <row>
+              <cell>
+                <p>La résolution doit se trouver dans l’étude de l’association d’ensemble – B est enveloppé dans un ensemble.</p>
+                <p rend="noindent">Peut-être le second A est-il négligé comme trop voisin du 1<hi rend="sup">er</hi>.</p>
+              </cell>
+              <cell>(N.B. que serait la loi de conservation physique si le système existait par couches non de point à point se comportant différemment par rapport aux différentes sortes d’énergie.)</cell>
+            </row>
+          </table>
+          <p rend="noindent"><space>     </space>Peut-être A n’est pas à B comme B est à A et la réversibilité n’est pas complète – uniforme –</p>
+          <p rend="noindent">systèmes auto-réversibles –</p>
+          <p>Peut-être aussi que par ce fait déjà double : A<hi rend="sub">1</hi> B<hi rend="sub">2</hi></p>
+          <p>la solution n’est plus entière ?</p>
+          <p>Voyons.</p>
+          <p rend="noindent">Si A = Bm (1) c’est que A et B ont subi un rapprochement, un groupement par épreuves successives.</p>
+          <p/>
+          <table>
+            <row>
+              <cell rows="3">{</cell>
+              <cell>
+                <p rend="noindent"><space>  </space>ou idée</p>
+                <p rend="noindent">image de A</p>
+              </cell>
+            </row>
+            <row>
+              <cell>objet A</cell>
+            </row>
+            <row>
+              <cell>nom de A</cell>
+            </row>
+          </table>
+          <p/>
+          <p rend="noindent">Ver <hi rend="i">luisant</hi> intellectuel – à voir –</p>
+          <p rend="noindent">A suit B accidentellement sans déformations réciproques <hi rend="i">utiles –</hi></p>
+          <p/>
+          <p>Dans le cas de relations rationnelles, A n’a pas besoin de <hi rend="u"><hi rend="i">contiguïté avec B</hi></hi> – mais l’opération de former A <hi rend="i">ressemble</hi> à celle de former <hi rend="i">B</hi>.</p>
+          <p>Dans le cas de relations symboliques – A doit être confronté avec B / et dans ce monde-là pas de réversibilité, asymétrie de position de A et de B – Mais <hi rend="i">nunc</hi><note place="bottom">Maintenant.</note> ? / ; <hi rend="i">donc initialement</hi> si A était donné par l’esprit, <hi rend="i">B</hi> l’est par la <hi rend="i">sensation</hi>, ou bien tous 2 dans la sensation. Le voisinage sera dit « dans la sphère intégrale » ; il faut de plus que cet A ne puisse se ramener à ce B – qu’ils soient irréductibles.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f7.image">
+            <seg rend="lienhypertexte">[Fol. 4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-04r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u">A/B</hi> Donc – si 2 choses ont fait partie du même ensemble… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-04r/008</term>
+          </index>
+          <p/>
+          <p rend="noindent">
+            <hi rend="u">A/B</hi>
+          </p>
+          <p>Donc – si 2 choses ont fait partie du même ensemble ou sphère l’une évoque l’autre –</p>
+          <p rend="noindent"><pb n="C.I.456"/>mais quid de l’intervalle de temps entre elles ?</p>
+          <p rend="noindent">Théorème essayé. L’élément de temps de la pensée est le temps nécessaire pour que 2 choses qui s’y produisent successivement soient <hi rend="i">dorénavant</hi> associées (sans intermédiaire).</p>
+          <p><pb n="C.III.149"/><pb/>Ce théorème est faux, mais il y a un <hi rend="i">temps</hi> d’association (cf. temps de phrase), une zone dans l’intérieur de laquelle elle est possible.</p>
+          <p rend="noindent">[Dessin] <hi rend="i">Continuité associative irrationnelle. –</hi></p>
+          <p/>
+          <p rend="noindent">Mais cette association cependant peut se comporter différemment vis-à-vis du temps. Elle peut avoir lieu entre 2 choses séparées par beaucoup de temps (relativement) ( ???)</p>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Théorème – Quand un objet A situé à une distance 1 ou t d’un objet B évoque B, si 1 ou t &gt; ε et qu’il n’y ait pas entre A, B de relations rationnelles, alors il y a des termes entre A et B.</p>
+                <p rend="noindent">(1) cas où A = φ     B = <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref></p>
+                <p rend="noindent">(2) cas où A = φ      B = <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref></p>
+              </cell>
+              <cell>
+                <p>La question est de savoir quels sont les rapports de la pensée et de son contenu.</p>
+                <p>C’est la psychologie formelle<note place="bottom">Le passage est encadré.</note>.</p>
+                <p/>
+                <p rend="noindent">Passage de la partie au tout</p>
+                <p rend="noindent">2 sortes, symboliques ou rationnelles – <hi rend="i">syllogisme</hi> etc.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p rend="noindent0800"><space>     </space>Théorème. (U : X) Irréversibilité des groupes (φ<hi rend="sub">1</hi> ψ<hi rend="sub">1</hi>) (φ<hi rend="sub">1</hi> φ<hi rend="sub">2</hi>). Voir aussi recherches précédentes sur le 2<hi rend="sup">me</hi> phénomène de connaissance qui est toujours psychique.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f10.image">
+            <seg rend="lienhypertexte">[Fol. 5v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-05v</term>
+        </index>
+        <div>
+          <head>* « Le mouvement et le changement sont des ensembles d’états… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-05v/009</term>
+          </index>
+          <p>Le mouvement et le changement sont des ensembles d’états (possibilité de former ces ensembles ou au contraire de définir un certain état comme fixe dans un changement continu ou continuel.)</p>
+          <p>Il y a certaines lois entre ces états, qui lient leurs substitutions entre elles.</p>
+          <p/>
+          <p>Le mouvement est transformable en excitation nerveuse et réciproquement.</p>
+          <p/>
+          <p><pb n="C.I.457"/>Abstraction liée à groupes.</p>
+          <p/>
+          <p>Certaines abstractions sortent de la déformation d’une image –</p>
+          <p><space>                                                       </space>relation rationnelle</p>
+          <p/>
+          <p rend="noindent">Exemple : chute d’un corps.</p>
+          <p rend="noindent">Soient p sensations telles qu’elles <del>re</del>constituent la chute de la pierre –</p>
+          <p rend="noindent">on dégagera l’idée de chute. Comment ?</p>
+          <p rend="noindent">si les sensations se suivent à certains intervalles</p>
+          <p rend="noindent"><pb n="C.III.150"/><pb/>si la pierre est invariable ou considérée telle, ainsi que les autres circonstances. Si nous reconnaissons l’indépendance de quelque chose avec le fait particulier.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f11.image">
+            <seg rend="lienhypertexte">[Fol. 6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-06r</term>
+        </index>
+        <div>
+          <head>* « (Physiologie des œuvres de l’homme) »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-06r/</term>
+          </index>
+          <p/>
+          <p rend="noindent">&lt;Résumé d’une série de recherches&gt;</p>
+          <p rend="noindent center">– (Physiologie des œuvres de l’homme)</p>
+          <p/>
+          <p>Si pour l’étude de l’esprit on prend comme données certaines déformations du milieu dit physique, et si on élimine la relation nécessaire entre ces déformations et les nécessités organiques de l’homme, en se bornant aux déformations arbitraires, on se trouve devant l’obligation de décomposer le donné de certaines façons pour pouvoir le relier à son propre esprit<note place="bottom">[MARGIN] Fin de paragraphe soulignée en marge.</note>.</p>
+          <p>D’abord on le fractionne de telle façon que les opérations nécessaires pour recommencer ce donné soient successives et dans un ordre déterminé.</p>
+          <p>De plus, on le fractionne de façon que chaque opération soit dans [<hi rend="i">une</hi>] certaine relation avec sa durée.</p>
+          <p>C’est ce qu’on pourrait appeler la reconstitution des incompatibilités de temps.</p>
+          <p rend="noindent"><pb n="C.I.458"/><pb/>– : 2 choses successivement possibles ou pensables ne le sont plus simultanément.</p>
+          <p>Psychologiquement une chose est définie par sa suite.</p>
+          <p rend="noindent">L’abstraction (classique) est la limite d’une série de transformations ou constructions. Elle remplace telle chose par une autre sans relations rationnelles avec la 1<hi rend="sup">re</hi>, mais qui conduit toujours <hi rend="i">vers</hi> la 1<hi rend="sup">re</hi><note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p rend="noindent">Tout ce qui pénètre dans un état peut le modifier tout entier.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f12.image">
+            <seg rend="lienhypertexte">[Fol. 6v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-06v</term>
+        </index>
+        <div>
+          <head>* « Tout état conduit à en former un autre… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-06v/010</term>
+          </index>
+          <p>Tout état conduit à en former un autre. Et la connaissance de ce premier résulte (1) de la construction des suivants. L’est.</p>
+          <p/>
+          <p rend="noindent">(1) Ça c’est la définition de la compréhension –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f13.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Preuves du temps ψ ou des états complétés pour pouvoir varier… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-07r/011</term>
+          </index>
+          <p/>
+          <p>Preuves du temps <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> ou des états complétés pour pouvoir varier.</p>
+          <ab type="ornament">—–</ab>
+          <p>Le principe de contradiction. <space>                                                               </space>[Dessins]</p>
+          <p rend="noindent">Le segment de compréhension des phrases.  Caractère additif de la langue</p>
+          <p>En général les degrés de la compréhension.</p>
+          <p rend="noindent"><pb n="C.III.151"/><pb/>La réflexion etc.</p>
+          <p rend="noindent">L’association etc. <space>           </space>Enfin dimension unique, et le travail mental.</p>
+          <p rend="noindent">A. Il ne peut y avoir dans un temps déterminé que telles choses –</p>
+          <p rend="noindent">B. En effet chaque chose correspond à une unité de temps – elle est cette unité de temps même. Donc etc.</p>
+          <p rend="noindent0150">A. Mais qu’est-ce qui constitue cette chose ?</p>
+          <p rend="noindent0150">Ce n’est pas un mot, un objet déterminé –</p>
+          <p rend="noindent0150">Ce n’est pas la conscience du changement ou de la pluralité</p>
+          <p rend="noindent0150">Qu’est-ce qui constitue la pluralité des choses pensées ?</p>
+          <p rend="noindent">[Dessin] Ce n’est pas la différence pure et simple – car – –</p>
+          <p/>
+          <p>B. Reprendre la théorie simple du « moindre changement » dans la sphère, et de la loi de conservation <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I + R</ref>.</p>
+          <p rend="noindent0150">Le temps est le changement quelconque dans cet ensemble.</p>
+        </div>
+        <div>
+          <head>* « Une chose a plus d’une <hi rend="i">solution</hi> (suite) généralement dans l’esprit… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-07r/012</term>
+          </index>
+          <p><pb n="C.I.459"/><pb/>Une chose a plus d’une <hi rend="i">solution</hi> (suite) généralement dans l’esprit, mais cela doit dépendre de la chose (le nombre de solutions).</p>
+          <p>D’abord je dis que si <hi rend="i">a</hi> est donné à P et à Q <hi rend="i">a</hi> dans <hi rend="i">P</hi> donne b c d.. et a dans Q donne b′ c′ d′.</p>
+          <p rend="noindent">Je dis que toujours une certaine relation existe entre (b c d)(b′ c′ d′).</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f14.image">
+            <seg rend="lienhypertexte">[Fol. 7v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-07v</term>
+        </index>
+        <div>
+          <head>* « Schéma des notations… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-07v/013</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p>Schéma des notations</p>
+                <p>A<hi rend="sub">1</hi> – – A′</p>
+                <p rend="noindent0250">A<hi rend="sub">1</hi> = A<hi rend="sub">2</hi></p>
+                <p>A′ – A<hi rend="sub">2</hi></p>
+                <p rend="noindent">opposition des systèmes de notations à la pensée.</p>
+              </cell>
+              <cell>
+                <p>à ce point de vue</p>
+                <p>qu’est un plan ?</p>
+                <p>un schème etc.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p>Un plan de ville est symbolique de a<hi rend="sub">1</hi> à a<hi rend="sub">2 –</hi> rationnel de a<hi rend="sub">2</hi> à a<pb n="" ana="src" xml:id="p"/></p>
+          <p rend="noindent">Ceci n’est pas transformable en <hi rend="i">ville</hi>, mais la position relative de et d’autres symboles est transformable en la position relative des choses représentées.</p>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">A n’est pas transformable en A′</p>
+                <p rend="noindent">B <space>               </space>dº<space>                      </space>B′</p>
+                <p>mais (A, B) l’est en [A′B ] par exemple<note place="bottom">Passage souligné en marge.</note>.</p>
+              </cell>
+              <cell>… à ce but, je cherchais ce que je pouvais faire et par conséquent je cherchais à étendre ce que je pouvais / savais / faire.</cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f15.image">
+            <seg rend="lienhypertexte">[Fol. 8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08r</term>
+        </index>
+        <div>
+          <head>* « La transformation de particulier / singulier / en général / en pluriel /… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08r/014</term>
+          </index>
+          <p>
+            <pb n="C.III.152"/>
+          </p>
+          <p/>
+          <p/>
+          <p>La transformation de particulier / singulier / en général / en pluriel / est <hi rend="i">une fixation –</hi></p>
+          <p rend="noindent">C’est dans ce sens qu’il faut chercher –</p>
+          <p/>
+          <p><pb n="C.I.460"/>Il est clair qu’on a là un cas <hi rend="i">très particulier</hi> de transformation, une opération d’écriture positivement – et l’écriture elle-même –</p>
+          <ab type="ornament">—–––––––––––––––––––––––––––––––––––––––––––––––––––––</ab>
+          <p>La mémoire revient – à ceci. Un certain indice – localisation ou notion des opérations à faire pour arriver à l’objet localisé.</p>
+        </div>
+        <div>
+          <head>* « L’esprit ne peut faire qu’une opération à la fois. Laquelle ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08r/015</term>
+          </index>
+          <p>L’esprit ne peut faire qu’une opération à la fois. Laquelle ?</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f16.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">8v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08v</term>
+        </index>
+        <div>
+          <head>* « Passé futur, notion de ce qui <hi rend="i">séparerait</hi> l’image donnée actuelle… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08v/016</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>Passé futur, notion de ce qui <hi rend="i">séparerait</hi> l’image donnée actuelle de la précédente actuelle si on développait.</cell>
+              <cell/>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il faut parfois regarder nos sciences – nos arts… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08v/017</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>Il faut parfois regarder nos sciences – nos arts par rapport à l’invention de la lime, de la numération, du verbe etc.</p>
+                <p>discontinuités.</p>
+              </cell>
+              <cell>
+                <p>Guerre ou démonstration, sont les rapports entre hommes. La guerre est toute action sur nous profitant de qualités nôtres qui ne sont pas en notre pouvoir – nous sommes forcés de consentir, charmés ou violentés – c’est la même chose –</p>
+                <p>La logique est faite de choses que nous possédons.</p>
+                <p>Le droit (romain) combine. Formes –</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Passages du langage de l’idéalisme à celui de réalisme… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-08v/018</term>
+          </index>
+          <p>Passages du langage de l’idéalisme à celui de réalisme et inversement.</p>
+          <p rend="noindent">L’idéalisme ou criticisme conduit à des discontinuités.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f17.image">
+            <seg rend="lienhypertexte">[Fol. 9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-09r</term>
+        </index>
+        <div>
+          <head>* « Opérations »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-09r/019</term>
+          </index>
+          <p>
+            <pb n="C.I.461 C.III.153"/>
+          </p>
+          <p>Opérations</p>
+          <p/>
+          <p>Pour se rappeler certaines <hi rend="i">choses</hi> il faut reprendre à un certain point. Impossible d’entrer par ailleurs – la série est obligatoire.</p>
+          <p>D’ailleurs toute association pose le principe de l’ordre – Je crée et le nécessite – a.b.c.d.</p>
+          <p>Chaque nouvel élément introduit existe à demi, – par rapport aux précédents.</p>
+          <p>Une chose précède une autre lorsqu’elle peut être connue tandis que l’autre peut n’être pas connue, la réciproque n’étant pas vraie. Or [inachevé]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f18.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">9v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-09v</term>
+        </index>
+        <div>
+          <head>* « Si la connaissance totale est conçue comme représentée… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-09v/020</term>
+          </index>
+          <p>Si la connaissance totale est conçue comme représentée par un ensemble de surfaces fermées jouissant successivement d’une certaine propriété (conscience), le 1<hi rend="sup">er</hi> problème de la psychologie est de chercher les lois de transformations générales de ces sphères les unes dans les autres. – –</p>
+          <p>Toutes ces sphères, fors une que j’appelle <hi rend="i">présente</hi>, sont vues à travers la présente, comme parties de la présente – Il y aurait une belle relation analytique à chercher là. Telle chose est <hi rend="i">distante</hi> de <hi rend="i">ceci</hi> présent, de telle <hi rend="i">quantité</hi> ou plutôt de telles diversités.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f18.image">
+            <seg rend="lienhypertexte">[Fol. 10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-10r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u"><hi rend="i">Géométrie</hi></hi> <hi rend="i">des images</hi> = G I [Géométrie Imaginative] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-10r/021</term>
+          </index>
+          <p rend="noindent center"><hi rend="u"><hi rend="i">Géométrie</hi></hi><hi rend="i">des images</hi> = G I [Géométrie Imaginative]</p>
+          <p>Sur la grandeur observée des images, et la relation de cet espace avec l’espace réel et avec celui géométrique</p>
+          <ab type="ornament">—–</ab>
+          <p><pb n="C.I.462"/>Dans l’espace réel (de nos sens) nous pouvons dire qu’un objet est plus grand qu’un autre à un moment donné – et c’est tout. A ce point de vue la grandeur des objets varie en général suivant nos déplacements. On pourrait donc dire simplement ce déplacement est &gt; que celui-là par rapport à tel objet.</p>
+          <p>En arrivant à la mesure numérique on établit l’espace géométrique, on ramène toute grandeur à un terme d’une série simple ou multiple.</p>
+          <p>Mais il y a aussi l’espace imaginatif.</p>
+          <p rend="noindent">J’imagine un homme, un arbre – un ensemble de choses. Ces choses peuvent garder les rapports de grandeur qu’elles ont dans l’espace réel – mais on ne peut déterminer une unité.</p>
+          <p rend="noindent1250">définition du <hi rend="u"><hi rend="i">temps</hi></hi></p>
+          <p rend="noindent">
+            <hi rend="i">En effet rien n’assurerait de la permanence de cette unité.</hi>
+          </p>
+          <p/>
+          <p>Comment passe-t-on de grandeur à grandeur ? (ou comment s’opère la <pb n="C.III.154"/>comparaison). Dans l’espace réel par sensations qui doivent être nécessairement du même sens et on confronte les efforts.</p>
+          <p rend="noindent">La grandeur des images varie suivant une loi très complexe.</p>
+          <p/>
+          <p>Le concept d’égalité suppose une différence, réductible – mais initiale – et nécessaire – la vérité c’est <hi rend="u"><hi rend="i">l’égalisation</hi></hi> – (ou équation) et non l’égalité.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f20.image">
+            <seg rend="lienhypertexte">[Fol. 10v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-10v</term>
+        </index>
+        <div>
+          <head>* « G.I. [Géométrie Imaginative] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-10v/022</term>
+          </index>
+          <p/>
+          <p rend="noindent">G.I. [Géométrie Imaginative]</p>
+          <p>La déformation possible des images n’est pas la même dans les différents domaines sensoriels. Dans certains elle ne peut sortir de la substitution et coïncide avec le domaine sensationnel correspondant</p>
+          <p/>
+          <p>Dans les déformations [des] images visuelles nous pouvons sortir des lois physiques de l’objet dont l’image donnée est l’image ; mais dans une certaine mesure.</p>
+          <p><pb n="C.I.463"/>Mais pour ne pas sortir de l’objet, il nous faut respecter certaines choses. L’ensemble de ces choses est un « invariant de récognition » de l’objet.</p>
+          <p>Au delà l’objet ne coïncide plus, ne <hi rend="i">s’appelle</hi> plus.</p>
+        </div>
+        <div>
+          <head>* « La base est : où se passe la géométrie ? »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-10v/023</term>
+          </index>
+          <p>La base est : où se passe la géométrie ?</p>
+        </div>
+        <div>
+          <head>* « Dans l’espace réel la grandeur dépend de la position… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-10v/024</term>
+          </index>
+          <p>Dans l’espace réel la grandeur dépend de la position. S = φ(s) dans l’espace géométrique. Elle ne dépend que de l’unité et est absolue, congruente. Dans l’espace mental elle dépend du moment – (comparaison de grandeurs – l’une réelle, l’autre spirituelle ou bien toutes 2 spirituelles).</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f21.image">
+            <seg rend="lienhypertexte">[Fol. 11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11r</term>
+        </index>
+        <div>
+          <head>* « G.I. [Géométrie Imaginative] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11r/025</term>
+          </index>
+          <p/>
+          <p rend="noindent">G.I. [Géométrie Imaginative]</p>
+          <p>On peut imaginer – je suppose une droite – soit la longueur λ.</p>
+          <p rend="noindent">Puis on peut la concevoir prolongée.</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Non</p>
+                <p rend="noindent">2 <hi rend="i">choses</hi></p>
+                <p rend="noindent"><hi rend="i">1</hi> certaine</p>
+                <p rend="noindent">grandeur</p>
+                <p rend="noindent">et <hi rend="i">un</hi></p>
+                <p rend="noindent">mouvement</p>
+                <p rend="noindent">de nature spéciale</p>
+              </cell>
+              <cell>
+                <p>Mais à partir d’une certaine valeur λ<pb n="" ana="src" xml:id="p"/> – l’image ne peut que se reproduire et non s’agrandir. Ou bien l’image peut se continuer mais autre que la précédente – le concept demeurant identique.</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"/>
+          <p rend="noindent"/>
+          <p rend="noindent"><pb n="C.III.155"/><pb/>– Milieu tel que toute prolongation recommence – – –</p>
+          <p rend="noindent">toute droite imaginée est un cercle – !          groupe.</p>
+          <p rend="noindent0500">– – – – – – – –</p>
+        </div>
+        <div>
+          <head>* « On ne peut explorer le concept… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11r/026</term>
+          </index>
+          <p>On ne peut explorer le concept</p>
+          <p rend="noindent">Concevoir au delà de toute limite = 0</p>
+          <ab type="ornament">—––</ab>
+          <p rend="noindent center">Essai traductif.</p>
+          <p>(a) <space> </space>Dire que nous pouvons concevoir une droite de grandeur X<note place="bottom">La croix renvoie à l’autre croix, à la fin du passage : « Idée de longueur <hi rend="i">suffisante</hi> ».</note> <hi rend="i">quelconque</hi><space/>est-ce dire seulement que nous pouvons imaginer une droite λ limitée – et que nous pouvons l’imaginer de nouveau tant que nous voulons ?</p>
+          <p rend="noindent"><pb n="C.I.464"/>(a) veut dire d’abord que cette image de droite est indépendante de sa grandeur. Comment a-t-on réalisé cette indépendance ?</p>
+          <p>N’y a-t-il pas contradiction entre le concept pur de la droite et le fait de la droite limitée λ <hi rend="i"/>? Comment passe-t-on de l’<hi rend="u"><hi rend="i">image</hi></hi> de droite limitée, coloriée etc. à l<hi rend="i">’idée</hi> de droite générale ?</p>
+          <p rend="noindent">D’abord l’image ici est en réalité un ensemble d’images. Nous avons détaché la droite de sa direction.</p>
+          <p rend="noindent">X  Idée de longueur <hi rend="i">suffisante.</hi></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f22.image">
+            <seg rend="lienhypertexte">[Fol. 11v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11v</term>
+        </index>
+        <div>
+          <head>* « Maison… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11v/027</term>
+          </index>
+          <p>Maison [Dessin d’une maison] Je puis colorer etc. – mais parce que j’ai le terme <hi rend="i">d’arrivée</hi> tout prêt.</p>
+        </div>
+        <div>
+          <head>* « Oui, il y a des relations rationnelles – … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11v/028</term>
+          </index>
+          <p>Oui, il y a des relations rationnelles –</p>
+          <p rend="noindent">question de fixation.</p>
+          <p rend="noindent">(1) {S<hi rend="sub">1</hi>=S<hi rend="sub">0</hi> + ε ; S<hi rend="sub">2</hi> = S<hi rend="sub">1</hi>+η ; S<hi rend="sub">3</hi> = S<hi rend="sub">2</hi> + δ = S<hi rend="sub">0</hi> + ε + η + δ</p>
+          <p/>
+          <p>Les opérations dont l’emploi constitue les relations rationnelles consistent soit à ajouter soit à retrancher un ou plusieurs domaines sensibles, ou bien à substituer ; mais <hi rend="i">partiellement</hi> dans un <hi rend="i">objet.</hi></p>
+          <p rend="noindent">Une substitution non uniforme est une transformation.</p>
+        </div>
+        <div>
+          <head>* « La vue comporte une continuité <hi rend="i">visuelle</hi> dans un domaine limité… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-11v/029</term>
+          </index>
+          <p><pb n="C.III.156"/><pb/>La vue comporte une continuité <hi rend="i">visuelle</hi> dans un domaine limité (comparé au domaine musculaire ou mental visuel –)</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f23.image">
+            <seg rend="lienhypertexte">[Fol. 12r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12r</term>
+        </index>
+        <div>
+          <head>* « Retrancher 4 de 5 c’est compter 4 sur 5… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12r/030</term>
+          </index>
+          <p/>
+          <p>Retrancher 4 de 5 c’est compter 4 sur 5 = compter 5 et s’arrêter à 4 : recommencer alors la lecture après 4.</p>
+          <p rend="noindent">ajouter 4 + 5 c’est compter dans la même suite de noms de nombres les 2 groupes 4 et 5.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Tout rapprochement (dans l’idée) implique une indication de transformation… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12r/031</term>
+          </index>
+          <p><pb n="C.I.465"/><pb/>Tout rapprochement (dans l’idée) implique une indication de transformation entre ses termes.</p>
+          <p>Le schème est une hétérogénéité, bâtie dans le <hi rend="i">temps</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et en provenant – Passages.</p>
+        </div>
+        <div>
+          <head>* « Les idées claires – … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12r/032</term>
+          </index>
+          <p rend="noindent1100">[Croquis]</p>
+          <p>Les idées claires –</p>
+          <p rend="noindent">celles qui se forment d’elles-mêmes en nous ?</p>
+          <p rend="noindent">non – mais – →</p>
+        </div>
+        <div>
+          <head>* « La « chose-bleue » est rouge… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12r/033</term>
+          </index>
+          <p>La « chose-bleue » est rouge.</p>
+          <p rend="noindent">Les odeurs ne sont désignées que par les noms des corps odorants – ciel pour bleu etc. les tacts aussi, les saveurs aussi –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f24.image">
+            <seg rend="lienhypertexte">[Fol. 12v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12v</term>
+        </index>
+        <div>
+          <head>* « Nous disons <hi rend="i">vulgairement</hi> que… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-12v/034</term>
+          </index>
+          <p rend="noindent">Nous disons <hi rend="i">vulgairement</hi> que</p>
+          <p>l’attention est plus ou moins grande</p>
+          <p>la colère dº</p>
+          <p>l’intelligence dº</p>
+          <p>la volonté dº</p>
+          <p>la mémoire etc. la volupté etc. dº</p>
+          <p rend="noindent">Mais nous ne disons pas que telle quantité d’attention est &lt; &gt; que telle de mémoire. Nous ne disons pas plus que telle quantité</p>
+          <p/>
+          <p>De plus c’est par les effets que nous mesurons cela ainsi chez les autres et c’est par l’intuition directe – chez nous.</p>
+          <p rend="noindent"><space>     </space>Donc source de sophismes psychologiques – [Mon intelligence connue directement est &lt; &gt; que telle intelligence connue par ses effets (dans la mienne)]</p>
+          <p><pb n="C.III.157"/><pb/>En somme il y a des mesures distinctes, incommensurables entre elles. De plus chacune de ces qualités mesurées est indépendante de ses objets. Les unités de ces mesures sont particulières, arbitraires – <note place="bottom">[MARGIN] Passage souligné en marge.</note> et de nature énergétique.</p>
+          <p>Les objets à mesurer sont des actes ou des moments. La grandeur dont on parle est une dépense d’énergie par unité de temps.</p>
+          <p/>
+          <p><pb n="C.I.466"/>Nous possédons un moyen intuitif de mesure quantitative non explicite des états divers – Comment s’opère cette mesure sur des choses composées d’objets divers. Cela pose la définition des états en question.</p>
+          <p rend="noindent">Colère = images κοιναι<note place="bottom">Communes.</note> de destruction, de –</p>
+          <p rend="noindent">attention = acte de suppression des choses non désignées pour être attentifs –</p>
+          <p rend="noindent">intelligence = sensation de maniement aisé, de mollesse de l’objet y soumis.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f25.image">
+            <seg rend="lienhypertexte">[Fol. 13r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-13r</term>
+        </index>
+        <div>
+          <head>* « Soient plusieurs zones, a, b, c – p… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-13r/035</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p>Soient plusieurs zones, a, b, c – p</p>
+                <p rend="noindent">Dans ces zones se passent les mêmes choses –</p>
+                <p rend="noindent">mais si l’on considère d’une zone les autres</p>
+                <p rend="noindent">on ne voit pas ainsi –</p>
+                <p rend="noindent">d’abord si de a on considère b,</p>
+                <p rend="noindent">le contenu de b peut paraître <hi rend="i">petit</hi> par rapport à a<note place="bottom">[MARGIN] Quatre lignes soulignées en marge.</note>.</p>
+                <p rend="noindent">Ces zones sont mêlées –</p>
+                <p rend="noindent">a peut être fait de ∞ zones b –</p>
+                <p rend="noindent">mais il n’y a qu’un seul point de vue.</p>
+              </cell>
+              <cell>
+                <p>Notion des images (Thomson<note place="bottom">Lord Kelvin (1824-1907).</note>) <hi rend="i">réciproques</hi></p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Une fois posée la différence entre φ et ψ on a cette loi : … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-13r/036</term>
+          </index>
+          <p>Une fois posée la différence entre <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> on a cette loi :</p>
+          <p>Tout fait mental ne <del>concerne</del> que des faits mentaux.</p>
+          <p>Tout fait physique ne <del>concerne</del> que des faits physiques.</p>
+          <p rend="noindent">Toute explication, par exemple, ne modifie que l’image d’un phénomène <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> et non les sensations qui en proviennent.</p>
+          <p rend="noindent">Je veux soulever ω′. – Idée image I</p>
+          <p rend="noindent">Je le fais. Changement dans le domaine <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/v">V</ref>, et dans le domaine <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> et dans celui <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/m">M</ref>. –</p>
+          <p rend="noindent">Relations des <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> et des <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref><note place="bottom">[MARGIN] Ligne soulignée en marge.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f26.image">
+            <seg rend="lienhypertexte">[Fol. 13v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-13v</term>
+        </index>
+        <div>
+          <head>* « L’espace et le temps – où sont-ils ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-13v/037</term>
+          </index>
+          <p><pb n="C.I.467 C.III.158"/><pb/>L’espace et le temps – où sont-ils ?</p>
+          <p rend="noindent">Coïncidence d’objets différents / identiques /</p>
+          <p/>
+          <p rend="noindent">m objets étant donnés – l’un peut changer sans que les autres changent.</p>
+          <p rend="noindent">Le nombre m a une vertu spéciale – c’est un <hi rend="i">total –</hi></p>
+          <p rend="noindent">m objets étant donnés, tous peuvent changer et quelque chose demeure.</p>
+          <ab type="ornament">—–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</ab>
+          <p>L’espace est donné par toutes les sensations</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">vue</p>
+                <p rend="noindent">ouïe</p>
+                <p rend="noindent">tact</p>
+                <p rend="noindent">force</p>
+                <p rend="noindent">
+                  <hi rend="u">thermique</hi>
+                </p>
+                <p rend="noindent">goût</p>
+                <p rend="noindent">odeur</p>
+                <p rend="noindent">électrique</p>
+                <p rend="noindent">douleur générale</p>
+              </cell>
+              <cell>
+                <p rend="noindent">Nous distinguons les objets entre eux</p>
+                <p>1º dans leur conscience</p>
+                <p>2º dans les opérations que nous pouvons leur faire subir</p>
+                <p rend="noindent">Possibilité de faire correspondre à p et p + 1 de la même série (t) des phénomènes entièrement différents.</p>
+                <p rend="noindent">Donc ces phénomènes sont rapprochés, homogénéisés de ce chef</p>
+                <p rend="noindent">On les redistingue par leurs variations –.</p>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"/>
+          <p rend="noindent">La sensation est indivisible, déterminée complètement – discontinue par définition puisqu’un jugement est nécessaire pour la continuer –</p>
+          <p rend="noindent">
+            <hi rend="i">Elle est le corps invariable 
+        – 
+        baigné dans l’élément mobile.</hi>
+          </p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f27.image">
+            <seg rend="lienhypertexte">[Fol. 14r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-14r</term>
+        </index>
+        <div>
+          <head>* « Trouver. Aller à la limite… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-14r/038</term>
+          </index>
+          <p>Trouver.</p>
+          <p/>
+          <p rend="noindent">Aller à la limite<note place="bottom">Cf. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-017_tabulae-meae-tentationum/fol-22v/168">« To go to the last point »</ref>.</note>.</p>
+          <p/>
+          <p rend="noindent">Pouvoir écrire sa pensée. La soustraire à la particularité d’un de ses points. Voir les ensembles.</p>
+          <p rend="noindent">Remplacer chaque fait mental par sa loi plus quelque chose.</p>
+          <p rend="noindent">Pouvoir opérer, transformer.</p>
+          <p rend="noindent">Trouver – le lien sans cesse du formel et du signifié.</p>
+          <p rend="noindent">Remplacer chaque chose par sa formule ou expression d’une suite d’opérations intellectuelles.</p>
+          <p rend="noindent"><pb n="C.I.468"/>Résistances. Difficulté. Symétrie.</p>
+          <p rend="noindent">Mesures.</p>
+          <p rend="noindent">Pouvoir –</p>
+          <p rend="noindent">Représentations diverses, conformes etc. Transformations.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f28.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">14v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-14v</term>
+        </index>
+        <div>
+          <head>* « Complexité imaginative. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-14v/039</term>
+          </index>
+          <p><pb n="C.III.159"/><pb/>Complexité imaginative.</p>
+          <p rend="noindent">Proroger une situation – comment sont fournis les éléments à mesure – dérivation d’un beau moment (vu) <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> advenu –</p>
+          <p rend="noindent">Comparer au possible total imaginatif.</p>
+        </div>
+        <div>
+          <head>* « 2 choses sont indépendantes lorsque, si elles font partie d’un ensemble… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-14v/040</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>2 choses sont indépendantes lorsque, si elles font partie d’un ensemble<note place="bottom">Une flèche renvoie à « l’une » (juste après).</note> –, on peut <hi rend="i">substituer</hi> l’une sans que l’autre ni l’ensemble ne soient altérés. Cet ensemble est mental, d’où relativité des indépendances en général.</p>
+                <ab type="ornament">*</ab>
+                <p>Mot à mot –</p>
+                <p>Théâtre ou café : on <hi rend="i">compare –</hi> alors : il y a quelque chose dans l’un [provenu de l’un] comparable avec quelque chose dans l’autre<note place="bottom">Une lèche renvoie à « Donc nous établissons » (en dessous.</note>. Ce quelque chose demeure identique –</p>
+              </cell>
+              <cell>
+                <p>Comparaison, hésitation, etc.</p>
+                <p><space>             </space>(<hi rend="u"><hi rend="i">Pratique</hi></hi>)</p>
+                <p rend="noindent">A – – – B</p>
+                <p rend="noindent">représentation de 2 ou p choses <hi rend="i">successives.</hi> Réduction à l’unité mesure commune. Comment s’opère-t-elle ?</p>
+                <p>Soulève le problème de rapprochements brusques qui est tout l’esprit<note place="bottom">Une flèche renvoie à « possibilité de ces rapprochements » (en dessous).</note>.</p>
+                <p/>
+                <p>l’inconnu a des atouts</p>
+                <p/>
+                <p>possibilité de ces rapprochements</p>
+              </cell>
+            </row>
+            <row>
+              <cell>Nous imaginons le théâtre etc. <hi rend="i">puis</hi> les impressions que nous y aurions. Donc nous établissons une correspondance entre ces impressions et le théâtre imaginé. Cette correspondance est arbitraire ou <hi rend="i">mémoriale.</hi></cell>
+              <cell>
+                <p>Les sensations se suivent suivant une autre loi que les phénomènes purement mentaux – tout est là – leur loi c’est la <hi rend="i">réalité…</hi> l’autre c’est l<hi rend="i">’esprit</hi><note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f29.image">
+            <seg rend="lienhypertexte">[Fol. 15r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-15r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="i">Infini –</hi> (mathématique) »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-15r/041</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.469"/><pb/><hi rend="i">Infini –</hi> (mathématique)</p>
+          <p rend="noindent">On ne voit rien d’infini.</p>
+          <p rend="noindent">On n’imagine rien de tel, d’un coup.</p>
+          <p rend="noindent">À chaque coup, rien de tel.</p>
+          <p rend="noindent">Donc le <hi rend="i">commencement</hi> de cette conception, ce commencement pur et simple à quoi elle se réduit (et au nom) paraît seulement à la suite d’un certain nombre d’opérations mentales. La somme de ces opérations n’est donc pas égale à leur ensemble. Quelque chose de nouveau et qui n’est dans aucun des termes paraît – au bout d’un certain nombre ou temps.</p>
+          <p><hi rend="i">Nous sommes sûrs que l’opération</hi><hi rend="u"><hi rend="i">après</hi></hi><hi rend="i"> celle où nous nous sommes arrêtés pourrait avoir lieu.</hi><hi rend="u"><hi rend="i">Il suffirait de le faire</hi></hi><note place="bottom">[MARGIN] Souligné en marge.</note>.<space/>Comment savons-nous que nous pouvons ajouter toujours une unité à un nombre donné ? Cela résulte forcément de la relativité du nombre – Nous ne le prenons pas au pied de la lettre. Nous le <hi rend="i">prenons comme une sorte de base.</hi></p>
+          <p>On n’a pas à se le représenter d’une part, et de l’autre. Si nous devions imaginer n  objets différents pour pouvoir connaître le nombre n alors il y aurait un dernier nombre (1) – Si nous devions apercevoir – id<note place="bottom">[MARGIN] Deux phrases soulignées en marge.</note>. –</p>
+          <p>Nous nous bornons à affirmer l’indépendance réciproque des opérations et de leur objet. Cela est sanctionné par l’écriture(et plus profondément par le signe et le nom<note place="bottom">[MARGIN] Souligné en marge.</note>.</p>
+          <p>Et ce nom ou signe est une <hi rend="i">liaison symbolique.</hi> Il faut remarquer que ce mécanisme intervient ici au moment où l’on supprime la représentation.</p>
+          <p rend="noindent">Cf. le mot, expériences préliminaires –</p>
+          <p rend="noindent"><space>    </space>(1) Or il y a un dernier nombre de ce genre, évidemment.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f30.image">
+            <seg rend="lienhypertexte">[Fol. 15v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-15v</term>
+        </index>
+        <div>
+          <head>* « Théorie des centres »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-15v/042</term>
+          </index>
+          <p><pb n="C.I.469"/><pb/>Théorie des centres</p>
+          <p rend="noindent0200">––</p>
+          <p rend="noindent">1º Expression en langage évidemment défectueux.</p>
+          <p rend="noindent">Chaque état c’est-à-dire chaque unité du temps de l’esprit est pourvu d’un <hi rend="i">centre.</hi></p>
+          <p rend="noindent">C’est-à-dire qu’à chaque instant les choses qui composent l’état sont diversement – – <hi rend="i">éclairées</hi> et que l’éclairage maximum ne dépend pas de la chose.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f31.image">
+            <seg rend="lienhypertexte">[Fol. 16r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-16r</term>
+        </index>
+        <div>
+          <head>* « Ensembles complets »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-16r/043</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.470"/><pb/>Ensembles complets 
+<lb/>—–</p>
+          <p rend="noindent">Qu’on envisage la collection des ensembles qui constitue la connaissance. Il faut ne pas oublier que chacun de ces ensembles successifs peut contenir à la fois des phénomènes mentaux et des phénomènes dits physiques. Ces ensembles seront dits « <hi rend="i">complets</hi> »<hi rend="i"> –</hi> car au moment où ils se produisent rien n’existe que celui qui se produit. Chacun comprend absolument tout ce qui est connu à un instant donné.</p>
+          <p>Supposons que chacun de ces ensembles soit représenté par un signe quelconque arbitraire, lettre, ou numéro etc.<note place="bottom">[MARGIN] En marge : « Donc la collection des signes constitue un 2<hi rend="sup">me</hi> ensemble. »</note> Il faut simplement qu’à chaque signe corresponde un ensemble et un seul. <pb n="C.III.161"/></p>
+          <p>D’autre part un ensemble de cette collection peut avoir certaines relations avec un autre. Nous pouvons, par exemple, reconnaître dans l’ensemble P certaines portions de l’ensemble Q : P et Q seront dits alors partiellement superposables.</p>
+          <p>&lt;§ 1 – Opérations sur 1 ensemble.</p>
+          <p rend="noindent">Étant donné un ensemble A faisons – lui subir des variations. Diminuons par exemple ou augmentons la portion physique : il se produit une déformation de la portion mentale, correspondante.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f32.image">
+            <seg rend="lienhypertexte">[Fol. 16v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-16v</term>
+        </index>
+        <div>
+          <head>* « L’art littéraire consiste à créer constamment l’état où les mots sont pris… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-16v/044</term>
+          </index>
+          <p/>
+          <p>L’art littéraire consiste à créer constamment l’état où les mots sont pris pour les choses mêmes. Et il augmente à proportion de ces choses<note place="bottom"><p>La signification de la phrase est complexe parce que sa linguistique nominaliste conduit Valéry à reprocher au roman réaliste de prendre les mots pour les choses ; mais en même temps le « matérialisme verbal » (C.VIII.368) est le privilège du poète qui travaille sur la matière des mots et construit ainsi un objet verbal qui a une réalité sensible. Cf. <hi rend="i">Tel Quel II</hi> : « Le rhéteur et le sophiste, sel de la terre. Idolâtres sont tous les autres qui prennent les mots pour des choses, et les phrases pour des actes » (Œ.III.467).</p><p/></note>.</p>
+          <p>non</p>
+        </div>
+        <div>
+          <head>* « Le problème du langage consiste de très haut à représenter… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-16v/045</term>
+          </index>
+          <p><pb n="C.I.471"/><pb/>Le problème du langage consiste de très haut à représenter une série <hi rend="i">continue</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> par des sommes d’éléments finis et réciproquement.</p>
+          <p>Comment se fait la 1<hi rend="sup">re</hi> traduction ou transformation ?</p>
+          <p>Une image, une etc. est donnée – elle est représentée par un nombre de mots. Il faut donc analyser l’image en significations de mots. D’où p opérations. Ces opérations consistent à faire varier l’image dans son <hi rend="i">domaine propre</hi> mais de façon à en dégager les variables indépendantes. Par exemple ciel bleu. Ciel se compose avec autre chose (sol, etc.) <hi rend="i">alors</hi> ciel peut être gris, rouge etc. Donc dégagement de ce qui, gris, rouge, bleu, tient toujours telle place dans image. Bleu, à son tour est <hi rend="i">vrai</hi> de ciel, mer, blouse etc.</p>
+          <p>Donc telle image se projette en langage par un groupe de mots dont chacun est le résultat d’opérations destinées à rechercher les indépendantes.</p>
+          <p>Donc on passe d’un <hi rend="i">temps</hi> à une suite de temps d’opérations, chaque résultat partiel étant lié à un mot. Inversement dans la 2<hi rend="sup">me</hi> traduction on passe de p états à un, terminal. Alors à l’issue des p états, le concept résultant est formé – ; il est ; il est mobilisable etc.</p>
+          <p>Donc on a passé du continu – ou quelque chose d’analogue à un discontinu.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f33.image">
+            <seg rend="lienhypertexte">[Fol. 17r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17r</term>
+        </index>
+        <div>
+          <head>* « Considération de l’ensemble des faits de connaissance… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17r/046</term>
+          </index>
+          <p>Considération de l’ensemble des faits de connaissance. Cet ensemble discret, limité et indéfini, où tout rentre – que tout réordonne par zones au hasard du besoin –</p>
+        </div>
+        <div>
+          <head>* « G.I. [Géométrie Imaginative] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17r/047</term>
+          </index>
+          <p>
+            <pb n="C.III.162"/>
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">G.I. [Géométrie Imaginative]</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent">Nous ne pouvons imaginer à la fois qu’un rectangle [dessin d’un rectangle] s’étende dans les 2 sens mais d’abord d’ici puis de là. D’ailleurs opérations permutables –</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"/>
+          <p rend="noindent">Méthode a) découvrir les variables indépendantes nécessaires. 2 cas {I/<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref></p>
+          <p><space>     </space>b) les désigner ou définir</p>
+          <p><space>     </space>c) les suivre, les épuiser.</p>
+          <p rend="noindent"/>
+        </div>
+        <div>
+          <head>* « Nous sommes sûrs que presque chaque chose présente nous reviendra… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17r/048</term>
+          </index>
+          <p rend="noindent0450"><pb n="C.I.472"/><pb/><space>     </space>Nous sommes sûrs que presque chaque chose présente nous reviendra à telle époque inconnue – mais quand, comment, sous quelle forme ? Nous sommes sûrs aussi de chaque chose passée pour une place future et inconnue. Donc, voir, c’est prévoir.</p>
+          <p/>
+          <p>Tout phénomène déclaré passé ou avenir – est mental.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f34.image">
+            <seg rend="lienhypertexte">[Fol. 17v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17v</term>
+        </index>
+        <div>
+          <head>* « Portrait d’un homme… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17v/049</term>
+          </index>
+          <p/>
+          <p/>
+          <p>Portrait d’un homme.</p>
+          <p rend="noindent">Ensemble de tout ce qu’il a vu, senti, pensé<note place="bottom">Cf. <hi rend="i">La Soirée</hi> : « J’ai vu beaucoup d’individus, j’ai visité quelques nations, j’ai pris ma part d’entreprises diverses sans les aimer,  j’ai mangé presque tous les jours, j’ai touché à des femmes », etc. (Œ.I.159). Passage repris dans le <ref target="file:///D:/commit/valery/commit_2017-11-28/%20cah-030_naf-19235"><seg rend="lienhypertexte">Cahier « dicté à Jeannie »</seg></ref>.</note>. Sur cet ensemble, ensemble de tout ce qui lui plaît, a plu, plaira.</p>
+        </div>
+        <div>
+          <head>* « J’entends par sensation etc. non la sensation en soi… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17v/050</term>
+          </index>
+          <p>J’entends par sensation etc. non la sensation en soi – mais ce qui nous paraît positivement tel, ce que nous <hi rend="u"><hi rend="i">jugeons</hi></hi> sensation.</p>
+        </div>
+        <div>
+          <head>* « L’existence d’abstractions nécessite absolument celle d’une propriétéde l’esprit… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-17v/051</term>
+          </index>
+          <p>L’existence d’abstractions nécessite absolument celle d’une propriété de l’esprit grâce à laquelle la partie d’une chose peut être, dans certaines conditions, <hi rend="i">équivalente</hi> (1) X<note place="bottom">[MARGIN] La croix renvoie à « continus » (en dessous). En marge : « (1) et inversement le tout à la partie – Processus inverse. Exemplification. <hi rend="i">Concrétion.</hi> Que conserve la transformation ? » </note> à la chose totale.</p>
+          <p>De plus, – il faut s’entendre. Une loi quelconque est dite <hi rend="i">abstraite</hi> par rapport à l’ensemble d’êtres concrets qu’elle épuise. Comment peut-on raisonner (nommer, désigner) ce qui est inimaginable ? C’est que les inimaginables en question sont des imaginables<note place="bottom">[MARGIN] En marge : « Exemple : forme, extension ».</note> décomposés en portions telles que les variations <hi rend="i">imaginables</hi> de ces portions soient indépendantes. Là gît une propriété<note place="bottom">À partir d’ici, Valéry a continué le texte en bas de la page suivante. Nous le rétablissons ici pour la commodité de lecture.</note> fondamentale.</p>
+          <p rend="noindent1350">X continus</p>
+          <p/>
+          <p><pb n="C.III.163"/>{En dérivant A nous découvrons que δA = (δA/δx)dx + (δA/δy)dy + − ; mais δA/δx n’a pas d’existence imaginative propre, possible.</p>
+          <p rend="noindent">La question est de nommer ces indépendantes invisibles. Les variations imaginables opérées sont des actes, distincts des temps discriminés ; nous pouvons par définition faire une chose <hi rend="i">ou</hi> l’autre (dx ou dy) ou les 2 à la fois (da/dt) <hi rend="u"><hi rend="i">Non.</hi></hi></p>
+          <p>Mais cet acte distinct, cette forme de l’objet envisagé, imaginable, peut être transformé en une autre au moyen d’un changement.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f35.image">
+            <seg rend="lienhypertexte">[Fol. 18r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-18r</term>
+        </index>
+        <div>
+          <head>* « La chose la plus simple que je puisse dire de ma pensée… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-18r/052</term>
+          </index>
+          <p><pb n="C.I.473"/><pb/>La chose la plus simple que je puisse dire de ma pensée, c’est qu’elle change. Tout en changeant elle se voit changer, c’est-à-dire elle fait l’objet d’une contradiction continuelle, dès qu’on veut exprimer sa véritable apparence. Elle change d’elle-même, puisqu’elle surprend quelquefois et que toujours elle apporte des nouveautés.</p>
+          <p>Elle divise naturellement le total du monde en ce qui lui est donné et en ce qu’elle donne<note place="bottom">[MARGIN] Phrase soulignée en marge.</note>. &lt;Elle laisse que se dépose tout ce qu’elle ne peut modifier d’elle-même et elle se décharge incessamment de ce</p>
+          <p>Elle finit par ne plus du tout contenir ce qui la remplit tout le temps.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f36.image">
+            <seg rend="lienhypertexte">[Fol. 18v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-18v</term>
+        </index>
+        <div>
+          <head>* « J’imagine ce [dessin d’un rectangle] et je le déforme en celui-ci… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-18v/053</term>
+          </index>
+          <p>J’imagine ce [dessin d’un rectangle] et je le déforme en celui-ci [dessin d’un rectangle] etc.</p>
+          <p>Comment en arriver à l’idée de rectangle ?</p>
+          <p>L’idée abstraite résulte des opérations :</p>
+          <p><space>                                 </space>des constructions.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Idée, formule – constantes et variables – opérer dessus… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-18v/054</term>
+          </index>
+          <p>Idée, formule – constantes et variables – opérer dessus.</p>
+          <p rend="noindent">Éléments des idées (quelles qu’elles soient)</p>
+          <p rend="noindent">ils sont fixes par définition.</p>
+          <p rend="noindent"><pb n="C.III.164"/><pb/>Relation arbitraire. Formes, équations,</p>
+          <p rend="noindent">certaines découpures d’un ensemble (mots).</p>
+          <p rend="noindent">Développement des idées.</p>
+          <p rend="noindent0800">La recherche de pouvoir conduit aux procédés.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f37.image">
+            <seg rend="lienhypertexte">[Fol. 19r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-19r</term>
+        </index>
+        <div>
+          <head>* « Étude générale des opérations »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-19r/055</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.474"/><pb/>Étude générale des opérations 
+<lb/>—––––––––</p>
+          <p>Réversibilité</p>
+          <ab type="ornament">––</ab>
+          <p rend="noindent">Réversibilité infiniment petite –</p>
+          <p rend="noindent"><space>                 </space><space>  </space>– – – – – <space>                                       </space><space>                          </space>[Croquis]</p>
+          <p rend="noindent"/>
+          <p rend="noindent">fonction <del>de l’étendue</del> du nombre d’opérations</p>
+          <p/>
+          <p rend="noindent">Définition de la réversibilité.</p>
+          <ab type="ornament">—–</ab>
+          <p>&lt;Étant donnés plusieurs états d’un même objet, c’est-à-dire un ensemble / nombre / de propriétés, une / ou plusieurs / qualité (nom etc.) de cet ensemble ou plusieurs &lt;objets&gt; opérations distinctes modifiant quelque chose&gt;</p>
+          <p rend="noindent1350">[Croquis]</p>
+          <p>N opérations se succèdent dans le temps, l’une après l’autre – on suppose que l’une étant donnée, on en connaisse illico 2 autres, avec (par exemple) une facilité, rapidité etc. = 1</p>
+          <p rend="noindent">2 autres avec – = 1/2, 2 autres – = 1/4 – 2 – 1/2<hi rend="sup">n</hi></p>
+        </div>
+        <div>
+          <head>* « Concept de l’ordre – … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-19r/056</term>
+          </index>
+          <p rend="noindent">Concept de l’ordre –</p>
+          <p>On donne n choses – –</p>
+          <p rend="noindent">Si une de ces choses est connue, toutes les autres sont connues du plus au moins, et de 0 à n.</p>
+          <p/>
+          <p>L’inconnu est simplement dans le système y, ce qui est représentable de m façons différentes – toutes possibles – connaître c’est montrer l’impossibilité de certaines solutions – et imposer simplement un veto à l’imagination en marche. Ainsi le passé, l’avenir – sont des phénomènes mentaux que [inachevé]</p>
+          <p rend="noindent"><pb n="C.III.165"/>L’indétermination en ces matières croît comme l’inverse du temps positif ou négatif que nous nous donnons.</p>
+          <p>Tout le non moi est le passé <hi rend="i">réel</hi>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f38.image">
+            <seg rend="lienhypertexte">[Fol. 19v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-19v</term>
+        </index>
+        <div>
+          <head>* « Cryptographie. 2 dictionnaires même édition… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-19v/057</term>
+          </index>
+          <p/>
+          <p rend="noindent">Cryptographie. 2 dictionnaires même édition</p>
+          <p rend="noindent">alors tout mot remplacé par le p<hi rend="sup">me</hi> après ou avant</p>
+          <p rend="noindent">p = f (nombre des mots de la phrase à traduire).</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f39.image">
+            <seg rend="lienhypertexte">[Fol. 20r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-20r</term>
+        </index>
+        <div>
+          <head>* « Problèmes des relations symboliques ou irrationnelles »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-20r/058</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.475"/><pb/>Problèmes des relations symboliques ou irrationnelles 
+<lb/>—––</p>
+          <p>1) Dans l’ensemble des associations de phénomènes dans la connaissance, il y a certains couples tels 1º que l’un de leurs termes étant donné, l’autre est donné 2º et qu’il est impossible de retrouver l’un d’eux à l’aide de l’autre et d’opérations simples sur cet autre.</p>
+          <p>2) J’appelle <hi rend="i">opérations simples</hi> des opérations purement mentales et qui modifient successivement une chose donnée en laissant tout le temps conscientes et inaltérées certaines portions de cette chose. (Continu mental)</p>
+          <p>J’appelle relations ou couples symboliques les couples qui satisfont à la définition (1).</p>
+          <p/>
+          <p rend="noindent">(3) Les premiers problèmes qui se présentent sont les suivants :</p>
+          <p>I.) Un couple symbolique A/B est-il réversible ?</p>
+          <p>II.) Comment se fait-il que l’un de ces couples étant réalisé, il ne se reproduise pas à l’infini ?</p>
+          <p>Ces problèmes ne peuvent encore être résolus.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f40.image">
+            <seg rend="lienhypertexte">[Fol. 20v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-20v</term>
+        </index>
+        <div>
+          <head>* « Relations Rationnelles »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-20v/059</term>
+          </index>
+          <p/>
+          <p>Relations Rationnelles</p>
+          <p/>
+          <p rend="noindent">Il y a relation Rationnelle si</p>
+          <p rend="noindent"><pb n="C.I.476"/>1º il y a quelque chose d’identique dans les 2 termes</p>
+          <p rend="noindent">2º si <hi rend="i">a</hi> conduit à <hi rend="i">b</hi> par une ou plusieurs déformations directes immédiates entre elles et par des opérations <hi rend="i">partielles</hi> de substitution.</p>
+          <p rend="noindent">3º caractère <hi rend="i">temporel</hi> ↓</p>
+          <p rend="noindent">La difficulté est de bien dissocier quelques cas de contiguïté. Ainsi j’ai connu a et b dans un ensemble C –</p>
+          <p rend="noindent">b évoque maintenant a. Je ne puis construire a par b mais je puis construire C par b et a par C –</p>
+          <p rend="noindent"><hi rend="i">alors</hi>, mais alors seulement il y aura <hi rend="i">rationnelle</hi>.</p>
+          <p rend="noindent">Caractère actuel, présent, <hi rend="i">cinétique</hi> de la relation rationnelle.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f41.image">
+            <seg rend="lienhypertexte">[Fol. 21r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-21r</term>
+        </index>
+        <div>
+          <head>* « (4) Formation des relations symboliques… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-21r/060</term>
+          </index>
+          <p><pb n="C.I.476"/><pb/>(4) Formation des relations symboliques.</p>
+          <p>Dans toute relation non symbolique, l’un des termes est construit avec le précèdent, par déformations. Il ne faut même pas que le terme « inconnu » préexiste ; il y suffit que les opérations employées puissent s’appliquer et n’aboutissent pas tout de suite à une pure substitution.</p>
+          <p>Au contraire dans les relations symboliques il faut chercher entre les 2 termes, des conditions de leur association. La plus simple est la <hi rend="i">contiguïté antérieure</hi> de ces termes. Toute relation symbolique a déjà eu lieu.</p>
+          <p><pb n="C.III.166"/><pb/>Plaçons-nous au moment où s’est formée cette relation. À ce moment A et B ont dû avoir, soit dans leur succession, soit dans leur position – certaines liaisons. Mais par définition A et B sont différents et irréductibles – donc ils n’ont jamais coïncidé – donc ils ont dû faire partie d’un même ensemble qui constitue leur relation durable et reproductible.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f43.image">
+            <seg rend="lienhypertexte">[Fol. 22r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-22r</term>
+        </index>
+        <div>
+          <head>* « La quantité etc. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-22r/061</term>
+          </index>
+          <p rend="noindent0200"><pb n="C.I.477"/><pb/>La quantité etc.</p>
+          <ab type="ornament">––</ab>
+          <p>Si on en connaît la nature psychologique – on connaît une foule de propriétés, ipso facto.</p>
+          <p>La quantité est fondée sur la permanence et le changement – elle nécessite le successif – c’est-à-dire la mémoire.</p>
+          <p>Tout nombre entier donné <hi rend="i">seul</hi> est une unité.</p>
+          <p>Le nombre n’a d’intérêt que si on peut le concevoir différent – (comme domaine de variations).</p>
+          <p rend="noindent center">Discussion –.</p>
+          <p>Augmentation ou diminution.</p>
+          <p>La quantité se pose lorsque dans un ensemble quelconque donné quelque chose varie, quelque autre chose demeurant fixe.</p>
+          <p><pb n="C.III.167"/><pb/>On a A = [B, B′] ; dans les quantités dénombrables on a A = U.p.</p>
+          <p>Il faut bien faire attention que l’unité apparente peut varier comme p – mais non l’unité réelle c’est-à-dire le concept à quoi s’attache le compte.</p>
+          <p>Une quantité chevauche forcément plusieurs états. Elle est cette pluralité d’états.</p>
+          <p>Une métaphore consiste à dire : Il y a n objets satisfaisant à la fois à p caractéres communs. On peut compter ensemble ces mêmes objets si un mot quelconque désignait seulement les p caractères communs. C’est une tendance à les dénombrer à l’aide d’une même série ou à les unifier. Transformations<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p>C’est un effort pour la création d’un <hi rend="i">tiers-mot</hi>.</p>
+          <p rend="noindent"/>
+          <p rend="noindent">C’est un phénomène mental relatif au lieu que la qualité est absolue.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f45.image">
+            <seg rend="lienhypertexte">[Fol. 23r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-23r</term>
+        </index>
+        <div>
+          <head>* « Étude spéciale des relations Symboliques et Rationnelles »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-23r/062</term>
+          </index>
+          <p rend="noindent center">Étude spéciale des relations Symboliques et Rationnelles 
+<lb/>qui ont <hi rend="i">A dans</hi> <hi rend="u"><hi rend="i">le réel</hi></hi> 
+<lb/>—–––</p>
+          <p>Les relations symboliques sont des rationnelles mais dans lesquelles au lieu de reconstruire l’objet défini (significatif)<note place="bottom">Une flèche renvoie à « <hi rend="u"><hi rend="i">Alors</hi> </hi>» (en dessous).</note> <pb n="C.I.478"/>on reconstruit – l’état (formel) – de plus on peut ne reconstruire ou ne tenir compte que de partie de l’état A B. <hi rend="i">On n’opère pas sur le donné</hi> – <hi rend="i">A directement on ne le modifie pas</hi>, on – – – ici les lois mêmes de la préhension – – – ressuscite tout un groupe où il était ou plutôt il se ressuscite, aucune volonté. Il y a double contiguïté – preuve en faveur de l’état.</p>
+          <p/>
+          <p rend="noindent"><hi rend="u"><hi rend="i">Alors</hi></hi> tandis que la substitution ne dépendrait pas de ses termes – la transformation en dépendrait et la substitution serait beaucoup plus « projective, formelle que la transformation ». Ce qui subsisterait de formel dans le temps – serait les opérations, une à une, – chaque ensemble d’opérations étant particulier.</p>
+          <p>Le terme prépondérant dans la résurrection de l’état formel d’ensemble est celui par lequel on y pénètre et qui est donné – mais comme il n’est pas donné <hi rend="i">seul</hi>, qu’on pense à autre chose – c’est tel <hi rend="i">terme</hi> de l’état resurgi qu’on accole à ce 1<hi rend="sup">er</hi> et ce sont les 2 termes <hi rend="i">utiles</hi> de la substitution<note place="bottom">Les deux pages suivantes (<ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f46.image"><seg rend="lienhypertexte">fol. </seg><seg rend="lienhypertexte">23v</seg></ref>, <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f47.image"><seg rend="lienhypertexte">fol. </seg><seg rend="lienhypertexte">24r</seg></ref>) sont collées et illisibles. Valéry mentionne au recto deux documents rédigés le 18 août et le 16 septembre 1898.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f48.image">
+            <seg rend="lienhypertexte">[Fol. 24v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-24v</term>
+        </index>
+        <div>
+          <head>* « Réversibilité – analyse, conditions logiques et autres »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-24v/063</term>
+          </index>
+          <p>
+            <pb n="C.III.168"/>
+          </p>
+          <p rend="noindent center">Réversibilité – analyse, conditions logiques et autres 
+<lb/>—–––––––––––––––––––––––––––––––––––</p>
+          <p>On rapporte à un même objet divers états successifs – c’est-à-dire qu’on suppose groupées une chose constante et plusieurs variables. On admet que les choses variables soient aussi groupées entre elles de façon que la variation d’une seule indique, suffise à faire connaître les variations des autres.</p>
+          <p rend="noindent">On écrit [A.X]. On suppose que les choses variables passent par divers états plus ou moins différents entre eux, chacun de ces états succédera à un autre invariablement le même. Soient a b c d ces états, a b c d est seul possible, <pb n="C.I.479"/>à l’exclusion des d ! autres combinaisons (quel que soit d), de plus d c b a = – (a b c d) est ou non possible.</p>
+          <p rend="noindent">La réversibilité infiniment petite est en général toujours possible.</p>
+          <p>Pour qu’il y ait réversibilité il faut qu’il y ait continuité d’une certaine façon.</p>
+          <p rend="noindent">En matière <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> il se passe ceci.</p>
+          <p>A, B, C, D, états. En D on peut avoir D C B A – on a donc</p>
+          <p>[Croquis et Calculs]</p>
+          <p>Q étant une constante = Σ abcd il arrive que si la série dépasse Q et donne Q + ΔQ = E la réversibilité est impossible.</p>
+          <p rend="noindent">F<hi rend="sub">1</hi>(x<hi rend="sub">1</hi>) F<hi rend="sub">2</hi>(x<hi rend="sub">2</hi>)… F<hi rend="sub">q</hi>(x<hi rend="sub">q</hi>)… F<hi rend="sub">q − 1</hi>, (x<hi rend="sub">q + 1</hi>)… F<hi rend="sub">1</hi> (x<hi rend="sub">2q − 1</hi>) F<hi rend="sub">1</hi>(x<hi rend="sub">2q − 1</hi>) ou F<hi rend="sub">1</hi>(l) = F<hi rend="sub">1</hi>(2<hi rend="sub">q − 1</hi>)</p>
+          <p><space>                                                                                    </space>F<hi rend="sub">2</hi>(2) = F<hi rend="sub">2</hi>(2<hi rend="sub">q − 2</hi>)</p>
+          <p>En matière <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> la réversibilité est un cas très particulier du repassage à un état donné.</p>
+          <p rend="noindent1350">[Croquis]</p>
+          <ab type="ornament">—–––––––––––––––––––––++</ab>
+          <p>Problème + précis.</p>
+          <p>Soit une association, peut-elle avoir lieu dans toutes les combinaisons ? En particulier dans le sens inverse, (indépendamment de la succession du sens inverse au sens direct).</p>
+          <p>Quelles conditions</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f49.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">25r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-25r</term>
+        </index>
+        <div>
+          <head>* « Réversibilité (suite) »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-25r/064</term>
+          </index>
+          <p rend="noindent center">Réversibilité (suite) 
+<lb/>—–––</p>
+          <p>Les associations dites d’idées – sont des <hi rend="i">suites d’états</hi> – et voilà tout. La réversibilité d’une suite dépend de – etc. –</p>
+          <p><pb n="C.III.169"/><pb/>syllogisme –</p>
+          <p>induction</p>
+          <p rend="noindent">L’intérêt de ceci est que la réversibilité peut devenir un procédé en bien des cas.</p>
+          <p>Si l’on peut construire B avec A, peut-on toujours construire A avec B ? Une suite d’états est « finie » lorsque le dernier état est tel qu’on ne peut passer de celui-là au 1<hi rend="sup">er</hi> par les mêmes points de passage. On emprunte de l’« énergie » ailleurs.</p>
+          <p>Mais règle : toutes les fois que la construction (B par A) se produira, la construction A par B deviendra plus facile.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f51.image">
+            <seg rend="lienhypertexte">[Fol. 26r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-26r</term>
+        </index>
+        <div>
+          <head>* « Relations symboliques. [I] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-26r/065-part1</term>
+          </index>
+          <p/>
+          <p>[Croquis]</p>
+          <p rend="noindent center">Relations symboliques. 
+<lb/>—–</p>
+          <p>On peut intercaler entre les termes de toute relation symbolique une infinité de relations de même nature. En effet, les 2 termes n’ont aucun rapport entre eux.</p>
+          <p>Donc toute suite de telles relations ne dépend que du 1<hi rend="sup">er</hi> et du dernier terme (à condition qu’il n’y ait que des relations symboliques du 1<hi rend="sup">er</hi> au p<hi rend="sup">me</hi>).</p>
+          <p rend="noindent">En langage mathématique on dirait qu’elles forment un groupe de substitutions.</p>
+          <p/>
+          <p><pb n="C.I.480"/>Dans une suite de phénomènes mentaux il y a évidemment des éléments qui se suivent et se distinguent les uns des autres – (d’où le nom d’associations des idées etc.) quel est ce quantum ? ou élément, qui détermine par son changement le temps ? – <note place="bottom">[MARGIN] Ligne soulignée en marge.</note> Il dépend évidemment de la nature de son <note place="bottom">[MARGIN] En marge, à gauche, Valéry a placé un point d’interrogation.</note>contenu – ce contenu peut comprendre <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>, <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> et ρ – Peut-être est-ce ainsi : le quantum se produit quand le <hi rend="i">connaissant</hi> se distingue du connu. Ou quand l’association ou relation peut se produire. Avant <hi rend="i">cela</hi> ne peut pas changer<note place="bottom">[MARGIN] Ligne soulignée en marge. Mais tout le développement est aussi souligné en marge au crayon rouge.</note>.</p>
+          <table>
+            <row>
+              <cell/>
+              <cell rows="3">{</cell>
+              <cell/>
+              <cell>entrer dans l’ensemble de contiguïté antérieure</cell>
+            </row>
+            <row>
+              <cell>Il faut de quoi</cell>
+              <cell>ou</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell>subir les opérations de transformation.</cell>
+            </row>
+          </table>
+          <p rend="noindent">Il faut aussi que la chose produite ait été confrontée à l’ensemble de l’esprit<note place="bottom">[MARGIN] Ligne soulignée en marge.</note>.</p>
+          <p rend="noindent">Tout ce qui se produit là est relatif à cet ensemble non coïncidable et sérié.</p>
+          <p rend="noindent"> ! ! <space/>Le quantum est le temps nécessaire pour que tout l’esprit soit parcouru ou une portion suffisante<note place="bottom">[MARGIN] Ligne soulignée en marge.</note>. L’attention se transporte</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f53.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">27r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-27r</term>
+        </index>
+        <div>
+          <head>* « Relations symboliques. [II] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-27r/065-part2</term>
+          </index>
+          <p rend="noindent">alors <del>à la portion</del> au point où s’arrête le trajet et tout recommence.</p>
+          <p rend="noindent">Ensemble <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>.</p>
+          <p rend="noindent">[Croquis] Mais sur le nouvel ensemble formé par le trajet on s’arrête ici ou là suivant la disposition générale. Soit aussi que le point d’arrêt ramène à l’origine etc. ?</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f54.image">
+            <seg rend="lienhypertexte">[Fol. 27v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-27v</term>
+        </index>
+        <div>
+          <head>* « Schéma du temps (centre) »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-27v/066</term>
+          </index>
+          <p>
+            <pb n="C.III.170"/>
+          </p>
+          <p rend="noindent">Schéma du temps (centre)</p>
+          <p/>
+          <p>[Dessin légendé]</p>
+          <p/>
+          <table>
+            <row>
+              <cell>linéaire</cell>
+              <cell/>
+              <cell>maximum de</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell rows="3">{</cell>
+              <cell>distinction</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>simultané</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>ordre arbitraire</cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p>La Sensation est toujours une chose présente – ou n’est pas.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f55.image">
+            <seg rend="lienhypertexte">[Fol. 28r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-28r</term>
+        </index>
+        <div>
+          <head>1898-09<term rend="index" key="1898-09"/> [Papier du ministère de la Guerre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-28r/067</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">[Papier du ministère de la Guerre daté de septembre 1898]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f56.image">
+            <seg rend="lienhypertexte">[Fol. 28v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-28v</term>
+        </index>
+        <div>
+          <head>* « Quand on forme d’autorité une relation symbolique… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-28v/068</term>
+          </index>
+          <p><pb n="C.I.481"/>Quand on forme d’autorité une relation symbolique on imagine les états intermédiaires –</p>
+          <p/>
+          <p rend="noindent0850">Relations symboliques particulières</p>
+          <p rend="noindent0850"><space>                                        </space>φ<hi rend="sub">t0</hi>, ψ<hi rend="sub">t1</hi></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f57.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">29r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29r</term>
+        </index>
+        <div>
+          <head>* « Les véritables auxiliaires sont être, avoir et faire (ou agir)… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29r/069</term>
+          </index>
+          <p rend="noindent"><space> </space>Les véritables auxiliaires sont être, avoir et faire (ou agir).</p>
+          <p rend="noindent">Les verbes actifs sont ceux qui contiennent avoir ou faire.</p>
+          <p rend="noindent">Pour les analyser il suffit de compter le nombre p de termes mentaux distincts qu’ils nécessitent.</p>
+          <table>
+            <row>
+              <cell>ainsi</cell>
+              <cell>être – </cell>
+              <cell>p = 1</cell>
+              <cell>be</cell>
+              <cell/>
+              <cell>existence</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>avoir</cell>
+              <cell>p = 2</cell>
+              <cell>have</cell>
+              <cell/>
+              <cell>relation</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>faire</cell>
+              <cell>p = 3</cell>
+              <cell>do</cell>
+              <cell rows="2">{</cell>
+              <cell>changement</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>mouvement</cell>
+            </row>
+          </table>
+          <p><pb n="C.III.171"/>C’est la division en groupes mentaux</p>
+          <p rend="noindent"><hi rend="i">faire</hi>, est <hi rend="i">rétroactif</hi> s’il ajoute au sujet une qualité nécessaire pour le lier avec l’attribut.</p>
+          <p rend="noindent"><hi rend="i">faire</hi> et <hi rend="i">avoir</hi> :</p>
+          <p rend="noindent">faire : c’est sujet, action, patient</p>
+          <p rend="noindent">avoir : sujet – (liaison une et simple) – patient</p>
+          <p rend="noindent">être : c’est le sujet seul.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f58.image">
+            <seg rend="lienhypertexte">[Fol. 29v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29v</term>
+        </index>
+        <div>
+          <head>* « Le continu c’est des opérations mentales… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29v/070</term>
+          </index>
+          <p/>
+          <p>Le continu c’est des opérations mentales, c’est quand on peut passer – dans une collection d’une chose à une autre par transformation.</p>
+        </div>
+        <div>
+          <head>* « L’abstraction provient des choses que nous pouvons faire varier… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29v/071</term>
+          </index>
+          <p>L’abstraction provient des choses que nous pouvons faire varier indépendamment dans la représentation<note place="bottom">[MARGIN] Phrase soulignée en marge.</note>.</p>
+        </div>
+        <div>
+          <head>* « On ne peut compter ensemble ou mesurer que les choses… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29v/072</term>
+          </index>
+          <p>On ne peut compter ensemble ou mesurer que les choses qu’on peut transformer les unes dans les autres par <hi rend="i">telles</hi> opérations.</p>
+        </div>
+        <div>
+          <head>* « Rôle joué par les objets fixes et les mobiles, ou changeables… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-29v/073</term>
+          </index>
+          <p>Rôle joué par les objets fixes et les mobiles, ou changeables.</p>
+          <p>Il y a des choses qu’on peut déformer – ou plutôt on peut les déformer toutes (imagination), et de l’ensemble des déformations <hi rend="u"><hi rend="i">possibles</hi></hi>, certaines coïncident avec de nouvelles choses : on a passé. Tantôt c’est le mouvement de déformation qui coïncide tantôt autre chose.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f59.image">
+            <seg rend="lienhypertexte">[Fol. 30r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-30r</term>
+        </index>
+        <div>
+          <head>* « Si l’on envisage une chose sans songer à <hi rend="i">l’esprit</hi> – … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-30r/074</term>
+          </index>
+          <p><pb n="C.I.482"/><pb/>Si l’on envisage une chose sans songer à <hi rend="i">l’esprit –</hi> en dehors des nécessités de l’esprit etc. elle <hi rend="i">doit</hi> paraître <hi rend="i">en l’air</hi> et au fond incompréhensible. Tant que l’on ne voit pas apparaître dans son étude les linéaments de l’esprit même on peut être sûr qu’on est loin du compte.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f60.image">
+            <seg rend="lienhypertexte">[Fol. 30v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-30v</term>
+        </index>
+        <div>
+          <head>* « Relations symboliques [I] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-30v/075-part1</term>
+          </index>
+          <p>
+            <pb n="C.III.172"/>
+          </p>
+          <table>
+            <row>
+              <cell>Relations symboliques</cell>
+              <cell>A = B (mod.t)</cell>
+              <cell rows="2">}</cell>
+              <cell rows="2">(y)</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B = A (mod.t′)</cell>
+            </row>
+          </table>
+          <p>« Il se produit dans la pensée des choses que la pensée ne peut expliquer (thèse) »</p>
+          <p>Je veux dire des successions régulières, sûres et de termes irréductibles entre eux.</p>
+          <p>Or nous ne pouvons nous en faire une idée plus générale qu’en cherchant d’autres cas d’accouplement déterminé de choses également irréductibles. C’est dans la suite ou l’état des sensations. La réalité est justement un système de choses irréductibles – (système indéfiniment augmentable de la sorte par définition).</p>
+          <p><pb n="C.I.483"/>Nous concluons alors, d’accord aussi avec l’expérience, que</p>
+          <p rend="noindent">1º les relations symboliques ont toujours déjà eu lieu.</p>
+          <p rend="noindent">2º qu’elles proviennent de l<hi rend="i">’extérieur</hi> forcément, (en partie)</p>
+          <p rend="noindent">3º que dans cet extérieur ou avec lui elles ont formé originellement un groupe ou ensemble donné (successif immédiat ou simultané).</p>
+          <p rend="noindent">○ C’est le « voisinage dans la sphère intégrale. »</p>
+          <p/>
+          <p>De plus A suit B, mais aucune nécessité ou constructibilité ne les lie.</p>
+          <p>Et si A extérieur B intérieur, à un moment se sont trouvés en contiguïté (t ou s) A et B ne sont pas symétriques en position.</p>
+          <p>On se trouve en A et puis en B, et <hi rend="i">aucun chemin</hi> de l’un à l’autre.</p>
+          <p>Alors on interpole ces points, on remonte à une figure commune – et antérieure forcément.</p>
+          <p><hi rend="i">La réalité est l’ensemble de ces figures communes</hi> (étant rappelé que l’un au moins des termes est une <hi rend="i">sensation</hi>.) Nous sommes en proie à une discontinuité irréductible.</p>
+          <p>Non seulement on ignore vers quelle pensée on va et de quelle</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f61.image">
+            <seg rend="lienhypertexte">[Fol. 31r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31r</term>
+        </index>
+        <div>
+          <head>* « Relations symboliques [II] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31r/075-part2</term>
+          </index>
+          <p rend="noindent">on provient réellement mais encore dans la limite où la succession nous apparaît, d’un terme à un autre, – aucune route imaginable simplement ne conduit de ce terme au plus voisin (dans la plupart des cas).</p>
+          <p/>
+          <p>Le temps ou l’état est le fait de la perception de 2 termes irréductibles soit dans la pensée, soit dans la sensation + pensée.</p>
+          <p/>
+          <p>Il y a loi inductive lorsque toutes les fois que p a été connu q a été connu – mais dans l’esprit si p a été connu 1 fois seulement devant q – la loi sera créée et pourra s’exercer<note place="bottom">[MARGIN] Phrase soulignée en marge.</note>.</p>
+          <p/>
+          <p>Comment se perçoivent ces 2 termes ?</p>
+          <p rend="noindent"><space>     </space>Se rappeler l’idée du 2<hi rend="sup">me</hi> terme toujours <hi rend="u"><hi rend="i">mental</hi></hi><note place="bottom">Phrase encadrée et décalée à gauche.</note></p>
+          <p><pb n="C.I.484"/>Oui. Nous croyons avoir expliqué suffisamment une association symbolique en retrouvant ou en inventant un état où les 2 termes ont été liés dans le temps ou l’espace par <hi rend="i">pure contiguïté.</hi> Mais cela n’est justement qu’une image de la relation symbolique elle-même.</p>
+          <p><pb n="C.III.173"/><hi rend="i">Ceci confirme l’élément état.</hi> Mais tout, passé, liaisons, ensemble se reflète dans l’état actuel – le seul. Les développements « en arrière » sont « en avant » en réalité – mais il n’y [a] avant et arrière que par rapport à une direction que seules nous donnent diverses indéterminations ou déterminations… Un chemin dans un seul sens et le point mobile ne connaît la route parcourue en arrière que par la nature du chemin qu’il suit en avant. Il ne peut pas admettre, ce point, que la route serait telle et telle du 1<hi rend="sup">er</hi> coup, quand il y a lieu.</p>
+          <p/>
+          <p>Au fond il n’y a que des relations symboliques –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f62.image">
+            <seg rend="lienhypertexte">[Fol. 31v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31v</term>
+        </index>
+        <div>
+          <head>* « Relations symboliques [III] »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31v/075-part3</term>
+          </index>
+          <p>En poursuivant une imagination déterminée, on retombe dans la réalité – (à condition d’accumuler les fixations).</p>
+          <p>&lt;Nous ne pouvons imaginer que des choses possibles dans chacun des domaines sensibles séparés, au moins. + des combinaisons de domaines entre eux – De plus nous ne pouvons imaginer <hi rend="i">à la fois</hi> que telle portion.&gt;</p>
+        </div>
+        <div>
+          <head>* « Cela est parce que cela a été… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31v/076</term>
+          </index>
+          <p>Cela est parce que cela a été.</p>
+          <p>C’est la loi la plus bizarre et la plus difficile au monde – celle de l’esprit<note place="bottom">[MARGIN] Deux lignes soulignées en marge.</note>.</p>
+          <p>Cela suit cela parce que ceci et cela ont été et sont simultanés.</p>
+        </div>
+        <div>
+          <head>* « On sort peut-être de la série d’Agathe… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31v/077</term>
+          </index>
+          <p>On sort peut-être de la série d’Agathe<note place="bottom">Titre du conte entrepris au début de 1898.</note> ab abab etc. parce qu’on forme (a + b) simultanément.</p>
+        </div>
+        <div>
+          <head>* « On ne peut pas imaginer un espace à 3 dimensions… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-31v/078</term>
+          </index>
+          <table>
+            <row>
+              <cell>On ne peut pas imaginer un espace à 3 dimensions plus qu’un à 4.</cell>
+              <cell/>
+              <cell>
+                <p/>
+                <p>Bref, analyse en sphères successives – et dans chacune ses parties S, I.</p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell>Entre chaque couple – fixation, ou changement de voie, abstraction etc.</cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f63.image">
+            <seg rend="lienhypertexte">[Fol. 32r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-32r</term>
+        </index>
+        <div>
+          <head>* « De l’égalité et de l’équation en matière mentale. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-32r/079</term>
+          </index>
+          <p><pb n="C.I.485"/><pb/>De l’égalité et de l’équation en matière mentale.</p>
+          <p rend="noindent">Si a et a′ appellent symboliquement <hi rend="i">b</hi> tous deux, a et a′ seront dits <hi rend="i">égaux symboliquement.</hi></p>
+          <p rend="noindent"><pb n="C.III.174"/>Si a et a′ appellent symboliquement b mais après certaines opérations, a et a′ seront dits <hi rend="i">congruents</hi> symboliquement.</p>
+          <p rend="noindent">Si a est amené à être identifié avec b après p opérations a = b (mod. p)</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f64.image">
+            <seg rend="lienhypertexte">[Fol. 32v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-32v</term>
+        </index>
+        <div>
+          <head>* « <hi rend="i">Imaginer du temps</hi> ? – »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-32v/080</term>
+          </index>
+          <p/>
+          <p><hi rend="i">Imaginer du temps</hi> ? –</p>
+          <p/>
+          <p>Imaginer pendant une certaine durée conduit à attraper une certaine suite toute prête et à dérouler –</p>
+          <p>En général, le plus important en matière mentale ce sont les changements de ton, et de série –</p>
+          <ab type="ornament">—–––</ab>
+          <p>J’imagine que je me lève, descends, traverse la cour etc.</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">1. image cour</p>
+                <p rend="noindent">2. image moyens</p>
+                <p rend="noindent">sensations (imaginaires) diverses parcourant le corps – tandis que vue,</p>
+                <p rend="noindent">colorations etc. –</p>
+              </cell>
+              <cell>l’escalier (etc.), lui parcourt le corps instantanément</cell>
+            </row>
+          </table>
+          <p/>
+          <p rend="noindent">à mesure mon imagination s’écarte de l’état initial où <hi rend="i">je suis encore</hi>, et qui comportait conscience de la réalité donnée à ce moment.</p>
+          <p>Devient-elle plus frêle en s’écartant du point zéro ?</p>
+          <p rend="noindent">Succession de sphères dont la 1<hi rend="sup">re</hi> a une propriété singulière.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f65.image">
+            <seg rend="lienhypertexte">[Fol. 33r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33r</term>
+        </index>
+        <div>
+          <head>* « Comment savoir qu’un <hi rend="i">compte</hi> est exact… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33r/081</term>
+          </index>
+          <p>Comment savoir qu’un <hi rend="i">compte</hi> est exact – Que tous les cas <hi rend="i">possibles</hi> ont été envisagés ? Être assuré de ne rien omettre – Comment ?</p>
+          <p rend="noindent">C’est l’étude du possible – du concevable – de l’imaginable etc.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’homme est une unité… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33r/082</term>
+          </index>
+          <p rend="noindent0150"><pb n="C.I.486"/><space>     </space>L’homme est une unité. Il se mesure avec le reste de sa connaissance et il évalue tout en fonction de son unité <hi rend="i">Soi.</hi> Mais cette unité – est complexe. (Aucun intérêt si on ne précise pas cela.)</p>
+          <p rend="noindent0150"><space>     </space>D’abord il dit : ceci égale moi, moyennant certaines opérations successives.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « La différence φψ est qu’on ne pense qu’entre ψ »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33r/083</term>
+          </index>
+          <p rend="noindent0500"><pb n="C.III.175"/><pb/>La différence <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φψ</ref> est qu’on ne pense qu’entre <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref><note place="bottom">[MARGIN] Phrase soulignée en marge.</note></p>
+        </div>
+        <div>
+          <head>* « On est ce que l’on est, et ce qu’on imagine d’être… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33r/084</term>
+          </index>
+          <p rend="noindent0600">On est ce que l’on est, et ce qu’on imagine d’être – cela alternativement, distributivement d’où irrégularités –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f66.image">
+            <seg rend="lienhypertexte">[Fol. 33v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v</term>
+        </index>
+        <div>
+          <head>* « À la fois – réminiscence d’un air bête… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v/085</term>
+          </index>
+          <p rend="noindent">À la fois –</p>
+          <p rend="noindent">réminiscence d’un air bête ou autre et telle idée (pulsation) – tableau<note place="bottom">Passage souligné de biais.</note>.</p>
+        </div>
+        <div>
+          <head>* « La 1<hi rend="sup">re</hi>  condition de l’homme supérieur est qu’il y ait des hommes inférieurs… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v/086</term>
+          </index>
+          <p>La 1<hi rend="sup">re</hi>  condition de l’homme supérieur est qu’il y ait des hommes inférieurs. Les créer.</p>
+          <p>Mais, supériorité – idole vague.</p>
+        </div>
+        <div>
+          <head>* « Quelle différence entre un liquide et un ensemble de solides articulés ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v/087</term>
+          </index>
+          <p>Quelle différence entre un liquide et un ensemble de solides articulés ?</p>
+          <p>Uniquement dans la grandeur des portions inarticulées.</p>
+        </div>
+        <div>
+          <head>* « Comment peut s’opérer le décollement des qualités – couleur forme ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v/088</term>
+          </index>
+          <p>Comment peut s’opérer le décollement des qualités – couleur forme ? ici c’est dans l’intérieur d’un domaine.</p>
+        </div>
+        <div>
+          <head>* « Réduction de certains ensembles au minimum reconnaissable… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v/089</term>
+          </index>
+          <p><pb n="C.I.487"/><pb/>Réduction de certains ensembles au minimum<note place="bottom">Un trait relie ce mot à « Indépendance » (en dessous, à droite).</note> reconnaissable – dernier pas avant le symbole et le mot (thèmes de Wagner) (temps + travail − avantages)</p>
+          <p>Une opération sur groupes de symboles</p>
+          <p>Concept d’unité <space>                                                                 </space>indépendances</p>
+          <p><space>                                                                                           </space>dimensions</p>
+          <p>[Dessin]</p>
+        </div>
+        <div>
+          <head>* « L’analyse d’une question n’a pas avec cette question autant de rapports… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-33v/090</term>
+          </index>
+          <p rend="noindent">L’analyse d’une question n’a pas avec cette question autant de rapports qu’on le croit ni les rapports qu’on croit.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f67.image">
+            <seg rend="lienhypertexte">[Fol. 34r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-34r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="u">R = pr</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-34r/091</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <pb n="C.III.176"/>
+              </cell>
+              <cell>a est partie de A.</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>a = p</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>A = q</cell>
+            </row>
+            <row>
+              <cell>R = pr</cell>
+              <cell>a et A n’ont rien en commun que la connaissance, mais ce qu’on peut assimiler et ramener de l’un à l’autre c’est les phénomènes mentaux correspondants. Ces phénomènes sont eux-mêmes <hi rend="i">incomparables</hi> entre eux à 1<hi rend="sup">re</hi> vue – mais <hi rend="i">ce qui est comparable c’est l’effort qu’ils donnent et ce qu’on peut leur faire subir.</hi></cell>
+            </row>
+          </table>
+          <p>Quand je pense à un arbre je lui trouve une certaine complexité c’est-à-dire que [je] puis</p>
+          <p rend="noindent">1º faire à cet arbre ou de cet arbre, telles choses</p>
+          <p rend="noindent">2º faire à l’image de cet arbre – telle chose</p>
+          <p>La complexité totale est le résultat de cette appréciation <hi rend="i">double</hi> (au fond <hi rend="i">tout</hi>, images diversement qualifiées – et sûres).</p>
+          <p>Je suppose que je pense ensuite à un objet fait en exécutant telles opérations prévues ci-dessus pour l’arbre – j’opérerai de même sur cet objet. D’où deuxième notion dite de complexité. Comparaison de ces 2 notions.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f68.image">
+            <seg rend="lienhypertexte">[Fol. 35r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-35r</term>
+        </index>
+        <div>
+          <head>* « il y prend goût – il meurt. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-35r/092</term>
+          </index>
+          <p rend="noindent1100">il y prend goût –</p>
+          <p rend="noindent1100">il meurt.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f69.image">
+            <seg rend="lienhypertexte">[Fol. 35v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-35v</term>
+        </index>
+        <div>
+          <head>* « On donne 2 choses <hi rend="i">différentes</hi> et successives… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-35v/093</term>
+          </index>
+          <p><pb n="C.I.488"/><pb/>On donne 2 choses <hi rend="i">différentes</hi> et successives et on suppose que l’une d’elles a été obtenue par une certaine opération sur l’autre, on demande de reconstituer la 1<hi rend="sup">re</hi>. Ceci pose la question de l’inversion de l’opération<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+        </div>
+        <div>
+          <head>* « Il y a une cloison à travers laquelle une sensation ayant passé… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-35v/094</term>
+          </index>
+          <p>Il y a une cloison à travers laquelle une sensation ayant passé devient objet de pensée c’est-à-dire matière de changements et d’opérations.</p>
+          <p>Généralement la sensation ainsi passée, se compléte, devient un objet c’est-à-dire une portion de la réalité. Il faut donc que la sensation n’ait qu’un temps.</p>
+        </div>
+        <div>
+          <head>* « Pour mesurer il faut : … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-35v/095</term>
+          </index>
+          <p><pb n="C.III.177"/><pb/>Pour mesurer il faut :</p>
+          <p>homogénéité des grandeurs</p>
+          <p>unité invariable</p>
+          <p>Transport.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f70.image">
+            <seg rend="lienhypertexte">[Fol. 36r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-36r</term>
+        </index>
+        <div>
+          <head>* « Prenons brutalement l’état (à l’ancienne manière)… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-36r/096</term>
+          </index>
+          <p>Prenons brutalement l’état (à l’ancienne manière)</p>
+          <p rend="noindent">on a <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">φ + ψ = C</ref></p>
+          <p rend="noindent">on a 1º les changements de C</p>
+          <p>2º les constances de C<note place="bottom">Une flèche renvoie à : « Toute suite de valeurs » (en dessous).</note></p>
+          <p>Si un certain ψ<pb n="" ana="src" xml:id="p"/> est donné tel que l’expression prenne une série de valeurs ψ<hi rend="sub">1</hi>, ψ<hi rend="sub">2</hi> = Φ(ψ<pb n="" ana="src" xml:id="p"/>)</p>
+          <p rend="noindent">puis on a le système</p>
+          <p><space>      </space>φ<hi rend="sub">k</hi> + ψ<hi rend="sub">i</hi></p>
+          <p><space>      </space>φ′<hi rend="sub">k</hi> + ψ<hi rend="sub">j</hi> où ψ<hi rend="sub">j</hi> = υ(φ<hi rend="sub">k</hi>)</p>
+          <p/>
+          <p rend="noindent">Loi à essayer. Toute suite de valeurs pour lesquelles C = K jouit de certaines propriétés, on a alors δφ = − δψ</p>
+          <p><pb n="C.I.489"/>Voir si dans ce cas on ne relie pas cette forme à certains états mentaux spéciaux.</p>
+          <p>De plus la variation <hi rend="u"><hi rend="i">δφ</hi></hi> est <hi rend="i">essentiellement</hi> différente en espèce de <hi rend="u"><hi rend="i">δψ</hi></hi>.</p>
+          <p>δφ  est quantitatif.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f71.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">36v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-36v</term>
+        </index>
+        <div>
+          <head>* « Si un individu A manifeste, produit telle idée ou opinion sur tel point… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-36v/097</term>
+          </index>
+          <p/>
+          <p rend="noindent">Si un individu A manifeste, produit telle idée ou opinion sur tel point, cela indique une tendance générale etc. ou bien cela peut indiquer – tout ailleurs que le point donné – quelque chose –</p>
+          <p rend="noindent">A pense ou pensera sûrement à ceci étant donné cela.</p>
+          <p rend="noindent">Modifications générales.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Quelle relation entre des opérations et leur but ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-36v/098</term>
+          </index>
+          <p rend="noindent">Quelle relation entre des opérations et leur but ? Ainsi je connais la loi de formation de α<hi rend="sub">1</hi> α<hi rend="sub">2</hi> α<pb n="" ana="src" xml:id="p"/> – –</p>
+          <p rend="noindent">= je connais la suite d’opérations pour former α<hi rend="sub">k</hi> étant donné ou bien α<hi rend="sub">k − 1</hi>, ou bien suivant le cas β(α = φ(β))</p>
+          <p rend="noindent"><pb n="C.III.178"/><pb/>Mais l’exécution des opérations suppose une conception préliminaire de α<hi rend="sub">k</hi> ? Quelle différence entre cette conception qui va se <hi rend="i">réaliser</hi> et la réalisée.</p>
+          <p>Soient α<hi rend="sub">k</hi> et α′<hi rend="sub">k</hi>. (α<hi rend="sub">k</hi> est le concept)</p>
+          <p rend="noindent">α<hi rend="sub">k</hi> = α′<hi rend="sub">k</hi> + une série d’opérations.</p>
+          <p rend="noindent">De plus α<hi rend="sub">k</hi> et α′<hi rend="sub">k</hi> sont <hi rend="i">purement mentaux.</hi> Sinon le problème est sans intérêt.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f72.image">
+            <seg rend="lienhypertexte">[Fol. 37r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-37r</term>
+        </index>
+        <div>
+          <head>* « Comment réaliser l’indépendance de l’opération et de son contenu ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-37r/099</term>
+          </index>
+          <p>Comment réaliser l’indépendance de l’opération et de son contenu ? Analyser cela. –</p>
+          <p/>
+          <p rend="noindent"><pb n="C.I.490"/><pb/>1<hi rend="sup">er</hi> stade.</p>
+          <p rend="noindent">indépendance de la sensation et de l’image.</p>
+          <p rend="noindent">2º indépendance de l’opération et de son contenu.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f73.image">
+            <seg rend="lienhypertexte">[Fol. 37v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-37r</term>
+        </index>
+        <div>
+          <head>* « Une image mentale = sa partie + <hi rend="i">du temps</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-37r/100</term>
+          </index>
+          <p rend="noindent"/>
+          <p rend="noindent"/>
+          <p rend="noindent">Une image mentale = sa partie + <hi rend="i">du temps</hi> si cette partie peut remplir certaines conditions d’augmentabilité –</p>
+          <p rend="noindent"/>
+          <p rend="noindent">Une image étant imaginée – si ensuite l’on imagine seulement sa partie, cette partie prend la grandeur imaginée de l’image. Mais cette partie n’est partie qu’en étant <hi rend="i">rapprochée</hi> du tout.</p>
+          <p rend="noindent">Donc la substitution de temps est une substitution d’importance – et même d’existence.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f74.image">
+            <seg rend="lienhypertexte">[Fol. 38r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-38r</term>
+        </index>
+        <div>
+          <head>* « Le phénomène type, base etc. est le changement… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-38r/101</term>
+          </index>
+          <p rend="noindent">Le phénomène type, base etc. est le changement.</p>
+          <p rend="noindent"><space>   </space>A B C D étant différents : on a</p>
+          <p rend="noindent"><space>       </space>P(A, B) = P(C, D). Cela suppose la conscience des 4 termes.</p>
+          <p/>
+          <p/>
+          <p/>
+          <p>Donc 1<hi rend="sup">re</hi> opération traduire telle chose en une somme de changements <hi rend="i">nécessaires</hi> (et uniquement changements) mais parmi eux il en est de continus ou rationnels et d’autres de brusques –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f77.image">
+            <seg rend="lienhypertexte">[Fol. 39v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-39v</term>
+        </index>
+        <div>
+          <head>* « Il sentait, <hi rend="i">toute</hi>, sa puissance et, toute, son impuissance… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-39v/102</term>
+          </index>
+          <p rend="noindent"><pb n="C.III.179"/><pb/>Il sentait, <hi rend="i">toute</hi>, sa puissance et, toute, son impuissance, et sa puissance lui apparaissait devant les obstacles et son impuissance devant ce qui est facile –</p>
+          <p rend="noindent center">Lionardo<note place="bottom">Vinci : mot ajouté par Catherine Pozzi à laquelle Valéry fut intimement lié de 1920 à 1928. Il lui fit lire ses <hi rend="i">Cahiers</hi> et envisagea avec elle d’en classer la matière. Elle appelait parfois Valéry « Lionardo » en souvenir de Vinci.</note></p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La vie se passe à changer d’unités de mesure… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-39v/103</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.491"/><pb/>La vie se passe à changer d’unités de mesure.</p>
+          <p rend="noindent">Si avec une femme on obtient une fois un plaisir P<hi rend="sub">t</hi>, si on continue à chercher avec la même, le moment P<hi rend="sub">t+1</hi> sera mesuré par P<hi rend="sub">t</hi>, si P<hi rend="sub">t + 1</hi> &gt; P, P<hi rend="sub">t + 2</hi> sera mesuré par P<hi rend="sub">t + 1</hi>.</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">En somme, on cherchera toujours dans l’avenir à obtenir un plaisir égal ou plus grand, au plus grand plaisir obtenu dont on se souvienne ou auquel on pense<note place="bottom">[MARGIN] La fin de la phrase est soulignée en marge.</note>.</p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>d’abord – « qu’on imagine »</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>et plus tard « dont on se souvienne ».</cell>
+              <cell/>
+            </row>
+          </table>
+          <p rend="noindent"/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f80.image">
+            <seg rend="lienhypertexte">[Fol. 41r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-41r</term>
+        </index>
+        <div>
+          <head>* « Processus imaginatif… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-41r/104</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p>&lt;Dire d’une chose qu’elle est illimitée c’est la différencier de son extension – c’est y voir autre chose qu’étendue et ne développer que l’étendue qui elle-même se divise en action bien connue et champ unique de cette action.&gt;</p>
+              </cell>
+              <cell>
+                <p>Processus imaginatif.</p>
+                <p rend="noindent">Création d’une image entre</p>
+                <p rend="noindent">ou {1 image et 1 sens</p>
+                <p rend="noindent"><space>   </space>{2 images</p>
+                <p rend="noindent">au moyen des conditions de l’image nº 2. Nombre de solutions</p>
+                <p rend="noindent">cas insolubles etc.</p>
+                <p><space>                          </space>filet = ailes = – –</p>
+                <p>le fait de les <hi rend="i">ajouter</hi> –</p>
+                <p>Qu’est-il ?</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Ce qui obscurcit presque tout c’est le langage… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-41r/105</term>
+          </index>
+          <p>Ce qui obscurcit presque tout c’est le langage. Parce qu’il oblige à fixer et qu’il généralise sans qu’on le veuille.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’obéissance est le commandement de soi-même. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-41r/106</term>
+          </index>
+          <p>L’obéissance est le</p>
+          <p>commandement de soi-même<note place="bottom">[MARGIN] Souligné en marge.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f81.image">
+            <seg rend="lienhypertexte">[Fol. 41v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-41v</term>
+        </index>
+        <div>
+          <head>* « On peut reproduire identiquement 1º des faits ou objets … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-41v/107</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent"><pb n="C.III.180"/><pb/>On peut reproduire identiquement</p>
+                <p rend="noindent">1º des faits ou objets</p>
+                <p rend="noindent">2º des suites, mais <hi rend="i">limitées</hi></p>
+                <p rend="noindent">On ne peut reproduire des suites illimitées.</p>
+              </cell>
+              <cell>
+                <p/>
+                <p/>
+                <p/>
+                <p>Concevoir a plusieurs sens – (en dehors de l’imagination)</p>
+                <p rend="noindent">Il veut dire d’abord</p>
+                <p>pouvoir <hi rend="i">écrire</hi> ou <hi rend="i">noter</hi> sans <hi rend="i">contradiction</hi></p>
+                <p rend="noindent">Il veut dire ensuite</p>
+                <p rend="noindent">opération de l’esprit purement superficielle entre choses connues et non imaginées ad hoc sans traduire chaque terme.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <ab type="ornament">—–––––––––––––––––––––––––––––––––––––––––––––––––––––</ab>
+          <p/>
+          <p rend="noindent"><pb n="C.I.492"/><pb/>1º images</p>
+          <p rend="noindent">2º opérations possibles sur images et indépendantes du temps id est de l’ordre du temps</p>
+          <p rend="noindent">opérations permutables – réversibles etc.</p>
+          <p rend="noindent">3º suites. Liaisons irréversibles. Ordre imposé.</p>
+          <p rend="noindent">4º opérations fondées sur le temps – (durée = nombre d’opérations indépendant de l’ordre)</p>
+          <p>t = {nombre</p>
+          <p><space>    </space>{ordre</p>
+          <p rend="noindent1000">
+            <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I+R = C } (1)</ref>
+          </p>
+          <p rend="noindent1000">dI + dR = 0 }</p>
+          <p rend="noindent1000">or 1º I est indépendant de son objet</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f82.image">
+            <seg rend="lienhypertexte">[Fol. 42r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-42r</term>
+        </index>
+        <div>
+          <head>* « bruit d’usure et de rongerie d’une pluie… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-42r/108</term>
+          </index>
+          <table>
+            <row>
+              <cell>bruit d’usure et de rongerie d’une pluie</cell>
+              <cell/>
+              <cell>
+                <p/>
+                <p rend="noindent">… – où la mer {naviguait, flottait faisait des mouvements, des évolutions, magnifiques. <hi rend="i">Yalu</hi><note place="bottom"><hi rend="i">Le Yalou</hi> est une sorte de petit récit de Valéry entrepris à la fin du siècle, tardivement imprimé hors commerce en 1928 et repris en 1931 dans les <hi rend="i">Regards sur le monde actuel</hi> (Œ.I.1513-1524).</note></p>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Je désire pouvoir et seulement pouvoir. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-42r/109</term>
+          </index>
+          <p rend="noindent center">Je désire pouvoir et seulement pouvoir.</p>
+        </div>
+        <div>
+          <head>* « Quand l’instinct se présente à la conscience… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-42r/110</term>
+          </index>
+          <p rend="noindent">[Croquis légendé] Quand l’instinct se présente à la conscience et n’est pas ou bien inconnu absolument ou bien reconnu seulement après satisfaction, il [est] conçu comme satisfaction immédiate, c’est-à-dire comme image donnant sur une chose physique qui l’a suggérée. Je vois le gâteau, je l’imagine bon. Je le prends et le mange. Je fais <pb n="C.III.181"/>coïncider l’image et la sensation. Je superpose le gâteau au fantôme de gâteau qui était dans ma langue. Il n’y a là ni pensée réelle, ni volonté ni rien.</p>
+          <p rend="noindent">Problème : rapport de P à P′.</p>
+          <p>La culpabilité n’existe le cas échéant que si un raisonnement s’intercale entre P et geste.</p>
+          <p/>
+          <p>Il y a un ordre dans le potentiel <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f90.image">
+            <seg rend="lienhypertexte">[Fol. 46r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-46r</term>
+        </index>
+        <div>
+          <head>* « Comprehendere<note place="bottom">En latin, <hi rend="i">saisir ensemble, embrasser par la pensée</hi>.</note> – (suite) »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-46r/111</term>
+          </index>
+          <p/>
+          <p/>
+          <p>Comprehendere<note place="bottom">En latin, <hi rend="i">saisir ensemble, embrasser par la pensée</hi>.</note> – (suite)</p>
+          <ab type="ornament">—–</ab>
+          <p rend="noindent"><pb n="C.I.454C.III.147"/><pb/>a. nous lions un son… à certains phénomènes mentaux fixes</p>
+          <p rend="noindent">b. nous lions, d’autre part, quelquefois d’autres phénomènes mentaux aux précédents puis suppression ou non de ces précédents –</p>
+          <ab type="ornament">—–</ab>
+          <p>Ici on peut faire une équation –</p>
+          <p rend="noindent">l’opération de comprendre, c’est-à-dire de se représenter toutes les étapes <hi rend="i">suffisantes</hi> d’une transformation, c’est-à-dire de les avoir formées et ramenées à des types <hi rend="i">connus</hi>, c’est-à-dire <hi rend="i">suppressibles</hi> ou variables, <hi rend="i">(aptes à être variés par le sujet lui-même)</hi> est égalée au fait de saisir à la fois = de posséder = d’<hi rend="u"><hi rend="i">assimiler</hi></hi></p>
+          <p rend="noindent">id. entendre pour comprendre ; 1º assimilation</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f92.image">
+            <seg rend="lienhypertexte">[Fol. 47r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-47r</term>
+        </index>
+        <div>
+          <head>* « <hi rend="i">Mots</hi> »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-47r/112</term>
+          </index>
+          <p>
+            <pb n="C.I.493"/>
+          </p>
+          <p/>
+          <p>Mots</p>
+          <p/>
+          <p>&lt;penser veut dire peser/pendere<note place="bottom">Cf. « Inspirations méditerranéennes » (<hi rend="i">Variété III</hi>) : « Mais vous savez certainement que les mots d’hypothèse, ou de substance, d’âme ou d’esprit, ou d’idée, les mots de penser ou de comprendre, sont les noms d’actes élémentaires comme de poser, de mettre, de saisir, de souffler ou de voir, qui, peu à peu, se sont chargés de sens et de résonnances extraordinaires, ou bien qui se sont, au contraire, dépouillés progressivement jusqu’à perdre tout ce qui eût empêché de les combiner avec une liberté à peu près illimitée. La notion de peser n’est plus présente dans la notion de penser, et la respiration n’est plus suggérée par les termes d’esprit et d’âme. » (Œ.II.448, Pochothèque)</note> = il pesait [ceci et cela] (il pesait – – <hi rend="i">que –</hi> méditer ? – peut-être in medio stare ? + meditor<note place="bottom">Se tenir au milieu + je médite.</note> je m’exerce</p>
+          <table>
+            <row>
+              <cell>
+                <p>++cogitare, ressemble à cogere contraindre</p>
+                <p>comparer veut dire chercher une ressemblance –</p>
+                <p>simulare doit venir d’une racine signifiant imiter +</p>
+                <p>réfléchir, fléchir en retour</p>
+                <p>songer, rêver extension du songe en dormant,</p>
+                <p>images successives non coordonnées d’autorité</p>
+                <p>prévoir –</p>
+                <p>abstraire, séparer</p>
+                <p>entêté, testardo<note place="bottom">Têtu (en italien).</note>, envahi quant à la <hi rend="i">tête&gt;</hi></p>
+              </cell>
+              <cell>
+                <p>simies</p>
+                <p>simul seem</p>
+                <p>cf. simulare</p>
+                <p>similis assimilare<note place="bottom"><hi rend="i">Simies</hi> n’existe pas / <hi rend="i">simul</hi> = en même temps ; <hi rend="i">seem</hi> = sembler / <hi rend="i">simulare</hi> = rendre semblable ou feindre / <hi rend="i">similis</hi> = semblable / <hi rend="i">assimilare</hi> = simuler, rendre semblable, comparer, assimiler.</note></p>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent"><pb n="C.III.182"/>&lt;vouloir ? quelle est la métaphore matérielle ? velle<note place="bottom">Vouloir.</note> ? +</p>
+          <p rend="noindent">supposer = substituer, ce qui est curieux c’est que ces 2 verbes signifient mettre à la place et non leur forme : mettre dessous.</p>
+          <table>
+            <row>
+              <cell>idée = image</cell>
+              <cell>mind, thought</cell>
+            </row>
+            <row>
+              <cell>
+                <p>âme = souille – πνευμὰ<note place="bottom">Souffle, esprit.</note> – spiritus<note place="bottom">Souffle, esprit.</note></p>
+              </cell>
+              <cell>brain understanding</cell>
+            </row>
+            <row>
+              <cell>jugement –</cell>
+              <cell>
+                <p>meaning<note place="bottom">Esprit, pensée / cerveau, compréhension / signification.</note></p>
+              </cell>
+            </row>
+          </table>
+          <p rend="noindent">raison – ratio, reor<note place="bottom">Je pense, je crois.</note>, proportion, fonction,</p>
+          <p><space>     </space>quantité, unité X</p>
+          <p rend="noindent">raisonnement</p>
+          <p rend="noindent">calculer, calcul – caillou</p>
+          <p rend="noindent">sens, sensus, direction et sentiment +                                                 cœur</p>
+          <p rend="noindent">intuition, intueor<note place="bottom">Je regarde attentivement.</note> +</p>
+          <p rend="noindent">dicare, dédier</p>
+          <p rend="noindent">dicere, dire               judicare jusdicere<note place="bottom"><hi rend="i">Judicare</hi> = juger, dire le droit ; <hi rend="i">jusdicere</hi> (dire le droit) n’existe pas.</note></p>
+          <p rend="noindent">justitia, jus stare – jus statio<note place="bottom">Justice, établir le droit, établissement du droit (mais Valéry force le sens de <hi rend="i">stare</hi> et de <hi rend="i">statio</hi>).</note></p>
+          <p rend="noindent"><hi rend="u"><hi rend="i">Jus</hi></hi>, jubeo, jurare, jusjurandum<note place="bottom">Droit, j’ordonne, jurer, serment.</note>.</p>
+          <p rend="noindent">comprendre, comprehendere<note place="bottom">Saisir ensemble, embrasser par la pensée.</note>, contenir et saisir, saisir à l’intérieur de, saisir comme dans la main. + +</p>
+          <p rend="noindent">deviner, divinare, [indovinare<note place="bottom"><hi rend="i">Divinare</hi> = deviner, présager, prévoir ; <hi rend="i">indovinare</hi> = deviner (en italien).</note>]</p>
+          <p rend="noindent">mystère mystus<note place="bottom">Mystus n’existe pas.</note></p>
+          <p rend="noindent">oublier, oblivisci, ob/litus<note place="bottom">Oublier, oublié.</note></p>
+          <p rend="noindent">mémoire, memor, μιμνήσκω, (mim et mné) medesimus<note place="bottom"><hi rend="i">Memor</hi> = qui a le souvenir ; <seg rend="langgrc">μιμνήσκω</seg><seg rend="langgrc"> = </seg>je me rappelle ; <hi rend="i">medesimus</hi> = le même.</note></p>
+          <p rend="noindent">expliquer –</p>
+          <p rend="noindent">intelligere, inter-legere<note place="bottom">Comprendre, lire à travers.</note></p>
+          <p rend="noindent">entendement, intensus<note place="bottom">Intense, violent.</note>, tension.&gt;</p>
+          <p/>
+          <p rend="noindent">+ + comprehendere, quand nous avons fait la substitution qui est comprendre nous tenons la chose. En réalité ce qui est à nous ce sont des suites d’opérations c’est-à-dire un mécanisme. Ce mécanisme</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110199x/f94.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">48r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-48r</term>
+        </index>
+        <div>
+          <head>* « Recherche des opérations de l’esprit –– Expériences – »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-016_sans-titre-3/fol-48r/113</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.494"/><pb/>Recherche des opérations de l’esprit –– 
+<lb/>Expériences –</p>
+          <p/>
+          <p>Les opérations de l’esprit sont les formes de changement d’un état donné de l’esprit, qui conservent certaines portions ou propriétés de cet état – [et qui ne sont pas déterminées par le déroulement du simple souvenir.]</p>
+          <p>Le fait de compter des objets par exemple est d’abord une opération originale qui consiste à faire passer les objets d’une portion à l’autre de la connaissance. À mesure qu’ils passent on les rattache au souvenir de la série comme des nombres. Mais le dénombrement lui-même se distingue du résultat.</p>
+          <p><pb n="C.III.183"/>Dans la 1<hi rend="sup">re</hi> portion, les objets constituent un groupe plural et on en fait un groupe numérique c’est-à-dire comparable, défini en le morcelant par des opérations successives.</p>
+          <p>En passant d’un domaine dans l’autre, le groupe perd toute autre qualité que celle de quantité – – –</p>
+          <p>Le nombre est l’instrument type de la comparaison.</p>
+          <p/>
+          <p>D’un autre côté on peut regarder l’esprit comme une suite de déroulements + ou − conscients – plutôt moins – avec des changements de rouleaux.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

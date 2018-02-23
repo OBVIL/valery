@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:29:54+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disquisitiones super multiplicitatem universalem</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19229. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f1.image">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1898"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Disquisitiones super multiplicitatem universalem</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01r</term>
+        </index>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01r/001</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">Disquisitiones 
+<lb/>super multiplicitatem 
+<lb/>universalem<note place="bottom">Enquêtes sur la multiplicité universelle. Ce Cahier est encore un ensemble de feuillets du ministère de la Guerre.</note> –</p>
+          <p/>
+          <p rend="noindent0550"><space>     </space>Ceci à mettre 
+<lb/>à part<note place="bottom">Ajouté par la suite au crayon rouge alors que le titre est écrit au crayon bleu.</note></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f2.image">
+            <seg rend="lienhypertexte">[Fol. 1v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01v</term>
+        </index>
+        <div>
+          <head>* [Croquis]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01v/002</term>
+          </index>
+          <p>
+            <pb n="C.I.496"/>
+          </p>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">[Croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f3.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Activité. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/003</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.496 C.III.371"/><pb/>Activité.</p>
+          <p>Le démon de l’organisation, le feu de la méthode, la poussée interne de machiner tout et réduire le hasard, l’impuissance non démontrée –</p>
+          <p>Levé tôt. Des litres de café noir, les angles adoucis par quelque fumée, l’œil trop inventif, la clarté des transformations bien mesurées, bien déterminées, le relatif parcouru en tous sens ; chaque chose mesurant les autres – et les résultats égalés entre eux.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f5.image">
+            <seg rend="lienhypertexte">[Fol. 2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r</term>
+        </index>
+        <div>
+          <head>1898-10-10<term rend="index" key="1898-10-10"/> ; <ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« … Et maintenant, tu pars… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/004</term>
+          </index>
+          <p>
+            <pb n="C.I.505"/>
+          </p>
+          <dateline>Nuit du 10 octobre 98</dateline>
+          <p/>
+          <p rend="noindent0250">… Et maintenant, tu pars.</p>
+          <p>Déjà (sur les lignes de la mer) voici la fonte de la ville entière qui se défait / s’effile / dans l’eau et voici travailler / s’émouvoir / et rouler les unes sur les autres les grandes images colorées de la terre, / la fumée des champs, des plaines emportées / les contours des terres, et des sables les morceaux verdâtres, voici enfin sur le dernier fil de la mer pendre la dernière montagne comme une grosse goutte bleuissante et qui tombe dans une vague dressée.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « vis une fois pour toutes »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/005</term>
+          </index>
+          <p rend="noindent1000">vis une fois pour toutes</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f9.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05r</term>
+        </index>
+        <div>
+          <head>1898-10-05<term rend="index" key="1898-10-05"/> (« Nuit du 4 au 5 Xbre 98. <hi rend="i">Insomnie.</hi> Café…)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05r/006</term>
+          </index>
+          <p><pb n="C.I.504"/><pb/>Nuit du 4 au 5 Xbre 98. <hi rend="i">Insomnie.</hi> Café.</p>
+          <p>Conversation avec le démon (Littérature !)</p>
+          <p>Le démon, être simple et froid, me dit : J’ai pour enfer un lieu absolument terne où je m’occupe à convaincre mes sujets de leur bêtise durant leur vie – tel est le supplice et il se borne là. Ces malheureux ne peuvent penser à autre chose. C’est une démonstration terrible et continuelle qui a pour base l’erreur de calcul faite par ceux qui sont damnés. Je les assassine éternellement avec l’évidence de leur erreur…</p>
+          <p>– Et sur terre ? – J’agis mais autrement que l’on ne croit. Je n’ai pas le pouvoir d’entrer, comme on s’imagine, dans les esprits et de les diriger vers moi. J’ai le pouvoir de me changer en formes extérieures et mon art consiste à les bien placer.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f10.image">
+            <seg rend="lienhypertexte">[Fol. 5v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05v</term>
+        </index>
+        <div>
+          <head>* [Feuille de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05v/007</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent center">[Feuille de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f11.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">6r]</seg>
+          </ref>
+        </head>
+        <div>
+          <head>* « Note »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-06r/008</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.503"/>Note 
+<lb/>–</p>
+          <p/>
+          <p>Loulou est une catin, blanche, blonde, joyeuse, positive, sympathique.</p>
+          <p>Elle vient loger dans un garni. Population du garni.</p>
+          <p>Elle endiable cette maison. Des femmes âgées, dignes, etc., l’adorent, ne peuvent se passer d’elle.</p>
+          <p>On fait une vie – Tout le monde est en noce.</p>
+          <p rend="noindent">Les femmes dignes savent ses mœurs – et cela ne fait rien.</p>
+          <p rend="noindent">On ne parle pas des hommes qui sont volatilisés.</p>
+          <p rend="noindent">Il n’en est pas question. Ils sont en esclavage, en abêtissement etc.</p>
+          <p/>
+          <p>Tout ceci est réel. Je l’ai vu.</p>
+          <p rend="noindent">C’est une forme curieuse de – Pouvoir. –</p>
+          <p rend="noindent">La gaîté, l’entraînement à la gaîté – forme du Pouvoir.</p>
+          <p rend="noindent">Renversement des notions dans une maisonnée, aspect frauduleux, folâtre que prennent toutes les choses – simplement par ce qu’une personne vivace, libre, désirable autant que déconsidérée – est présente.</p>
+          <p rend="noindent">Création de besoins = Pouvoir.</p>
+          <p rend="noindent">Alors, l’argent n’est plus rien, le temps n’est plus que pour elle – l’esprit tourne autour d’elle.</p>
+          <p>Mettre un malade dans la maison.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f13.image">
+            <seg rend="lienhypertexte">[Fol. 7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r</term>
+        </index>
+        <div>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Oreille »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r/009</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.497 C.III.373"/><pb/>Oreille 
+<lb/>–</p>
+          <p/>
+          <p>C’était un homme doué de la plus grande sensibilité d’oreille et qui en vivait.</p>
+          <p>Mais la musique, la poésie l’horripilaient.</p>
+          <p rend="noindent">Les sons lui paraissaient ennuyeux. Les bruits le charmaient. Les voix troubles, les cris des portes, les chutes des sacs à terre, le froissement du papier, le piston du souffle, et surtout le magnifique et délicat pas des animaux et de l’homme, ébranlement riche, touffu – plein de choses –</p>
+          <ab type="ornament">—</ab>
+        </div>
+        <div>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Vision préhistorique »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r/010</term>
+          </index>
+          <p rend="noindent center">Vision préhistorique 
+<lb/>—</p>
+          <p>Chez des Robinsons extrêmement matériels. Ils vivent avec un luxe aujourd’hui impossible. Leurs tables et billots de bois, pour mobilier, sont taillés dans la plus profonde et massive matière d’arbres. C’est un acajou ou un hickory<note place="bottom">Nom anglais d’un type d’arbres, le caryer.</note> millénaire, d’un ton tout minéral, et sur lequel resplendit la plus riche graisse des animaux magnifiques, des plus purs spécimens des objets mouvants et mangeables –. Le silex, l’agate, le luxe de l’eau très pure.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f15.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r</term>
+        </index>
+        <div>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Malade »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r/011</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.498"/><pb/>Malade 
+<lb/>–</p>
+          <p/>
+          <p>Après la nuit infinie, baignée, et la bouche horriblement sèche, la douleur promenée, le désespoir à mille formes, la colère sans force –</p>
+          <p>le matin paraît, d’abord triste, livide comme un grand changement sans amélioration.</p>
+          <p>Puis le réveil encore maussade s’accuse, une sorte de confort fragile et endormi se donne. Ne pas changer de place, ne pas chercher d’être mieux.</p>
+          <p>De petits plaisirs se rendent possibles. Un abêtissement instable et doux – un ennui que suspend la menace. –</p>
+          <p rend="noindent">L’après-midi s’allonge, s’enfume ; déjà le foncé revient. Une lassitude <pb n="C.III.374"/>recommence. Une activité terrible et masquée se prépare. L’aggravation nocturne reparaît, fièvre obscure – éclairs de sueur – terreur.</p>
+          <ab type="ornament">—–</ab>
+        </div>
+        <div>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Will »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r/012</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.499"/><pb/>Will<note place="bottom">Volonté, vouloir.</note> –</p>
+          <p>Je veux – je Veux non souffrir, respirer – pouvoir penser, soulever encore –</p>
+          <p>Je veux digérer, et que ma poitrine s’ouvre, heureuse, légère.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110205s/f17.image">
+            <seg rend="lienhypertexte">[Fol. 9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-09r</term>
+        </index>
+        <div>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Street »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-09r/013</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.498"/><pb/>Street<note place="bottom">Rue.</note></p>
+          <p/>
+          <p>Assemble la saveur de l’homme – pense, en marchant, voici le ciel et le toit ; voici le toit et les vitres ; les vitres et les arbres ; le soleil, et des hommes effilés / <del>minces</del><space/>dépouillés, émondés / (des figures grises), des visages gris de dames, <del>circulant</del> glissant parmi des voitures <del>minces</del> plates, entre les miroirs et les roues de feu. Une délicate rue, falaise d’ombre bleue aux balcons / veloutés / de velours se déplie, et noyés par le pur sol immense, qui les emporte, et d’où une lumière égale remonte et les inonde, les hommes et les femmes, ou leurs groupes roulants, se défont et se refont et flottent, traversant la vue des jardins, se fondant et se distinguant / divisant / au soleil<note place="bottom">Cf. la « Promenade » de <hi rend="i">Monsieur Teste</hi> : « Une pâle rue, falaise d’ombre tendre aux balcons veloutés, se suspend, abrupte, là, sur un ciel légèrement velu de lumière ; et devant nous, noyés par le pur sol immense d’où remonte le jour, les passants sont venus, nous ressemblent, et se diviseront au soleil. » (Œ.I.1063.)</note>. Le ciel court, le drapeau montre le vent, bien droit et tendu ; la forme continuelle dorée et simple, évidente, d’une rivière, est là, eau silencieuse <del>au milieu</del> <del>à cause de</del> et la population.</p>
+          <ab type="ornament">—–––––––––</ab>
+          <p rend="noindent0750">Traduction <space>                        </space>manières de voir</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 10r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r</term>
+        </index>
+        <div>
+          <head>* « Fabrique »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r/014</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.497 C.III.375"/><pb/>Fabrique 
+<lb/>––</p>
+          <p>Faire… Ici ! résonnent les moyens et les matières. Je construis, et assemblant des mouvements jetés çà et là, d’abord levant le bras et puis le pied, renversant les mains, tournant la droite et retirant la gauche… je gonfle la maison nouvelle, c’est une rivière de gesticulations qui est arrivée, un entassement des mille poses de mon corps, enfin achevé, et qui se continue dans les champs plats sans se dresser, car elles ne s’ajoutent plus. Je construis la profondeur de fruits, la fourrure des odeurs et leur ciel. J’édifie l’idée élémentaire, une…</p>
+          <ab type="ornament">—–</ab>
+        </div>
+        <div>
+          <head>* « Le possible »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r/015</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.498"/><pb/>Le possible 
+<lb/>–</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 11r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-11r</term>
+        </index>
+        <div>
+          <head>* « Le commandement <hi rend="i">rentré</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-11r/016</term>
+          </index>
+          <p rend="noindent0400"><pb n="C.I.496"/><pb/>Le commandement <hi rend="i">rentré</hi>.</p>
+          <p/>
+          <p>Le commandement. Souffrances du commandement chez un homme qui est fait pour lui et ne peut l’exercer.</p>
+          <p/>
+          <p>La condition actuelle du pouvoir est l’aplatissement devant les sujets, ce qui exclut les dignes. –</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 13r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-13r</term>
+        </index>
+        <div>
+          <head>* « Quelle heure est-il ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-13r/017</term>
+          </index>
+          <p/>
+          <p/>
+          <p rend="noindent"><pb n="C.I.500"/><pb/>– Quelle heure est-il ?</p>
+          <p rend="noindent">– 9 heures.</p>
+          <p rend="noindent">– La matinée est jolie, fine etc.</p>
+          <p rend="noindent">– Quelle heure est-il ?</p>
+          <p rend="noindent">– Midi.</p>
+          <p rend="noindent">– ….</p>
+          <p rend="noindent">– Quelle heure est-il ?</p>
+          <p rend="noindent">– Il est minuit – déjà.</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 14r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r</term>
+        </index>
+        <div>
+          <head>* « Les Vendredi, Samedi Saints, le temps clairvoyant et doux. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/018</term>
+          </index>
+          <p/>
+          <p><pb n="C.I.499 C.III.376"/><pb/>Les Vendredi, Samedi Saints, le temps clairvoyant et doux.</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Tourmenté par une vagabonde, furibonde gale… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/019</term>
+          </index>
+          <p><pb n="C.I.500"/><pb/>Tourmenté par une vagabonde, furibonde gale qui se mêle et donne un fond de feu à ses idées, l’Empereur se roule et imagine par éclairs. Et comment de ce tourment approcher la réalisation – – – –</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 15r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r</term>
+        </index>
+        <div>
+          <head>* « Un drame tel : … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/020</term>
+          </index>
+          <p/>
+          <p/>
+          <p><pb n="C.I.499"/><pb/>Un drame tel :</p>
+          <p>Les 1<hi rend="sup">er</hi> et 2<hi rend="sup">e</hi> actes sont par exemple à Paris – des événements – etc. –</p>
+          <p>Au 3<hi rend="sup">e</hi> le rideau se lève sur un site fort différent parmi d’autres gens. Le spectateur s’attend à quelque combinaison qui relie 1, 2 et 3 – il s’attend à voir apparaître les personnages connus. Pas du tout – c’est un nouveau drame qui commence – et il se relie à l’antérieur par la similitude ou le contraste – par quelque chose de moral – et non par la continuité de l’aventure et l’identité des gens. Bien plus, il termine le 1<hi rend="sup">er</hi>.</p>
+          <p rend="noindent0250">Ce drame serait justement sifflé s’il existait.</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 16r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16r</term>
+        </index>
+        <div>
+          <head>* « Un bonhomme qui lisait avec ennui ––– … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16r/021</term>
+          </index>
+          <p><pb n="C.I.500"/><pb/>Un bonhomme qui lisait avec ennui –––</p>
+          <p rend="noindent">tombe dans une rêverie infinie –</p>
+          <p rend="noindent">par le chemin de cette rêverie qui l’emporte loin du livre – il perçoit quelque chose d’extraordinaire dans ce livre ––</p>
+          <ab type="ornament">———————————————————————————————————————</ab>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 16v]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16v</term>
+        </index>
+        <div>
+          <head>1899-10<term rend="index" key="1899-10"/> [Brouillon de lettre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16v/022</term>
+          </index>
+          <ab type="ornament">[Brouillon de lettre d’octobre 1899]</ab>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 17r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-17r</term>
+        </index>
+        <div>
+          <head>* « Bonheur. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-17r/023</term>
+          </index>
+          <p/>
+          <p rend="noindent center"><pb n="C.I.501 C.III.377"/><pb/>Bonheur.</p>
+          <p/>
+          <p>À cette heure-ci j’ai envie d’un pâté à la viande, bien cuit et salé, d’une tasse de thé fine et claire, d’une cigarette ensuite : je les vois. Le thé fume dans un <hi rend="i">petit</hi> et <hi rend="i">haut</hi> appartement, le ciel qui luit sur la croûte du pâté vient de l’espace d’un port ou bien d’arbres, comme si le pâté descendait de la fenêtre.… Aucune personne n’est en vue, mais je l’entends bruire, vivre à ma disposition ; là, pour causer subitement, ou se regarder, ou se toucher, elle est avec moi.</p>
+          <p>Mais cela n’est qu’un fond, une heure négative –. Le son délicieux, immense, émouvant et toujours neuf du canon, la conversation approfondie avec des égaux qui me résistent, la parole qui agrandit, explique, et cache, sport physique, – le bonheur de donner des ordres simples, – l’ivresse de l’analyse, celle des négociations – ou encore de dire ce qu’on pense en sachant que cette franchise aura la vigueur du mensonge et sera mise en doute et trompera mieux. – Voir sous sa fenêtre, des ponts se construire, la démolition de bâtiments énormes, le départ des bateaux. Faire devant une commission importante, un discours clair, avoir luisants et huilés / onctueux et raides /, tous ses instruments de pensée, toutes ses images puissantes, et ses symboles prolifiques toujours prêts et souples, avoir son langage sans passé, son jugement sans rien de vague ; passer du pouvoir au cachot, organiser ici et là, soi et les autres ;</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 18r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-18r</term>
+        </index>
+        <div>
+          <head>* « Conscience »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-18r/024</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.502"/><pb/>Conscience 
+<lb/>–</p>
+          <p/>
+          <p>Éclairés par la conscience – artificielle – tous les actes et pensées prennent une valeur nouvelle. Si, de la sorte, on suppose conscients et réfléchis les moindres mouvements de l’être, ses séries les plus innocentes – chaque individu institue une technique extraordinaire – chaque action est la résolution d’un problème, ou une invention – – –</p>
+          <p><pb n="C.III.378"/>Or la conscience d’une chose est le fait d’en apercevoir les propriétés projectives + de la limiter, de s’en rendre limitativement compte, de la situer dans le domaine mental –</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent0300">Mais cette erreur me plaît.</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 19r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-19r</term>
+        </index>
+        <div>
+          <head>* « Story of the European one who gone in new land… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-19r/025</term>
+          </index>
+          <p><pb n="C.I.500"/>Story of the European one who gone in new land between savage people, lives in a tribe of natives, and unveiled by ethics or other mistakes of the West, can learn something strong and noble – viz. natural – from the chief and the first men around him. He does evangelize or teach nobody, knowing himself be more ignorant than savages.</p>
+          <p>His return to Europe. He applies the savages theory unformulated<note place="bottom"><p>« Histoire de l’Européen qui se rend dans une contrée, au milieu d’un peuple sauvage, qui vit dans une tribu d’indigènes et, détaché de la morale ou autres erreurs de l’Occident, peut apprendre du chef et de son entourage quelque chose de solide et de noble – c’est-à-dire de naturel –. Il ne prêche ni n’enseigne rien à personne, se sachant plus ignorant que les sauvages.</p><p>« Il rentre en Europe. Il applique les théories sauvages informulées. »</p></note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 21r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-21r</term>
+        </index>
+        <div>
+          <head>* « Tâte, et tâtonne ; marque ta place, et crois tes membres… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-21r/026</term>
+          </index>
+          <p/>
+          <p/>
+          <p/>
+          <p><pb n="C.I.502"/><pb/>Tâte, et tâtonne ; marque ta place, et crois tes membres, tiens – fais-toi ! encore ! – fais-toi ! – Sais-tu quand tout sera plein ? – Peut-on faire le travail plus vite ! et dépasser son pas ? Cela n’a aucun sens – Cependant, dans un intervalle, j’ai plus vite parlé ! – Plus vite. Plus vite !</p>
+          <p>Je vois, maintenant, je vois que je chercherai encore et trouverai, et ne trouverai pas ! D’avance, j’y suis, je trouve, et tiens, et je perds ! Mais, quoi perdu ? quoi trouvé ? Si je le disais, demain serait passé ! –</p>
+          <p>Le pouvoir pur brille et élève de grandes choses, plus grandes que l’idée portée par le puissant de lui-même – – Tout est plus grand que le faible et que son idée. Ici une complication vaut un poids ou une étendue –</p>
+          <p>Tout se fait, et ne déborde jamais.</p>
+          <ab type="ornament">—</ab>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 22r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r</term>
+        </index>
+        <div>
+          <head>* « Un port – un imbécile très amusant un moment… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r/027</term>
+          </index>
+          <p/>
+          <p rend="noindent center"><pb n="C.I.505 C.III.379"/><pb/>Mémoire. 
+<lb/>––</p>
+          <p/>
+          <p>Un port – un imbécile très amusant un moment – retour au port – la mer – une vague – l’imbécile, l’heure, sa famille –</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « fiasco flacon flasque flaque flache »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r/028</term>
+          </index>
+          <p>
+            <pb n="C.I.504"/>
+          </p>
+          <p rend="noindent1200">fiasco<note place="bottom">En italien, flasque, petit flacon. </note></p>
+          <p rend="noindent1200">flacon</p>
+          <p rend="noindent1200">flasque</p>
+          <p rend="noindent1200">flaque</p>
+          <p rend="noindent1200">flache<note place="bottom">Fiasco = fiasque en italien.</note><seg rend="marquedecommentaire"><!-- User : 2017-11-28T14:45:00
+Problème notes 324‑325--></seg></p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 25v]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-25v</term>
+        </index>
+        <div>
+          <head>* « Melodia »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-25v/029</term>
+          </index>
+          <p rend="noindent center"><pb n="C.V.505"/><pb/>Melodia<note place="bottom">Souvenir probable du « Bateau ivre » de Rimbaud : « Si je désire une eau d’Europe, c’est la flache / noire et froide », où <hi rend="i">flache</hi> désigne une mare.</note><lb/>–</p>
+          <p/>
+          <p>Suite de notes, temps limité.</p>
+          <p>Perception d’ensemble.</p>
+          <p>Efforts imaginés</p>
+          <p>On imagine les efforts nécessaires pour la chanter, – pour passer d’un effort à l’autre. Chacun d’eux, classés, nous est plus ou moins facile en soi. Soit u cette facilité ; soient x<hi rend="sub">1</hi> x<hi rend="sub">2</hi> – les notes</p>
+          <p rend="noindent">[Croquis.] x<hi rend="sub">m</hi> étant la plus facile, x<hi rend="sub">m + 1</hi> est plus difficile, x<hi rend="sub">m + 2</hi> également en passant de x<hi rend="sub">m</hi> à x<hi rend="sub">m + 1</hi> u change de valeur. Si on passe de x<hi rend="sub">m</hi> à x<pb n="" ana="src" xml:id="p"/> et de x<pb n="" ana="src" xml:id="p"/> à x<hi rend="sub">m − n</hi></p>
+          <p rend="noindent">Donc 2 notes<note place="bottom">Une flèche renvoie à : « facile en soi » (au-dessus).</note> différentes et se succédant, à partir de l’une d’elles on monterait plus volontiers qu’on ne descendrait ou inversement.</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 26r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r</term>
+        </index>
+        <div>
+          <head>* « Le Soleil a créé le ciel, touche les arbres… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/030</term>
+          </index>
+          <p><pb n="C.I.506"/><pb/>Le Soleil a créé le ciel, touche les arbres, vise les petites pierres, rira au fond de l’eau –</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « N. [Napoléon] se tue, vise les empires, montera au trône… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/031</term>
+          </index>
+          <p><pb n="C.III.380"/><pb/>N. [Napoléon] se tue, vise les empires, montera au trône, est mort depuis toujours sur une île.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Si <hi rend="u"><hi rend="i">elle</hi></hi> vient, je dirai : que veux-tu ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/032</term>
+          </index>
+          <p>Si <hi rend="u"><hi rend="i">elle</hi></hi> vient, je dirai : que veux-tu ? Irons-nous au bain ou simplement à l’air, au soleil –</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 27r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-27r</term>
+        </index>
+        <div>
+          <head>* « Vue »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-27r/033</term>
+          </index>
+          <p rend="noindent center">Vue 
+<lb/>—</p>
+          <p>Le fait de s’entre-regarder –</p>
+          <p rend="noindent">Se regarder est une sensation toute particulière dans laquelle chacun voit directement et centralement l’œil de l’autre. Mouvements conjugués des yeux des 2.</p>
+          <p>La sensation est double 1º on voit un œil – 2º on voit que cet œil vous regarde.</p>
+        </div>
+      </div>
+      <div>
+        <head>[Fol. 28r]</head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-28r</term>
+        </index>
+        <div>
+          <head>* « Portrait de M. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-28r/034</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.499"/><pb/>Portrait de M.</p>
+          <p/>
+          <p>À 26 ans passés, j’ai l’air jeune et vieux, la figure rose et creuse, pure et ombrée, l’œil liquide / large /, la paupière lourdissante, le crâne allongé, à cheveux châtains sombres, le nez aigu, le front renversé…</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

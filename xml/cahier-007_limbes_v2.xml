@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:13:52+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Limbes</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19210. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Limbes</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01r</term>
+        </index>
+        <div>
+          <head>
+            <num>1897</num>
+            <term rend="index" key="1897"/>
+          </head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.226"/>
+          </p>
+          <dateline>1897<note place="bottom">La date est de la main de M<hi rend="sup">me</hi> Valéry et elle est exacte puisque ce cahier est en fait composé de feuilles du ministère de la Guerre où il est rédacteur depuis le mois de mai.</note></dateline>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01r/002</term>
+          </index>
+          <p rend="noindent0650">ЛИМБЕs<note place="bottom">Sur la couverture, le titre est écrit en caractères cyrilliques (Valéry apprenait alors les rudiments du russe).</note></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f2.image">
+            <seg rend="lienhypertexte">[Fol. 1v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01v</term>
+        </index>
+        <div>
+          <head>* « Programme »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01v/003</term>
+          </index>
+          <p rend="noindent0300"><pb n="C.I.158 C.I.227"/><pb/>Programme</p>
+          <p rend="noindent0300"><space>   </space>–——</p>
+          <p/>
+          <table>
+            <row>
+              <cell rows="6">
+                <p rend="noindent">a) Études générales</p>
+                <p>par conscience pure</p>
+                <p>étude de la connaissance réelle, etc. – –</p>
+                <p>étude transcendantale des divers ordres</p>
+                <p>constructions analytiques</p>
+                <p>langage etc.</p>
+                <p rend="noindent">b) Études politiques</p>
+                <p>altrui<note place="bottom">Abréviation probable de <hi rend="i">altruisme</hi>.</note></p>
+                <p>régimes</p>
+                <p>pouvoir</p>
+                <p>liaisons</p>
+                <p>constructions à base humaine</p>
+                <p>morale des groupements étroits</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">c) Études pratiques, particulières</p>
+                <p>littérature</p>
+                <p>critique</p>
+                <p>étude des thèmes et des moyens</p>
+                <p>calculs approximatifs</p>
+                <p>styles – effets</p>
+                <p>rendements</p>
+                <p/>
+              </cell>
+              <cell rows="6">
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Volume I</p>
+                <p rend="noindent"/>
+                <p rend="noindent">exercices</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Volume a.</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Méthode</p>
+                <p rend="noindent">——</p>
+                <p rend="noindent">Anti vague</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell rows="6">
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p>Avertissement</p>
+                <p>Vinci – 6</p>
+                <p>Teste – 1</p>
+                <p>Mallarmé – 3</p>
+                <p>Germany – 5</p>
+                <p>Singapour – 7</p>
+                <p>Une campagne – 4</p>
+                <p>—</p>
+                <p>Une chose mouillée et nue très courte – 2<note place="bottom">Il y a là visiblement un projet de recueil : les deux derniers titres ne renvoient à rien de connu. Les textes 6, 1 et 5 (« La conquête allemande ») ont déjà paru. L’essai sur Mallarmé et <hi rend="i">Le Souper de Singapour</hi> auxquels Valéry travaille en 1897 pour l’un et 1898 pour l’autre, ne seront pas achevés.</note></p>
+                <p>Pièces séparées</p>
+                <p>introduction</p>
+                <p>↑</p>
+                <p>sciento-personnelle</p>
+                <p>Théorie générale du champ –</p>
+                <p>problèmes particuliers</p>
+                <ab type="ornament">——</ab>
+              </cell>
+            </row>
+            <row/>
+            <row/>
+            <row/>
+            <row/>
+            <row/>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f3.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Étude des thèmes et des moyens… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-02r/004</term>
+          </index>
+          <p>Étude des thèmes et des moyens</p>
+          <p>Calculs approximatifs</p>
+          <p>Styles. Effets</p>
+          <p>rendements<note place="bottom">Écrit en travers de la page.</note></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f5.image">
+            <seg rend="lienhypertexte">[Fol. 3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03r</term>
+        </index>
+        <div>
+          <head>* « Bataille navale du Yalu par le lieutenant Laphay… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03r/005</term>
+          </index>
+          <p><pb n="C.I.160"/><pb/>Bataille navale du Yalu par le lieutenant Laphay<note place="bottom">En réalité, J. Lephay, lieutenant de vaisseau.</note></p>
+          <p rend="noindent0500">Revue Maritime et Coloniale</p>
+          <p rend="noindent0650">Janvier 95</p>
+          <p/>
+          <p>—————————————————————</p>
+          <p/>
+          <p><pb n="C.I.228"/>Souplesse et cohésion de la ligne de file par opposition avec la ligne de front.</p>
+          <p/>
+          <p>[Dessins]</p>
+          <p/>
+          <p rend="noindent1050">Chine</p>
+          <p/>
+          <p/>
+          <p rend="noindent0400">Japon</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f6.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03v/006</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f7.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Pour la « Campagne de – » mettre des choses… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04r/007</term>
+          </index>
+          <p rend="noindent0350">Pour la « Campagne de – » mettre des choses comme la</p>
+          <p rend="noindent0350">vue de la belle personne pour particulariser un des chefs et</p>
+          <p rend="noindent0350">amuser –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f8.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">4v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04v</term>
+        </index>
+        <div>
+          <head>1897-07-10<term rend="index" key="1897-07-10"/> [Page de dessins et brouillon de lettre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04v/008</term>
+          </index>
+          <p/>
+          <p rend="noindent center">[Page de dessins et brouillon de lettre du ministère daté du 10 juillet 1897]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f9.image">
+            <seg rend="lienhypertexte">[Fol. 5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-05r</term>
+        </index>
+        <div>
+          <head>1897<term rend="index" key="1897"/> (« 1897 »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-05r/009</term>
+          </index>
+          <dateline>1897<note place="bottom">De la main de M<hi rend="sup">me</hi> Valéry.</note></dateline>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Un groupe… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-05r/010</term>
+          </index>
+          <p>Un groupe</p>
+          <p><space>     </space>–—</p>
+          <table>
+            <row>
+              <cell>
+                <p/>
+                <p>Nietzsche</p>
+                <p>Souvorov –</p>
+                <p>Dragomirov<note place="bottom">Il s’agit de deux généraux russes : Alexandre Souvorov (1730-1800) et Mikhael Ivanovitch Dragomirov (1830-1905) auquel Loukhiane Carlovitch (pseudonyme du général Lucien Cardot) a consacré un livre dont Valéry rend compte dans le <hi rend="i">Mercure de France</hi> d’octobre 1897 (Œ.I.206 <hi rend="i">sqq</hi>.).</note> –</p>
+                <p>Faraday</p>
+                <p/>
+              </cell>
+              <cell>
+                <p/>
+                <p>J’ai l’intention de rapprocher ici des noms tellement séparés que c’est donner une idée neuve que de les mettre ensemble.</p>
+                <ab type="ornament">——</ab>
+                <p/>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p rend="noindent1150"><pb n="C.I.229"/>Dogme de l’invincibilité</p>
+          <p rend="noindent1150"><space>             </space>p contre un</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">Cycle</p>
+                <p rend="noindent">Stendhal</p>
+                <p>↓– connu</p>
+                <p rend="noindent">Mérimée</p>
+                <p>↓– connu</p>
+                <p rend="noindent">Bismarck</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Alfred de Vigny</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Napoléon</p>
+                <p rend="noindent">et Wellington<note place="bottom"><hi rend="i">La Nouvelle Revue</hi>, où Valéry a fait paraître l’<hi rend="i">Introduction</hi>, publie le 1<hi rend="sup">er</hi> juillet 1897 un article du général Dragomirov, « Napoléon et Wellington », et le 1<hi rend="sup">er</hi> novembre un article d’Antoine Albalat, « Alfred de Vigny. Ses origines et son rôle ».</note></p>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent">1º octobre</p>
+                <p rend="noindent">15 octobre</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">1º juillet</p>
+                <p rend="noindent">15 juillet</p>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent">Nouvelle Revue 97</p>
+                <p rend="noindent">Nouvelle Revue 97</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Nouvelle Revue 97</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f12.image">
+            <seg rend="lienhypertexte">[Fol. 6v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-06v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-06v/011</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f13.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-07r</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-07r/012</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f17.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-09r</term>
+        </index>
+        <div>
+          <head>* « Définir telle passion – colère etc. … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-09r/013</term>
+          </index>
+          <p><pb n="C.I.752 C.I.230"/><pb/>Définir telle passion – colère etc.</p>
+          <p/>
+          <p>La colère a toujours un objet</p>
+          <p>c’est un état qui dure <hi rend="i">tant.</hi></p>
+          <p>Pour cette définition – il faudrait avoir</p>
+          <p rend="noindent0200">1º relation spéciale <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψφ</ref>.</p>
+          <p rend="noindent0200">2º Invariant de l’objet –</p>
+          <p rend="noindent0200">3º Potentiel – déclenchements.</p>
+          <p rend="noindent0200">4º conditions de temps et de relations – –</p>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">« Être maître de soi »,</p>
+                <p rend="noindent">moments où on ne l’est pas ;</p>
+                <p rend="noindent">face psychologique de ces moments.</p>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent">surexcitation {</p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent">abondance (temps)</p>
+                <p rend="noindent"><space>                  </space>de mots</p>
+                <p rend="noindent">carence</p>
+              </cell>
+            </row>
+            <row>
+              <cell>On l’est quand les faits mentaux s’équilibrent, quand toute la variation ne revient pas au même fait mental.</cell>
+              <cell cols="2">
+                <p rend="noindent">La colère donne des images de destruction comme la soif de fruits.</p>
+                <p>Ce sont des images <hi rend="i">actives</hi> –</p>
+                <p rend="noindent">La présence d’images d’activité distingue les passions des émotions ou sensations.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p>Exemple :</p>
+          <p rend="noindent">(1) On compte sur quelque chose et cela manque.</p>
+          <p rend="noindent">(2) Une image active se déclare.</p>
+          <p rend="noindent">(3) Si elle ne se réalise pas <hi rend="i">suffisamment</hi>, elle revient et toutes ses disparitions sont rachetées par une réapparition.</p>
+          <p rend="noindent">(4) Peu à peu l’équilibre se rétablit.</p>
+          <p rend="noindent0750">Caractère vibratoire des états violents.</p>
+          <p rend="noindent0750"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/self-variance">Self-variance</ref> avec périodes<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p rend="noindent0750">Croissance →</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f19.image">
+            <seg rend="lienhypertexte">[Fol. 10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-10r</term>
+        </index>
+        <div>
+          <head>* « Se donner de l’attention à soi-même… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-10r/014</term>
+          </index>
+          <p>Se donner de l’attention à soi-même.</p>
+          <p>Voir l’homme, jamais l’apparence.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Science – Tabula rasa et le système contraire… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-10r/015</term>
+          </index>
+          <p rend="noindent0850"><pb n="C.I.231"/><pb/>Science – Tabula rasa et le</p>
+          <p rend="noindent0850">système contraire, passer de a [à] b</p>
+          <p rend="noindent0850">et non de 0 à p.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f21.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11r</term>
+        </index>
+        <div>
+          <head>* « a – a<hi rend="sub">1</hi> – a<hi rend="sub">2</hi> – a<hi rend="sub">3</hi> –… Un calcul va de A en B… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11r/016</term>
+          </index>
+          <p rend="noindent0650">[Croquis]</p>
+          <p rend="noindent0650">a – a<hi rend="sub">1</hi> – a<hi rend="sub">2</hi> – a<hi rend="sub">3</hi> –</p>
+          <p rend="noindent0650">b – b<hi rend="sub">1</hi> – b<hi rend="sub">2</hi> – b<hi rend="sub">3</hi> – –</p>
+          <p rend="noindent0650">b<hi rend="sub">3</hi> – b – b<hi rend="sub">1</hi> – b<hi rend="sub">3</hi></p>
+          <p/>
+          <p>Un calcul va de A en B. Un livre, une phrase trop peu [inachevé]</p>
+          <p>donnent la sensation de découvrir quelque chose en lisant [not <hi rend="u"><hi rend="i">ingenuity</hi></hi><note place="bottom">Pas d’ingéniosité.</note>].</p>
+          <p>Analyse d’un calcul –</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f22.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">11v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11v</term>
+        </index>
+        <div>
+          <head>1897-07<term rend="index" key="1897-07"/> [[Brouillon de lettre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11v/017</term>
+          </index>
+          <p rend="noindent center">[Brouillon de lettre daté de juillet 1897]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f23.image">
+            <seg rend="lienhypertexte">[Fol. 12r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12r</term>
+        </index>
+        <div>
+          <head>* « Que devient, dans la théorie du plein, le potentiel ?… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12r/018</term>
+          </index>
+          <p/>
+          <p>Que devient, dans la théorie du plein, le potentiel ?</p>
+          <p rend="noindent0350">(Hertz<note place="bottom">Le physicien allemand Heinrich Hertz (1857-1894).</note> – Descartes)<space>                </space>Il existe de suite c’est clair.</p>
+          <p>Temps – Pesanteur.</p>
+          <p/>
+          <p/>
+          <p>[Calculs] <space>                         </space>Ordre de grandeur</p>
+          <p/>
+          <p/>
+          <p>Mouvement relatif au mouvement psychologique</p>
+          <p/>
+          <p>[Croquis]</p>
+          <p/>
+          <p>Mettre un récipient avec le vide –</p>
+          <p>au choc se brise, l’air intérieur baisse de pression.</p>
+          <p>P =φ(V)</p>
+          <p>P′ = φ(V + dV)</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f24.image">
+            <seg rend="lienhypertexte">[Fol. 12v-13r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12v-13r</term>
+        </index>
+        <div>
+          <head>1897-07<term rend="index" key="1897-07"/> [Brouillon de lettre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12v-13r/019</term>
+          </index>
+          <p rend="noindent center">[Brouillon de lettre daté de juillet 1897]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b531101865/f26.image">
+            <seg rend="lienhypertexte">[Fol. 14r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-14r</term>
+        </index>
+        <div>
+          <head>* « compréhension – transformation (avec addition) de portions d’Aφ… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-14r/020</term>
+          </index>
+          <p/>
+          <p/>
+          <p rend="noindent"><pb n="C.I.232"/><pb/>compréhension – transformation (avec addition) de portions d’Aφ</p>
+          <p rend="noindent0200">en opérations actives –</p>
+          <p rend="noindent0200">Ce n’est pas toujours possible –</p>
+          <p rend="noindent0200">(Donc 2 états des A – actif et neutre)</p>
+          <p rend="noindent">invention (active) à distinguer de l’invention au sens social. Contrôle de l’originalité – de la propriété ou appropriation de l’invention.</p>
+          <p rend="noindent"><pb n="C.I.233"/>généralement accroissement de quelque chose donnée –</p>
+          <p rend="noindent0350">généralisation – (lignes de force)</p>
+          <p rend="noindent0300">inventions imposées par imagination –</p>
+          <p rend="noindent0300">déduction imaginaire.</p>
+          <p/>
+          <p rend="noindent">Représentation</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:29:36+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Péri tès politikès teknès</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19216. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f1.image">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Péri tès politikès teknès</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r</term>
+        </index>
+        <div>
+          <head>
+            <num>1897</num>
+            <term rend="index" key="1897"/>
+          </head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.153 C.I.296"/>
+          </p>
+          <dateline>1897</dateline>
+        </div>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r/002</term>
+          </index>
+          <p/>
+          <p/>
+          <p rend="noindent0200">περῐ θης πολιτικης τεκνης<note place="bottom"><hi rend="i">Péri tès politkès teknès</hi> (sic pour <hi rend="i">tekhnès</hi>). De la main de M<hi rend="sup">me</hi> Valéry. Le titre signifie : <hi rend="i">De l’art politique</hi> ou <hi rend="i">De l’habileté politique</hi>. Le Cahier est constitué de feuilles de papier du ministère de la Guerre, pliées.</note></p>
+          <p rend="noindent0200">        ——</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f3.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Évaluation du régime de circulation – »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-02r/003</term>
+          </index>
+          <p rend="noindent center"><pb n="C.I.156 C.I.297"/><pb/>Évaluation du régime de circulation – 
+<lb/>——</p>
+          <p/>
+          <p>Un pays. Un plan tournant autour d’un point fixe, nombre de canaux, routes, etc. coupant le plan par unité de surface (sections / longueur de l’arrête du plan)</p>
+          <p/>
+          <p>[Croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f5.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-03r</term>
+        </index>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/politique"><seg rend="lienhypertexte">Politiqu</seg><seg rend="lienhypertexte">e</seg></ref> (« Le gouvernement ne doit chercher le bonheur de personne… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-03r/004</term>
+          </index>
+          <p><pb n="C.I.154"/><pb/>Le gouvernement ne doit chercher le bonheur de personne.</p>
+          <p>Il n’y a pas de gouvernement du particulier.</p>
+          <p>Ces choses ne sont pas du même ordre de grandeur. C’est ce qu’il y a de beau dans un vrai gouvernement.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f7.image">
+            <seg rend="lienhypertexte">[Fol. 4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-04r</term>
+        </index>
+        <div>
+          <head>* « La plupart des idées qu’on soutient, il suffit de les préciser… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-04r/005</term>
+          </index>
+          <p>La plupart des idées qu’on soutient, il suffit de les préciser (ou les rendre explicites) pour les anéantir. On arrive bientôt à la contradiction, à la pétition de principe, ou aux postulats toujours fragiles, qui y sont toujours.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f9.image">
+            <seg rend="lienhypertexte">[Fol. 5r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05r</term>
+        </index>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/morale"><seg rend="lienhypertexte">Morale</seg></ref> (« La vérité n’est pas souvent morale… »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05r/006</term>
+          </index>
+          <p><pb n="C.I.155"/><pb/>La vérité n’est pas souvent morale – et un beau coup de l’Église a été de présenter une morale comme la Vérité, et faire tout ce qu’il fallait.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f10.image">
+            <seg rend="lienhypertexte">[Fol. 5v-6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05v-6r</term>
+        </index>
+        <div>
+          <head>1897-07-29<term rend="index" key="1897-07-29"/> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/nations"><seg rend="lienhypertexte">Nations</seg></ref> (« Note pour M. d’Estournelles »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05v-6r/007</term>
+          </index>
+          <p>
+            <pb n="C.I.156 C.I.298"/>
+          </p>
+          <p/>
+          <dateline>29/7/97</dateline>
+          <p rend="noindent0300">Note pour M. d’Estournelles<note place="bottom">Valéry a rencontré le baron d’Estournelles de Contant (185-1924), député et futur prix Nobel de la paix, le 30 mars 1897, à la suite de l’admiration qu’il avait manifestée pour sa <hi rend="i">Conquête allemande</hi>, et lui a apporté son aide pour quelques travaux. Valéry sera ensuite agacé par le pacifisme du baron, mais le reverra de loin en loin jusqu’en 1915. On trouvera une version plus complète de ce « Théorème du nivellement » dans le brouillon de la lettre reproduit in Michel Jarrety, <hi rend="i">Paul Valéry</hi>, Fayard, 2008, p. 218.</note></p>
+          <p rend="noindent0550">——</p>
+          <p/>
+          <p>Le globe est politiquement constitué par n territoires appartenant à n groupements sociaux ou nations.</p>
+          <p>L’influence de ces nations s’exerce par les échanges inégaux entre elles et cette inégalité est organisée par le degré de civilisation, id est, le pouvoir de transformation – par la puissance militaire etc.</p>
+          <p>Le pouvoir total des nations est une fonction de leurs coefficients physiques, et de leur adresse à les mettre en œuvre.</p>
+          <p>Or le globe s’égalise à ce dernier point de vue. Chaque nation tend à utiliser aussi bien que toute autre – ce qu’elle a.</p>
+          <p>Donc la différence entre nations ne reposera plus que sur ce qu’elle a. Nombre, surface, produits bruts, etc.</p>
+          <p>Donc au bout d’un certain temps, les nations physiquement peu favorisées seront les inférieures. De plus chaque nation supportera la pression du globe entier.</p>
+          <p>Intervention de la loi d’accroissement de la population.</p>
+          <p/>
+          <p rend="noindent center">[Dessin]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110192s/f12.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Un son n’appelle pas <hi rend="i">un son</hi> etc. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r/008</term>
+          </index>
+          <p>
+            <pb n="C.I.155 C.I.299"/>
+          </p>
+          <p/>
+          <p/>
+          <p>Un son n’appelle pas <hi rend="i">un son</hi> etc.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’opération consiste aussi à restituer les termes <hi rend="i">négligeables</hi> d’abord. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r/009</term>
+          </index>
+          <p>L’opération consiste aussi à restituer les termes <hi rend="i">négligeables</hi> d’abord.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

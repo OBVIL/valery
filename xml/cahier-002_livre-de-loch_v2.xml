@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-stylesheet type="text/css" href="valery.css"?>
 <!--Odette: 2017-12-11T14:14:15+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -65,7 +66,7 @@
         <rendition xml:id="noindent0450" scheme="css"> margin-left: 4.5px</rendition>
         <rendition xml:id="noindent0500" scheme="css"> margin-left: 5px</rendition>
         <rendition xml:id="noindent0550" scheme="css"> margin-left: 5.5px</rendition>
-        <rendition xml:id="indent0600" scheme="css"> margin-left: 6px</rendition>
+        <rendition xml:id="noindent0600" scheme="css"> margin-left: 6px</rendition>
         <rendition xml:id="noindent0650" scheme="css"> margin-left: 6.5px</rendition>
         <rendition xml:id="noindent0700" scheme="css"> margin-left: 7px</rendition>
         <rendition xml:id="noindent0750" scheme="css"> margin-left: 7.5px</rendition>
@@ -89,10 +90,7 @@
       <head>Livre de Loch. Calculs spéciaux</head>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f1.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">1r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f1.image">[Fol. 1r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r</term>
@@ -124,10 +122,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f2.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">1v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f2.image">[Fol. 1v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v</term>
@@ -148,10 +143,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f3.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">2r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f3.image">[Fol. 2r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r</term>
@@ -193,10 +185,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f4.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">2v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f4.image">[Fol. 2v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v</term>
@@ -218,10 +207,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f5.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">3r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f5.image">[Fol. 3r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r</term>
@@ -275,10 +261,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f7.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">4r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f7.image">[Fol. 4r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r</term>
@@ -299,10 +282,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f8.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">4v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f8.image">[Fol. 4v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v</term>
@@ -352,10 +332,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f9.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">5r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f9.image">[Fol. 5r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r</term>
@@ -381,10 +358,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f10.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">5v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f10.image">[Fol. 5v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v</term>
@@ -407,10 +381,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f11.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">6r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f11.image">[Fol. 6r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r</term>
@@ -437,10 +408,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f12.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">6v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f12.image">[Fol. 6v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v</term>
@@ -474,10 +442,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f13.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">7r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f13.image">[Fol. 7r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r</term>
@@ -494,10 +459,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f15.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">7bis-r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f15.image">[Fol. 7bis-r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r</term>
@@ -520,10 +482,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f16.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">7bis-v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f16.image">[Fol. 7bis-v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v</term>
@@ -541,10 +500,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f17.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">8r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f17.image">[Fol. 8r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r</term>
@@ -562,10 +518,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f18.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">8v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f18.image">[Fol. 8v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v</term>
@@ -595,10 +548,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f19.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">9r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f19.image">[Fol. 9r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r</term>
@@ -651,10 +601,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f20.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">9v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f20.image">[Fol. 9v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v</term>
@@ -689,10 +636,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f21.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">10r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f21.image">[Fol. 10r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r</term>
@@ -714,10 +658,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f22.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">10v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f22.image">[Fol. 10v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v</term>
@@ -743,10 +684,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f23.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">11r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f23.image">[Fol. 11r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r</term>
@@ -798,10 +736,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f33.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">16r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f33.image">[Fol. 16r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r</term>
@@ -819,10 +754,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f34.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">16v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f34.image">[Fol. 16v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v</term>
@@ -840,10 +772,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f35.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">17r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f35.image">[Fol. 17r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r</term>
@@ -867,10 +796,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f36.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">17v]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f36.image">[Fol. 17v]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v</term>
@@ -896,10 +822,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f37.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">18r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f37.image">[Fol. 18r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r</term>
@@ -926,10 +849,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f39.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">19r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f39.image">[Fol. 19r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r</term>
@@ -951,10 +871,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f41.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">20r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f41.image">[Fol. 20r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r</term>
@@ -976,10 +893,7 @@
       </div>
       <div>
         <head>
-          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f43.image">
-            <seg rend="lienhypertexte">[Fol. </seg>
-            <seg rend="lienhypertexte">21r]</seg>
-          </ref>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f43.image">[Fol. 21r]</ref>
         </head>
         <index>
           <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r</term>

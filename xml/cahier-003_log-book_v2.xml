@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:12:41+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Log-Book</title>
+        <author key="Valéry, Paul (1871-1945)">Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book.txt</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19207. PDF en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t">Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895"/>
+      </creation>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Log-Book</head>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f1.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">1r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-01r</term>
+        </index>
+        <div>
+          <head>[Titre]</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-01r/001</term>
+          </index>
+          <p>
+            <pb n="C.I.133"/>
+          </p>
+          <p rend="noindent center">LOG-BOOK<note place="bottom">Journal de bord. Ce Cahier a un format un peu plus carré que les précédents.</note></p>
+          <p rend="noindent0900">π = 16</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f3.image.r=val%C3%A9ry%20log%20book">
+            <seg rend="lienhypertexte">[Fol. 2r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02r</term>
+        </index>
+        <div>
+          <head>* « Théorie analytique des déclenchements… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02r/002</term>
+          </index>
+          <p/>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p><pb n="C.I.124 C.I.135"/>Théorie analytique des déclenchements –</p>
+                <p>– des limites.</p>
+                <p/>
+              </cell>
+              <cell>
+                <p>Soufflet <space>       </space>[Croquis]</p>
+                <p/>
+                <p/>
+                <p/>
+              </cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « Nous reconnaissons les images des choses comme images… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02r/003</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p>Nous reconnaissons les images des choses comme images de ces choses données et en même temps nous déformons par ces images les choses mêmes.</p>
+                <p/>
+              </cell>
+              <cell>Le problème de la simultanéité dans la connaissance a pour clef la notion des nombres <hi rend="i">absolus.</hi> En d’autres termes la simultanéité de connaissance a lieu pour une quantité définie et finie de choses différentes ; soit m. Elle n’a pas lieu pour n &gt; m. De plus il n’y a pas à ce point de vue de quantité 1 &lt; m. m est toujours un minimum.</cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Un corps reçoit une action… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02r/004</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p>Un corps reçoit une action.</p>
+                <p>Il la transforme en effets périodiques</p>
+                <p>toutes les fois que…..</p>
+                <p>Ici structure et ordres de grandeur. Equilibres.</p>
+              </cell>
+              <cell>
+                <p/>
+                <p/>
+                <p>En route – où flottent des barriques de nuées !</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La théorie sera ce qui ne différera du sujet… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02r/005</term>
+          </index>
+          <p>La théorie sera ce qui ne différera du sujet que d’une <hi rend="u"><hi rend="i">quantité connue</hi></hi> (et on fera la part de l’erreur.)</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « ab = T<hi rend="sub">a</hi> + T<hi rend="sub">b – 1</hi> − T<hi rend="sub">a – b »</hi></head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02r/006</term>
+          </index>
+          <p>ab = T<hi rend="sub">a</hi> + T<hi rend="sub">b – 1</hi> − T<hi rend="sub">a − b</hi></p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f4.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">2V]</seg>
+          </ref>
+        </head>
+        <div>
+          <head>* « Théorème. Soit une sensation d’étendue α… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02v/007</term>
+          </index>
+          <p>&lt;Théorème. Soit une sensation d’étendue α. Soit β une sensation possible liée de telle sorte à la précédente 1º qu’elle soit déjà associée à elle dans le souvenir 2º qu’il suffise d’un léger effort pour la produire.</p>
+          <p><pb n="C.I.136"/>Si on interrompt α et qu’on produise α′ image d’α, l’image de β sera appelée, et le travail de α′ à β′ différera complètement du travail α à β.</p>
+          <p>En effet le travail T(α, β) étant un passage de sensation à sensation demande un effort physique et un effort mental, <hi rend="i">dirigés</hi>, (volonté)</p>
+          <p rend="noindent">Le T(α′ , β′) est involontaire et ne demande aucun effort physique.&gt;</p>
+          <ab type="ornament">——</ab>
+          <p>La mise en train volontaire mentale a deux cas 1º on cherche une chose qu’on a déjà pensée 2º – une chose qui n’a pas été pensée.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Une famille ou un individu – leur revenu demeurant le même… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02v/008</term>
+          </index>
+          <p>Une famille ou un individu – leur revenu demeurant le même et leurs besoins directs les mêmes – tendent généralement à dépenser toujours davantage<note place="bottom">Ce fragment est écrit en bas de la page, mais prise en sens inverse.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f5.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">3r]</seg>
+          </ref>
+        </head>
+        <p/>
+        <p/>
+        <p/>
+        <div>
+          <head>* « Dire qu’il peut être important d’être maladroit et bête ! »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02v/009</term>
+          </index>
+          <p>&lt;Dire qu’il peut être important d’être maladroit et bête&gt; !</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Déclenchements… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02v/010</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">
+                  <pb n="C.I.125"/>
+                </p>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">Déclenchements :</p>
+              </cell>
+              <cell>{</cell>
+              <cell>
+                <p rend="noindent">arbre, etc.</p>
+                <p rend="noindent">&lt;cheval&gt;</p>
+                <p rend="noindent">vie.</p>
+                <p rend="noindent">nature.</p>
+                <p rend="noindent">—</p>
+                <p rend="noindent">raison<note place="bottom">Une flèche renvoie à cheval (au-dessus).</note>.</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent">variation dans l’objet</p>
+                <p rend="noindent"/>
+                <p rend="noindent">mouvement + objets</p>
+                <p rend="noindent">variation dans l’objet, peu</p>
+                <p rend="noindent">dans mouvement</p>
+                <p rend="noindent"/>
+              </cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « La probabilité des imaginations. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02v/011</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p><pb n="C.I.137"/>La probabilité des imaginations.</p>
+                <p>Le pouvoir imaginatif tend toujours à se restreindre. Les images les plus bizarres tendent à ne l’être qu’en conservant la <hi rend="i">probabilité</hi> du détail. On imagine l’Enfer sans rien changer aux flammes<note place="bottom">Allusion aux <hi rend="i">Exercices spirituels</hi> de Loyola que Valéry a lus dès 1889, et à la « Méditation de l’enfer » : « Je verrai des yeux de l’imagination ces feux immenses », etc. (trad. P. Jennesseaux, 1879, p. 76).</note>. Et si on insiste sur une vision elle tend vers le réel. D’autre part il y a homogénéité méc<note place="bottom">Sans doute « mécanique ».</note> entre l’image du réel et l’image imaginaire.</p>
+                <p/>
+                <p>Énergie = se mettre à niveau – fournir</p>
+              </cell>
+              <cell>
+                <p>N’a pas été faite littérairement ni différemment une recherche de l’esprit précise sur un point – les aventures d’un problème<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+                <p/>
+                <p/>
+                <p/>
+                <p>Problème impossible : on <hi rend="i">donne</hi> un réseau de chemins tel que Paris – on demande de déterminer pour ce réseau les deux points les plus éloignés suivant le plus court chemin. Le plus long trajet possible.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Un bataillon cerne un théâtre, un endroit public… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-02v/012</term>
+          </index>
+          <p>Un bataillon cerne un théâtre, un endroit public, et on égrène les gens contenus.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f6.image">
+            <seg rend="lienhypertexte">[Fol. 3v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-03v</term>
+        </index>
+        <div>
+          <head>* « « Possibilité de répéter indéfiniment la même opération »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-03v/013</term>
+          </index>
+          <p>« Possibilité de répéter indéfiniment la même opération<note place="bottom">Allusion à une phrase où Poincaré souligne l’importance qu’il attribue, dans le raisonnement mathématique, « à la possibilité de répéter indéfiniment la même opération » (« L’espace et la géométrie », <hi rend="i">Revue de métaphysique et de morale</hi>, 1895, p. 640).</note> ».</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Tous les écrivains de longues choses et de constructions importante… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-03v/014</term>
+          </index>
+          <p>Tous les écrivains de longues choses et de constructions importantes ont emprunté, pillé. Balzac, Shakespeare, Saint-Simon.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Portrait physique de l’individu <hi rend="i">tel qu’il se croit</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-03v/015</term>
+          </index>
+          <p>Portrait physique de l’individu <hi rend="i">tel qu’il se croit</hi>. Et aussi sensations de soi-même, déglutitions, sensations musculaires des yeux,</p>
+          <p><pb n="C.I.138"/>Item caractères physiques des moments de l’individu.</p>
+          <p>Bouche sèche, yeux cuisants.</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Deux modes cinétiques | Transport et vibration. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-03v/016</term>
+          </index>
+          <p>Deux modes cinétiques | Transport et vibration.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Étant donné un mot produit dans la région mentale… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-03v/017</term>
+          </index>
+          <p>Étant donné un mot produit dans la région mentale, – ce mot éveille une image dans certaines conditions.</p>
+          <p>Inversement étant donnée une image, elle tend à éveiller le mot ou le groupe de mots correspondant<note place="bottom">Fragment écrit en travers de la page, à gauche.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f7.image">
+            <seg rend="lienhypertexte">[Fol. 4r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04r</term>
+        </index>
+        <div>
+          <head>* « Comment le savez-vous ?!… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04r/018</term>
+          </index>
+          <p>..… –</p>
+          <p>&lt;Comment le savez-vous ?!&gt; <space>        </space>&lt;La musique cesse – Trois mots restent.&gt;</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Une colline haute comme à douze ans – était ronde. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04r/019</term>
+          </index>
+          <p><pb n="C.I.126"/>Une colline haute comme à douze ans – était ronde.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La difficulté pour étudier les phénomènes mentaux… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04r/020</term>
+          </index>
+          <p>La difficulté pour étudier les phénomènes mentaux est que [l’on] ne trouve pas facilement les choses élémentaires. Tout est au 1<hi rend="sup">er</hi> plan.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « « L’esprit » tend à réduire toujours le nombre des variables indépendantes… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04r/021-part1</term>
+          </index>
+          <p>« L’esprit » tend à réduire toujours le nombre des variables indépendantes et des degrés de liberté. Les liaisons de cet « esprit » sont la base des théories sur son homogénéité et conduisent à une théorie mécanique. Ainsi on peut former un état tel qu’un son, une sensation colorée, un complexe abstrait soient <pb n="C.I.139"/>liés entre eux – et signifiés l’un par l’autre. Il y aurait donc une loi + générale dont un cas particulier serait l’analyse de l’espace en 3 dimensions. C’est au langage avant  tout  que  ceci s’adresse, considéré comme un mode de représentation<note place="bottom">[MARGIN] Fin de paragraphe souligné en marge.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f8.image">
+            <seg rend="lienhypertexte">[Fol. 4v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04v</term>
+        </index>
+        <div>
+          <head>* « Bref, je n’apprécie en toutes choses que la facilité ou la difficulté… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04v/021-part2</term>
+          </index>
+          <p>Bref, je n’apprécie en toutes choses que la facilité ou la difficulté de les comprendre ou de les accomplir – je mets un soin extrême à mesurer cela et à ne pas m’y <hi rend="i">attacher</hi>.</p>
+          <p>Et que m’importe ce que je sais fort bien<note place="bottom">[MARGIN] En marge : « Sight/Lignt » (« vue », « lumière »).</note><note place="bottom">Un peu modifié, ce passage passera dans <hi rend="i">La Soirée</hi> (Œ.I.174).</note>. Telle est l’opinion des géomètres, inventeurs de la sublime récurrence.</p>
+          <p>[Croquis]</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Codes règlement théorie militaire »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-04v/022</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>Codes</p>
+                <p>règlement théorie militaire</p>
+                <p>géométrie</p>
+                <p>actes</p>
+                <p>lettres</p>
+                <p>ordres</p>
+                <p>prières</p>
+                <p>réclame, annonces</p>
+              </cell>
+              <cell>
+                <p>Le maniement des ordres de grandeur rend en psychologie les + grands services. De plus physiquement même, il éclaire sur le mécanisme de l’esprit d’une façon unique – accommodation, dilatation et rétraction de la Sphère de connaissance (très utile pour abstraction).</p>
+                <p/>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="../%20http:/gallica.bnf.fr/ark:/12148/btv1b53110183t/f9.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">5r]</seg>
+          </ref>
+        </head>
+        <div>
+          <head>* « La Séance de peinture – <hi rend="i">modèle vivant</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/023</term>
+          </index>
+          <p rend="noindent0800"><pb n="C.I.140"/>La Séance de peinture – <hi rend="i">modèle vivant</hi></p>
+          <p rend="noindent1300">pleurs de la fille.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il avait l’habitude de gagner ou perdre trois francs… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/024</term>
+          </index>
+          <p>Il avait l’habitude de gagner ou perdre trois francs tous les soirs. Le soir du… il refusa la partie. C’était touchant.</p>
+          <p>———————</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « il trouva la nature bien peu naturelle. Hum ! »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/025</term>
+          </index>
+          <p>
+            <pb n="C.I.127"/>
+          </p>
+          <p rend="noindent center">il trouva la nature bien peu naturelle. Hum !</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Donc arbre effort de dissociation… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/026</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>Donc arbre effort de dissociation. Énergie physique à la base d’objet.</p>
+                <p/>
+              </cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Aucune raison pour que le corps humain soit plus régulier… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/027</term>
+          </index>
+          <table>
+            <row>
+              <cell/>
+              <cell>Aucune raison pour que le corps humain soit plus régulier, plus <hi rend="i">proportionné</hi> (!) comme on dit (c’est-à-dire obéissant à une loi numérique non extraite de l’organisme de son ensemble) que les troncs d’arbres, rugueux, hasardeux, tordus. Chaque muscle se débrouille dans ses conditions particulières et la peau aussi.</cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « Le règlement sur le tir – une merveille à plusieurs points de vue. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/028</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>Le règlement sur le tir – une merveille à plusieurs points de vue.</p>
+                <p/>
+              </cell>
+              <cell/>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « La logique connue n’a aucun rapport avec la pensée… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05r/029-part1</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>La logique connue n’a aucun rapport avec la pensée. Elle ne s’exerce que sur des objets donnés, mots surtout et propositions. Aussi n’est-elle critique que des affirmations. Ou bien elle est une commune mesure, comme le langage. – On n’évalue sa pensée que par rapport à l’<hi rend="i">expression</hi> de celle des autres.</p>
+                <p/>
+              </cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f10.image">
+            <seg rend="lienhypertexte">[Fol. 5v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05v</term>
+        </index>
+        <div>
+          <head>* « Page du vrai livre de bord. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05v/029-part2</term>
+          </index>
+          <p/>
+          <table>
+            <row>
+              <cell>
+                <p><pb n="C.I.141"/>Page du vrai livre de bord. –</p>
+                <p>Ce jourd’hui X/Y/Z, au réveil, temps gris etc. démêlé aisément mes affaires mentales. Ruminé un rêve de la nuit. Noté sur les 10 h. un écart vers la logique ordinaire. Lu dans cette préoccupation quelques pages de notes. Résolu ensuite la question des… – ., y revenir. Pensé à telle impression.</p>
+                <p>À 2 h. envie d’acheter tel livre. Réprimé. Pensé à <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>. Servi d’images mécaniques puis électriques.</p>
+                <p>Souvenir de Bathilde<note place="bottom">Allusion à Bathilde Monsimier (1863-1938), écuyère de cirque avec laquelle Valéry eut une liaison jusqu’en novembre 1895, ce qui fait supposer que ce Cahier est postérieur.</note> sur le tard.</p>
+                <p>etc.</p>
+              </cell>
+              <cell>
+                <p>Tout ce qui passe par la tête, est. La psychologie des romans est fausse, qui ignore cela et donne à ses personnes d’ingénieuses pensées relatives à l’intrigue, <hi rend="i">exclusivement</hi>.</p>
+                <p>Or, l’imagination est en friche. Je veux dire que beaucoup de ses possibilités sont négligées ou inconnues. Ainsi je considère comme un cas des plus rares l’imagination qui, par exemple, déforme un détail d’une scène qu’elle se donne. Car on tend toujours à la réalité et à observer en imaginant des lois de la réalité qui n’ont aucun sens en imagination. On n’imagine pas un corps tomber en zigzag, une pierre qui marche en plaine etc., des maisons obliques etc.</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Revenir à la possibilité ou l’impossibilité d’imaginer… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-05v/030</term>
+          </index>
+          <p rend="noindent">Revenir à la possibilité ou l’impossibilité d’imaginer.</p>
+          <p/>
+          <p rend="noindent0700">Détail imaginatif, et généralement, développement.</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f11.image">
+            <seg rend="lienhypertexte">[Fol. 6r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06r</term>
+        </index>
+        <div>
+          <head>* « On peut définir d’une façon générale les unités dans le sens de la physique générale… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06r/031</term>
+          </index>
+          <p><pb n="C.I.128"/>On peut définir d’une façon générale les unités dans le sens de la physique générale (<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/l">L</ref>, <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/m">M</ref>, <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref><note place="bottom">Lieu, Masse et Temps.</note>) comme les <del>quantités</del> qualités irréductibles à de plus simples, les « corps simples » de l’<hi rend="u"><hi rend="i">explication</hi></hi>. C’est à ces qualités que l’analyse s’arrête. Les unités psychologiques si on les cherchait dépendraient donc du but et de la théorie choisie comme critérium ou type d’explication.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il y a des cas où l’on se sert comme irréductibles, de formes impossibles… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06r/032</term>
+          </index>
+          <table>
+            <row>
+              <cell><pb n="C.I.142"/>Il y a des cas où l’on se sert comme irréductibles, de formes impossibles à exprimer (algébriquement). Il y a des cas où l’on se comporte comme si l’on savait ce qu’on ne sait pas – et où c’est utile.</cell>
+              <cell>
+                <p>Celui qui au prix de toute sa vie retrouve un système connu.</p>
+                <p/>
+                <p>Les portions ou consoles réelles, que nous possédons, du passé sont à celles – de l’avenir comme –</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/personnalite-valery"><seg rend="lienhypertexte">Personnalité de Valéry</seg></ref> (« J’existe pour trouver quelque chose. »)</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06r/033</term>
+          </index>
+          <p>J’existe pour trouver quelque chose.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f12.image">
+            <seg rend="lienhypertexte">[Fol. 6v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06v</term>
+        </index>
+        <div>
+          <head>* « Le Sentiment de symétrie »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06v/034</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>Le Sentiment de symétrie<note place="bottom">[MARGIN] Phrase soulignée en marge.</note></p>
+                <ab type="ornament">——</ab>
+                <p>Dans toute recherche ou dans tout processus mental il arrive ou peut arriver que nous nous déclarions <hi rend="i">satisfaits</hi> à un certain moment. Nous « comprenons », nous « voyons », nous avons la clé. Il y a donc un certain minimum particulier à chaque hypothèse – que nous reconnaissons satisfaisant, un minimum de difficulté, = de différence entre les portions du dernier résultat obtenu.</p>
+              </cell>
+              <cell>Conditions de l’abstraction d’après les ordres de quantité et les infiniment petits et le langage.</cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Sens de l’arbitraire. Valeurs. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06v/035</term>
+          </index>
+          <p>Sens de l’arbitraire. Valeurs.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il y a des choses anesthésiques, des arbres qui soûlent… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-06v/036</term>
+          </index>
+          <p><pb n="C.I.143"/>&lt;Il y a des choses anesthésiques, des arbres qui soûlent, des hommes qui nous donnent de la force, des femmes qui paralysent, des ciels qui coupent la parole<note place="bottom">Un peu modifiée, la phrase passera dans <hi rend="i">La Soirée</hi> (Œ.I.177).</note>.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f13.image">
+            <seg rend="lienhypertexte">[Fol. 7r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07r</term>
+        </index>
+        <div>
+          <head>* « Les dieux sont des fictions du législateur… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07r/037</term>
+          </index>
+          <p>Les dieux sont des fictions du législateur inventées dans le but de prévenir les crimes secrets.</p>
+          <p rend="noindent0850">Critias tyran d’Athènes</p>
+          <p rend="noindent0850">cité par Sextus, Adversus Physicos I, 54<note place="bottom">Cf. « Contre les physiciens », in Sextus Empiricus, <hi rend="i">Œuvres choisies</hi>, trad. J. Grenier et G. Goron, Aubier, 1948, p. 65. En la prêtant simplement à « un tyran d’Athènes », Valéry rapporte la phrase dans sa préface aux <hi rend="i">Lettres persanes</hi>.</note>.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Soit <hi rend="i">a</hi>, ensemble, <hi rend="i">b portion</hi> d’<hi rend="i">a</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07r/038</term>
+          </index>
+          <p rend="noindent1250">[Croquis]</p>
+          <p><pb n="C.I.129"/>Soit <hi rend="i">a</hi>, ensemble, <hi rend="i">b portion</hi> d’<hi rend="i">a</hi>. De b passer à <hi rend="i">a.</hi> Cas de résolution. Cas de résolutions multiples, cas d’indétermination.</p>
+          <p>S’il y a résolution, il faut que <hi rend="i">b</hi> portion donnée (ou réelle) soit complétée par formation mentale jusqu’à ce que le tout soit reconnaissable en tant qu’a.</p>
+          <p>Donc <hi rend="i">a</hi> représente un équilibre par rapport à <hi rend="i">b</hi>.</p>
+          <p rend="noindent1350">b + φ(b) = a</p>
+          <p rend="noindent1350"><space> </space>∫ª <hi rend="sub">b</hi> bda = a</p>
+          <p rend="noindent">Il faut que a soit <hi rend="i">connu</hi>, pour être <hi rend="i">reconnu</hi> ; il faut que <hi rend="i">b</hi> soit <hi rend="i">suffisant.</hi></p>
+          <p>La fonction φ(a, b)</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Des objets. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07r/039</term>
+          </index>
+          <p rend="noindent">Des objets.</p>
+          <p>Le champ conscient / champ psychique / par rapport à la vue est divisé en portions différentes. Il est constitué par une surface à 2 dimensions, colorée. Le champ conscient par rapport au tact et au mouvement est à 3 dimensions – Enfin le champ <pb n="C.I.144"/>conscient par rapport à l’énergie, résistance - etc. est à 1 dimension. La connaissance des objets est due à la superposition de ces 3 modes. Un objet est une portion du champ de connaissance total telle qu’elle existe dans les n champs. Il fait l’effet d’être + constant qu’un fait, et de présenter une résistance à la dissociation mentale, telle qu’elle ne peut s’exercer sur lui sans le détruire. En d’autres termes</p>
+          <p>L’objet est une portion bien connue du champ, et qui se reproduit.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f14.image">
+            <seg rend="lienhypertexte">[Fol. 7v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v</term>
+        </index>
+        <div>
+          <head>* « Une quantité aussi – qu’on le voudra. –… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/040</term>
+          </index>
+          <p>Une quantité aussi – qu’on le voudra. –</p>
+          <p>Tout se passe comme si. – – – –</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « On se plaît, on se déplaît, on finit par replaire. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/041</term>
+          </index>
+          <p rend="noindent center">On se plaît, on se déplaît, on finit par replaire.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Le Calcul Infinitésimal expliqué par récurrence et la récurrence par ? »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/042</term>
+          </index>
+          <p>Le Calcul Infinitésimal expliqué par récurrence et la récurrence par ?</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « réflexions sur l’algèbre. Invention d’une langue… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/043</term>
+          </index>
+          <p>réflexions sur l’algèbre. Invention d’une langue symbolisant les opérations de l’esprit. Pour y arriver, analyse ce que c’est qu’une langue par rapport à ces opérations, et son jeu.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Toute abstraction (au sens général) est faite d’images hétérogènes. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/044</term>
+          </index>
+          <p>Toute abstraction (au sens général) est faite d’images hétérogènes<note place="bottom">Les éditeurs des <hi rend="i">Cahiers 1894-1914</hi> notent que cette phrase n’est lisible que dans le microfilm de 1948.</note>.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Induction dans le cas de la généralisation… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/045</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p><pb n="C.I.145"/>Induction dans le cas de la généralisation ;</p>
+                <p>On a x = &lt;φ(m)&gt;</p>
+              </cell>
+              <cell>Dans le rêve on peut se trouver avec des gens qu’on connaît, qu’on <hi rend="i">reconnaît</hi> et qui n’ont rien de leur aspect réel. Donc le mécanisme de la reconnaissance est altéré.</cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il aime la mer touffue. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/046</term>
+          </index>
+          <p>Il aime la mer touffue.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Toutes les choses fabriquées par l’homme à l’aide d’un travail cérébral… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-07v/047</term>
+          </index>
+          <p>Toutes les choses fabriquées par l’homme à l’aide d’un travail cérébral quelconque sont des <hi rend="i">faux</hi> psychologiques. On commet ces faux par omission, en vue du but particulier. La pensée n’a jamais un but particulier.<hi rend="sup">+</hi> Pour l’y plier on l’interrompt et on la recommence après correction.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f15.image">
+            <seg rend="lienhypertexte">[Fol. 8r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-08r</term>
+        </index>
+        <div>
+          <head>* « Connaître – je connais… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-08r/048</term>
+          </index>
+          <p>
+            <pb n="C.I.130"/>
+          </p>
+          <p>Connaître – je connais.</p>
+          <p>Je connais tant que [je] suis. Être est le sentiment de variation indépendante α de B, C, D, qui sont les sujets de ce verbe : connaître.</p>
+          <p rend="noindent">Je connais quoi ?</p>
+          <p rend="noindent">Des choses. – Je les distingue, c’est-à-dire qu’après la 1<hi rend="sup">re</hi> variation indépendante (α) je distingue dans le tas distingué de MOI à chaque instant, d’autres variations indépendantes entre elles (β). Ces variations (β) se divisent en 2 catégories uniquement par l’étendue et le degré de leurs variations. On a (γ) et (ε) donc β = γ + ε (1)</p>
+          <p>Toute la théorie est l’étude des relations de (γ et ε) ou étude de la constitution de β. L’équation (1) représente tout ce qui est connu et connaissable.</p>
+          <p>&lt;Or ce qui nous occupe n’est pas l’origine des idées ni la philosophie ordinaire. C’est l’étude des faits mentaux – ou ε à l’aide de γ, dans leur réalité ou détail.&gt;</p>
+          <p>&lt;La connaissance se réduit à deux <hi rend="i">dimensions.</hi> On dira qu’un fait de conscience quelconque sera déterminé lorsqu’on le rapportera.&gt;</p>
+          <p>Un fait de conscience se rapporte à γ ou à ε. Dimensions.</p>
+          <p>Je suppose que je fasse connaissance de – n’importe quoi – Ce n’importe quoi <pb n="C.I.146"/>ne change en rien – le souvenir possible par exemple – de telle <hi rend="u"><hi rend="i">sensation</hi></hi> antérieure. Je dis <hi rend="u"><hi rend="i">sensation</hi></hi>.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « 2 cas : le travail mental direct c’est-à-dire sur objet non mental… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-08r/049</term>
+          </index>
+          <p>2 cas : le travail mental direct c’est-à-dire sur objet non mental c’est-à-dire ne fatiguant pas… stable donc.</p>
+          <p>        le travail mental complet   – – –   sur objet mental – ou réflexion, méditation<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f16.image">
+            <seg rend="lienhypertexte">[Fol. 8v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-08v</term>
+        </index>
+        <div>
+          <head>* « Les différences entre les choses connues constituent la connaissance… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-08v/050</term>
+          </index>
+          <p>Les différences entre les choses connues constituent la connaissance, et la connaissance est comme un lieu géométrique. Tout ce qui est, est connu, en vertu d’une propriété commune. Qu’y a-t-il de commun entre ceci, cela, cette couleur, cette autre, ce son, ces combinaisons ? et puis aussi les choses imaginaires. Voilà la question.</p>
+          <p>Physiquement et du côté des sens, cette observation peut suggérer une hypothèse mécanique. Mais une telle solution qui est du reste intéressante – n’est plus une solution pour celui qui connaît la nature et le domaine du mécanisme.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’accord réel étant φ(α,β,γ…μ) = A, l’image f(A)… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-08v/051</term>
+          </index>
+          <p>L’accord réel étant φ(α,β,γ…μ) = A, l’image f(A) ne contient que φ(α,β,ν). (En d’autres termes on suppose A à partir de f(A)) ; or φ(α,β,ν) = f(A) peut subir des variations impossibles à A. Donc la transformation de A en f(A) est un changement de <hi rend="i">degré</hi> – par suite d’une diminution du degré de liberté. Telle est l’abstraction.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f17.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">9r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09r</term>
+        </index>
+        <div>
+          <head>* « Étude de l’argent dans sa réalité… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09r/052</term>
+          </index>
+          <p><pb n="C.I.131"/><pb/>Étude de l’argent dans sa réalité, dans l’existence du pauvre diable. Transformations d’une pièce de dix sous.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Enfin la base est la <hi rend="i">sensation de travail</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09r/053</term>
+          </index>
+          <p><pb n="C.I.147"/>Enfin la base est la <hi rend="i">sensation de travail</hi>. Cette sensation est mesurée par la production. Une de ces sensations B étant donnée elle réalise toujours un optimum relatif entre A sensation de travail moindre et C sensation de travail plus grand. Ceci entre des limites idiosyncrasiques α et β qui varient légèrement en φ(t).</p>
+          <p/>
+          <p>Nombre d’hypothèses possibles entre m et n. Hétérogénéité ou <hi rend="i">nom</hi> de la quantité d’éléments arbitraires du trajet.</p>
+          <p>Le travail mental est par hypothèse toujours un minimum. Ainsi deux termes fixes étant donnés, on aura une notion différentielle de 2 pensées ou de 2 hommes pensants par les 2 minimums obtenus.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Passage d’image : on ne peut passer d’une image à une autre… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09r/054</term>
+          </index>
+          <p>Passage d’image : on ne peut passer d’une image à une autre sans variation de la 1<hi rend="sup">re</hi> sauf le cas de solution de conscience ou de sensation intervenue – ou d’abstraction.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Les choses qu’on ne peut atteindre, on peut les éclairer… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09r/055</term>
+          </index>
+          <p>Les choses qu’on ne peut atteindre, on peut les éclairer par l’étude de leurs variations, de même qu’une série numérique en apparence incohérente <hi rend="u"><hi rend="i">peut</hi></hi> se rattacher à une loi si l’on étudie ses différences d’ordres successifs.</p>
+          <p>Or étudier les variations d’une chose revient à peu près à chercher les différences d’une série.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f18.image">
+            <seg rend="lienhypertexte">[Fol. 9v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09v</term>
+        </index>
+        <div>
+          <head>* « Les mots philosophiques sont beaucoup trop vagues… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09v/056</term>
+          </index>
+          <p>Les mots philosophiques sont beaucoup trop vagues pour pouvoir saisir la pensée dans son détail, il leur est impossible de se former en raisonnements de la vraie logique de l’homme.</p>
+          <p>Ainsi « abstraction » peut se dire d’un million de phénomènes mentaux très différents.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’esprit n’est que travail. Il n’existe qu’en mouvement. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09v/057</term>
+          </index>
+          <p><pb n="C.I.148"/>L’esprit n’est que travail. Il n’existe qu’en mouvement.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Dans toute œuvre humaine, il y a en quelque sorte un plan invisible… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09v/058</term>
+          </index>
+          <p>Dans toute œuvre humaine, il y a en quelque sorte un plan invisible à l’auteur et qui provient du simple jeu de sa pensée et de ses circonstances.</p>
+        </div>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/philosophie"><seg rend="lienhypertexte">Philosophie</seg></ref> (« La philosophie s’est toujours attribué la Science des sciences…. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09v/059</term>
+          </index>
+          <p>La philosophie s’est toujours attribué la Science des sciences. Mais ce qui surprend en elle quand on la parcourt, c’est l’absence de toute solution précise et de toute indication pratique quant à la nature des faits intellectuels. Elle ne montre en rien les procédés réels de la pensée. Elle [ne] donne jamais une recette pour utiliser sa pensée, pour capter tout ce [qui] s’y passe et prévoir les résultats d’une rêverie, d’une méditation, d’un calcul.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’abstraction et la <hi rend="u"><hi rend="i">possibilité</hi></hi>. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-09v/060</term>
+          </index>
+          <p><pb n="C.I.132"/>L’abstraction et la <hi rend="u"><hi rend="i">possibilité</hi></hi>.</p>
+          <p>Exemple : Tout = le possible.</p>
+          <p>La récurrence.</p>
+          <p>L’abstraction et la <hi rend="i">variation par continuité</hi>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f19.image">
+            <seg rend="lienhypertexte">[Fol. 10r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10r</term>
+        </index>
+        <div>
+          <head>* « Zones, anneaux, aigrettes, lignes de force de la douleur… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10r/061</term>
+          </index>
+          <p>&lt;Zones, anneaux, aigrettes, lignes de force de la douleur dans un corps, trajet des nerfs<note place="bottom">Phrase très transformée dans <hi rend="i">La Soirée</hi> : « Je sens des zones de douleur, des anneaux », etc. (Œ.I.180).</note>&gt;</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Tout ce que j’ai fait revient à des phénomènes de conscience. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10r/062</term>
+          </index>
+          <p>Tout ce que j’ai fait revient à des phénomènes de conscience.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Je ne crois pas que les souvenirs (ou images désignées par un certain indice)… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10r/063</term>
+          </index>
+          <p>Je ne crois pas que les souvenirs (ou images désignées par un certain indice) voir Livre de bord, soient jamais une fonction périodique du temps. Il semble que le phénomène mémorial se produise toujours par une action <hi rend="i">de</hi> <pb n="C.I.149"/><hi rend="i">proche en proche</hi>. Ainsi, lorsqu’on recherche <hi rend="i">pourquoi</hi> on se souvient de telle chose, et qu’on établit une série A B C..<hi rend="i">M</hi> jusqu’à <hi rend="i">M</hi> souvenir donné (ou sensation de passé) on se livre en somme à une véritable détermination de <hi rend="u"><hi rend="i">probabilité</hi></hi>. <hi rend="i">Donc</hi><note place="bottom">Une flèche renvoie à « Il semble que », juste au-dessus.</note> de ce côté-là aussi pas d’interrupteur de la succession sur les <hi rend="i">sphères</hi> –</p>
+          <ab type="ornament">———————</ab>
+          <p>Dans les résolutions ou combinaisons quel que soit le résultat on ne peut trouver – – – on peut trouver seulement des ? – …</p>
+          <p>Le neuf possible.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « « Sauvons, vis-à-vis de certains moments de nous-même les apparences… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10r/064</term>
+          </index>
+          <p>« Sauvons, vis-à-vis de certains moments de nous-même les apparences de certains autres. Tout <hi rend="i">Nous</hi> dépend<note place="bottom">On peut lire aussi « déprend ».</note> des moments choisis pour unités. Inutile de dire que nous considérons comme le vrai Nous, celui des instants que nous jugeâmes les meilleurs – c’est-à-dire les plus réussis pour un autrui <hi rend="i">observé</hi> quelconque. »</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f20.image">
+            <seg rend="lienhypertexte">[Fol. 10v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10v</term>
+        </index>
+        <div>
+          <head>* « Hier soir, comme souvent – au – je pense à A quelconque… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10v/065</term>
+          </index>
+          <p>Hier soir, comme souvent – au – je pense à A quelconque dont je veux me souvenir ce matin au réveil. Je lie A à B que je sais devoir arriver ce matin et cela réussit comme d’habitude.</p>
+          <p>Je le note pour en faire l’analyse.</p>
+          <p rend="noindent1300"><space/>signe suggérant</p>
+          <p rend="noindent1300"><space>         </space>chose vue</p>
+          <p rend="noindent1300">chose imaginée<note place="bottom">Mots associés à un schéma.</note></p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Éclat du moindre fait qui se produit »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10v/066</term>
+          </index>
+          <p>&lt;Éclat du moindre fait qui se produit<note place="bottom">Passage entouré d’un trait.</note>.&gt;</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Écrire, par exemple, une histoire de Faraday… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10v/067</term>
+          </index>
+          <p/>
+          <p><pb n="C.I.133 C.I.150"/><pb/>Écrire, par exemple, une histoire de Faraday sans employer le mot d’électricité – ou faire ainsi de la science. La périphrase ridicule pour un objet <hi rend="i">connu</hi> devient utile logiquement quand il s’agit d’un objet <hi rend="i">inconnu</hi> (et pourtant nommé).</p>
+          <p>Or tout objet connu peut se transformer en inconnu – comme dans une équation.</p>
+          <p>L’explication est relative comme le mouvement.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Complexes. Au piquet. Ennui, fatigue des jambes… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-10v/068</term>
+          </index>
+          <p>Complexes. Au piquet. Ennui, fatigue des jambes, vue du mur.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f21.image">
+            <seg rend="lienhypertexte">[Fol. 11r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r</term>
+        </index>
+        <div>
+          <head>* « L’éducation générale a pour but de permettre de lire avec fruit les travaux… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/069</term>
+          </index>
+          <p>L’éducation générale a pour but de permettre de lire avec fruit les travaux de tous les spécialistes. Quand on sait les langues et les mathématiques on peut tout lire.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Le chevalier de Méré donnait des difficultés aux savants… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/070</term>
+          </index>
+          <p>Le chevalier de Méré<note place="bottom">L’écrivain Antoine Gombaud, chevalier de Méré (1607-1684) fut le théoricien de l’honnête homme. Il posa, sur le jeu de dés et la probabilité de gagner, une célèbre question à laquelle répondirent Fermat, Pascal et Roberval.</note> donnait des difficultés aux savants. C’était une sorte d’ignorant avec du bon sens.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Éclairage des villes. Impression de la rue Saint-Jacques, ce soir. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/071</term>
+          </index>
+          <p>Éclairage des villes. Impression de la rue Saint-Jacques, ce soir.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Une théorie sur les images est purement hypothétique… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/072</term>
+          </index>
+          <p>Une théorie sur les images est purement hypothétique. La réalité de la pensée comporte surtout une sorte de potentiel, réduisant le rôle de la conscience consciente. Question de <hi rend="i">vitesse</hi><note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Sujet verbe attribut… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/073</term>
+          </index>
+          <table>
+            <row>
+              <cell>Sujet</cell>
+              <cell>verbe</cell>
+              <cell>attribut</cell>
+            </row>
+            <row>
+              <cell>Substantif.</cell>
+              <cell>verbe.</cell>
+              <cell>adjectif</cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « et que m’importe <hi rend="i">leur</hi> talent, leur génie »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/074</term>
+          </index>
+          <p><pb n="C.I.151"/><pb/>&lt;et que m’importe <hi rend="i">leur</hi> talent, leur génie<note place="bottom">Autre phrase qui, modifiée, passera dans <hi rend="i">La Soirée</hi> (Œ.I.178).</note>&gt;</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La pesanteur donne à chaque objet sa physionomie énergétique. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/075</term>
+          </index>
+          <p>La pesanteur donne à chaque objet sa physionomie énergétique.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’explication se fait par simple… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11r/076</term>
+          </index>
+          <p>L’explication se fait par simple et moins simple.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f22.image">
+            <seg rend="lienhypertexte">[Fol. 11v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11v</term>
+        </index>
+        <div>
+          <head>* « En ce moment-ci – je ne fais pas telle chose. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11v/077</term>
+          </index>
+          <p>En ce moment-ci – je ne fais pas telle chose.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Sur les <hi rend="u"><hi rend="i">relations</hi></hi> verbales ou <hi rend="i">réelles</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11v/078</term>
+          </index>
+          <p>Sur les <hi rend="u"><hi rend="i">relations</hi></hi> verbales ou <hi rend="i">réelles</hi> essayer d’introduire les considérations de lignes de force et de lignes équipotentielles.</p>
+          <p/>
+          <p>[Dessin] le « de proche en proche ».</p>
+          <p><space>             </space>explication des <hi rend="i">chemins</hi><hi rend="u"><hi rend="i">arbitraires</hi></hi><space/>et du calcul du travail.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Les phénomènes mentaux sont en quelque manière agréables… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11v/079</term>
+          </index>
+          <p><pb n="C.I.134"/>[Dessin] Les phénomènes mentaux sont en quelque manière agréables, désagréables ou indifférents et cette classification si simple, si facile peut être très utile. Fait énorme : il y a des imaginations désagréables.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « je suppose qu’un corps <hi rend="i">α</hi> se meuve de A en B sur une trajectoire quelconque… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-11v/080-part1</term>
+          </index>
+          <p><pb n="C.I.152"/>je suppose qu’un corps <hi rend="i">α</hi> se meuve de A en B sur une trajectoire quelconque. Je suppose également qu’un point quelconque d’un être <hi rend="i">vivant</hi> décrive sa même ligne A′B′ mais par le fait de sa croissance. Il y a dans ce dernier cas un engendrement cellulaire du mouvement. La force vive d’α sera une φ de masse et vitesse. Si un obstacle l’arrête il y aura un remplacement par de la chaleur. L’énergie dépensée dans le déplacement de l’ensemble devra se retrouver dans les mouvements</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f23.image">
+            <seg rend="lienhypertexte">[Fol. 12r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12r/</term>
+        </index>
+        <div>
+          <head>* « … vibratoires des molécules à partir du choc… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12r/080-part2</term>
+          </index>
+          <p rend="noindent">vibratoires des molécules à partir du choc. Si le corps vivant β est soumis à un arrêt analogue, comment déterminer son énergie ?</p>
+          <p/>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La logique formelle est la commune mesure des raisons… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12r/081</term>
+          </index>
+          <p>La logique formelle est la commune mesure des raisons. En second lieu, elle est instrument critique. Elle s’exerce dans ce rôle soit entre divers esprits, soit dans un esprit donné. Toute généralisation <hi rend="i">tend</hi> à se soumettre à elle, car toute généralisation <hi rend="i">tend</hi> à diminuer la différence des esprits particuliers. Il n’y a pas de logique directe de la pensée, pas plus que des faits. La pensée est. Les faits sont.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « lignes des forces intérieures. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12r/082</term>
+          </index>
+          <p>lignes des forces intérieures.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/dieu"><seg rend="lienhypertexte">Dieu</seg></ref> (« La nature psychologique de “Dieu” est d’être une image ou un concept… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12r/083</term>
+          </index>
+          <p>La nature psychologique de « Dieu » est d’être une image ou un concept quelconque qui ne vient à l’esprit de personne tant que les circonstances ou les choses restent claires ou ordinaires<note place="bottom">Apparition précoce du thème des choses divines, auquel Valéry songera à consacrer un dialogue à partir de 1921.</note>.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f24.image">
+            <seg rend="lienhypertexte">[Fol. 12v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12v</term>
+        </index>
+        <div>
+          <head>* « Je regarde par ma fenêtre et je dis : … »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12v/084</term>
+          </index>
+          <p rend="noindent"><pb n="C.I.135"/><pb/>&lt;Je regarde par ma fenêtre et je dis :</p>
+          <p>« Tout ce que je vois est vert. »</p>
+          <p>« Or ce jardin d’en bas fait partie de ce que je vois. »</p>
+          <p>J’attends trois mois pour ajouter la conclusion :</p>
+          <p rend="noindent">Alors je dis : « Donc ce jardin est vert. »                                  <pb n="C.I.153"/>Osez supposer.</p>
+          <p>Mais il est couvert de neige et du reste dépouillé.</p>
+          <p>Donc le syllogisme doit être instantané, entre autres choses car « je vois » est au présent. Hic jacet<note place="bottom"><hi rend="i">Hic jacet lepus</hi> : ci-gît le lièvre, voilà le hic.</note>.&gt;</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Tout ce qui peut arriver est imaginable, réciproque fausse… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12v/085</term>
+          </index>
+          <p>Tout ce qui peut arriver est imaginable, réciproque fausse ;</p>
+          <p rend="noindent0400">réalité</p>
+          <p rend="noindent">mais il arrive qu’on ne l’imagine pas.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il n’y a ni fini ni infini – cela ne correspond à rien… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12v/086</term>
+          </index>
+          <p>Il n’y a ni fini ni infini – cela ne correspond à rien. Il y a des limitations sensibles, des limitations arbitraires (actes), des possibilités de récurrence.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Un corps quelconque est dans un certain équilibre en lui-même… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-12v/087-part1</term>
+          </index>
+          <p>Un corps quelconque est dans un certain équilibre en lui-même.</p>
+          <p>Cet équilibre peut être considéré comme élémentaire, parfois.</p>
+          <p>De plus il y a des degrés d’équilibre mesurés par la stabilité de son existence dans un corps.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f25.image">
+            <seg rend="lienhypertexte">[Fol. 13r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r</term>
+        </index>
+        <div>
+          <head>* « La même difficulté existe pour la cohésion que pour l’attraction… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r/087-part2</term>
+          </index>
+          <p>La même difficulté existe pour la cohésion que pour l’attraction.</p>
+          <p>Si donc il y a un milieu pour l’attraction, c’est lui qui fait les corps cohérents.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Par l’idée d’équilibre on ramène l’idée d’un tout quelconque… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r/088</term>
+          </index>
+          <p>Par l’idée d’équilibre on ramène l’idée d’un tout quelconque à celle d’une distribution de forces. On se donne ainsi le moyen de variation de ce tout.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « On enlève, on donne à une chose le caractère d’être habituelle. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r/089</term>
+          </index>
+          <p>On enlève, on donne à une chose le caractère d’être habituelle.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « On appelle matière un certain caractère commun des sensations… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r/090</term>
+          </index>
+          <p><pb n="C.I.154"/><pb/>On appelle matière un certain caractère commun des sensations localisées dans du tact et des muscles. Ces sensations sont liées à l’idée d’énergie, qui en provient.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Oscillation des arbres autour d’un centre moyen… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r/091</term>
+          </index>
+          <p>Oscillation des arbres autour d’un centre moyen. Le moyen mouvement de leur ramure. [Dessin] Agitation purement superficielle des feuilles, soit sur la surface limite totale, soit sur une portion. Agitation des sommités. [Croquis]</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Classification des animaux par leurs migrations et leurs zones de vie… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13r/092</term>
+          </index>
+          <p><pb n="C.I.136"/><pb/>Classification des animaux par leurs migrations et leurs zones de vie sédentaire comparées. Plasticité supérieure de l’homme, lutte contre le climat et le milieu. Avant de s’accommoder, l’homme tend à accommoder. Ainsi dans l’éducation (ou la conquête d’une chose) l’homme qui apprend arrange d’abord la chose à son usage, et puis est arrangé par la chose –</p>
+          <p>Les mouches vivent autour d’un centre etc.</p>
+          <p>Réseau de mouches.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f26.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">13v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13v</term>
+        </index>
+        <div>
+          <head>* « Théorie de la conversion sur le plein et le vide. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13v/093</term>
+          </index>
+          <p>Théorie de la conversion sur le plein et le vide.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Remplacer les antiques notions abstraites, mêlées d’erreurs… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13v/094</term>
+          </index>
+          <p>Remplacer les antiques notions abstraites, mêlées d’erreurs aujourd’hui claires, ou fondées sur des axiomes purement logiques ou verbaux par des notations relatives à des données psychiques exactes, telles que des variations. L’infini.</p>
+          <p/>
+          <p/>
+          <p>Les unes, on peut les reproduire à volonté ou récurrence ; les autres non.</p>
+          <p/>
+          <p>Les phénomènes suscitent <hi rend="i">plus ou moins</hi> le besoin de les expliquer.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Je ne vois aucune raison que je ne puisse faire ceci : une méthode… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-13v/095</term>
+          </index>
+          <p><pb n="C.I.155"/><pb/>Je ne vois aucune raison que je ne puisse faire ceci : une méthode. Voyez-vous une raison pour que votre esprit n’accomplisse telle ou telle chose ?</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f27.image">
+            <seg rend="lienhypertexte">[Fol. 14r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14r</term>
+        </index>
+        <div>
+          <head>* « Idées un peu nettes retirées de la lecture rapide d’ouvrages militaires… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14r/096</term>
+          </index>
+          <p>Idées un peu nettes retirées de la lecture rapide d’ouvrages militaires.</p>
+          <p rend="noindent0450">——</p>
+          <p>Généralisation de la notion de fortification aux lignes etc.</p>
+          <p>L’offensive oblige l’adversaire à penser à ce qu’il suppose qu’on fera. La défensive lui laisse les choix.</p>
+          <p>La guerre se fait de toutes parts<note place="bottom">Phrase citée sans nom d’auteur, entre guillemets, dans <hi rend="i">La Conquête allemande</hi> en 1897 (Œ.I.194).</note>. Marche de Sherman<note place="bottom">Nom donné à la marche du général nordiste William Sherman (1820-1891) à travers la Géorgie, durant la guerre de Sécession.</note>. Attaque de flanc d’une invasion.</p>
+          <p>Rôle moderne des retranchements rapides, et théorie des bonds.</p>
+          <p><hi rend="i">Accords</hi> entre les troupes et les positions.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La géologie et l’architecture – la construction des massifs naturels… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14r/097</term>
+          </index>
+          <p>La géologie et l’architecture – la construction des massifs naturels, des glaciers, des voussures etc.</p>
+          <p>[Illisible]</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Potentiel et thermodynamique – rapports de position et réciprocité. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14r/098</term>
+          </index>
+          <p>Potentiel et thermodynamique – rapports de position et réciprocité<note place="bottom">Les éditeurs des <hi rend="i">Cahiers 1894-1914</hi> notent que cette phrase est seulement lisible dans le microfilm de 1948.</note>.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Étant donné le moi comme idée que devient la distinction récurrente… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14r/099</term>
+          </index>
+          <p><pb n="C.I.137"/><pb/>Étant donné le moi comme idée que devient la distinction récurrente –</p>
+          <p rend="noindent0250">Propriété fondamentale.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Modern Athen… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14r/100</term>
+          </index>
+          <p>Modern                     Athen  [Croquis]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f28.image">
+            <seg rend="lienhypertexte">[Fol. 14v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14v</term>
+        </index>
+        <div>
+          <head>* « Pour portrait etc. attention latente… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14v/101</term>
+          </index>
+          <p><pb n="C.I.156"/><pb/>Pour portrait etc. attention latente. Faire attention – instinctivement <hi rend="i">à</hi> telle et telle chose<note place="bottom">Après l’<hi rend="i">Introduction</hi> et <hi rend="i">La Soirée</hi>, Valéry songea à des portraits : Tibère, Degas, Poincaré.</note>. –</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Condillac est absurde, mais dans ses éléments surtout… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14v/102</term>
+          </index>
+          <p>Condillac est absurde, mais dans ses éléments surtout.</p>
+          <p>&lt;Construire un homme analytiquement.&gt;</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « La quantité de connaissance n’est pas <hi rend="i">constante</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14v/103</term>
+          </index>
+          <p>La quantité de connaissance n’est pas <hi rend="i">constante</hi>. Elle est <hi rend="i">finie</hi> à un instant donné, elle se connaît par l’objet de la connaissance qui est toujours fini.</p>
+          <p>En d’autres termes la connaissance est nulle en même temps que son objet.</p>
+          <p>Un individu (mental) est défini à un instant = t par sa sphère de connaissance.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Primum in causando, ultimum est in causato. Saint Thomas »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14v/104</term>
+          </index>
+          <p><quote>Primum in causando, ultimum est in causato.</quote> Saint Thomas<note place="bottom"><hi rend="i">Ce qui est premier dans l’ordre des causes est dernier dans celui des effets</hi> (<hi rend="i">Somme théologique</hi>, première partie, question V, art. IV).</note></p>
+          <p/>
+        </div>
+        <div>
+          <head>* « De la réalité ψ des contraires etc. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-14v/105</term>
+          </index>
+          <p>De la réalité <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> des contraires etc.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f29.image">
+            <seg rend="lienhypertexte">[Fol. 15r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15r</term>
+        </index>
+        <div>
+          <head>* « La perte de conscience – <del>ondulations</del> de la certitude… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15r/106</term>
+          </index>
+          <p>La perte de conscience – <del>ondulations</del> de la certitude – oscillations des certitudes relatives.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Nous connaissons la réalité par sa discontinuité… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15r/107</term>
+          </index>
+          <p>Nous connaissons la réalité par sa discontinuité, c’est-à-dire que nous distinguons la réalité (terme absurde) du phénomène psychique par sensation de travail interne – (Puis l’habitude –). Ceci explique de plus nos différentes productions sur la même réalité.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « La particularité du fait participe de la particularité de l’objet (?)… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15r/108</term>
+          </index>
+          <p><pb n="C.I.157"/><pb/>&lt;La particularité du fait participe de la particularité de l’objet (?)</p>
+          <p>Lien : l’homme X a des caractéristiques d’habitudes (croisement des mains, démarche, digestion etc.). Il y en a une infinité – Idem des caractéristiques de structure (extérieur, dimension, trajets des vaisseaux). Ces 2 groupes constituent son individualité.&gt;</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Étant donnés un point fixe de l’espace et trois axes de coordonnées… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15r/109</term>
+          </index>
+          <p>&lt;Étant donnés un point fixe de l’espace et trois axes de coordonnées, la pensée n’est pas une fonction continue de ces coordonnées.&gt;</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f30.image">
+            <seg rend="lienhypertexte">[Fol. 15v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15v</term>
+        </index>
+        <div>
+          <head>* « Si a est un objet pris dans la réalité, et maintenu dans ce domaine… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15v/110</term>
+          </index>
+          <p><pb n="C.I.138"/><pb/>Si a est un objet pris dans la réalité, et maintenu dans ce domaine, le travail mental produit en sa présence réelle et à son sujet tend à s’écarter de a ; a fait penser à autre chose.</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Quelle différence y a-t-il entre le général et le particulier… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15v/111</term>
+          </index>
+          <p>Quelle différence y a-t-il entre le général et le particulier dans la réalité mentale ?</p>
+          <p>α) Comment se fait la transformation</p>
+          <p/>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « J’entends par inintelligible relatif, une proposition… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-15v/112</term>
+          </index>
+          <p>J’entends par inintelligible relatif, une proposition qui développée est inintelligible mais qui a paru intelligible à celui qui l’a émise soit que les termes dont il s’est servi soient inexacts par rapport à sa pensée soit par abus logique (généralisation ratée etc.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f31.image">
+            <seg rend="lienhypertexte">[Fol. 16r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16r</term>
+        </index>
+        <div>
+          <head>* « Étant donné le type de recherche adopté et qui est fondé sur la question suivante… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16r/113</term>
+          </index>
+          <p>Étant donné le type de recherche adopté et qui est fondé sur la question suivante</p>
+          <p>Si [mots raturés illisibles]. Établir pour une construction humaine de matériaux quelconques 1º le <pb n="C.I.158"/>processus logico-psychologique simple entier implicite ; 2º remplacer les termes élémentaires par les mécanismes plus complexes d’abstraction etc.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Mouvant et mû, et mobile. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16r/114</term>
+          </index>
+          <p>Mouvant et mû, et mobile.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Les gens contredisent. Les événements confirment… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16r/115</term>
+          </index>
+          <p>Les gens contredisent. Les événements confirment.</p>
+          <p/>
+          <p>Les moments s’opposent aux moments. Le grand au petit.</p>
+          <p/>
+          <p>Dire que des gens se plaisent à triompher contre le raisonnement.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « On s’endort à propos de n’importe quoi… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16r/116</term>
+          </index>
+          <p>On s’endort à propos de n’importe quoi<note place="bottom">Modifiée, la phrase se retrouve à la fin de <hi rend="i">La Soirée</hi> (Œ.I.182).</note>.</p>
+          <p>               ↓</p>
+          <p>                 question d’intensité –</p>
+          <p>                     –    de qualité.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f32.image">
+            <seg rend="lienhypertexte">[</seg>
+            <seg rend="lienhypertexte">Fol. </seg>
+            <seg rend="lienhypertexte">16v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v</term>
+        </index>
+        <div>
+          <head>* « Le délicat emploi d’un certain facteur qu’on pourrait appeler… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v/117</term>
+          </index>
+          <p><pb n="C.I.139"/><pb/>&lt;Le délicat emploi d’un certain facteur qu’on pourrait appeler « quantité d’inattention » peut à titre provisoire servir à élucider quelques effets de ce qu’on appelle vie.&gt;</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « En parlant d’un mouvement on peut affirmer ou qu’il se crée quelque chose… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v/118</term>
+          </index>
+          <p>En parlant d’un mouvement on peut affirmer ou qu’il se crée quelque chose, ou qu’il se continue une autre chose.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Quelle atteinte est portée par la voix aux mots ? Dans quelle mesure »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v/119</term>
+          </index>
+          <p>Quelle atteinte est portée par la voix aux mots ? Dans quelle mesure</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Conversation = partie d’échecs –… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v/120</term>
+          </index>
+          <p><pb n="C.I.159"/>Conversation = partie d’échecs –</p>
+          <table>
+            <row>
+              <cell>
+                <p>à faire comme<note place="bottom">Une flèche renvoie à « partie d’échecs ».</note></p>
+                <p>Quatuor.</p>
+              </cell>
+              <cell>
+                <p>Espaces du sol – couleur</p>
+                <p>J’entends bouillir tous les oiseaux.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Il voyait les choses de tout près. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v/121</term>
+          </index>
+          <p>Il voyait les choses de tout près<note place="bottom">Voir ci-dessus : <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-001_journal-de-bord/fol-40v/271"><seg rend="lienhypertexte">« Penser </seg><seg rend="lienhypertexte">de plus près</seg><seg rend="lienhypertexte">… »</seg></ref></note>.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Uniforme des troupes espèce d’oiseaux. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-16v/122</term>
+          </index>
+          <p>Uniforme des troupes espèce d’oiseaux.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f33.image">
+            <seg rend="lienhypertexte">[Fol. 17r]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r</term>
+        </index>
+        <div>
+          <head>* « La pensée variation relative à des variations moins grandes… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r/123</term>
+          </index>
+          <p>La pensée variation relative à des variations moins grandes – et à des variations plus grandes qui s’y opposent (réalité <hi rend="u"><hi rend="i">etc</hi></hi>.) mais comme sa variation propre est inconnue – peut être infiniment variée ! – alors ?</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « Les hommes de génie servent à tout mettre aux mains des imbéciles… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r/124</term>
+          </index>
+          <p>Les hommes de génie servent à tout mettre aux mains des imbéciles.</p>
+          <p>Les nations civilisées cultivent les Japons.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Arme-toi de la logique – Contre les autres. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r/125</term>
+          </index>
+          <p>Arme-toi de la logique – Contre les autres.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « Politesse – moyenne… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r/126</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>Politesse – moyenne –</p>
+                <p>Fêtes – art</p>
+              </cell>
+              <cell>La certitude est basée sur le système des réalités. Si l’on change ce système [inachevé]</cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+        <div>
+          <head>* « Les idées absurdes d’une femme. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r/127</term>
+          </index>
+          <p>Les idées absurdes d’une femme.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « L’homme qui redoute une <hi rend="u"><hi rend="i">nouvelle</hi></hi> et tue le messager… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17r/128</term>
+          </index>
+          <p><pb n="C.I.160"/><pb/>L’homme qui redoute une <hi rend="u"><hi rend="i">nouvelle</hi></hi> et tue le messager quelconque, survenant.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110183t/f34.image">
+            <seg rend="lienhypertexte">[Fol. 17v]</seg>
+          </ref>
+        </head>
+        <index>
+          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v</term>
+        </index>
+        <div>
+          <head>* « Histoire de l’individu que <hi rend="u"><hi rend="i">surprend</hi></hi> l’agrandissement… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/129</term>
+          </index>
+          <p><pb n="C.I.140"/><pb/>Histoire de l’individu que <hi rend="u"><hi rend="i">surprend</hi></hi> l’agrandissement de son esprit par l’âge –</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « That exchange with the <hi rend="i">unknown</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/130</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p>That exchange with the <hi rend="i">unknown <hi rend="sup">+</hi></hi><note place="bottom">[MARGIN] En marge : « + people (en tant que unknown) ». Cet échange avec des inconnus est la condition la plus étrange et la plus repoussante imposée par l’exercice littéraire.</note> is the most strange and the most repulsive of litterary necessities.</p>
+                <p/>
+              </cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Histoire de la révolution »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/131</term>
+          </index>
+          <table>
+            <row>
+              <cell/>
+              <cell>
+                <p>Histoire de la révolution</p>
+                <p>Un citoyen A est agacé par un B. Arrivé à un certain point m d’excitation, il se lève et tue B. Les amis de B arrivent et tombent sur A. A en colère les assomme tous. La colère (. –) a été tellement complète en lui qu’il s’acharne sur eux. La colère domine et dépasse la réaction. Fatigue exagérée. Les amis de B finissent à leur tour par réduire A. La réaction primitive s’est changée en action chez A. L’action primitive s’est changée en réaction chez B et φ(B).</p>
+                <p/>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « La faculté <hi rend="i">d’avoir</hi> nommé quelque chose – <hi rend="i">inconnue</hi>… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/132</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p/>
+                <p rend="noindent">La faculté <hi rend="i">d’avoir</hi> nommé quelque chose – <hi rend="i">inconnue</hi><space/>est curieuse.</p>
+                <p rend="noindent">3 cas : l’inconnu est fonction du connu, d’où équation possible</p>
+                <p rend="noindent"/>
+                <p rend="noindent">L’inconnu n’est pas fonction du connu.</p>
+                <p rend="noindent">L’inconnu est fonction inconnue du connu</p>
+                <p/>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">résoluble</p>
+                <p rend="noindent">non résoluble</p>
+                <p/>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « Une variable est <hi rend="i">indépendante</hi> ou arbitraire… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/133</term>
+          </index>
+          <table>
+            <row>
+              <cell/>
+              <cell>
+                <p/>
+                <p>Une variable est <hi rend="i">indépendante</hi> ou arbitraire lorsque 1º Sa variation est uniforme</p>
+                <p rend="noindent">        2º On peut lui donner une valeur quelconque.</p>
+                <p>La 2<hi rend="sup">me</hi> condition se réduit à la 1<hi rend="sup">re</hi></p>
+                <p/>
+              </cell>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « “Un moment” ou la minute des idées. »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/134</term>
+          </index>
+          <table>
+            <row>
+              <cell>
+                <p/>
+                <p><pb n="C.I.161"/><pb/>« Un moment »</p>
+                <p>ou la minute des idées.</p>
+              </cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+        <div>
+          <head>* « À un instant donné, la surface passe par ceux de 12 ans… »</head>
+          <index>
+            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-003_log-book/fol-17v/135</term>
+          </index>
+          <table>
+            <row>
+              <cell/>
+              <cell>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p>À un instant donné, la surface passe par ceux de 12 ans, ceux de 13 ans, ceux de 50 ans etc.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
