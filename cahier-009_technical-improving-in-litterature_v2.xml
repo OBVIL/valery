@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-02-23T15:19:04+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Technical improving in littérature</title>
+        <author>Paul Valéry</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>Stylage</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
+              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Paris, Bibliothèque nationale de France, Nouvelles acquisitions françaises 19213. PDF
+          en ligne : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f1.image"
+            >Gallica</ref>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Technical improving in littérature</head>
+      <div xml:id="fol-01r">
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f1.image"> [Fol. 1r] </ref>
+        </head>
+        <div xml:id="fol-01r_001">
+          <head><note place="margin">C.I.264</note>[Titre]</head>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="center">Technical improving in littérature<note place="bottom">Amélioration
+              technique en littérature. Le cahier est constitué de feuilles de papier du ministère
+              de la Guerre.</note></p>
+          <p/>
+          <p rend="center">— etc</p>
+          <p/>
+          <p rend="center">….</p>
+        </div>
+      </div>
+      <div xml:id="fol-02r">
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f3.image"> [Fol. 2r] </ref>
+        </head>
+        <div xml:id="fol-02r_002">
+          <head><note place="margin">C.I.265</note>* « Littérature – … »</head>
+          <p>Littérature –</p>
+          <p>—</p>
+          <p/>
+          <p rend="noindent">Courbe du maximum<note place="bottom">Une flèche renvoie
+              à « Interventions » (en dessous).</note> de plaisir à tel sujet.</p>
+          <p rend="noindent">Courbe du maximum de clarté et de division… dº –</p>
+          <p/>
+          <p rend="margin">Interventions.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f5.image"> [Fol. 3r] </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-03r</term>
+        </index>
+        <div xml:id="fol-03r_003">
+          <head><ref
+              target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme"
+              >Mallarmé</ref> (« Sur “le coup de dés” »)</head>
+          <p rend="noindent center">Sur « le coup de dés<note place="bottom">C’est le 30 mars 1897
+              que Mallarmé lit à Valéry son poème et lui fait cadeau des épreuves. Voir « Le Coup de
+              dés » (Œ.I.1197-1209).</note> »</p>
+          <p/>
+          <p/>
+          <p>Littérature courante – fait du temps gris, nul, sans effort – ; plus élevée, se trouve
+            dans l’embarras – pour <hi rend="i">cela</hi> qui est indispensable aux effets et à la
+            conduite psychologique de l’œuvre.</p>
+          <p><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm"
+              >S. M.</ref> [Stéphane Mallarmé] y a mis des blancs.</p>
+          <p rend="noindent">Le problème demeure.</p>
+          <p>Heureuse musique – avec ses dessins reproductibles –</p>
+          <ab type="ornament">——</ab>
+          <p>Mais pourquoi cet embarras en littérature ?</p>
+          <p>Le mot demande donc la marche en… <hi rend="i">avant</hi> ?</p>
+          <p>Pourquoi ne permet-il pas une certaine attente, ni les répétitions – Même répété <hi
+              rend="i">un peu</hi> comme on le fait il va plus vite que sa répétition. Il ne demeure
+            pas dans les sens (cf. erreur du sonore) – et devant ce à quoi il s’adresse <hi rend="i"
+              >il n’y a pas de répétition</hi>.</p>
+          <p/>
+        </div>
+      </div>
+      <div xml:id="fol-04r">
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f7.image"> [Fol. 4r] </ref>
+        </head>
+        <div xml:id="fol-04r_004">
+          <head>* « Trajets transcendants en littérature – »</head>
+          <p>Trajets transcendants en littérature –</p>
+          <p>Union dans le même ensemble transcendant de résultats de divers ordres relatifs à une
+            même chose –</p>
+        </div>
+      </div>
+      <div xml:id="fol-05r">
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f9.image"> [Fol. 5r] </ref>
+        </head>
+        <div xml:id="fol-05r_005">
+          <head>* « Sur Mallarmé — »</head>
+          <p/>
+          <p rend="margin"><note place="margin">C.I.266</note>Sur Mallarmé –—</p>
+          <p/>
+          <p>— La pensée – avec ses trous, échappatoires, insinuations neuves et ses fils distincts
+              <hi rend="i">non interrompus par les interruptions</hi> les plus irréductibles –</p>
+          <p>est le style – à condition –</p>
+          <p rend="noindent">de se rappeler (et lutter contre) – quelle distance demeure absolue
+            entre les éléments de l’une et ceux de l’autre –</p>
+        </div>
+      </div>
+      <div xml:id="fol-07r">
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f13.image"> [Fol. 7r] </ref>
+        </head>
+        <div xml:id="fol-07r_006">
+          <head><ref
+              target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner"
+              >Wagner</ref> (« Wagner – introduit dans le drame la symphonie… »)</head>
+          <p>Wagner – introduit dans le drame la symphonie – et précise l’une et enveloppe l’autre.
+            Il généralise donc chaque acte dramatique et donne d’autre part une certaine <hi
+              rend="i">clef</hi> de la musique. La crédibilité chez lui consiste à perfectionner le
+            système de correspondance – à lier plus étroitement le sujet et le drame et les
+            sensations entre eux.</p>
+          <p/>
+          <p/>
+        </div>
+        <div xml:id="fol-07r_007">
+          <head>* « En littérature on a tenté de se servir des philosophies… »</head>
+          <p>En littérature on a tenté de se servir des philosophies – mais résultats incomplets par
+            défaut d’une psychologie assez rigoureuse. Néanmoins Poe, Rimbaud, Mallarmé – ont vu la
+            voie – et ont démontré la possibilité.</p>
+          <p>Il s’agit de trouver les moyens techniques. – Le leitmotiv est aussi pauvre que
+            possible en littérature –</p>
+          <p>ДОСТОЕВСКИЙ<note place="bottom">« Dostoïevsky » en caractères cyrilliques. Dans la
+              pension de la rue Gay-Lussac où il logeait, Valéry avait des amis russes et avait
+              commencé à apprendre des rudiments de leur langue.</note></p>
+          <p/>
+        </div>
+        <div xml:id="fol-07r_008">
+          <head>* « On peut déterminer les conditions d’un art plus satisfaisant… »</head>
+          <p>On peut déterminer les conditions d’un art plus satisfaisant. Il ne faut pas oublier
+            que la formule brutale est la suivante : Enrichir du plus grand nombre de combinaisons
+            mentales possibles ; à condition d’augmenter proportionnellement la crédibilité. Tout
+            ceci existant dans les limites du langage.</p>
+          <p/>
+          <p>On pourrait écrire cette – équation :</p>
+          <p>Un certain effet (d’origine écrite) produit par une symétrie, une suite d’heureuses
+            coïncidences, un ordre etc., dans une œuvre aussi imaginative qu’on <pb n="C.I.267"
+            />voudra = un certain effet produit par un fait divers très réaliste, et éminemment
+            croyable. Ou bien la coordination des parties et des effets d’une œuvre toute formelle
+            – égale – l’incoordination et la vraisemblance (effets) d’une œuvre très
+            significative.</p>
+        </div>
+      </div>
+      <div xml:id="fol-09r">
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f17.image"> [Fol. 9r] </ref>
+        </head>
+        <div xml:id="fol-09r_009">
+          <head>* « Un drame est un rêve – si l’on parvient à y croire… »</head>
+          <p/>
+          <p/>
+          <p/>
+          <p>Un drame est un rêve – si l’on parvient à y croire et l’on y parvient.</p>
+          <p>En général tout fait extraordinaire auquel on assiste – devient rêve – et lorsqu’on
+            s’en souvient, c’est d’un rêve.</p>
+          <ab type="ornament">——</ab>
+          <p>Un drame dont l’acte P est tel : Alpha s’endort, elle voit en rêve tout l’acte qui est
+            joué derrière elle par la troupe. Mais que ce soit un rêve tout en se liant au drame.
+            C’est-à-dire lier les états de cette scène comme sont liés les états du rêve.</p>
+          <p>d’abord apparition de ceci – puis de cela – obscurité, changements, présence
+            d’elle-même qui va ou se mêler au rêve ou y est représentée par une sosie –</p>
+          <p>x Chercher ce qu’on ne peut faire ou poser qu’ainsi.</p>
+          <table>
+            <row>
+              <cell>En vers ?</cell><cell>elle s’endort</cell>
+              </row>
+              <row>
+                <cell></cell>
+              <cell>obscurcissement de la scène,</cell>
+              </row>
+            <row>
+                <cell></cell><cell>d’abord pantomime</cell>
+            </row>
+            <row>
+                <cell></cell><cell>puis discours.</cell>
+            </row>
+            <row>
+                <cell></cell><cell>aboutissement enfin du rêve.</cell>
+            </row>
+            <row>
+                      <cell></cell><cell>résolution. Non grossièrement par crédibilité au rêve, mais par
+                        association d’idées.</cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f21.image"> [Fol. 11r] </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-11r</term>
+        </index>
+        <div>
+          <head>* « Génie, nature, émerveillements, surabondance… »</head>
+          <index>
+            <term type="id"
+              >fol-11r_010</term>
+          </index>
+          <p>[Génie, nature, émerveillements,</p>
+          <p>surabondance etc.</p>
+          <p>non absolument faux –</p>
+          <p>effets certains – mais à mieux</p>
+          <p>étudier<note place="bottom">Feuille volante.</note> –]</p>
+          <p/>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f22.image"> [Fol. 11v]
+          </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-11v</term>
+        </index>
+        <div>
+          <head>* [Petite feuille volante de calculs]</head>
+          <index>
+            <term type="id"
+              >fol-11v_011</term>
+          </index>
+          <p rend="noindent center">[Petite feuille volante de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f23.image"> [Fol. 12r] </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-12r</term>
+        </index>
+        <div>
+          <head>* « Tous les hommes sont mortels… »</head>
+          <index>
+            <term type="id"
+              >fol-12r_012</term>
+          </index>
+          <p><pb n="C.I.268"/><pb/>Tous les hommes sont mortels</p>
+          <p>Socrate est <hi rend="i">homme</hi> con A.</p>
+          <p>Socrate est mortel ab a.</p>
+          <p/>
+        </div>
+        <div>
+          <head>* « α. Il marche… »</head>
+          <index>
+            <term type="id"
+              >fol-12r_013</term>
+          </index>
+          <p rend="margin">α. <space> </space>Il marche</p>
+          <p rend="margin"><space> </space>Il est marchant</p>
+          <p rend="margin"><space> </space>Il est étant march<hi rend="i">ant</hi></p>
+          <p/>
+          <p rend="noindent">Je puis marcher</p>
+          <p rend="noindent">Je puis imaginer que je marche</p>
+          <p/>
+          <p>[Dessin] il <space> </space>marcher</p>
+          <p>image <space> </space>marcher <space> </space>c’est moi qui marche</p>
+          <p rend="margin"><space/><space/><space/>et <hi rend="i">j’ajoute il</hi>.</p>
+          <p rend="margin">pour comprendre cela il faut,</p>
+          <p rend="margin">les mots étant compris –</p>
+          <p rend="margin">arbre c’est celui que <hi rend="i">j’ai</hi> vu</p>
+          <p rend="margin">marcher c’est <hi rend="i">ma</hi> marche</p>
+          <p rend="margin">il c’est l’homme que j’ai vu – –</p>
+          <p rend="margin">il faut rapporter</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f24.image"> [Fol. 12v]
+          </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-12v</term>
+        </index>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id"
+              >fol-12v_014</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f25.image"> [Fol. 13r]
+          </ref>
+        </head>
+        <div>
+          <head>* [Page de calculs]</head>
+          <index>
+            <term type="id"
+              >fol-13r_015</term>
+          </index>
+          <p rend="noindent center">[Page de calculs]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f27.image"> [Fol. 14r]
+          </ref>
+        </head>
+        <div>
+          <head>* « The Way to Uebermensch. »</head>
+          <index>
+            <term type="id"
+              >fol-14r_016</term>
+          </index>
+          <p>[The Way to Uebermensch<note place="bottom">La voie vers le surhomme. <hi rend="i"
+                >Ainsi parlait Zarathoustra</hi> est traduit par Henri Albert, ami de Valéry, en
+              1898.</note>.</p>
+          <p rend="noindent"><space/><space/><space/><space/><space/>——</p>
+          <p>La littérature – ou plutôt l’opus litterarum<note place="bottom">L’ouvrage de
+              lettres.</note> est une formule de transformations adéquate à l’esprit courant et qui
+            occasionne p. transformations de cet esprit. Elle le mène de a<hi rend="sub">1</hi> à
+              a<pb n="" ana="src" xml:id="p"/> par une série d’états. Ces états peuvent être neufs
+            – leurs éléments d’un certain ordre sont connus. L’écrit ne fournit que l’ordre.</p>
+          <p/>
+          <p/>
+        </div>
+        <div>
+          <head>* « De la <hi rend="i">prédiction</hi> en littérature – »</head>
+          <index>
+            <term type="id"
+              >fol-14r_017</term>
+          </index>
+          <p><pb n="C.I.269"/><pb/>De la <hi rend="i">prédiction</hi> en littérature –</p>
+          <p rend="noindent0150">loi de la certitude (inverse du temps considéré)</p>
+          <p rend="noindent"><space/><space/><space/><space/><space/><space/><space/><space/>ε =1/t</p>
+          <p>Relation avec la compréhension<note place="bottom">Feuille volante.</note>.]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f29.image"> [Fol. 15r] </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-15r</term>
+        </index>
+        <div>
+          <head>* « Littérature »</head>
+          <index>
+            <term type="id"
+              >fol-15r_018</term>
+          </index>
+          <p>Littérature</p>
+          <p rend="noindent0150">—</p>
+          <p/>
+          <p rend="noindent">1. <space> </space><hi rend="i">Phrase</hi> – déterminée par ses
+            éléments en position et en nombre – recherche de la disposition et du lien apparent.</p>
+          <p rend="noindent">2. <space> </space>dº déterminée par son ton – recherche de son
+            développement.</p>
+          <p rend="noindent">3. <space> </space>dº déterminée par son sens seulement</p>
+          <p rend="noindent0200">a) sens = image. – mise en mots</p>
+          <p rend="noindent0200">b) sens = idées – <space> </space>id. –</p>
+          <p/>
+          <table>
+            <row>
+              <cell>Rôle de l’intonation dans <ref
+                  target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm"
+                  >S. M.</ref> [Stéphane Mallarmé]</cell>
+              <cell>
+                <p>musique part de parole</p>
+                <p>intonation.</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p rend="noindent">Loi : l’intonation ↓<note place="bottom">La flèche renvoie à
+              « donc » (en dessous).</note> l’emporte sur le sens – si intonation contraire au
+            sens</p>
+          <table>
+            <row>
+              <cell>
+                <p>nature de la relation intonation ??</p>
+                <p>donc elle semblerait moins arbitraire,</p>
+                <p rend="noindent">moins dissociable.</p>
+              </cell>
+              <cell>
+                <p rend="noindent">de plus l’intonation</p>
+                <p rend="noindent">ne se prête pas à la</p>
+                <p rend="noindent">simulation autant que</p>
+                <p rend="noindent">le langage</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p/>
+          <p/>
+          <p rend="noindent">Expression des sentiments : ou mieux des variations d’intensité  –</p>
+          <p>par le ton mille fois plus que par le sens.</p>
+          <p/>
+          <p>Nombre des phénomènes mentaux</p>
+          <p>donnés par unité de temps ?</p>
+          <p>Théorème. Tous les moyens de communication pour les autres valent d’abord pour soi.</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f33.image"> [Fol. 17r]
+          </ref>
+        </head>
+        <div>
+          <head>* « Directive »</head>
+          <index>
+            <term type="id"
+              >fol-17r_019</term>
+          </index>
+          <p rend="noindent"><space/><space/><space/><space/><space/><space/><space/><pb n="C.I.270"/><pb/>Directive</p>
+          <p rend="noindent"><space/><space/><space/><space/><space/><space/><space/><space/>—</p>
+          <p/>
+          <p>L’homme en tant que puissance –</p>
+          <p>en tant que possibilité</p>
+          <p>en tant que facilité –</p>
+          <p/>
+          <p rend="noindent">Moi – incommensurable en certaines choses – commun en d’autres.</p>
+          <p/>
+          <p>Mille moi.</p>
+          <p/>
+          <p rend="noindent">Sommeils partiels.</p>
+          <p/>
+          <p rend="noindent"><space/><space/><space/><space/><space/>Les allures du moi actif, presto – – etc.</p>
+          <p/>
+          <p>Construction infinitésimale</p>
+          <p><space/> et par lois.</p>
+          <p/>
+          <p/>
+          <p>Peindre :</p>
+          <table>
+            <row>
+              <cell>
+                <p rend="noindent">a) homme</p>
+                <p rend="noindent"><space> </space>seul</p>
+              </cell>
+              <cell>
+                <p rend="noindent">l’éclairement de l’esprit sur un point sans nouveaux
+                  éléments.</p>
+                <p rend="noindent">la trouvaille –</p>
+                <p rend="noindent">la non compréhension</p>
+                <p rend="noindent">l’excitation spirituelle etc.</p>
+                <p rend="noindent">le rêve – la rêverie –</p>
+                <p rend="noindent">la réflexion – telle qu’elle est</p>
+                <p rend="noindent">la contemplation passive –</p>
+                <p rend="noindent">l’introduction de nouveaux éléments –</p>
+                <p rend="noindent">sensation, éveil –</p>
+                <p rend="noindent">le malaise – <ref
+                    target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi"
+                    >φ</ref>. <ref
+                    target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi"
+                    >ψ</ref>. l’ennui –</p>
+                <p rend="noindent">la formation et la nomination d’un invariant.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="noindent">b) homme</p>
+                <p rend="noindent"><space> </space>multiple.</p>
+                <p rend="noindent"/>
+              </cell>
+              <cell>
+                <p rend="noindent"/>
+                <p rend="noindent"/>
+                <p rend="noindent">conversation</p>
+                <p rend="noindent">mensonges – etc.</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f35.image"> [Fol. 18r]
+          </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-18r</term>
+        </index>
+        <div>
+          <head>* « Organes ou fonctions – exceptionnelles ou continuelles… »</head>
+          <index>
+            <term type="id"
+              >fol-18r_020</term>
+          </index>
+          <p>[Organes ou fonctions – exceptionnelles</p>
+          <p rend="noindent0150">ou continuelles ou périodiques</p>
+          <p/>
+          <p rend="noindent">respiration – –</p>
+          <p rend="noindent">génération etc.</p>
+          <p/>
+          <p/>
+          <p>
+            <pb n="C.I.271"/>
+          </p>
+          <table>
+            <row>
+              <cell>États dº –</cell>
+              <cell>marche –</cell>
+            </row>
+            <row>
+              <cell>sommeil –</cell>
+              <cell>
+                <p rend="noindent"><space> </space>decubitus<note place="bottom">En médecine, le
+                    décubitus est la position du corps allongé.</note> –</p>
+              </cell>
+            </row>
+            <row>
+              <cell>excitation –</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>digestion – etc.</cell>
+              <cell>la mort.</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+            </row>
+          </table>
+          <p rend="noindent">États de l’esprit et fonctions de l’esprit – dº</p>
+          <table>
+            <row>
+              <cell>constatation –</cell>
+              <cell>ennui.</cell>
+            </row>
+            <row>
+              <cell>invention, activité –</cell>
+              <cell>–</cell>
+            </row>
+            <row>
+              <cell>volition –</cell>
+              <cell>
+                <p rend="noindent">inconscience</p>
+                <p rend="noindent">perte de connaissance.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>impressions(temps – décor)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="noindent">Croissance<note place="bottom">Feuille volante.</note>]</p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f36.image"> [Fol. 18v]
+          </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-18v</term>
+        </index>
+        <div>
+          <head>* [Calculs]</head>
+          <index>
+            <term type="id"
+              >fol-18v_021</term>
+          </index>
+          <p rend="noindent center">[Calculs au verso de la feuille volante qui précède]</p>
+        </div>
+      </div>
+      <div>
+        <head>
+          <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110189h/f37.image"> [Fol. 19r] </ref>
+        </head>
+        <index>
+          <term type="id"
+            >fol-19r</term>
+        </index>
+        <div>
+          <head>* « du jour où l’on distingue bien le thème… »</head>
+          <index>
+            <term type="id"
+              >fol-19r_022</term>
+          </index>
+          <p>du jour où l’on distingue bien le thème – et les thèmes – de leur expression ! – –
+            tout</p>
+          <p/>
+          <p/>
+          <p>Littérature</p>
+          <p/>
+          <p rend="noindent">où la mode est impossible</p>
+          <p rend="noindent">où ce ruisseau de syllogismes, de métaphores, de coq-à-l’âne, de
+            réunions et de transformations, une fois bien compris est refait en sachant qu’on fait
+            des syllogismes, des métaphores etc. –</p>
+          <p rend="noindent">où l’orchestre est enfin recréé divisé – l’esprit vu dans ses
+            linéaments, l’esprit de l’auteur imaginé en même temps que le conte.</p>
+          <p rend="noindent">On fuit toujours l’expression <hi rend="i">originale</hi> c’est-à-dire
+            exacte de sa pensée. Elle paraît ou devoir être incomprise, ou non usitée, = devant
+            attirer l’attention sur autre chose que l’idée qu’on a à dire.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
