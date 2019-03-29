@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,12 +52,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01r</term>
         </index>
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01r/001</term>
           </index>
           <p/>
           <p/>
@@ -80,12 +80,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01v</term>
         </index>
         <div>
           <head>* [Croquis]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01v/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-01v/002</term>
           </index>
           <p>
             <pb n="C.I.496"/>
@@ -105,12 +105,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r</term>
         </index>
         <div>
           <head>* « Activité. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/003</term>
           </index>
           <p rend="noindent center"><pb n="C.I.496 C.III.371"/><pb/>Activité.</p>
           <p>Le démon de l’organisation, le feu de la méthode, la poussée interne de machiner tout et réduire le hasard, l’impuissance non démontrée –</p>
@@ -124,12 +124,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r</term>
         </index>
         <div>
-          <head>1898-10-10<term rend="index" key="1898-10-10"/> ; <ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« … Et maintenant, tu pars… »)</head>
+          <head>1898-10-10<term rend="index" key="1898-10-10"/> ; <ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« … Et maintenant, tu pars… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/004</term>
           </index>
           <p>
             <pb n="C.I.505"/>
@@ -145,7 +145,7 @@
         <div>
           <head>* « vis une fois pour toutes »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-02r/005</term>
           </index>
           <p rend="noindent1000">vis une fois pour toutes</p>
         </div>
@@ -159,12 +159,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05r</term>
         </index>
         <div>
           <head>1898-10-05<term rend="index" key="1898-10-05"/> (« Nuit du 4 au 5 Xbre 98. <hi rend="i">Insomnie.</hi> Café…)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05r/006</term>
           </index>
           <p><pb n="C.I.504"/><pb/>Nuit du 4 au 5 Xbre 98. <hi rend="i">Insomnie.</hi> Café.</p>
           <p>Conversation avec le démon (Littérature !)</p>
@@ -179,12 +179,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05v</term>
         </index>
         <div>
           <head>* [Feuille de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05v/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-05v/007</term>
           </index>
           <p/>
           <p/>
@@ -203,7 +203,7 @@
         <div>
           <head>* « Note »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-06r/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-06r/008</term>
           </index>
           <p rend="noindent"><pb n="C.I.503"/>Note 
 <lb/>–</p>
@@ -232,12 +232,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r</term>
         </index>
         <div>
-          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Oreille »)</head>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Oreille »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r/009</term>
           </index>
           <p rend="noindent center"><pb n="C.I.497 C.III.373"/><pb/>Oreille 
 <lb/>–</p>
@@ -248,9 +248,9 @@
           <ab type="ornament">—</ab>
         </div>
         <div>
-          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Vision préhistorique »)</head>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Vision préhistorique »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-07r/010</term>
           </index>
           <p rend="noindent center">Vision préhistorique 
 <lb/>—</p>
@@ -266,12 +266,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r</term>
         </index>
         <div>
-          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Malade »)</head>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Malade »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r/011</term>
           </index>
           <p rend="noindent center"><pb n="C.I.498"/><pb/>Malade 
 <lb/>–</p>
@@ -284,9 +284,9 @@
           <ab type="ornament">—–</ab>
         </div>
         <div>
-          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Will »)</head>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Will »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-08r/012</term>
           </index>
           <p rend="noindent center"><pb n="C.I.499"/><pb/>Will<note place="bottom">Volonté, vouloir.</note> –</p>
           <p>Je veux – je Veux non souffrir, respirer – pouvoir penser, soulever encore –</p>
@@ -300,12 +300,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-09r</term>
         </index>
         <div>
-          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Street »)</head>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Street »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-09r/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-09r/013</term>
           </index>
           <p rend="noindent center"><pb n="C.I.498"/><pb/>Street<note place="bottom">Rue.</note></p>
           <p/>
@@ -317,12 +317,12 @@
       <div>
         <head>[Fol. 10r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r</term>
         </index>
         <div>
           <head>* « Fabrique »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r/014</term>
           </index>
           <p rend="noindent center"><pb n="C.I.497 C.III.375"/><pb/>Fabrique 
 <lb/>––</p>
@@ -332,7 +332,7 @@
         <div>
           <head>* « Le possible »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-10r/015</term>
           </index>
           <p rend="noindent center"><pb n="C.I.498"/><pb/>Le possible 
 <lb/>–</p>
@@ -341,12 +341,12 @@
       <div>
         <head>[Fol. 11r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-11r</term>
         </index>
         <div>
           <head>* « Le commandement <hi rend="i">rentré</hi>… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-11r/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-11r/016</term>
           </index>
           <p rend="noindent0400"><pb n="C.I.496"/><pb/>Le commandement <hi rend="i">rentré</hi>.</p>
           <p/>
@@ -358,12 +358,12 @@
       <div>
         <head>[Fol. 13r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-13r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-13r</term>
         </index>
         <div>
           <head>* « Quelle heure est-il ?… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-13r/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-13r/017</term>
           </index>
           <p/>
           <p/>
@@ -380,12 +380,12 @@
       <div>
         <head>[Fol. 14r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r</term>
         </index>
         <div>
           <head>* « Les Vendredi, Samedi Saints, le temps clairvoyant et doux. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/018</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/018</term>
           </index>
           <p/>
           <p><pb n="C.I.499 C.III.376"/><pb/>Les Vendredi, Samedi Saints, le temps clairvoyant et doux.</p>
@@ -398,7 +398,7 @@
         <div>
           <head>* « Tourmenté par une vagabonde, furibonde gale… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/019</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/019</term>
           </index>
           <p><pb n="C.I.500"/><pb/>Tourmenté par une vagabonde, furibonde gale qui se mêle et donne un fond de feu à ses idées, l’Empereur se roule et imagine par éclairs. Et comment de ce tourment approcher la réalisation – – – –</p>
         </div>
@@ -406,12 +406,12 @@
       <div>
         <head>[Fol. 15r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r</term>
         </index>
         <div>
           <head>* « Un drame tel : … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/020</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-14r/020</term>
           </index>
           <p/>
           <p/>
@@ -424,12 +424,12 @@
       <div>
         <head>[Fol. 16r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16r</term>
         </index>
         <div>
           <head>* « Un bonhomme qui lisait avec ennui ––– … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16r/021</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16r/021</term>
           </index>
           <p><pb n="C.I.500"/><pb/>Un bonhomme qui lisait avec ennui –––</p>
           <p rend="noindent">tombe dans une rêverie infinie –</p>
@@ -440,12 +440,12 @@
       <div>
         <head>[Fol. 16v]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16v</term>
         </index>
         <div>
           <head>1899-10<term rend="index" key="1899-10"/> [Brouillon de lettre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16v/022</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-16v/022</term>
           </index>
           <ab type="ornament">[Brouillon de lettre d’octobre 1899]</ab>
         </div>
@@ -453,12 +453,12 @@
       <div>
         <head>[Fol. 17r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-17r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-17r</term>
         </index>
         <div>
           <head>* « Bonheur. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-17r/023</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-17r/023</term>
           </index>
           <p/>
           <p rend="noindent center"><pb n="C.I.501 C.III.377"/><pb/>Bonheur.</p>
@@ -470,12 +470,12 @@
       <div>
         <head>[Fol. 18r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-18r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-18r</term>
         </index>
         <div>
           <head>* « Conscience »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-18r/024</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-18r/024</term>
           </index>
           <p rend="noindent center"><pb n="C.I.502"/><pb/>Conscience 
 <lb/>–</p>
@@ -492,12 +492,12 @@
       <div>
         <head>[Fol. 19r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-19r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-19r</term>
         </index>
         <div>
           <head>* « Story of the European one who gone in new land… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-19r/025</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-19r/025</term>
           </index>
           <p><pb n="C.I.500"/>Story of the European one who gone in new land between savage people, lives in a tribe of natives, and unveiled by ethics or other mistakes of the West, can learn something strong and noble – viz. natural – from the chief and the first men around him. He does evangelize or teach nobody, knowing himself be more ignorant than savages.</p>
           <p>His return to Europe. He applies the savages theory unformulated<note place="bottom"><p>« Histoire de l’Européen qui se rend dans une contrée, au milieu d’un peuple sauvage, qui vit dans une tribu d’indigènes et, détaché de la morale ou autres erreurs de l’Occident, peut apprendre du chef et de son entourage quelque chose de solide et de noble – c’est-à-dire de naturel –. Il ne prêche ni n’enseigne rien à personne, se sachant plus ignorant que les sauvages.</p><p>« Il rentre en Europe. Il applique les théories sauvages informulées. »</p></note>.</p>
@@ -506,12 +506,12 @@
       <div>
         <head>[Fol. 21r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-21r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-21r</term>
         </index>
         <div>
           <head>* « Tâte, et tâtonne ; marque ta place, et crois tes membres… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-21r/026</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-21r/026</term>
           </index>
           <p/>
           <p/>
@@ -526,12 +526,12 @@
       <div>
         <head>[Fol. 22r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r</term>
         </index>
         <div>
           <head>* « Un port – un imbécile très amusant un moment… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r/027</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r/027</term>
           </index>
           <p/>
           <p rend="noindent center"><pb n="C.I.505 C.III.379"/><pb/>Mémoire. 
@@ -544,7 +544,7 @@
         <div>
           <head>* « fiasco flacon flasque flaque flache »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r/028</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-22r/028</term>
           </index>
           <p>
             <pb n="C.I.504"/>
@@ -560,12 +560,12 @@ Problème notes 324‑325--></seg></p>
       <div>
         <head>[Fol. 25v]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-25v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-25v</term>
         </index>
         <div>
           <head>* « Melodia »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-25v/029</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-25v/029</term>
           </index>
           <p rend="noindent center"><pb n="C.V.505"/><pb/>Melodia<note place="bottom">Souvenir probable du « Bateau ivre » de Rimbaud : « Si je désire une eau d’Europe, c’est la flache / noire et froide », où <hi rend="i">flache</hi> désigne une mare.</note><lb/>–</p>
           <p/>
@@ -580,12 +580,12 @@ Problème notes 324‑325--></seg></p>
       <div>
         <head>[Fol. 26r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r</term>
         </index>
         <div>
           <head>* « Le Soleil a créé le ciel, touche les arbres… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/030</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/030</term>
           </index>
           <p><pb n="C.I.506"/><pb/>Le Soleil a créé le ciel, touche les arbres, vise les petites pierres, rira au fond de l’eau –</p>
           <p/>
@@ -593,7 +593,7 @@ Problème notes 324‑325--></seg></p>
         <div>
           <head>* « N. [Napoléon] se tue, vise les empires, montera au trône… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/031</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/031</term>
           </index>
           <p><pb n="C.III.380"/><pb/>N. [Napoléon] se tue, vise les empires, montera au trône, est mort depuis toujours sur une île.</p>
           <p/>
@@ -601,7 +601,7 @@ Problème notes 324‑325--></seg></p>
         <div>
           <head>* « Si <hi rend="u"><hi rend="i">elle</hi></hi> vient, je dirai : que veux-tu ?… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/032</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-26r/032</term>
           </index>
           <p>Si <hi rend="u"><hi rend="i">elle</hi></hi> vient, je dirai : que veux-tu ? Irons-nous au bain ou simplement à l’air, au soleil –</p>
         </div>
@@ -609,12 +609,12 @@ Problème notes 324‑325--></seg></p>
       <div>
         <head>[Fol. 27r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-27r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-27r</term>
         </index>
         <div>
           <head>* « Vue »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-27r/033</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-27r/033</term>
           </index>
           <p rend="noindent center">Vue 
 <lb/>—</p>
@@ -626,12 +626,12 @@ Problème notes 324‑325--></seg></p>
       <div>
         <head>[Fol. 28r]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-28r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-28r</term>
         </index>
         <div>
           <head>* « Portrait de M. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-28r/034</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-013_disquisitiones/fol-28r/034</term>
           </index>
           <p rend="noindent center"><pb n="C.I.499"/><pb/>Portrait de M.</p>
           <p/>

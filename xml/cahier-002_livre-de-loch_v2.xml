@@ -25,11 +25,11 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch/</idno>
-        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.xml</idno>
-        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.html</idno>
-        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.epub</idno>
-        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/valery/cahier-002_livre-de-loch.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/valery/cahier-002_livre-de-loch/</idno>
+        <idno type="tei">http://obvil.sorbonne-universite.fr/corpus/valery/cahier-002_livre-de-loch.xml</idno>
+        <idno type="html">http://obvil.sorbonne-universite.fr/corpus/valery/cahier-002_livre-de-loch.html</idno>
+        <idno type="epub">http://obvil.sorbonne-universite.fr/corpus/valery/cahier-002_livre-de-loch.epub</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/valery/cahier-002_livre-de-loch.txt</idno>
           <availability status="restricted">
             <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
               <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -93,12 +93,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f1.image">[Fol. 1r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r</term>
         </index>
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.118"/>
@@ -125,12 +125,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f2.image">[Fol. 1v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-01v/002</term>
           </index>
           <p>
             <pb n="C.I.119"/>
@@ -146,12 +146,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f3.image">[Fol. 2r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r</term>
         </index>
         <div>
           <head>* [Calculs et croquis]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r/003</term>
           </index>
           <p/>
           <p/>
@@ -178,7 +178,7 @@
         <div>
           <head>* « <hi rend="i">Ici</hi> je ne chercherai pas à savoir <hi rend="i">comment et pourquoi</hi> un certain déplacement… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02r/004</term>
           </index>
           <p><hi rend="i">Ici</hi> je ne chercherai pas à savoir <hi rend="i">comment et pourquoi</hi> un certain déplacement se traduit par le mot <hi rend="i">Vie</hi> etc. et pourquoi ce mot éveille réciproquement l’image d’un certain déplacement de <hi rend="i">même genre.</hi> Je me tiendrai à admettre que ce mot et ce déplacement général sont une <hi rend="i">mesure</hi> l’un de l’autre.</p>
         </div>
@@ -188,12 +188,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f4.image">[Fol. 2v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v</term>
         </index>
         <div>
           <head>* « Étant donnée la suite des nombres naturels 1. 2. n… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-02v/005</term>
           </index>
           <p>Étant donnée la suite des nombres naturels 1. 2. n., un de ces nombres quelconques présente 2 significations. m désigne ou bien une <hi rend="i">somme</hi> de m objets ou bien un seul objet placé après (m – 1) autres objets par rapport à une direction et à une origine. Dans l’usage mathématique, les 2 rôles sont confondus.</p>
           <p>Ainsi ma veut dire somme de m objets égaux à a et a<hi rend="sub">m</hi> veut dire quantité placée entre a<hi rend="sub">m − 1</hi>, et a<hi rend="sub">m + 1</hi>.</p>
@@ -210,12 +210,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f5.image">[Fol. 3r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r</term>
         </index>
         <div>
           <head>* « Masse et force »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r/006</term>
           </index>
           <p>
             <pb n="C.I.120"/>
@@ -228,7 +228,7 @@
         <div>
           <head>* « Scena… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-03r/007</term>
           </index>
           <p/>
           <table>
@@ -264,12 +264,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f7.image">[Fol. 4r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r</term>
         </index>
         <div>
           <head>* « Maxwell p. 482. I… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04r/008</term>
           </index>
           <p>Maxwell p. 482. I<note place="bottom">Allusion au <hi rend="i">Traité d’électricité et de magnétisme</hi> (1885) que Valéry a lu dès 1893.</note></p>
           <ab type="ornament">——</ab>
@@ -285,12 +285,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f8.image">[Fol. 4v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v</term>
         </index>
         <div>
           <head>* « Je suppose qu’on écrive ceci : la pensée est un [illisible] complexe… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-04v/009</term>
           </index>
           <p>&lt;Je suppose qu’on écrive ceci : la pensée est un [illisible] complexe.&gt;</p>
           <p/>
@@ -300,7 +300,7 @@
           <p xml:id="noindent0150">Limites.</p>
           <p xml:id="noindent0150"/>
           <p xml:id="noindent0150">On est m temps passionné sur n temps.</p>
-          <p xml:id="noindent0150">A est a fois passionné dans <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> temps.</p>
+          <p xml:id="noindent0150">A est a fois passionné dans <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> temps.</p>
           <p xml:id="noindent0150">B l’est b fois.</p>
           <p xml:id="noindent0150">État et habitude.</p>
           <p xml:id="noindent0150"/>
@@ -335,12 +335,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f9.image">[Fol. 5r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r</term>
         </index>
         <div>
           <head>* « K = 1 − p + 1… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05r/010</term>
           </index>
           <p/>
           <p xml:id="noindent1150">K = 1 − p + 1 [Croquis]</p>
@@ -353,7 +353,7 @@
           <p>[Croquis] Ce serait un théorème à rechercher.</p>
           <p/>
           <p>Les images sont hétérogènes de provenance et d’apparence. Elles obéissent à des lois de groupement différentes des lois apparentes. Les lois apparentes ou apparences sont les propriétés des images considérées en tant qu’objets réels. La 1<hi rend="sup">re</hi> différence entre les images et les objets ou entre les lois apparentes et les lois réelles – est une différence de <hi rend="i">durée.</hi> La distinction se fait par les groupements et les dégroupements.</p>
-          <p>Lier la notion de variable indépendante et les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref>.</p>
+          <p>Lier la notion de variable indépendante et les <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref>.</p>
         </div>
       </div>
       <div>
@@ -361,12 +361,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f10.image">[Fol. 5v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v</term>
         </index>
         <div>
           <head>* « Notion de la variable indépendante. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-05v/011</term>
           </index>
           <p>
             <pb n="C.I.123"/>
@@ -384,12 +384,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f11.image">[Fol. 6r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r</term>
         </index>
         <div>
           <head>* « Mémoire justificatif. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06r/012</term>
           </index>
           <p xml:id="noindentcenter">Mémoire justificatif. 
 <lb/>——</p>
@@ -411,12 +411,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f12.image">[Fol. 6v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v</term>
         </index>
         <div>
           <head>* « Conservation de la connaissance à un <hi rend="i">instant</hi> donné. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-06v/013</term>
           </index>
           <p>
             <pb n="C.I.124"/>
@@ -445,12 +445,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f13.image">[Fol. 7r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r</term>
         </index>
         <div>
           <head>* « Soient deux corps qui exécutent dans l’espace un mouvement… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07r/014</term>
           </index>
           <p>Soient deux corps qui exécutent dans l’espace un mouvement de l’un vers l’autre. On dit qu’ils s’attirent lorsqu’on constate ce mouvement, sa reproduction à volonté… etc.</p>
           <p>Or ce phénomène suscite une envie de l<hi rend="i">’expliquer</hi>, c’est-à-dire une formation mentale telle qu’elle <hi rend="i">s’arrête</hi> à un instant donné lorsque ses produits ressemblent à d’autres qui ne suscitent pas ou plus que ceux-ci soient + simples ou + complexes que les initiaux.</p>
@@ -462,12 +462,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f15.image">[Fol. 7bis-r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r</term>
         </index>
         <div>
           <head>* « images – ou loi des images… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-r/015</term>
           </index>
           <p/>
           <p/>
@@ -485,12 +485,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f16.image">[Fol. 7bis-v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v</term>
         </index>
         <div>
           <head>* [Petite feuille de dessins]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-07bis-v/016</term>
           </index>
           <p/>
           <p/>
@@ -503,12 +503,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f17.image">[Fol. 8r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r</term>
         </index>
         <div>
           <head>* [Feuille de croquis]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08r/017</term>
           </index>
           <p/>
           <p/>
@@ -521,27 +521,27 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f18.image">[Fol. 8v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v</term>
         </index>
         <div>
           <head>* « Soit le groupe donné M… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v/018</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-08v/018</term>
           </index>
           <p>Soit le groupe donné M.</p>
           <p xml:id="noindent">Soient les <hi rend="i">différences définies</hi> le constituant A, B, C.</p>
           <p xml:id="noindent">Étant donné ce groupe M l’équation à sa disposition est</p>
           <p xml:id="noindent0250">M = δ(A, B, C).</p>
           <p>&lt;Je dis que cette disposition est psychique si [inachevé]&gt;</p>
-          <p xml:id="noindent">L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> de M étant m, celui de A étant a, celui de B, b etc., a pouvant d’ailleurs être égal à b, à c, etc. Je dis que cette disposition est <hi rend="i">psychique</hi> lorsqu’on aura</p>
+          <p xml:id="noindent">L’<ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> de M étant m, celui de A étant a, celui de B, b etc., a pouvant d’ailleurs être égal à b, à c, etc. Je dis que cette disposition est <hi rend="i">psychique</hi> lorsqu’on aura</p>
           <p xml:id="noindent0250">a, b, c, &gt; m</p>
-          <p xml:id="noindent">ou lorsque a, b, c seront chacun beaucoup / suffisamment / plus petits que m. En d’autres [termes] si les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> suivent la série arithmétique</p>
+          <p xml:id="noindent">ou lorsque a, b, c seront chacun beaucoup / suffisamment / plus petits que m. En d’autres [termes] si les <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> suivent la série arithmétique</p>
           <p>1. 2. 3. 4… m</p>
           <p xml:id="noindent"><pb n="C.I.125"/>et si les parties sont de l’ordre n, le groupe peut être des ordres (n – x), n, (n + x).</p>
           <p>Si le groupe est de l’ordre n, solution <hi rend="i">naturelle</hi> ;</p>
           <p>si le groupe est de l’ordre n − x &lt;n solution – <hi rend="i">psychique</hi> ;</p>
           <p>si   – – –                   – –     n + x &gt; n la solution est psychique si n est suffisamment grand, ou naturelle si n est suffisamment petit. - - etc.</p>
-          <p xml:id="noindent">Démonstration. L’<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> a pour définition la <hi rend="i">production</hi> ou son expression le travail nécessaire pour passer d’un élément quelconque à un autre de l’objet d’une façon continue c’est-à-dire en satisfaisant à un minimum particulier.</p>
+          <p xml:id="noindent">Démonstration. L’<ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordre de symétrie</ref> a pour définition la <hi rend="i">production</hi> ou son expression le travail nécessaire pour passer d’un élément quelconque à un autre de l’objet d’une façon continue c’est-à-dire en satisfaisant à un minimum particulier.</p>
           <p>Entre un élément A et un élément B envisagés en groupe considérés comme des variations d’une même propriété [suite illisible parce que la page est déchirée].</p>
           <p xml:id="noindent1200">le circuit [fragment déchiré]</p>
         </div>
@@ -551,14 +551,14 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f19.image">[Fol. 9r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r</term>
         </index>
         <div>
           <head>* « d’éléments intérieurs dépend évidemment de A et B… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/019</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/019</term>
           </index>
-          <p xml:id="noindent">d’éléments intérieurs dépend évidemment de A et B, explicitement + un certain facteur indéterminé et relatif à l’individu. Le travail sera donc égal au nombre et aux <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> des figures fournies pour passer continûment de A à B.</p>
+          <p xml:id="noindent">d’éléments intérieurs dépend évidemment de A et B, explicitement + un certain facteur indéterminé et relatif à l’individu. Le travail sera donc égal au nombre et aux <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref> des figures fournies pour passer continûment de A à B.</p>
           <p xml:id="noindentcenter">T = a<hi rend="sub">1</hi> + a<hi rend="sub">2</hi> + a<hi rend="sub">n</hi> = ∑a<hi rend="sub">x</hi></p>
           <p/>
           <table>
@@ -590,7 +590,7 @@
         <div>
           <head>* « … Et la faculté psychique étant de classer les images d’ordre i, j, k… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/020</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09r/020</term>
           </index>
           <p>
             <pb n="C.I.126"/>
@@ -604,12 +604,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f20.image">[Fol. 9v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v</term>
         </index>
         <div>
           <head>* « à quel degré de complexité est arrivée l’ingéniosité humaine… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/021</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/021</term>
           </index>
           <p>à quel degré de complexité est arrivée l’ingéniosité humaine</p>
           <p xml:id="noindent0250">1º quant aux notions.</p>
@@ -622,7 +622,7 @@
         <div>
           <head>* « Mécanique de l’abstraction [I] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/022-part1</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-09v/022-part1</term>
           </index>
           <p xml:id="noindent">Mécanique de l’abstraction</p>
           <ab type="ornament">———————————————</ab>
@@ -639,12 +639,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f21.image">[Fol. 10r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r</term>
         </index>
         <div>
           <head>* « Mécanique de l’abstraction [II] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r/022-part2</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10r/022-part2</term>
           </index>
           <p>Nous tendons toujours à évaluer au moyen de m tout nombre supérieur et à diviser par <hi rend="i">m</hi> tout nombre &lt; 1 ou = 1.</p>
           <p xml:id="noindent0080">Démonstration par la quantité de connaissance constante.</p>
@@ -661,12 +661,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f22.image">[Fol. 10v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v</term>
         </index>
         <div>
           <head>* « Mécanique de l’abstraction [III] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v/022-part3</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-10v/022-part3</term>
           </index>
           <p xml:id="noindent">propre pour ne s’occuper que de leur classification entre eux comme formant une série.</p>
           <p>La logique consiste à <hi rend="i">rappeler</hi> ce qui a été oublié. Au point de vue <hi rend="i">mécanique</hi>, l’abstraction – prenons le cas élémentaire de la <hi rend="i">numération</hi> – nécessite</p>
@@ -687,12 +687,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f23.image">[Fol. 11r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r</term>
         </index>
         <div>
           <head>* [Une demi-page de formules mathématiques]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r/023</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r/023</term>
           </index>
           <p/>
           <p/>
@@ -713,7 +713,7 @@
         <div>
           <head>* « Le quelconque… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r/024</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-11r/024</term>
           </index>
           <p>Le quelconque.</p>
           <p>L’intelligence se confond à chaque instant avec l’invention d’un ordre.</p>
@@ -739,12 +739,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f33.image">[Fol. 16r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r/025</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16r/025</term>
           </index>
           <p/>
           <p/>
@@ -757,12 +757,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f34.image">[Fol. 16v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v/026</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-16v/026</term>
           </index>
           <p/>
           <p/>
@@ -775,12 +775,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f35.image">[Fol. 17r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r</term>
         </index>
         <div>
           <head>* « <hi rend="u">My Psychology</hi> » [I]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r/027-part1</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17r/027-part1</term>
           </index>
           <p>
             <pb n="C.I.780 C.I.129"/>
@@ -791,7 +791,7 @@
           </p>
           <p>I. Principe d’Homogénéité.</p>
           <p>Étant donnée la <hi rend="i">réalité</hi> (voir sa définition) et la représentation constituant à elles deux et à un instant donné la connaissance, toutes les fois que le travail mental &lt;comprend des termes empruntés aux deux sources&gt; a lieu, il consiste avant tout à transformer les portions considérées de la réalité en images. <hi rend="i">Le travail mental ne s’exerce qu’entre images.</hi> Conséquence : toute transformation psychologique opérée sur un objet ou accord réel pris pour point de départ ne met en œuvre et ne donne que les combinaisons d’une image et ne vaut par rapport / dans les développements par exemple / à l’objet sensible que ce que vaut la formation de l’image.</p>
-          <p>En effet le travail mental se s’apprécie que par sa variation. (S’apercevoir que l’on pense) est une fonction du temps. Si l’on donne simultanément à la connaissance une portion réelle et une représentative la différence des variations respectives les distinguera ; et si les deux portions ont des parties communes ou que la deuxième naisse de la première, au bout d’un temps <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> la comparaison des résultats de l’écoulement du temps établira une mesure différentielle.</p>
+          <p>En effet le travail mental se s’apprécie que par sa variation. (S’apercevoir que l’on pense) est une fonction du temps. Si l’on donne simultanément à la connaissance une portion réelle et une représentative la différence des variations respectives les distinguera ; et si les deux portions ont des parties communes ou que la deuxième naisse de la première, au bout d’un temps <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/t">T</ref> la comparaison des résultats de l’écoulement du temps établira une mesure différentielle.</p>
         </div>
       </div>
       <div>
@@ -799,12 +799,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f36.image">[Fol. 17v]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v</term>
         </index>
         <div>
           <head>* « <hi rend="u">My Psychology</hi> » [II]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v/027-part2</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-17v/027-part2</term>
           </index>
           <p>
             <pb n="C.I.781"/>
@@ -815,7 +815,7 @@
           <p/>
           <p/>
           <p>Étant donné n portions de réalité, tout travail mental exercé entre ces portions, à partir d’elles a lieu entre les images ou concepts de ces portions.</p>
-          <p>La réalité se définit par rapport au travail mental et réciproquement<note place="bottom">Une flèche renvoie après le paragraphe à ces mots : « ressemble au cas des <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">degrés de symétrie</ref> ».</note>. À chaque instant par une <hi rend="i">différence</hi> de variation et par la sensation de <hi rend="i">frottement</hi>, de <hi rend="i">résistance</hi>, de périodicité ou permanence.</p>
+          <p>La réalité se définit par rapport au travail mental et réciproquement<note place="bottom">Une flèche renvoie après le paragraphe à ces mots : « ressemble au cas des <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">degrés de symétrie</ref> ».</note>. À chaque instant par une <hi rend="i">différence</hi> de variation et par la sensation de <hi rend="i">frottement</hi>, de <hi rend="i">résistance</hi>, de périodicité ou permanence.</p>
           <p>Donc le 1<hi rend="sup">er</hi> travail mental dans les conditions données, est de former les images des portions de réalité.</p>
           <p><pb n="C.I.130"/>On peut supposer un cas où la différence de variation est nulle <hi rend="i">δ</hi>r/<hi rend="i">δ</hi>m = 1 et où il n’y a donc pas de distinction entre les 2 portions de connaissance.</p>
         </div>
@@ -825,12 +825,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f37.image">[Fol. 18r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r</term>
         </index>
         <div>
           <head>* « Conservation de l’Énergie »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r/028</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-18r/028</term>
           </index>
           <p>Conservation de l’Énergie</p>
           <p/>
@@ -852,12 +852,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f39.image">[Fol. 19r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r</term>
         </index>
         <div>
           <head>* « Sur la définition psychique de l’espace. – »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r/029</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-19r/029</term>
           </index>
           <p>
             <pb n="C.I.782"/>
@@ -874,12 +874,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f41.image">[Fol. 20r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r</term>
         </index>
         <div>
           <head>* « C’est une curieuse chose qu’un esprit… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r/030</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-20r/030</term>
           </index>
           <p>
             <pb n="C.I.783"/>
@@ -896,12 +896,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/btv1b53110182c/f43.image">[Fol. 21r]</ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r</term>
         </index>
         <div>
           <head>* « Théorie des indices. Lois de la différence… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r/031</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-002_livre-de-loch/fol-21r/031</term>
           </index>
           <p>Théorie des indices.              Lois de la différence.</p>
           <p>Théorie des points favorisés.</p>

@@ -18,10 +18,10 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -104,7 +104,7 @@
         </index>
         <div xml:id="fol-03r_003">
           <head><ref
-              target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme"
+              target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme"
               >Mallarmé</ref> (« Sur “le coup de dés” »)</head>
           <p rend="noindent center">Sur « le coup de dés<note place="bottom">C’est le 30 mars 1897
               que Mallarmé lit à Valéry son poème et lui fait cadeau des épreuves. Voir « Le Coup de
@@ -114,7 +114,7 @@
           <p>Littérature courante – fait du temps gris, nul, sans effort – ; plus élevée, se trouve
             dans l’embarras – pour <hi rend="i">cela</hi> qui est indispensable aux effets et à la
             conduite psychologique de l’œuvre.</p>
-          <p><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm"
+          <p><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sm"
               >S. M.</ref> [Stéphane Mallarmé] y a mis des blancs.</p>
           <p rend="noindent">Le problème demeure.</p>
           <p>Heureuse musique – avec ses dessins reproductibles –</p>
@@ -161,7 +161,7 @@
         </head>
         <div xml:id="fol-07r_006">
           <head><ref
-              target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner"
+              target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner"
               >Wagner</ref> (« Wagner – introduit dans le drame la symphonie… »)</head>
           <p>Wagner – introduit dans le drame la symphonie – et précise l’une et enveloppe l’autre.
             Il généralise donc chaque acte dramatique et donne d’autre part une certaine <hi
@@ -420,7 +420,7 @@
           <table>
             <row>
               <cell>Rôle de l’intonation dans <ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm"
+                  target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sm"
                   >S. M.</ref> [Stéphane Mallarmé]</cell>
               <cell>
                 <p>musique part de parole</p>
@@ -507,9 +507,9 @@
                 <p rend="noindent">l’introduction de nouveaux éléments –</p>
                 <p rend="noindent">sensation, éveil –</p>
                 <p rend="noindent">le malaise – <ref
-                    target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi"
+                    target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi"
                     >φ</ref>. <ref
-                    target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi"
+                    target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi"
                     >ψ</ref>. l’ennui –</p>
                 <p rend="noindent">la formation et la nomination d’un invariant.</p>
               </cell>

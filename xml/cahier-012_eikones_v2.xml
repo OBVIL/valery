@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,7 +52,7 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r</term>
         </index>
         <div>
           <head>
@@ -60,7 +60,7 @@
             <term rend="index" key="1899-10"/>
           </head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.721 C.I.302"/>
@@ -74,7 +74,7 @@
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-01r/002</term>
           </index>
           <p rend="noindent0450">Εικονες</p>
         </div>
@@ -86,12 +86,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r</term>
         </index>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose"><seg rend="lienhypertexte">Poème en prose</seg></ref> (« Campagne »)</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose"><seg rend="lienhypertexte">Poème en prose</seg></ref> (« Campagne »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r/003</term>
           </index>
           <p rend="noindent center"><pb n="C.I.722 C.I.303"/><pb/>Campagne 
 <lb/>——</p>
@@ -107,9 +107,9 @@
           <p>Cuir et cheveux.</p>
         </div>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Le soleil fond et se liquéfie… »)</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Le soleil fond et se liquéfie… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-02r/004</term>
           </index>
           <p>Le soleil fond et se liquéfie, se déverse sur les dômes et les tuiles, dans un marécage magnifique de toits abondants, dans un abondant marécage de toitures magnifiques.</p>
         </div>
@@ -121,12 +121,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-03r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-03r</term>
         </index>
         <div>
           <head>* « Note politique »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-03r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-03r/005</term>
           </index>
           <p rend="noindent center">Note politique 
 <lb/>——</p>
@@ -149,12 +149,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-04r</term>
         </index>
         <div>
           <head>* « Chose curieuse, on passe de soi, soleil, lignes de la rue droite… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-04r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-04r/006</term>
           </index>
           <p><pb n="C.I.723 C.I.304"/><pb/>Chose curieuse, on passe de soi, soleil, lignes de la rue droite, éclats, zones ternes de murs, efforts de marche – à un état de vacillation, le soleil douloureux etc. en se figurant l’esprit d’un malade qui passe à pas pénibles, jaune et noir.</p>
           <p/>
@@ -170,12 +170,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-05r</term>
         </index>
         <div>
           <head>* « Tableau de l’esprit tel que je le conçois aujourd’hui »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-05r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-05r/007</term>
           </index>
           <p rend="noindent center">Tableau de l’esprit tel que je le conçois aujourd’hui 
 <lb/>——</p>
@@ -190,12 +190,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-06r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-06r</term>
         </index>
         <div>
           <head>* « La bouche, succion, soufflet, la langue pilon, pinceau… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-06r/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-06r/008</term>
           </index>
           <p>La bouche, succion, soufflet, la langue pilon, pinceau.</p>
           <p>La mâchoire, – cisaille, pince, crochets et meules.</p>
@@ -215,12 +215,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-07r</term>
         </index>
         <div>
           <head>* « Un système dont une portion a un déplacement absolu… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-07r/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-07r/009</term>
           </index>
           <p><pb n="C.I.724"/><pb/>Un système dont une portion a un déplacement absolu et une autre un déplacement relatif ; dont toutes les variations laissent fixe un point (A) – ou <pb n="C.I.305"/>plutôt laissent identique un point dont on ignore la coïncidence avec lui-même ; qui a des liaisons d’ordre différent – pour des parties semblables sinon identiques ; qui se déforme dans des espaces de dimensions différentes et qui projette ces diversités sur un même lieu particulier, successivement ou simultanément ; qui établit en lui-même des liaisons nouvelles à son gré et en détruit, sauf celles primitives ; qui applique <hi rend="i">n’importe</hi> où, des forces caractérisées comme pures possibilités choisies dans un lot limité… qui existe par moments finis et par transformations – <hi rend="i">directes</hi> ! – qui ne repasse jamais par le même point absolu à moins d’ignorer ce nouveau passage ; dont les parties sont tantôt variables et tantôt invariables ; qui détermine des points symétriques et correspondants – <hi rend="i">dont les parties ont une inertie différente et graduée</hi> déterminant par continuité un point d’inertie infinie (A).</p>
         </div>
@@ -232,12 +232,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-08r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-08r</term>
         </index>
         <div>
           <head>* « Jam umbra ridens divisa undique foliis foliorumque… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-08r/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-08r/010</term>
           </index>
           <p>Jam umbra ridens divisa undique foliis foliorumque impetibus mollibus, jam aeterna diurnaque nox particularis sub arboribus augebat nec sol superstabat si tamen excelsa lumen superans maneret sicut nectaris in rhytone post falernum exhaustum odor<note place="bottom">Passage en latin : « Déjà l’ombre riante partout divisée par les feuilles et leurs douces poussées, déjà l’éternelle nuit particulière à chaque jour croissait sous la diversité des arbres et le soleil ne les surplombait plus quoique se maintînt la haute lumière semblable au parfum du nectar dans la coupe quand le vin de Falerne a été bu. »</note>.</p>
         </div>
@@ -249,12 +249,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r</term>
         </index>
         <div>
-          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Le fleuve, long poil, cheveu de verre –… »)</head>
+          <head><ref target="file:///D:/commit/valery/commit_2017-11-28/doc/thesaurus/poeme-en-prose"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/poeme-en-prose">Poème en prose</ref> (</ref>« Le fleuve, long poil, cheveu de verre –… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r/011</term>
           </index>
           <p><pb n="C.I.725"/><pb/>Le fleuve, long poil, cheveu de verre –</p>
           <p rend="noindent">le ciel / air /tout velu, de lueur, de lumière = ciel lion</p>
@@ -268,7 +268,7 @@
         <div>
           <head>* « Il a mis le soleil et le sommeil dans une phrase. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-09r/012</term>
           </index>
           <p rend="noindent0550">Il a mis le soleil et le sommeil dans une phrase.</p>
         </div>
@@ -280,12 +280,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-10r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-10r</term>
         </index>
         <div>
           <head>* « L’invention s’est reportée dans le domaine de la machine… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-10r/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-10r/013</term>
           </index>
           <p><pb n="C.I.306"/><pb/>L’invention s’est reportée dans le domaine de la machine – sans préférences.</p>
         </div>
@@ -297,12 +297,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r</term>
         </index>
         <div>
           <head>* « raconter les poissons. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r/014</term>
           </index>
           <p rend="noindent1050">raconter les poissons.</p>
           <p/>
@@ -311,7 +311,7 @@
         <div>
           <head>* « L’ornement, celui qui plaît, est un heureux accident… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-11r/015</term>
           </index>
           <p>L’ornement, celui qui plaît, est un heureux accident dans l’ensemble des choses visibles<note place="bottom">Valéry a lu très tôt la <hi rend="i">Grammaire de l’ornement</hi> d’Owen Jones (1809-1874), et l’ornement sera l’un des thèmes de l’<hi rend="i">Introduction</hi> en 1895.</note> ; et, comme on veut toujours être le maître de ce qui a plu, il amène à se mêler dans l’esprit les formes de la volupté et celles de la fabrication.</p>
           <p rend="noindent0200">&lt;Je ne crois pas qu’on s’en rende compte.&gt;</p>
@@ -324,12 +324,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-13r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-13r</term>
         </index>
         <div>
           <head>* « accident heureux… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-13r/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-13r/016</term>
           </index>
           <p rend="noindent"><pb n="C.I.726"/><pb/>accident heureux</p>
           <p>formule de mouvements –</p>
@@ -363,12 +363,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-14r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-14r</term>
         </index>
         <div>
           <head>1898-01-11<term rend="index" key="1898-01-11"/> (« La vérité c’est ce qui emmerde !… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-14r/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-14r/017</term>
           </index>
           <p><pb n="C.I.307"/><pb/>La vérité c’est ce qui emmerde !</p>
           <p/>
@@ -382,12 +382,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-15r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-15r</term>
         </index>
         <div>
           <head>* « Politics »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-15r/018</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-15r/018</term>
           </index>
           <p rend="noindent center">Politics<note place="bottom">La politique. Le fragment fait visiblement référence à l’affaire Dreyfus qui entre dans une phase capitale au début de 1898, au moment du « J’accuse » de Zola.</note> 
 <lb/>—</p>
@@ -405,12 +405,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r</term>
         </index>
         <div>
           <head>* « forêt, foule, multiplicité, telle – … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r/019</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r/019</term>
           </index>
           <p/>
           <p/>
@@ -422,7 +422,7 @@
         <div>
           <head>* « feu, poêle, quelqu’un, caché... »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r/020</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-17r/020</term>
           </index>
           <table>
             <row>
@@ -452,15 +452,15 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-18r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-18r</term>
         </index>
         <div>
           <head>* « S/S »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-18r/021</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-18r/021</term>
           </index>
           <p>
-            <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ss">
+            <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ss">
               <seg rend="lienhypertexte">S/S</seg>
             </ref>
           </p>
@@ -481,12 +481,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-19r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-19r</term>
         </index>
         <div>
           <head>* « Daughter – (dahitâ) = celle qui trait… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-19r/022</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-19r/022</term>
           </index>
           <p>Daughter – (dahitâ) = celle qui trait.</p>
           <p>Father – (pater pitâ) = le défenseur.</p>
@@ -500,12 +500,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-20r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-20r</term>
         </index>
         <div>
           <head>* « Tableau de formes psychologiques – (orchestre !) classées suivant l’énergétique »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-20r/023</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-20r/023</term>
           </index>
           <p><pb n="C.I.729"/><pb/>Tableau de formes psychologiques – (orchestre !) classées suivant l’énergétique</p>
           <p/>
@@ -587,12 +587,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-22r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-22r</term>
         </index>
         <div>
           <head>* « Paris – octobre – midi… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-22r/024</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-22r/024</term>
           </index>
           <p rend="noindent0200"><pb n="C.I.309"/><pb/>Paris – octobre – midi.</p>
           <p rend="noindent">I. <space>  </space>Boulevard Capucines, soyeux,</p>
@@ -610,12 +610,12 @@
       <div>
         <head>[Fol. Δ1]</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ1</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ1</term>
         </index>
         <div>
           <head>* « M. Teste – après la Rue – dit : … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ1/025</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ1/025</term>
           </index>
           <p rend="noindent">[M. Teste –</p>
           <p>après la Rue – dit :</p>
@@ -630,12 +630,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-23r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-23r</term>
         </index>
         <div>
           <head>* « Toute la nue et le rose <del>final</del> du soir… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-23r/026</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-23r/026</term>
           </index>
           <p/>
           <p/>
@@ -652,12 +652,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-24r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-24r</term>
         </index>
         <div>
           <head>* « Sensations. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-24r/027</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-24r/027</term>
           </index>
           <p rend="noindent1350">φ(u)= Δφ(v)</p>
           <p/>
@@ -679,12 +679,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-26v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-26v</term>
         </index>
         <div>
           <head>* « Fragmentum »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-26v/028</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-26v/028</term>
           </index>
           <p rend="noindent center">Fragmentum<note place="bottom">Fragment.</note> 
 <lb/>—</p>
@@ -701,12 +701,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-27r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-27r</term>
         </index>
         <div>
           <head>* [Dessin d’une femme nue]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-27r/029</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-27r/029</term>
           </index>
           <p rend="noindent center">[Dessin d’une femme nue sur une feuille volante]</p>
         </div>
@@ -718,12 +718,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28r</term>
         </index>
         <div>
           <head>* « L’accommodation aux différents individus qui se rencontrent… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28r/030</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28r/030</term>
           </index>
           <p><pb n="C.I.731"/><pb/>L’accommodation aux différents individus qui se rencontrent, habileté, faiblesse, courtoisie.</p>
           <p>Cloches de Sainte Clotilde<note place="bottom">Église proche de la rue Saint-Dominique où Valéry travaillait au ministère de la Guerre.</note>, soleil encore faible dans les rideaux, sur le bureau étonné, sur moi.</p>
@@ -739,12 +739,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28v</term>
         </index>
         <div>
           <head>* « Projet pour <hi rend="i">lutter</hi> contre le présent. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28v/031</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-28v/031</term>
           </index>
           <p rend="noindent center">Projet pour <hi rend="i">lutter</hi> contre le présent. 
 <lb/>——</p>
@@ -762,12 +762,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29r</term>
         </index>
         <div>
           <head>* « Lit »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29r/032</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29r/032</term>
           </index>
           <p rend="noindent center">
             <hi rend="u">Lit</hi>
@@ -784,12 +784,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29v/033</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-29v/033</term>
           </index>
           <p/>
           <p/>
@@ -806,12 +806,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-30r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-30r</term>
         </index>
         <div>
           <head>* « toute <hi rend="i">barric</hi>adée D’ondes… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-30r/034</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-30r/034</term>
           </index>
           <p><pb n="C.I.734"/><pb/>————————————————— toute <hi rend="i">barric</hi>adée</p>
           <p>D’ondes.</p>
@@ -827,12 +827,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-31r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-31r</term>
         </index>
         <div>
           <head>* « L’empirisme littéraire »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-31r/035</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-31r/035</term>
           </index>
           <p rend="noindent center"><pb n="C.I.312"/><pb/>L’empirisme littéraire 
 <lb/>——</p>
@@ -850,12 +850,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-33r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-33r</term>
         </index>
         <div>
           <head>* « Exercices – particuliers. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-33r/036</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-33r/036</term>
           </index>
           <p rend="noindent center">[Exercices – particuliers.</p>
           <p/>
@@ -906,12 +906,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35r</term>
         </index>
         <div>
           <head>* « Jeannie et Julie et Paule… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35r/037</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35r/037</term>
           </index>
           <p/>
           <l><pb n="C.I.313"/>[&lt;Jeannie et Julie et Paule</l>
@@ -966,12 +966,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35v</term>
         </index>
         <div>
           <head>* « Lampe qui fais briller – – le livre… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35v/038</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-35v/038</term>
           </index>
           <p rend="noindent0080">[Lampe qui fais briller – – le livre</p>
           <p rend="noindent0150">Diamants</p>
@@ -997,12 +997,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-36r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-36r</term>
         </index>
         <div>
           <head>*</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-36r/039</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-36r/039</term>
           </index>
           <p><pb n="C.I.735 C.I.314"/><pb/>[Anciens écrivains – lait et vins puis – tel et tels – alcools plus ou moins aigus, fins et forts</p>
           <p>et là, les détestables apéritifs ou ivresses différentes –<note place="bottom">Feuille volante.</note>]</p>
@@ -1015,12 +1015,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-38r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-38r</term>
         </index>
         <div>
           <head>* « “Dis-moi que V. [Valéry] est bête”… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-38r/040</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-38r/040</term>
           </index>
           <p>[« Dis-moi que V. [Valéry] est bête »</p>
           <p rend="noindent0550">J. G. [Jeannie Gobillard<note place="bottom">Propos sans doute tenu à sa sœur Paule. C’est en janvier 1899 que Valéry commence à fréquenter les deux sœurs.</note>]</p>
@@ -1037,12 +1037,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-40r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-40r</term>
         </index>
         <div>
           <head>* « Mahmoud s’étendit sur le dos sur le sommet étroit du mont… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-40r/041</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-40r/041</term>
           </index>
           <p>[Mahmoud s’étendit sur le dos sur le sommet étroit du mont et il vit et il pensa :</p>
           <p>Et il voulut fortement connaître la loi et le principe, et il les devint.</p>
@@ -1061,12 +1061,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-41r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-41r</term>
         </index>
         <div>
           <head>* « Le coq ou le soleil fendait les rêves d’Egraphos dès l’aube… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-41r/042</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-41r/042</term>
           </index>
           <p><pb n="C.I.738 C.I.315"/><pb/>[Dessin]</p>
           <p>[Le coq ou le soleil fendait les rêves d’Egraphos dès l’aube.</p>
@@ -1083,12 +1083,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ2</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ2</term>
         </index>
         <div>
           <head>* « Opérations. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ2/043</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ2/043</term>
           </index>
           <p><pb n="C.I.736"/><pb/>Opérations.</p>
           <p/>
@@ -1118,12 +1118,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ3</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ3</term>
         </index>
         <div>
           <head>* « Il y a des choses dont l’oubli est ou n’est pas, <hi rend="i">presque</hi> sans degrés… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ3/044</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ3/044</term>
           </index>
           <p rend="noindent"><pb n="C.I.740"/>[Il y a des choses dont l’oubli est ou n’est pas, <hi rend="i">presque</hi> sans degrés.</p>
           <p>Étude des altérations produites par l’oubli :</p>
@@ -1141,12 +1141,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ4</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ4</term>
         </index>
         <div>
           <head>* « Mesure du continu »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ4/045</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-012_eikones/fol-Δ4/045</term>
           </index>
           <p rend="noindent center"><pb n="C.I.737"/><pb/>Mesure du continu 
 <lb/>——</p>

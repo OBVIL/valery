@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007_limbes.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007_limbes.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007_limbes.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007_limbes.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007_limbes.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,7 +52,7 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-01r</term>
         </index>
         <div>
           <head>
@@ -60,7 +60,7 @@
             <term rend="index" key="1897"/>
           </head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.226"/>
@@ -74,7 +74,7 @@
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01r/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-01r/002</term>
           </index>
           <p rend="noindent0650">ЛИМБЕs<note place="bottom">Sur la couverture, le titre est écrit en caractères cyrilliques (Valéry apprenait alors les rudiments du russe).</note></p>
         </div>
@@ -86,12 +86,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-01v</term>
         </index>
         <div>
           <head>* « Programme »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-01v/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-01v/003</term>
           </index>
           <p rend="noindent0300"><pb n="C.I.158 C.I.227"/><pb/>Programme</p>
           <p rend="noindent0300"><space>   </space>–——</p>
@@ -193,12 +193,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-02r</term>
         </index>
         <div>
           <head>* « Étude des thèmes et des moyens… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-02r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-02r/004</term>
           </index>
           <p>Étude des thèmes et des moyens</p>
           <p>Calculs approximatifs</p>
@@ -213,12 +213,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-03r</term>
         </index>
         <div>
           <head>* « Bataille navale du Yalu par le lieutenant Laphay… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-03r/005</term>
           </index>
           <p><pb n="C.I.160"/><pb/>Bataille navale du Yalu par le lieutenant Laphay<note place="bottom">En réalité, J. Lephay, lieutenant de vaisseau.</note></p>
           <p rend="noindent0500">Revue Maritime et Coloniale</p>
@@ -245,12 +245,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-03v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-03v/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-03v/006</term>
           </index>
           <p rend="noindent center">[Page de calculs]</p>
         </div>
@@ -264,12 +264,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-04r</term>
         </index>
         <div>
           <head>* « Pour la « Campagne de – » mettre des choses… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-04r/007</term>
           </index>
           <p rend="noindent0350">Pour la « Campagne de – » mettre des choses comme la</p>
           <p rend="noindent0350">vue de la belle personne pour particulariser un des chefs et</p>
@@ -285,12 +285,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-04v</term>
         </index>
         <div>
           <head>1897-07-10<term rend="index" key="1897-07-10"/> [Page de dessins et brouillon de lettre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-04v/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-04v/008</term>
           </index>
           <p/>
           <p rend="noindent center">[Page de dessins et brouillon de lettre du ministère daté du 10 juillet 1897]</p>
@@ -303,12 +303,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-05r</term>
         </index>
         <div>
           <head>1897<term rend="index" key="1897"/> (« 1897 »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-05r/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-05r/009</term>
           </index>
           <dateline>1897<note place="bottom">De la main de M<hi rend="sup">me</hi> Valéry.</note></dateline>
           <p/>
@@ -318,7 +318,7 @@
         <div>
           <head>* « Un groupe… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-05r/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-05r/010</term>
           </index>
           <p>Un groupe</p>
           <p><space>     </space>–—</p>
@@ -391,12 +391,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-06v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-06v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-06v/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-06v/011</term>
           </index>
           <p rend="noindent center">[Page de calculs]</p>
         </div>
@@ -410,12 +410,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-07r</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-07r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-07r/012</term>
           </index>
           <p rend="noindent center">[Page de calculs]</p>
         </div>
@@ -429,19 +429,19 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-09r</term>
         </index>
         <div>
           <head>* « Définir telle passion – colère etc. … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-09r/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-09r/013</term>
           </index>
           <p><pb n="C.I.752 C.I.230"/><pb/>Définir telle passion – colère etc.</p>
           <p/>
           <p>La colère a toujours un objet</p>
           <p>c’est un état qui dure <hi rend="i">tant.</hi></p>
           <p>Pour cette définition – il faudrait avoir</p>
-          <p rend="noindent0200">1º relation spéciale <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψφ</ref>.</p>
+          <p rend="noindent0200">1º relation spéciale <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψφ</ref>.</p>
           <p rend="noindent0200">2º Invariant de l’objet –</p>
           <p rend="noindent0200">3º Potentiel – déclenchements.</p>
           <p rend="noindent0200">4º conditions de temps et de relations – –</p>
@@ -482,7 +482,7 @@
           <p rend="noindent">(3) Si elle ne se réalise pas <hi rend="i">suffisamment</hi>, elle revient et toutes ses disparitions sont rachetées par une réapparition.</p>
           <p rend="noindent">(4) Peu à peu l’équilibre se rétablit.</p>
           <p rend="noindent0750">Caractère vibratoire des états violents.</p>
-          <p rend="noindent0750"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/self-variance">Self-variance</ref> avec périodes<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
+          <p rend="noindent0750"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/self-variance">Self-variance</ref> avec périodes<note place="bottom">[MARGIN] Passage souligné en marge.</note>.</p>
           <p rend="noindent0750">Croissance →</p>
         </div>
       </div>
@@ -493,12 +493,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-10r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-10r</term>
         </index>
         <div>
           <head>* « Se donner de l’attention à soi-même… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-10r/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-10r/014</term>
           </index>
           <p>Se donner de l’attention à soi-même.</p>
           <p>Voir l’homme, jamais l’apparence.</p>
@@ -507,7 +507,7 @@
         <div>
           <head>* « Science – Tabula rasa et le système contraire… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-10r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-10r/015</term>
           </index>
           <p rend="noindent0850"><pb n="C.I.231"/><pb/>Science – Tabula rasa et le</p>
           <p rend="noindent0850">système contraire, passer de a [à] b</p>
@@ -523,12 +523,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-11r</term>
         </index>
         <div>
           <head>* « a – a<hi rend="sub">1</hi> – a<hi rend="sub">2</hi> – a<hi rend="sub">3</hi> –… Un calcul va de A en B… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11r/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-11r/016</term>
           </index>
           <p rend="noindent0650">[Croquis]</p>
           <p rend="noindent0650">a – a<hi rend="sub">1</hi> – a<hi rend="sub">2</hi> – a<hi rend="sub">3</hi> –</p>
@@ -549,12 +549,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-11v</term>
         </index>
         <div>
           <head>1897-07<term rend="index" key="1897-07"/> [[Brouillon de lettre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-11v/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-11v/017</term>
           </index>
           <p rend="noindent center">[Brouillon de lettre daté de juillet 1897]</p>
         </div>
@@ -566,12 +566,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-12r</term>
         </index>
         <div>
           <head>* « Que devient, dans la théorie du plein, le potentiel ?… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12r/018</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-12r/018</term>
           </index>
           <p/>
           <p>Que devient, dans la théorie du plein, le potentiel ?</p>
@@ -600,12 +600,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12v-13r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-12v-13r</term>
         </index>
         <div>
           <head>1897-07<term rend="index" key="1897-07"/> [Brouillon de lettre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-12v-13r/019</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-12v-13r/019</term>
           </index>
           <p rend="noindent center">[Brouillon de lettre daté de juillet 1897]</p>
         </div>
@@ -617,12 +617,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-14r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-14r</term>
         </index>
         <div>
           <head>* « compréhension – transformation (avec addition) de portions d’Aφ… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-007/fol-14r/020</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-007/fol-14r/020</term>
           </index>
           <p/>
           <p/>

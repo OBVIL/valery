@@ -22,10 +22,10 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-04_sigles.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/corpus/cahiers-valery/doc-04_sigles.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -53,91 +53,91 @@
       <div>
         <head>Ag ou ΑΓ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ag</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ag</term>
         </index>
         <p rend="noindent"><hi xml:lang="fr" rend="i">Agathe</hi> (conte inachevé entrepris en 1898).</p>
       </div>
       <div>
         <head>Alph</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/alph</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/alph</term>
         </index>
         <p rend="noindent" xml:lang="fr">Alphabet.</p>
       </div>
       <div>
         <head>An</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/an</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/an</term>
         </index>
         <p rend="noindent" xml:lang="fr">Analyse.</p>
       </div>
       <div>
         <head>Apoc</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/apoc</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/apoc</term>
         </index>
         <p rend="noindent">Abréviation d’<hi xml:lang="fr" rend="i">Apocalypte Teste</hi>, projet de la Seconde Guerre mondiale où le personnage de Teste se fût rassemblé et révélé à lui-même.</p>
       </div>
       <div>
         <head>β</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/beta</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/beta</term>
         </index>
         <p rend="noindent"><hi xml:lang="es" rend="i">Bios</hi>, vie.</p>
       </div>
       <div>
         <head>B</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/b</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/b</term>
         </index>
         <p rend="noindent" xml:lang="fr">Initiale de Béatrice, c’est-à-dire Catherine Pozzi.</p>
       </div>
       <div>
         <head>Bice</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/bice</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/bice</term>
         </index>
         <p rend="noindent">En italien, abréviation de <hi xml:lang="fr" rend="i">Beatrice</hi>, le personnage de Dante, c’est-à-dire pour Valéry Catherine Pozzi.</p>
       </div>
       <div>
         <head>Bios</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/bios</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/bios</term>
         </index>
         <p rend="noindent">Vie (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>).</p>
       </div>
       <div>
         <head>BLE</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ble</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ble</term>
         </index>
         <p rend="noindent" xml:lang="fr">Répétable.</p>
       </div>
       <div>
         <head>Cart ou Cartes</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/cart</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/cart</term>
         </index>
         <p rend="noindent" xml:lang="fr">Descartes.</p>
       </div>
       <div>
         <head>CEM ou C.E.M.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/cem</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/cem</term>
         </index>
         <p rend="noindent">Le sigle désigne Mon Corps, mon Esprit et mon Monde entendu comme une unité à l’intérieur de laquelle les trois éléments interagissent. Valéry évoque à ce sujet les « trois dimensions de la connaissance » (C.VIII.203).</p>
       </div>
       <div>
         <head>Ch</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ch</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ch</term>
         </index>
         <p rend="noindent" xml:lang="fr">Changement.</p>
       </div>
       <div>
         <head>CK</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ck</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ck</term>
         </index>
         <p rend="noindent" xml:lang="fr">Catherine Pozzi.</p>
       </div>
@@ -146,126 +146,126 @@
           <hi rend="i">DDD</hi>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ddd</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ddd</term>
         </index>
         <p rend="noindent i" xml:lang="fr">Degas Danse Dessin.</p>
       </div>
       <div>
         <head>Dk ou δk</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/dk</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/dk</term>
         </index>
         <p rend="noindent" xml:lang="fr">Désignation de la duchesse de La Rochefoucauld.</p>
       </div>
       <div>
         <head>DR</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/dr</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/dr</term>
         </index>
         <p rend="noindent" xml:lang="fr">Demande-réponse.</p>
       </div>
       <div>
         <head>É</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/e</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/e</term>
         </index>
         <p rend="noindent" xml:lang="fr">Énergie.</p>
       </div>
       <div>
         <head>Ego</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ego</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ego</term>
         </index>
         <p rend="noindent">Moi (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>).</p>
       </div>
       <div>
         <head>Ego scriptor</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ego-scriptor</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ego-scriptor</term>
         </index>
         <p rend="noindent">Moi en tant qu’écrivain (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>).</p>
       </div>
       <div>
         <head>Éph</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/eph</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/eph</term>
         </index>
         <p rend="noindent" xml:lang="fr">Éphémérides.</p>
       </div>
       <div>
         <head>Ερ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/epsilon-rho</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/epsilon-rho</term>
         </index>
         <p rend="noindent">Abréviation d’Éros, une des rubriques des <hi xml:lang="fr" rend="i">Cahiers</hi>.</p>
       </div>
       <div>
         <head><hi rend="i">Faust</hi> ou <hi rend="i">Faust III</hi> ou <hi rend="i">Dritte Faust</hi></head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/faust</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/faust</term>
         </index>
         <p rend="noindent">Désignation de « <hi xml:lang="fr" rend="i">Mon Faust</hi> ».</p>
       </div>
       <div>
         <head>Gl. ou Glad</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/gl</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/gl</term>
         </index>
         <p rend="noindent">Abréviation de Gladiator, nom latinisé du cheval de course Gladiateur. Rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi> qui désigne le dressage de l’esprit.</p>
       </div>
       <div>
         <head>Fid.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/fid</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/fid</term>
         </index>
         <p rend="noindent">Abréviation de <hi xml:lang="fr" rend="i">Fiducia</hi> (confiance en latin) qui désigne chez Valéry tout ce qui, dans une société, relève de la croyance : « J’estime inutile de croire à l’existence de choses qui ne nous sont proposées ou présentées que par des <hi xml:lang="fr" rend="i">noms</hi> » (C.XXIV.209). Par exemple : l’État, la justice, etc.</p>
       </div>
       <div>
         <head>H</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/h</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/h</term>
         </index>
         <p rend="noindent"><hi xml:lang="fr" rend="i">Homo</hi> (homme, en latin) ou parfois Histoire.</p>
       </div>
       <div>
         <head>HP</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/hp</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/hp</term>
         </index>
         <p rend="noindent">Histoire et politique (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>).</p>
       </div>
       <div>
         <head>θ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/theta</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/theta</term>
         </index>
         <p rend="noindent">Thêta : rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi> qui concerne le spirituel et Dieu. La lettre grecque renvoie parfois au <hi xml:lang="fr" rend="i">Péri tôn tou théou, Dialogue des choses divines</hi> ébauché à partir de 1920.</p>
       </div>
       <div>
         <head>I + R = K ou C</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k</term>
         </index>
         <p rend="noindent">Formule qui indique qu’image + réalité = constante. On trouve parfois aussi « φ + ψ = K ou C », « R + I = Kt ». « La tension donnée à la sensation + la pensée = K » (<hi xml:lang="fr" rend="i">C.II.97</hi>).</p>
       </div>
       <div>
         <head>JP</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/jp</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/jp</term>
         </index>
         <p rend="noindent i" xml:lang="fr">La Jeune Parque.</p>
       </div>
       <div>
         <head>K (pour Karine)</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/k</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/k</term>
         </index>
         <p rend="noindent">Catherine Pozzi.</p>
       </div>
       <div>
         <head>L</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/l</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/l</term>
         </index>
         <p rend="noindent">Langage ou littérature, et parfois longueur ou lumière, surtout dans les premiers <hi xml:lang="fr" rend="i">Cahiers</hi>, mais aussi Léonard dans les années vingt.</p>
       </div>
@@ -275,49 +275,49 @@
         IV</hi>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/lust-iv</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/lust-iv</term>
         </index>
         <p rend="noindent">Projet de quatrième acte de IV<hi rend="sup">e</hi> acte de « Lust », première partie de « <hi xml:lang="fr" rend="i">Mon Faust</hi> ».</p>
       </div>
       <div>
         <head>M</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/m</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/m</term>
         </index>
         <p rend="noindent">Masse, surtout dans les premiers<hi xml:lang="fr" rend="i"> Cahiers</hi>, ou mouvement.</p>
       </div>
       <div>
         <head>Mn ou Mné</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/mn</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/mn</term>
         </index>
         <p rend="noindent" xml:lang="fr">Abréviation de mnémosyne qui, en grec, signifie mémoire.</p>
       </div>
       <div>
         <head>Mnss</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/mnss</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/mnss</term>
         </index>
         <p rend="noindent"><hi xml:lang="fr" rend="i">Manuscrit trouvé dans une cervelle</hi>, nouveau titre d’<hi xml:lang="fr" rend="i">Agathe</hi>, le conte entrepris en 1898, lorsque Valéry et sa femme donnèrent ce prénom à leur fille en 1906.</p>
       </div>
       <div>
         <head>My ou μ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/my</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/my</term>
         </index>
         <p rend="noindent" xml:lang="fr">Désignation d’Émilie Noulet.</p>
       </div>
       <div>
         <head>N + S ou N S</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/n+s</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/n+s</term>
         </index>
         <p rend="noindent">Nombres plus subtils. « Sous le nom secret de <hi xml:lang="fr" rend="i">Nombres plus Subtils</hi> “(N + S)”, j’entendais ceci : qu’il y avait une attitude mentale centrale qui [rendait compte] des échanges entre objets de la connaissance les plus différents — les <hi xml:lang="fr" rend="i">temps</hi>, par exemple, et les <hi xml:lang="fr" rend="i">choses</hi>, pouvant s’échanger — étant des éléments d’une certaine <hi xml:lang="fr" rend="i">équivalence</hi> » (C.XIII.823). Cette définition date de 1929.</p>
       </div>
       <div>
         <head>Néère et NR</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/neere</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/neere</term>
         </index>
         <p rend="noindent" xml:lang="fr">Désignation de Renée Vautier, sculpteur dont Valéry s’éprend en 1931.</p>
       </div>
@@ -326,210 +326,210 @@
           <num>991</num>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/neuf-cent-quatre-vingt-onze</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/neuf-cent-quatre-vingt-onze</term>
         </index>
         <p rend="noindent" xml:lang="fr">Manière de désigner Jean Voilier, avec qui Valéry entretient des relations intimes à partir de 1938, par le numéro d’immatriculation de sa voiture.</p>
       </div>
       <div>
         <head>NMP ou N’MP</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/nmp</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/nmp</term>
         </index>
         <p rend="noindent"><hi xml:lang="fr" rend="i">Nouvelles Mauvaises Pensées</hi>, recueil projeté par Valéry après la parution de <hi xml:lang="fr" rend="i">Mauvaises Pensées et autres</hi> en 1941.</p>
       </div>
       <div>
         <head>Orφ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/orphi</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/orphi</term>
         </index>
         <p rend="noindent" xml:lang="fr">Orphée, surnom de Valéry au moment de sa liaison avec Catherine Pozzi.</p>
       </div>
       <div>
         <head>P</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/p</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/p</term>
         </index>
         <p rend="noindent" xml:lang="fr">Poétique, poésie, poème.</p>
       </div>
       <div>
         <head>φ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi</term>
         </index>
         <p rend="noindent">Philosophie (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>), mais aussi abréviation de « physique » dans les premiers <hi xml:lang="fr" rend="i">Cahiers</hi>. La distinction entre φ et ψ, entre sensation et pensée, est fréquente dans les <hi xml:lang="fr" rend="i">Cahiers</hi>.</p>
       </div>
       <div>
         <head>π</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/pi</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/pi</term>
         </index>
         <p rend="noindent" xml:lang="fr">Poétique.</p>
       </div>
       <div>
         <head>PPA</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ppa</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ppa</term>
         </index>
         <p rend="noindent">Petit Poème Abstrait. C’est en 1917 qu’apparaît, au pluriel et en toutes lettres, l’expression de <hi rend="i">Petit Poème Abstrait</hi> (C.VI.477), et si le sigle figure pour la première fois en 1899 et se trouve dans d’autres <hi rend="i">Cahiers</hi> antérieurs à 1917, il y a été ajouté à la relecture. Valéry ne définit nulle part le PPA, mais, au commencement, il l’a sans doute envisagé comme un mode d’écriture qui exprimerait au plus près l’univers intérieur de l’Esprit. Néanmoins, certains textes marqués du sigle PPA ne sont pas des poèmes, et l’abstraction des assez nombreux PPA que l’on peut identifier comme de véritables poèmes est difficile à circonscrire.</p>
       </div>
       <div>
         <head>ψ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi</term>
         </index>
         <p rend="noindent">Psychologie (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>), mais aussi abréviation de « psychique » dans les premiers <hi xml:lang="fr" rend="i">Cahiers</hi>.</p>
       </div>
       <div>
         <head>Rachel</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/rachel</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/rachel</term>
         </index>
         <p rend="noindent">Personnage des <hi xml:lang="fr" rend="i">Histoires brisées</hi>.</p>
       </div>
       <div>
         <head>R</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/r</term>
         </index>
         <p rend="noindent" xml:lang="fr">Rêve ou religion, ou parfois rire, mais aussi réalité opposé à imaginaire (voir I + R = K).</p>
       </div>
       <div>
         <head>RE</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/re</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/re</term>
         </index>
         <p rend="noindent" xml:lang="fr">Recommencement ou répétition.</p>
       </div>
       <div>
         <head>ρ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/rho</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/rho</term>
         </index>
         <p rend="noindent" xml:lang="fr">Rythme.</p>
       </div>
       <div>
         <head>Robinson</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/robinson</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/robinson</term>
         </index>
         <p rend="noindent">Fragments que Valéry songe à intégrer à « Robinson », une des <hi xml:lang="fr" rend="i">Histoires brisées</hi>.</p>
       </div>
       <div>
         <head>S ou Sy ou Syst.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sy</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sy</term>
         </index>
         <p rend="noindent" xml:lang="fr">Système, nom donné aux recherches de Valéry sur le fonctionnement de l’esprit.</p>
       </div>
       <div>
         <head>S ou Sc</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sc</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sc</term>
         </index>
         <p rend="noindent" xml:lang="fr">Science.</p>
       </div>
       <div>
         <head>Sém.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sem</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sem</term>
         </index>
         <p rend="noindent">Abréviation de <hi xml:lang="fr" rend="i">Sémiramis</hi>.</p>
       </div>
       <div>
         <head>Sens. ou Sensib.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sens</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sens</term>
         </index>
         <p rend="noindent" xml:lang="fr">Sensibilité.</p>
       </div>
       <div>
         <head>Σ</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sigma</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sigma</term>
         </index>
         <p rend="noindent" xml:lang="fr">Sensibilité.</p>
       </div>
       <div>
         <head>SM</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sm</term>
         </index>
         <p rend="noindent" xml:lang="fr">Sigle qui désigne Mallarmé, mais aussi pendant la Seconde Guerre le livre que Valéry projette de lui consacrer.</p>
       </div>
       <div>
         <head>Soma</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/soma</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/soma</term>
         </index>
         <p rend="noindent">Corps (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>).</p>
       </div>
       <div>
         <head>Somnia</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/somnia</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/somnia</term>
         </index>
         <p rend="noindent">Rêves (rubrique des <hi xml:lang="fr" rend="i">Cahiers</hi>).</p>
       </div>
       <div>
         <head>SP</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sp</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sp</term>
         </index>
         <p rend="noindent" xml:lang="fr">Secret de la prose. À partir de 1917 Valéry réfléchit parfois à la possibilité d’une autre prose, plus rigoureusement et musicalement composée que la prose à laquelle il reproche son absence de construction.</p>
       </div>
       <div>
         <head>S/S ou SS</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ss</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ss</term>
         </index>
         <p rend="noindent"><hi xml:lang="fr" rend="i">Le Souper de Singapour</hi> auquel Valéry travaille surtout en 1898.</p>
       </div>
       <div>
         <head>Strat.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/strat</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/strat</term>
         </index>
         <p rend="noindent"><hi xml:lang="fr" rend="i">Stratonice</hi>, tragédie projetée par Valéry vers 1922.</p>
       </div>
       <div>
         <head>T</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/t</term>
         </index>
         <p rend="noindent" xml:lang="fr">Teste ou Temps.</p>
       </div>
       <div>
         <head>T2 ou T II</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/t2</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/t2</term>
         </index>
         <p rend="noindent">Rubrique qui désigne, surtout dans les premiers <hi xml:lang="fr" rend="i">Cahiers</hi>, des fragments que Valéry pourrait utiliser pour une suite de <hi xml:lang="fr" rend="i">La Soirée avec Monsieur Teste</hi>.</p>
       </div>
       <div>
         <head>Tib.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/tib</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/tib</term>
         </index>
         <p rend="noindent" xml:lang="fr">Abréviation de Tibère auquel Valéry envisagea de consacrer une tragédie au tout début du siècle.</p>
       </div>
       <div>
         <head>V.</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/v</term>
         </index>
         <p rend="noindent" xml:lang="fr">Abréviation de vitesse.</p>
       </div>
       <div>
         <head>Xiphos</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/xiphos</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/xiphos</term>
         </index>
         <p rend="noindent">Fragments que Valéry songe à intégrer à « L’île Xiphos », une des <hi xml:lang="fr" rend="i">Histoires brisées</hi>.</p>
       </div>
       <div>
         <head>Zén. ou Z</head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/zen</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/zen</term>
         </index>
         <p rend="noindent">Abréviation de Zénon d’Élée.</p>
       </div>

@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-006_analyse-du-langage.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -182,7 +182,7 @@
           <p rend="noindent0500">——</p>
           <p/>
           <p><pb n="C.I.239"/>Étude de cette relation invariable dans un espace psychologique à 1 dimension, – à 2. id.</p>
-          <p>Questions voisines : Peut-on exprimer I en fonction de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> et inversement ?</p>
+          <p>Questions voisines : Peut-on exprimer I en fonction de <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> et inversement ?</p>
           <p rend="noindent0500">——</p>
           <p>Origine arbitraire du mot. Il est soustrait à faction individuelle.</p>
           <p>Impossibilité d’une relation rationnelle. x = K.</p>
@@ -285,7 +285,7 @@
           <p>Encore ici la <hi rend="i">possibilité.</hi></p>
           <p/>
           <p/>
-          <p><pb n="C.I.145"/><pb/>Une loi fondamentale de partout donc de l’esprit est l’équilibre continuel dans un groupe considéré. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">φ + ψ = 0</ref>.</p>
+          <p><pb n="C.I.145"/><pb/>Une loi fondamentale de partout donc de l’esprit est l’équilibre continuel dans un groupe considéré. <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">φ + ψ = 0</ref>.</p>
         </div>
       </div>
       <div>
@@ -433,7 +433,7 @@
           <p>La phrase en tant que changement de configuration d’un système préexistant.</p>
           <p>Déduction - travail - potentiel - différences.</p>
           <p>Méthode des variations dans la phrase.</p>
-          <p>Application de la théorie des <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">degrés de symétrie</ref>.</p>
+          <p>Application de la théorie des <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">degrés de symétrie</ref>.</p>
           <p rend="noindent">(voir K) Degrés de liberté dans une phrase – dans le langage en général.</p>
           <p rend="noindent0150">Expressions fonctionnelles.</p>
           <p rend="noindent0500">——</p>
@@ -525,7 +525,7 @@
               <cell>(</cell>
               <cell>
                 <p rend="noindent">
-                  <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I+R = K</ref>
+                  <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I+R = K</ref>
                 </p>
                 <p rend="noindent">dI = − dR</p>
                 <p/>
@@ -680,9 +680,9 @@
           <p rend="noindent">Les portions verbo-physiques – seront liées à des portions mentales.</p>
           <p>Il faudrait pour cette étude trouver une représentation très nette du Champ de connaissance.</p>
           <p>——————————————————————————————————</p>
-          <p rend="noindent"><pb n="C.I.148"/>En somme, si l’<hi rend="i">on</hi> avait une bonne représentation dudit Champ permettant l’étude des <hi rend="i">2 ordres combinés</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi£">φ</ref> et les <hi rend="i">substitutions</hi> et les <hi rend="i">groupes</hi> on aurait un <hi rend="u"><hi rend="i">instrument</hi></hi> incomparable<note place="bottom">[MARGIN] Passage souligné en marge.</note> ↓ —</p>
+          <p rend="noindent"><pb n="C.I.148"/>En somme, si l’<hi rend="i">on</hi> avait une bonne représentation dudit Champ permettant l’étude des <hi rend="i">2 ordres combinés</hi> <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi£">φ</ref> et les <hi rend="i">substitutions</hi> et les <hi rend="i">groupes</hi> on aurait un <hi rend="u"><hi rend="i">instrument</hi></hi> incomparable<note place="bottom">[MARGIN] Passage souligné en marge.</note> ↓ —</p>
           <p>———————————————————————————————————</p>
-          <p>En effet, toute explication d’un phénomène est une combinaison de phénomènes mentaux : tout ce qui est est A ou B, I ou <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> ; l’existence est de mitiger ces deux séries en des proportions variables ; <hi rend="i">l’art en général consiste à déterminer certains</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref><hi rend="i"> par certains</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> – ou (avec une belle <hi rend="i">perspective</hi>) <hi rend="u"><hi rend="i">à former, à prévoir un groupe</hi><hi rend="i">homogène</hi><hi rend="i"> de φ et de</hi><hi rend="i">ψ</hi></hi>.</p>
+          <p>En effet, toute explication d’un phénomène est une combinaison de phénomènes mentaux : tout ce qui est est A ou B, I ou <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> ; l’existence est de mitiger ces deux séries en des proportions variables ; <hi rend="i">l’art en général consiste à déterminer certains</hi> <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref><hi rend="i"> par certains</hi> <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> – ou (avec une belle <hi rend="i">perspective</hi>) <hi rend="u"><hi rend="i">à former, à prévoir un groupe</hi><hi rend="i">homogène</hi><hi rend="i"> de φ et de</hi><hi rend="i">ψ</hi></hi>.</p>
           <p>La relation fondamentale <hi rend="u"><hi rend="i">devrait</hi></hi> être une certaine</p>
           <p rend="noindent">(voir page précédente<note place="bottom">Cette page manque dans le cahier.</note>).</p>
         </div>

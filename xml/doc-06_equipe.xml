@@ -22,10 +22,10 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-06_equipe.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-06_equipe.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-06_equipe.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-06_equipe.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-06_equipe.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-06_equipe.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/corpus/cahiers-valery/doc-06_equipe.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-06_equipe.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>

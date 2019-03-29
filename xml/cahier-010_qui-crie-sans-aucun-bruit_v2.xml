@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -116,7 +116,7 @@
           <p>Non – chaque état est fixe, en lui-même, puis vient un autre, puis un autre. [Équations]</p>
           <p/>
           <p>Les états successifs, plus ou moins clairs, sont de véritables éléments différentiels. Nous dirons que chaque état <hi rend="i">est</hi> par rapport au précédent.</p>
-          <p>Chaque état nouveau est produit dès qu’il y a un changement dans le 1<hi rend="sup">er</hi>. Ce changement peut provenir soit de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> soit de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>.</p>
+          <p>Chaque état nouveau est produit dès qu’il y a un changement dans le 1<hi rend="sup">er</hi>. Ce changement peut provenir soit de <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> soit de <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>.</p>
           <p>Chaque changement est par hypothèse supposé évalué par la valeur d’une fonction – « l’Énergie ». Cette fonction est continue.</p>
           <p/>
           <p/>
@@ -230,11 +230,11 @@
           <ab type="ornament">—————————————————————————————————————</ab>
         </div>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/conscience"><seg rend="lienhypertexte">Conscience</seg></ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/intelligence"><seg rend="lienhypertexte">Intelligence</seg></ref> (« Personne ne va au bout – à l’extrême nord humain… »</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/conscience"><seg rend="lienhypertexte">Conscience</seg></ref> ; <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/intelligence"><seg rend="lienhypertexte">Intelligence</seg></ref> (« Personne ne va au bout – à l’extrême nord humain… »</head>
           <index>
             <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-06r/009</term>
           </index>
-          <p>Personne ne va au bout – à l’extrême nord humain<note place="bottom">Cf. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-017_tabulae-meae-tentationum/fol-22v/168">« To go to the last point »</ref>. Selon Maeterlinck, traducteur et préfacier de <hi rend="i">L’Ornement des noces spirituelles</hi> que Valéry a lu, Ruysbroek l’Admirable, malgré sa bizarrerie, est toujours exemplaire par sa volonté d’aller jusqu’aux « confins de la pensée humaine et bien au-delà du cercle polaire de l’esprit » (<hi rend="i">L’Ornement des noces spirituelles</hi>, Bruxelles, Lacomblez, 1891, p. <num>vi</num>).</note> – ni au dernier point intelligible – imaginable – ni jusqu’à un certain mur – et la certitude que là commence vraiment l’infranchissable. Je me parcours indéfiniment. Je me regarde me parcourir – et <hi rend="i">ainsi de suite</hi>.</p>
+          <p>Personne ne va au bout – à l’extrême nord humain<note place="bottom">Cf. <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-017_tabulae-meae-tentationum/fol-22v/168">« To go to the last point »</ref>. Selon Maeterlinck, traducteur et préfacier de <hi rend="i">L’Ornement des noces spirituelles</hi> que Valéry a lu, Ruysbroek l’Admirable, malgré sa bizarrerie, est toujours exemplaire par sa volonté d’aller jusqu’aux « confins de la pensée humaine et bien au-delà du cercle polaire de l’esprit » (<hi rend="i">L’Ornement des noces spirituelles</hi>, Bruxelles, Lacomblez, 1891, p. <num>vi</num>).</note> – ni au dernier point intelligible – imaginable – ni jusqu’à un certain mur – et la certitude que là commence vraiment l’infranchissable. Je me parcours indéfiniment. Je me regarde me parcourir – et <hi rend="i">ainsi de suite</hi>.</p>
           <p>Pas de couleur, parfum, odeur qui résiste à ce mouvement. Reconstruire la saveur des fruits. L’homme intérieur tient la mer dans le creux de sa main imaginée. Fantasmagorie absurde psychologique –</p>
           <p>Art, connaissance, vertu etc. – exercices des matins ordinaires – sport et bien-être, – des jours transparents où sonne tout seul le sentiment seulement du facile et du difficile - ce sens divisant le monde connu en 2 domaines, peut-être pauvres.</p>
           <p>Thème du pouvoir. Agrandissement du pouvoir silencieusement. Le seul but étant peut-être le mépris <hi rend="i">compétent.</hi></p>
@@ -261,7 +261,7 @@
           <index>
             <term type="http">//obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-010_qui-crie-sans-aucun-bruit/fol-07r/010</term>
           </index>
-          <p rend="noindent center"><pb n="C.I.278"/><pb/>Homo nudus<note place="bottom">Homme nu. Cf. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-014_sans-titre-1/fol-10r/031">« Thème de l’homo nudus pour chacun »</ref>.</note><lb/>——</p>
+          <p rend="noindent center"><pb n="C.I.278"/><pb/>Homo nudus<note place="bottom">Homme nu. Cf. <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-014_sans-titre-1/fol-10r/031">« Thème de l’homo nudus pour chacun »</ref>.</note><lb/>——</p>
           <p/>
           <p>être prêt à tout. Oublier, mais prévoir.</p>
           <p rend="noindent">voir.</p>
@@ -586,7 +586,7 @@
           <p rend="noindent0550">———————</p>
           <p>Lois de la conception et de l’exécution.</p>
           <p rend="noindent0350">————</p>
-          <p>Graphiques théoriques des constructions <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>.</p>
+          <p>Graphiques théoriques des constructions <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> et <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>.</p>
           <p rend="noindent0350">—————</p>
           <p>Théorie générale des opérations et des transformations.</p>
           <p>I. Extension et hypothèse sur les opérations. Définitions. Opérations multiples, complexes etc. Opérations combinées.</p>
@@ -707,7 +707,7 @@
                   <hi rend="u">Trouvailles générales courantes</hi>
                 </p>
                 <p rend="noindent">Dialogue.</p>
-                <p rend="noindent">Description a. et b. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref></p>
+                <p rend="noindent">Description a. et b. <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref></p>
                 <p>a′ et b′ψ (ours<note place="bottom">Les nôtres, en anglais.</note>) faire ((φψ) et ψ) surtout.</p>
                 <p rend="noindent">Chant personnel.</p>
                 <p rend="noindent">(succession d’états selon des conditions purement internes : à travailler pour discontinuités).</p>
@@ -754,7 +754,7 @@
           <p rend="noindent center">
             <pb n="C.I.816"/>
             <pb/>
-            <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/ss">
+            <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/ss">
               <seg rend="lienhypertexte">S/S</seg>
             </ref>
           </p>

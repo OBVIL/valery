@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,12 +52,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-01r</term>
         </index>
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.749 C.I.250"/>
@@ -68,7 +68,7 @@
           <p/>
           <p/>
           <p/>
-          <p rend="noindent0600">Étude. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I + R = K</ref><note place="bottom">Image + Réalité = Constante.</note><note place="bottom">Ce Cahier est composé d’un ensemble de feuilles du ministère de la guerre.</note>.</p>
+          <p rend="noindent0600">Étude. <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I + R = K</ref><note place="bottom">Image + Réalité = Constante.</note><note place="bottom">Ce Cahier est composé d’un ensemble de feuilles du ministère de la guerre.</note>.</p>
           <p rend="noindent0800">——</p>
           <p rend="noindent0600">recherche de la définition – base.</p>
           <p rend="noindent0800">——</p>
@@ -81,12 +81,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-02r</term>
         </index>
         <div>
           <head>* « <hi rend="i">Rêve</hi> »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-02r/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-02r/002</term>
           </index>
           <p rend="noindent center">
             <pb n="C.I.251"/>
@@ -117,7 +117,7 @@
         <div>
           <head>* « Sensations »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06r/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06r/003</term>
           </index>
           <p>
             <pb n="C.I.750"/>
@@ -178,7 +178,7 @@
             </row>
           </table>
           <p/>
-          <p><space>              </space> <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psy"></ref><space>                </space>‖ <space/><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>  États. Exemple</p>
+          <p><space>              </space> <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psy"></ref><space>                </space>‖ <space/><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>  États. Exemple</p>
           <table>
             <row>
               <cell>I</cell>
@@ -229,9 +229,9 @@
           </table>
           <p/>
           <p/>
-          <p rend="noindent0500">Soit un état <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> ainsi défini, un objet</p>
+          <p rend="noindent0500">Soit un état <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref> ainsi défini, un objet</p>
           <p rend="noindent0500">Quelconque sera alors isolé ainsi :</p>
-          <p rend="noindent0500"><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">Φ</ref> [a<pb n="" ana="src" xml:id="p"/> c<hi rend="sub">r</hi> g<hi rend="sub">a</hi>] = phénomène psy<note place="bottom">« Psychique » ou « psychologique ».</note></p>
+          <p rend="noindent0500"><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">Φ</ref> [a<pb n="" ana="src" xml:id="p"/> c<hi rend="sub">r</hi> g<hi rend="sub">a</hi>] = phénomène psy<note place="bottom">« Psychique » ou « psychologique ».</note></p>
           <p/>
           <p>Soit un objet O. Quelle que soit sa position dans l’espace pourvu que cette position le conserve dans le champ rétinien – quelle que soit – – [inachevé]</p>
           <p>L’objet est toute portion de la connaissance telle que si une seule détermination (sur 7) est donnée, elle est complétée par l’esprit avec une indétermination limitée. (?) Inversement il peut être réduit par l’esprit à l<hi rend="sup">d</hi>/7.</p>
@@ -245,12 +245,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-04r</term>
         </index>
         <div>
           <head>* « transformation d’une chose en autre – … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-04r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-04r/004</term>
           </index>
           <p><pb n="C.I.751"/><pb/>transformation d’une chose en autre –</p>
           <p>imagination des complexes</p>
@@ -263,7 +263,7 @@
         <div>
           <head>* « Il faudrait passer de là au nom et à la généralité de l’objet : … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-04r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-04r/005</term>
           </index>
           <p>Il faudrait passer de là au nom et à la généralité de l’objet :</p>
           <p>Qu’entend-on par <hi rend="i">chose</hi> dans l’énoncé du Principe de Contradiction ?</p>
@@ -289,12 +289,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-05r</term>
         </index>
         <div>
           <head>* « Deux sphères sont données (x + y), (x′ + y′)… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-05r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-05r/006</term>
           </index>
           <p><pb n="C.I.753"/><pb/>Deux sphères sont données (x + y), (x′ + y′).</p>
           <p>On peut se borner à cette suite.</p>
@@ -313,12 +313,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06r</term>
         </index>
         <div>
           <head>* « variation différente »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06r/007</term>
           </index>
           <p rend="noindent0700">variation différente</p>
           <table>
@@ -328,7 +328,7 @@
             </row>
             <row>
               <cell>A′ appelle B.</cell>
-              <cell>uniformité de <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref>.</cell>
+              <cell>uniformité de <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref>.</cell>
             </row>
             <row>
               <cell>B est <hi rend="i">mental.</hi></cell>
@@ -361,12 +361,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v</term>
         </index>
         <div>
           <head>* « En matière psychologique l’action n’est pas égale à la réaction… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v/008</term>
           </index>
           <p><pb n="C.I.754"/><pb/>En matière psychologique l’action n’est pas égale à la réaction, a priori. Bien au contraire, il y a différence radicale de toute manière entre A et R.</p>
           <p/>
@@ -374,7 +374,7 @@
         <div>
           <head>* « Soit par exemple une cathédrale… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v/009</term>
           </index>
           <p>Soit par exemple une cathédrale.</p>
           <p>En imaginant des choses compliquées</p>
@@ -386,7 +386,7 @@
         <div>
           <head>* « Le monde extérieur est une convention… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-06v/010</term>
           </index>
           <p><pb n="C.I.254"/>Le monde extérieur est une convention, un être semblable à l’espace géométrique par exemple. On entend par lui bien autre chose que le simple tissu des sensations. Il y a des concepts et des images adjointes bien difficiles à en isoler.</p>
           <p>ainsi</p>
@@ -401,20 +401,20 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-07r</term>
         </index>
         <div>
           <head>* « I + R = K »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-07r/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-07r/011</term>
           </index>
           <p>
-            <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">
+            <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">
               <seg rend="lienhypertexte">I + R = K</seg>
             </ref>
           </p>
           <p/>
-          <p>on pourrait figurer que l’énergie cinétique sensible dans le système est le phénomène mental I, l’énergie potentielle étant le phénomène <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> fonction de sa situation.</p>
+          <p>on pourrait figurer que l’énergie cinétique sensible dans le système est le phénomène mental I, l’énergie potentielle étant le phénomène <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/r">R</ref> fonction de sa situation.</p>
         </div>
       </div>
       <div>
@@ -424,12 +424,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-08r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-08r</term>
         </index>
         <div>
           <head>* « A<hi rend="sub">0</hi>  → M<hi rend="sub">0</hi>… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-08r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-08r/012</term>
           </index>
           <table>
             <row>
@@ -450,11 +450,11 @@
             </row>
             <row>
               <cell/>
-              <cell><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I + R = K</ref>.</cell>
+              <cell><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/i+r=k">I + R = K</ref>.</cell>
             </row>
           </table>
           <p/>
-          <p>Une portion physique homogène est une portion qui demande du <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> au bout d’un temps t</p>
+          <p>Une portion physique homogène est une portion qui demande du <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref> au bout d’un temps t</p>
           <p>Une portion physique hétérogène –———————————— au bout d’un temps n t – ou <hi rend="i">t</hi> + <hi rend="i">Δt –</hi></p>
           <p/>
           <p rend="noindent center">h(m) = 1/t x ψ.</p>
@@ -469,7 +469,7 @@
         <div>
           <head>* « <hi rend="i">a b c α m</hi>… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-08r/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-08r/013</term>
           </index>
           <p>
             <hi rend="i">a b c 
@@ -488,12 +488,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r</term>
         </index>
         <div>
           <head>* « Extrait. “Pendant qu’il y a variation consciente… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r/014</term>
           </index>
           <p><pb n="C.I.755 C.I.256"/><pb/>Extrait.</p>
           <p>« Pendant qu’il y a variation consciente de la pensée la variation de la réalité est nulle ».</p>
@@ -519,7 +519,7 @@
         <div>
           <head>* « La conscience de la sensation est instantanée »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r/015</term>
           </index>
           <p>&lt;La conscience de la sensation est instantanée.&gt;</p>
           <p/>
@@ -527,7 +527,7 @@
         <div>
           <head>* « Avant tout dénominer et définir correctement… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-09r/016</term>
           </index>
           <p>Avant tout dénominer et définir correctement – autrement je n’en sors pas. –</p>
           <p rend="noindent0200">Donc.</p>
@@ -542,12 +542,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-11r</term>
         </index>
         <div>
           <head>* « Résumé des résultats récents »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-11r/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-11r/017</term>
           </index>
           <p rend="noindent center"><pb n="C.I.756"/><pb/>Résumé des résultats récents</p>
           <p rend="noindent center">[Dessin]</p>
@@ -573,12 +573,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-12v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-12v</term>
         </index>
         <div>
           <head>* « Une idée n’est déterminée que par elle-même. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-12v/018</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-12v/018</term>
           </index>
           <p/>
           <p/>
@@ -593,12 +593,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13r</term>
         </index>
         <div>
           <head>* « Esquisse d’une théorie des <hi rend="i">opérations</hi> [Ia] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13r/019-part1</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13r/019-part1</term>
           </index>
           <p rend="noindent center"><pb n="C.I.162"/><pb/>Esquisse d’une théorie des <hi rend="i">opérations 
 </hi><lb/>——</p>
@@ -621,12 +621,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13v</term>
         </index>
         <div>
           <head>* « Esquisse d’une théorie des <hi rend="i">opérations</hi> [Ib] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13v/019-part2</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-13v/019-part2</term>
           </index>
           <p rend="noindent">une série <hi rend="i">d’opérations</hi> telles qu’agrandir le schéma, le colorer, etc. Aucune opération sur le <hi rend="i">mot</hi> ne vous conduira à la <hi rend="i">maison</hi> si vous ne connaissez d’avance la relation fixe, et alors vous la connaissez in integro<note place="bottom">Intégralement. En 1895, on lit dans l’<hi rend="i">Introduction</hi> : « La plupart des gens y voient par l’intellect bien plus souvent que par les yeux. Au lieu d’espaces colorés, ils prennent connaissance de concepts. Une forme cubique, blanchâtre, en hauteur, et trouée de reflets de vitres est immédiatement une maison, pour eux : la Maison ! Idée complexe, accord de qualités abstraites. S’ils se déplacent, le mouvement des files de fenêtres, la translation des surfaces qui défigure continûment leur sensation, leur échappe, – car le concept ne change pas » (Œ.I.128).</note>.</p>
           <p rend="noindent0600">———————</p>
@@ -654,12 +654,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-14r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-14r</term>
         </index>
         <div>
           <head>* « Esquisse d’une théorie des <hi rend="i">opérations</hi> [Ic] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-14r/019-part3</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-14r/019-part3</term>
           </index>
           <p rend="noindent"><hi rend="i">opération possible sur elles est la</hi><hi rend="u"><hi rend="i">substitution</hi></hi>. Là derrière se trouvent les sensations pures et simples et leur irréductibilité. La substitution totale serait donc la limite des opérations.</p>
           <ab type="ornament">——</ab>
@@ -678,12 +678,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-15r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-15r</term>
         </index>
         <div>
           <head>* « Esquisse de la théorie des opérations [IIa] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-15r/020-part1</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-15r/020-part1</term>
           </index>
           <p rend="noindent center">Esquisse de la théorie des opérations 
 <lb/>——</p>
@@ -703,12 +703,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-16r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-16r</term>
         </index>
         <div>
           <head>* « Esquisse de la théorie des opérations [IIb] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-16r/020-part2</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-16r/020-part2</term>
           </index>
           <p rend="noindent">peut subsister pour des variations exercées sur ces membres. Ces variations sont limitées par la durée du terme commun. Tant que ce terme subsiste, la relation subsiste.</p>
           <p/>
@@ -728,17 +728,17 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-17r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-17r</term>
         </index>
         <div>
           <head>* « Étant donnés n états distincts, il y a lieu d’étudier leur réversibilité… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-17r/021</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-17r/021</term>
           </index>
           <p>Étant donnés n états distincts, il y a lieu d’étudier leur réversibilité.</p>
           <p>Cette réversibilité dépend des relations qui sont entre les états. Soient A, B, C… .N ces états. Désignons par A/B, P/Q les relations rationnelles ; par A\B, P\Q les symboliques.</p>
           <p><pb n="C.I.261"/>On a μ groupes 2 à 2 de ces états ; il peut y avoir par conséquent μ relations rationnelles ou μ symboliques.</p>
-          <p>Si les μ sont rationnelles, si un état M est donné on connaîtra les N − 1 autres, à partir de M, et du plus au moins et de 1 à N. (<ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">Ordre, symétrie</ref>.)</p>
+          <p>Si les μ sont rationnelles, si un état M est donné on connaîtra les N − 1 autres, à partir de M, et du plus au moins et de 1 à N. (<ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">Ordre, symétrie</ref>.)</p>
         </div>
       </div>
       <div>
@@ -748,12 +748,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18r</term>
         </index>
         <div>
           <head>* « Réversibilité du 2<hi rend="sup">e</hi> ordre (1)… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18r/022</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18r/022</term>
           </index>
           <p>Réversibilité du 2<hi rend="sup">e</hi> ordre (1)</p>
           <p><space> </space><space>    </space>–— <space>     </space>du N<hi rend="sup">e</hi> ordre (n – 1)</p>
@@ -781,7 +781,7 @@
         <div>
           <head>* « Théorème. Une relation rationnelle a/b réversible en b/a… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18r/023</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18r/023</term>
           </index>
           <p>Théorème. Une relation rationnelle a/b réversible en b/a ne peut se reproduire indéfiniment. Plus elle a de termes, plus elle peut se reproduire.</p>
           <p/>
@@ -798,12 +798,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18v</term>
         </index>
         <div>
           <head>* « Temps, quantum, c’est la même chose – … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18v/024</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-008_etude-i+r=k/fol-18v/024</term>
           </index>
           <p>Temps, quantum, c’est la même chose –</p>
           <p>Il y a des choses</p>

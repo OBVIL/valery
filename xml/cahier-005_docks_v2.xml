@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,7 +52,7 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-01r</term>
         </index>
         <div>
           <head>
@@ -60,7 +60,7 @@
             <term rend="index" key="1895"/>
           </head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.71 C.I.214"/>
@@ -70,7 +70,7 @@
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-01r/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-01r/002</term>
           </index>
           <p rend="noindent1100">« Docks »</p>
         </div>
@@ -84,12 +84,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-01v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-01v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-01v/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-01v/003</term>
           </index>
           <p>
             <pb n="C.I.72"/>
@@ -109,12 +109,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-02r</term>
         </index>
         <div>
           <head>* « gneiss = quartz, feldspath, mica noir… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-02r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-02r/004</term>
           </index>
           <p rend="noindent"><pb n="C.I.77"/> [gneiss = quartz, feldspath, mica noir</p>
           <p rend="noindent"><space>             </space>stratifié rubané, et symétrique par couches</p>
@@ -157,7 +157,7 @@
         <div>
           <head>* « Poincaré distingue l’espace géométrique qui est dit-il continu… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-03r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-03r/005</term>
           </index>
           <p/>
           <p/>
@@ -177,12 +177,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-04r</term>
         </index>
         <div>
           <head>* « Il y a en somme dans “la pensée” des images… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-04r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-04r/006</term>
           </index>
           <p/>
           <p/>
@@ -196,7 +196,7 @@
         <div>
           <head>* [Grands dessins]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-04r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-04r/007</term>
           </index>
           <p rend="noindent center">[Grands dessins sur la deuxième moitié de la page]</p>
         </div>
@@ -210,12 +210,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-05r</term>
         </index>
         <div>
           <head>* « La bassesse est assez cachée. Le pouvoir <hi rend="i">à l’opinion</hi>… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-05r/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-05r/008</term>
           </index>
           <p rend="noindent1050"><pb n="C.I.75"/><pb/>In Mixa<note place="bottom">Lapsus possible pour <hi rend="i">mixta</hi>, ce qui donnerait à la formule le sens de « du côté des choses mêlées ».</note> – To-day<note place="bottom">Aujourd’hui.</note></p>
           <p/>
@@ -235,7 +235,7 @@
         <div>
           <head>* « Pour supprimer le socialisme… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-05r/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-05r/009</term>
           </index>
           <p>Pour supprimer le socialisme – <hi rend="u"><hi rend="i">il</hi></hi> leur ouvrit tout l’alcoolisme.</p>
         </div>
@@ -249,16 +249,16 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-08v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-08v</term>
         </index>
         <div>
           <head>* « J’ai à reprendre l’espace d’une part, l’énergie de l’autre… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-08v/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-08v/010</term>
           </index>
           <p>J’ai à reprendre l’espace d’une part, l’énergie de l’autre.</p>
           <p>Le langage aussi.</p>
-          <p>Simultanément reprendre les essais de représentation de la pensée et surtout les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref>, – combinés avec les variations.</p>
+          <p>Simultanément reprendre les essais de représentation de la pensée et surtout les <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/degres-symetrie">ordres de symétrie</ref>, – combinés avec les variations.</p>
           <p><pb n="C.I.218"/>Approcher encore de la réalité de la pensée et de la réalité de l’abstraction.</p>
           <p>Chercher à étudier la finance et le commerce.</p>
           <p>Poser de grands types fonctionnels pour m’acheminer à la représentation de l’action sociale de façon à y comprendre (par exemple) – la production des événements, le fait et l’objet mêlés, et je tâcherai de passer de l’image mécanique aux schémas énergétiques (je veux dire analogues –).</p>
@@ -274,12 +274,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-09r</term>
         </index>
         <div>
           <head>* « <hi rend="u">Essai du principe d’action et de réaction</hi> (en matière intellectuelle). »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-09r/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-09r/011</term>
           </index>
           <p><pb n="C.I.76"/><pb/><hi rend="u">Essai du principe d’action et de réaction</hi> (en matière intellectuelle).</p>
           <p/>
@@ -301,12 +301,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-10r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-10r</term>
         </index>
         <div>
           <head>* « Érotique nouvelle »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-10r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-10r/012</term>
           </index>
           <p rend="noindent center">Érotique <del>nouvelle</del><del> </del><del><lb/></del>———</p>
           <p/>
@@ -331,12 +331,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-10v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-10v</term>
         </index>
         <div>
           <head>* « l’ivresse moderne. J. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-10v/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-10v/013</term>
           </index>
           <p/>
           <p/>
@@ -353,12 +353,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-11r</term>
         </index>
         <div>
           <head>* « Sensation de l’arme. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-11r/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-11r/014</term>
           </index>
           <p><pb n="C.I.76"/><pb/>Sensation de l’arme<note place="bottom">Écrit en travers de la page.</note>.</p>
           <p/>
@@ -366,7 +366,7 @@
         <div>
           <head>* [Dessins]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-11r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-11r/015</term>
           </index>
           <p rend="noindent center">[Dessins]</p>
         </div>
@@ -380,12 +380,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-11v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-11v</term>
         </index>
         <div>
           <head>* « Il y a la Guerre et la Paix, les souvenirs du Siège… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-11v/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-11v/016</term>
           </index>
           <p><pb n="C.I.78"/>Il y a la Guerre et la Paix, les souvenirs du Siège<note place="bottom">On peut penser aux <hi rend="i">Souvenirs du siège de Paris</hi> (1871) d’Étienne Dejoux, mais il existe d’autres livres qui portent ce titre et concernent d’autres villes.</note>, le début de la Chartreuse etc… des milliers de mémoires militaires, des relations techniques, il y a la bataille de Dorking<note place="bottom"><hi rend="i">La Bataille de Dorking</hi>, de sir George Chesney, qui raconte une invasion allemande en Grande-Bretagne et passe pour un ancêtre de la science-fiction. Le livre avait été traduit dès 1871.</note>. Et pourtant personne n’est sûr de se bien représenter une guerre, ni une bataille, pas plus que personne n’est sûr de bien raisonner une tactique théorique.</p>
           <p>Les hommes une fois de plus font une chose dont ils ne sont pas maîtres, ils agissent et ne comprennent pas, ils pensent et se décident et ne s’épouvantent de leur ouvrage…</p>
@@ -409,12 +409,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-12r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-12r</term>
         </index>
         <div>
           <head>* « Idée qu’il se fait de lui-même… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-12r/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-12r/017</term>
           </index>
           <p><pb n="C.I.81"/><pb/>Idée qu’il se fait de lui-même.</p>
           <p>Force et faiblesse.</p>
@@ -430,12 +430,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-13r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-13r</term>
         </index>
         <div>
           <head>* « Analysis by chapters [I] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-13r/018-part1</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-13r/018-part1</term>
           </index>
           <table>
             <row>
@@ -456,7 +456,7 @@
                 <p/>
                 <p>Ch. 2.     – – – – – – – – – – 11 p.</p>
                 <p>Jour suivant –</p>
-                <p>Tâtonnements <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire/sp">sp</ref><note place="bottom">Spéculations ? Spéculatifs ?</note></p>
+                <p>Tâtonnements <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire/sp">sp</ref><note place="bottom">Spéculations ? Spéculatifs ?</note></p>
                 <p>curieuse métaphore chimique p. 16</p>
                 <p>
                   <hi rend="i">portion non commandée de l’être</hi>
@@ -540,12 +540,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-13v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-13v</term>
         </index>
         <div>
           <head>* « Analysis by chapters [II] »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-13v/018-part2</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-13v/018-part2</term>
           </index>
           <table>
             <row>
@@ -626,12 +626,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-14r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-14r</term>
         </index>
         <div>
           <head>* [Croquis]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-14r/019</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-14r/019</term>
           </index>
           <p rend="noindent center">[Croquis]</p>
         </div>
@@ -645,12 +645,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-15r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-15r</term>
         </index>
         <div>
           <head>* « L’homme et les hommes. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-15r/020</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-15r/020</term>
           </index>
           <p rend="noindent center"><pb n="C.I.81"/><pb/>L’homme et les hommes. 
 <lb/>——</p>
@@ -672,12 +672,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-16r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-16r</term>
         </index>
         <div>
           <head>* « The Red Badge of Courage »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-005_docks/fol-16r/021</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-005_docks/fol-16r/021</term>
           </index>
           <p rend="noindent center">&lt;The Red Badge of Courage<note place="bottom">En février 1896, Marcel Schwob suggéra à Valéry d’écrire pour <hi rend="i">La Nouvelle Revue</hi> un article sur <hi rend="i">The Red Badge of Courage</hi> (<hi rend="i">La Conquête du courage</hi>) du jeune Américain Stephen Crane, mais le projet fut vite abandonné ; l’année suivante, il envisagera de le traduire avec son ami Vielé-Griffin, Américain de naissance.</note>&gt;</p>
         </div>

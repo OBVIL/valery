@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,7 +52,7 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r</term>
         </index>
         <div>
           <head>
@@ -60,7 +60,7 @@
             <term rend="index" key="1897"/>
           </head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.153 C.I.296"/>
@@ -70,7 +70,7 @@
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-01r/002</term>
           </index>
           <p/>
           <p/>
@@ -87,12 +87,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-02r</term>
         </index>
         <div>
           <head>* « Évaluation du régime de circulation – »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-02r/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-02r/003</term>
           </index>
           <p rend="noindent center"><pb n="C.I.156 C.I.297"/><pb/>Évaluation du régime de circulation – 
 <lb/>——</p>
@@ -111,12 +111,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-03r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-03r</term>
         </index>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/politique"><seg rend="lienhypertexte">Politiqu</seg><seg rend="lienhypertexte">e</seg></ref> (« Le gouvernement ne doit chercher le bonheur de personne… »)</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/politique"><seg rend="lienhypertexte">Politiqu</seg><seg rend="lienhypertexte">e</seg></ref> (« Le gouvernement ne doit chercher le bonheur de personne… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-03r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-03r/004</term>
           </index>
           <p><pb n="C.I.154"/><pb/>Le gouvernement ne doit chercher le bonheur de personne.</p>
           <p>Il n’y a pas de gouvernement du particulier.</p>
@@ -130,12 +130,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-04r</term>
         </index>
         <div>
           <head>* « La plupart des idées qu’on soutient, il suffit de les préciser… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-04r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-04r/005</term>
           </index>
           <p>La plupart des idées qu’on soutient, il suffit de les préciser (ou les rendre explicites) pour les anéantir. On arrive bientôt à la contradiction, à la pétition de principe, ou aux postulats toujours fragiles, qui y sont toujours.</p>
         </div>
@@ -147,12 +147,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05r</term>
         </index>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/morale"><seg rend="lienhypertexte">Morale</seg></ref> (« La vérité n’est pas souvent morale… »)</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/morale"><seg rend="lienhypertexte">Morale</seg></ref> (« La vérité n’est pas souvent morale… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05r/006</term>
           </index>
           <p><pb n="C.I.155"/><pb/>La vérité n’est pas souvent morale – et un beau coup de l’Église a été de présenter une morale comme la Vérité, et faire tout ce qu’il fallait.</p>
         </div>
@@ -164,12 +164,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05v-6r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05v-6r</term>
         </index>
         <div>
-          <head>1897-07-29<term rend="index" key="1897-07-29"/> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/nations"><seg rend="lienhypertexte">Nations</seg></ref> (« Note pour M. d’Estournelles »)</head>
+          <head>1897-07-29<term rend="index" key="1897-07-29"/> ; <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/nations"><seg rend="lienhypertexte">Nations</seg></ref> (« Note pour M. d’Estournelles »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05v-6r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-05v-6r/007</term>
           </index>
           <p>
             <pb n="C.I.156 C.I.298"/>
@@ -199,12 +199,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r</term>
         </index>
         <div>
           <head>* « Un son n’appelle pas <hi rend="i">un son</hi> etc. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r/008</term>
           </index>
           <p>
             <pb n="C.I.155 C.I.299"/>
@@ -219,7 +219,7 @@
         <div>
           <head>* « L’opération consiste aussi à restituer les termes <hi rend="i">négligeables</hi> d’abord. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-011_peri-tes-politikes-teknes/fol-07r/009</term>
           </index>
           <p>L’opération consiste aussi à restituer les termes <hi rend="i">négligeables</hi> d’abord.</p>
         </div>

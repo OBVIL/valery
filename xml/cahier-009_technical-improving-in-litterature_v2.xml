@@ -21,10 +21,10 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature.txt</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,12 +52,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-01r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-01r</term>
         </index>
         <div>
           <head>[Titre]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-01r/001</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-01r/001</term>
           </index>
           <p>
             <pb n="C.I.264"/>
@@ -79,12 +79,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-02r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-02r</term>
         </index>
         <div>
           <head>* « Littérature – … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-02r/002</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-02r/002</term>
           </index>
           <p><pb n="C.I.265"/><pb/>Littérature –</p>
           <p>—</p>
@@ -104,18 +104,18 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-03r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-03r</term>
         </index>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme"><seg rend="lienhypertexte">Mallarmé</seg></ref> (« Sur “le coup de dés” »)</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/mallarme"><seg rend="lienhypertexte">Mallarmé</seg></ref> (« Sur “le coup de dés” »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-03r/003</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-03r/003</term>
           </index>
           <p rend="noindent center">Sur « le coup de dés<note place="bottom">C’est le 30 mars 1897 que Mallarmé lit à Valéry son poème et lui fait cadeau des épreuves. Voir « Le Coup de dés » (Œ.I.1197-1209).</note> »</p>
           <p/>
           <p/>
           <p>Littérature courante – fait du temps gris, nul, sans effort – ; plus élevée, se trouve dans l’embarras – pour <hi rend="i">cela</hi> qui est indispensable aux effets et à la conduite psychologique de l’œuvre.</p>
-          <p><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm">S. M.</ref> [Stéphane Mallarmé] y a mis des blancs.</p>
+          <p><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sm">S. M.</ref> [Stéphane Mallarmé] y a mis des blancs.</p>
           <p rend="noindent">Le problème demeure.</p>
           <p>Heureuse musique – avec ses dessins reproductibles –</p>
           <ab type="ornament">——</ab>
@@ -132,12 +132,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-04r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-04r</term>
         </index>
         <div>
           <head>* « Trajets transcendants en littérature – »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-04r/004</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-04r/004</term>
           </index>
           <p>Trajets transcendants en littérature –</p>
           <p>Union dans le même ensemble transcendant de résultats de divers ordres relatifs à une même chose –</p>
@@ -150,12 +150,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-05r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-05r</term>
         </index>
         <div>
           <head>* « Sur Mallarmé — »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-05r/005</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-05r/005</term>
           </index>
           <p/>
           <p rend="noindent0250"><pb n="C.I.266"/><pb/>Sur Mallarmé –—</p>
@@ -172,12 +172,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r</term>
         </index>
         <div>
-          <head><ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner"><seg rend="lienhypertexte">Wagner</seg></ref> (« Wagner – introduit dans le drame la symphonie… »)</head>
+          <head><ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-05_thesaurus/wagner"><seg rend="lienhypertexte">Wagner</seg></ref> (« Wagner – introduit dans le drame la symphonie… »)</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/006</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/006</term>
           </index>
           <p>Wagner – introduit dans le drame la symphonie – et précise l’une et enveloppe l’autre. Il généralise donc chaque acte dramatique et donne d’autre part une certaine <hi rend="i">clef</hi> de la musique. La crédibilité chez lui consiste à perfectionner le système de correspondance – à lier plus étroitement le sujet et le drame et les sensations entre eux.</p>
           <p/>
@@ -186,7 +186,7 @@
         <div>
           <head>* « En littérature on a tenté de se servir des philosophies… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/007</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/007</term>
           </index>
           <p>En littérature on a tenté de se servir des philosophies – mais résultats incomplets par défaut d’une psychologie assez rigoureuse. Néanmoins Poe, Rimbaud, Mallarmé – ont vu la voie – et ont démontré la possibilité.</p>
           <p>Il s’agit de trouver les moyens techniques. – Le leitmotiv est aussi pauvre que possible en littérature –</p>
@@ -196,7 +196,7 @@
         <div>
           <head>* « On peut déterminer les conditions d’un art plus satisfaisant… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/008</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-07r/008</term>
           </index>
           <p>On peut déterminer les conditions d’un art plus satisfaisant. Il ne faut pas oublier que la formule brutale est la suivante : Enrichir du plus grand nombre de combinaisons mentales possibles ; à condition d’augmenter proportionnellement la crédibilité. Tout ceci existant dans les limites du langage.</p>
           <p/>
@@ -211,12 +211,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-09r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-09r</term>
         </index>
         <div>
           <head>* « Un drame est un rêve – si l’on parvient à y croire… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-09r/009</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-09r/009</term>
           </index>
           <p/>
           <p/>
@@ -249,12 +249,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11r</term>
         </index>
         <div>
           <head>* « Génie, nature, émerveillements, surabondance, etc. … »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11r/010</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11r/010</term>
           </index>
           <p>[Génie, nature, émerveillements,</p>
           <p>surabondance etc.</p>
@@ -273,12 +273,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11v</term>
         </index>
         <div>
           <head>* [Petite feuille volante de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11v/011</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-11v/011</term>
           </index>
           <p rend="noindent center">[Petite feuille volante de calculs]</p>
         </div>
@@ -290,12 +290,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r</term>
         </index>
         <div>
           <head>* « Tous les hommes sont mortels… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r/012</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r/012</term>
           </index>
           <p><pb n="C.I.268"/><pb/>Tous les hommes sont mortels</p>
           <p>Socrate est <hi rend="i">homme</hi> con A.</p>
@@ -305,7 +305,7 @@
         <div>
           <head>* « α. Il marche… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r/013</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12r/013</term>
           </index>
           <p rend="noindent0300">α. <space>   </space>Il marche</p>
           <p rend="noindent0300"><space>       </space>Il est marchant</p>
@@ -334,12 +334,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12v</term>
         </index>
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12v/014</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-12v/014</term>
           </index>
           <p rend="noindent center">[Page de calculs]</p>
         </div>
@@ -355,7 +355,7 @@
         <div>
           <head>* [Page de calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-13r/015</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-13r/015</term>
           </index>
           <p rend="noindent center">[Page de calculs]</p>
         </div>
@@ -371,7 +371,7 @@
         <div>
           <head>* « The Way to Uebermensch. »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-14r/016</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-14r/016</term>
           </index>
           <p>[The Way to Uebermensch<note place="bottom">La voie vers le surhomme. <hi rend="i">Ainsi parlait Zarathoustra</hi> est traduit par Henri Albert, ami de Valéry, en 1898.</note>.</p>
           <p rend="noindent0250">——</p>
@@ -382,7 +382,7 @@
         <div>
           <head>* « De la <hi rend="i">prédiction</hi> en littérature – »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-14r/017</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-14r/017</term>
           </index>
           <p><pb n="C.I.269"/><pb/>De la <hi rend="i">prédiction</hi> en littérature –</p>
           <p rend="noindent0150">loi de la certitude (inverse du temps considéré)</p>
@@ -397,12 +397,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-15r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-15r</term>
         </index>
         <div>
           <head>* « Littérature »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-15r/018</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-15r/018</term>
           </index>
           <p>Littérature</p>
           <p rend="noindent0150">—</p>
@@ -415,7 +415,7 @@
           <p/>
           <table>
             <row>
-              <cell>Rôle de l’intonation dans <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/sm">S. M.</ref> [Stéphane Mallarmé]</cell>
+              <cell>Rôle de l’intonation dans <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/sm">S. M.</ref> [Stéphane Mallarmé]</cell>
               <cell>
                 <p>musique part de parole</p>
                 <p>intonation.</p>
@@ -461,7 +461,7 @@
         <div>
           <head>* « Directive »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-17r/019</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-17r/019</term>
           </index>
           <p rend="noindent0350"><pb n="C.I.270"/><pb/>Directive</p>
           <p rend="noindent0400">—</p>
@@ -499,7 +499,7 @@
                 <p rend="noindent">la contemplation passive –</p>
                 <p rend="noindent">l’introduction de nouveaux éléments –</p>
                 <p rend="noindent">sensation, éveil –</p>
-                <p rend="noindent">le malaise –  <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>. <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>. l’ennui –</p>
+                <p rend="noindent">le malaise –  <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/phi">φ</ref>. <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles/psi">ψ</ref>. l’ennui –</p>
                 <p rend="noindent">la formation et la nomination d’un invariant.</p>
               </cell>
             </row>
@@ -528,12 +528,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18r</term>
         </index>
         <div>
           <head>* « Organes ou fonctions – exceptionnelles ou continuelles… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18r/020</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18r/020</term>
           </index>
           <p>[Organes ou fonctions – exceptionnelles</p>
           <p rend="noindent0150">ou continuelles ou périodiques</p>
@@ -612,12 +612,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18v</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18v</term>
         </index>
         <div>
           <head>* [Calculs]</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18v/021</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-18v/021</term>
           </index>
           <p rend="noindent center">[Calculs au verso de la feuille volante qui précède]</p>
         </div>
@@ -629,12 +629,12 @@
           </ref>
         </head>
         <index>
-          <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-19r</term>
+          <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-19r</term>
         </index>
         <div>
           <head>* « du jour où l’on distingue bien le thème… »</head>
           <index>
-            <term type="id">http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-19r/022</term>
+            <term type="id">http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/cahier-009_technical-improving-in-litterature/fol-19r/022</term>
           </index>
           <p>du jour où l’on distingue bien le thème  – et les thèmes – de leur expression ! – – tout</p>
           <p/>

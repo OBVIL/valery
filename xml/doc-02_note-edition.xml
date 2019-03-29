@@ -22,10 +22,10 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-02_note-edition.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-02_note-edition.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/corpus/cahiers-valery/doc-02_note-edition.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-02_note-edition.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-02_note-edition.xml</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-02_note-edition.html</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/corpus/cahiers-valery/doc-02_note-edition.epub</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-02_note-edition.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -57,9 +57,9 @@
         <p>Par souci de lisibilité encore, nous avons restitué l’intégralité des mots abrégés. Les mots omis par inadvertance sont rétablis entre crochets droits. Les ajouts marginaux sont signalés en note.</p>
         <p>Les feuilles volantes sont placées entre crochets droits et signalées en note.</p>
         <p>Afin de respecter les usages de Valéry, nous ne complétons pas les initiales des noms propres, mais s’il écrit, par exemple « S. M. », nous ajoutons juste après entre crochets droits [Stéphane Mallarmé] en entier afin que le moteur de recherche puisse fonctionner.</p>
-        <p>Nous renvoyons à la pagination de l’édition des <hi rend="i">Cahiers</hi> parue aux Éditions du CNRS (voir la <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-01_presentation">Présentation</ref>) en plaçant en haut de la page la mention du tome et de la page entre crochets droits, par exemple [C.I.200] ; nous faisons de même pour l’édition Gallimard (voir la <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-01_presentation">Présentation</ref>), mais dans ce cas la mention est en italique.</p>
+        <p>Nous renvoyons à la pagination de l’édition des <hi rend="i">Cahiers</hi> parue aux Éditions du CNRS (voir la <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-01_presentation">Présentation</ref>) en plaçant en haut de la page la mention du tome et de la page entre crochets droits, par exemple [C.I.200] ; nous faisons de même pour l’édition Gallimard (voir la <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-01_presentation">Présentation</ref>), mais dans ce cas la mention est en italique.</p>
         <p>Dans les notes l’abréviation C., suivie de la mention du tome et de la page, renvoie à l’édition du CNRS ; de la même manière, l’abréviation Œ., suivie de la mention du tome et de la page, renvoie à l’édition des <hi rend="i">Œuvres</hi> que j’ai procurée en 2016 à la Librairie Générale Française dans la collection « La Pochothèque ».</p>
-        <p>Le lecteur trouvera un fichier où sont explicités les <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-04_sigles">sigles</ref> utilisés par Valéry, ainsi qu’un <ref target="http://obvil.paris-sorbonne.fr/corpus/cahiers-valery/doc-03_glossaire">glossaire</ref> qui définit les notions créées pour lui-même.</p>
+        <p>Le lecteur trouvera un fichier où sont explicités les <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-04_sigles">sigles</ref> utilisés par Valéry, ainsi qu’un <ref target="http://obvil.sorbonne-universite.fr/corpus/cahiers-valery/doc-03_glossaire">glossaire</ref> qui définit les notions créées pour lui-même.</p>
         <byline>Michel Jarrety</byline>
       </div>
     </body>
